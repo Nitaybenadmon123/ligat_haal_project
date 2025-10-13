@@ -1,0 +1,241 @@
+﻿season,date,round,stage,home_team,away_team,home_goals,away_goals,venue,referee,fixture_id,league_id,league_name
+2022/23,2022-08-20,Regular Season - 1,Ligat Ha'al,Hapoel Haifa,Hapoel Tel Aviv,2,0,Sammy Ofer Stadium,O. Grinfeeld,865835,383,Ligat Ha'al
+2022/23,2022-08-20,Regular Season - 1,Ligat Ha'al,Hapoel Katamon,Hapoel Hadera,1,1,HaMoshava Stadium,A. Shiloach,865840,383,Ligat Ha'al
+2022/23,2022-08-20,Regular Season - 1,Ligat Ha'al,Maccabi Netanya,Beitar Jerusalem,4,1,Netanya Stadium,R. Reinshreiber,865837,383,Ligat Ha'al
+2022/23,2022-08-21,Regular Season - 1,Ligat Ha'al,Maccabi Tel Aviv,Maccabi Bnei Raina,5,0,Bloomfield Stadium,I. Frid,865841,383,Ligat Ha'al
+2022/23,2022-08-22,Regular Season - 1,Ligat Ha'al,Sektzia Nes Tziona,Ironi Kiryat Shmona,0,2,HaMoshava Stadium,Y. Mizrahi,865839,383,Ligat Ha'al
+2022/23,2022-08-27,Regular Season - 2,Ligat Ha'al,Ironi Kiryat Shmona,Hapoel Katamon,1,1,Kiryat-Shmona Municipal Stadium,O. Na'al,865844,383,Ligat Ha'al
+2022/23,2022-08-27,Regular Season - 2,Ligat Ha'al,Hapoel Tel Aviv,Bnei Sakhnin,0,2,Bloomfield Stadium,R. Reinshreiber,865848,383,Ligat Ha'al
+2022/23,2022-08-27,Regular Season - 2,Ligat Ha'al,Maccabi Haifa,Maccabi Netanya,4,1,Sammy Ofer Stadium,S. Levi,865847,383,Ligat Ha'al
+2022/23,2022-08-27,Regular Season - 2,Ligat Ha'al,Ashdod,Sektzia Nes Tziona,1,0,Yud-Alef Stadium,O. Asulin,865845,383,Ligat Ha'al
+2022/23,2022-08-28,Regular Season - 2,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Haifa,1,1,Green Stadium,S. Ben Avraham,865842,383,Ligat Ha'al
+2022/23,2022-08-28,Regular Season - 2,Ligat Ha'al,Beitar Jerusalem,Hapoel Beer Sheva,0,5,HaMoshava Stadium,O. Grinfeeld,865846,383,Ligat Ha'al
+2022/23,2022-08-29,Regular Season - 2,Ligat Ha'al,Hapoel Hadera,Maccabi Tel Aviv,0,6,Netanya Stadium,I. Layba,865843,383,Ligat Ha'al
+2022/23,2022-08-30,Regular Season - 1,Ligat Ha'al,Bnei Sakhnin,Maccabi Haifa,0,1,Doha Stadium,G. Laibuvitz,865836,383,Ligat Ha'al
+2022/23,2022-08-31,Regular Season - 1,Ligat Ha'al,Hapoel Beer Sheva,Ashdod,1,2,Yaakov Turner Toto Stadium,D. Fuxman,865838,383,Ligat Ha'al
+2022/23,2022-09-03,Regular Season - 3,Ligat Ha'al,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,Bloomfield Stadium,S. Levi,865854,383,Ligat Ha'al
+2022/23,2022-09-03,Regular Season - 3,Ligat Ha'al,Hapoel Katamon,Ashdod,3,0,HaMoshava Stadium,N. Steif,865853,383,Ligat Ha'al
+2022/23,2022-09-03,Regular Season - 3,Ligat Ha'al,Hapoel Haifa,Bnei Sakhnin,1,2,Sammy Ofer Stadium,A. Shiloach,865849,383,Ligat Ha'al
+2022/23,2022-09-03,Regular Season - 3,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Haifa,1,2,Yaakov Turner Toto Stadium,I. Frid,865851,383,Ligat Ha'al
+2022/23,2022-09-04,Regular Season - 3,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Hadera,1,2,Green Stadium,G. Levi,865855,383,Ligat Ha'al
+2022/23,2022-09-04,Regular Season - 3,Ligat Ha'al,Sektzia Nes Tziona,Beitar Jerusalem,0,3,HaMoshava Stadium,I. Layba,865852,383,Ligat Ha'al
+2022/23,2022-09-05,Regular Season - 3,Ligat Ha'al,Maccabi Netanya,Hapoel Tel Aviv,0,2,Netanya Stadium,E. Shmuelevich,865850,383,Ligat Ha'al
+2022/23,2022-09-10,Regular Season - 4,Ligat Ha'al,Maccabi Haifa,Sektzia Nes Tziona,3,1,Sammy Ofer Stadium,E. Papir,865860,383,Ligat Ha'al
+2022/23,2022-09-10,Regular Season - 4,Ligat Ha'al,Bnei Sakhnin,Maccabi Netanya,0,0,Doha Stadium,S. Ben Avraham,865862,383,Ligat Ha'al
+2022/23,2022-09-10,Regular Season - 4,Ligat Ha'al,Hapoel Hadera,Hapoel Haifa,1,1,Netanya Stadium,O. Na'al,865856,383,Ligat Ha'al
+2022/23,2022-09-10,Regular Season - 4,Ligat Ha'al,Ashdod,Maccabi Tel Aviv,0,0,Yud-Alef Stadium,O. Grinfeeld,865858,383,Ligat Ha'al
+2022/23,2022-09-11,Regular Season - 4,Ligat Ha'al,Ironi Kiryat Shmona,Maccabi Bnei Raina,1,1,Kiryat-Shmona Municipal Stadium,O. Asulin,865857,383,Ligat Ha'al
+2022/23,2022-09-11,Regular Season - 4,Ligat Ha'al,Hapoel Tel Aviv,Hapoel Beer Sheva,2,3,Bloomfield Stadium,G. Laibuvitz,865861,383,Ligat Ha'al
+2022/23,2022-09-12,Regular Season - 4,Ligat Ha'al,Beitar Jerusalem,Hapoel Katamon,0,1,Teddi Malcha Stadium,E. Shmuelevich,865859,383,Ligat Ha'al
+2022/23,2022-09-17,Regular Season - 5,Ligat Ha'al,Sektzia Nes Tziona,Hapoel Tel Aviv,4,3,HaMoshava Stadium,S. Levi,865865,383,Ligat Ha'al
+2022/23,2022-09-17,Regular Season - 5,Ligat Ha'al,Maccabi Bnei Raina,Ashdod,1,1,Green Stadium,Y. Mizrahi,865868,383,Ligat Ha'al
+2022/23,2022-09-17,Regular Season - 5,Ligat Ha'al,Hapoel Haifa,Maccabi Netanya,0,0,Sammy Ofer Stadium,I. Frid,865863,383,Ligat Ha'al
+2022/23,2022-09-17,Regular Season - 5,Ligat Ha'al,Maccabi Tel Aviv,Beitar Jerusalem,4,0,Bloomfield Stadium,R. Reinshreiber,865867,383,Ligat Ha'al
+2022/23,2022-09-18,Regular Season - 5,Ligat Ha'al,Hapoel Hadera,Ironi Kiryat Shmona,1,1,Netanya Stadium,N. Steif,865869,383,Ligat Ha'al
+2022/23,2022-09-18,Regular Season - 5,Ligat Ha'al,Hapoel Beer Sheva,Bnei Sakhnin,1,0,Yaakov Turner Toto Stadium,I. Layba,865864,383,Ligat Ha'al
+2022/23,2022-09-18,Regular Season - 5,Ligat Ha'al,Hapoel Katamon,Maccabi Haifa,3,0,Teddi Malcha Stadium,A. Shiloach,865866,383,Ligat Ha'al
+2022/23,2022-10-01,Regular Season - 6,Ligat Ha'al,Ironi Kiryat Shmona,Hapoel Haifa,1,1,Kiryat-Shmona Municipal Stadium,D. Fuxman,865870,383,Ligat Ha'al
+2022/23,2022-10-01,Regular Season - 6,Ligat Ha'al,Ashdod,Hapoel Hadera,1,1,Yud-Alef Stadium,G. Laibuvitz,865871,383,Ligat Ha'al
+2022/23,2022-10-01,Regular Season - 6,Ligat Ha'al,Maccabi Netanya,Hapoel Beer Sheva,1,2,Netanya Stadium,R. Reinshreiber,865876,383,Ligat Ha'al
+2022/23,2022-10-01,Regular Season - 6,Ligat Ha'al,Maccabi Haifa,Maccabi Tel Aviv,2,0,Sammy Ofer Stadium,E. Shmuelevich,865873,383,Ligat Ha'al
+2022/23,2022-10-02,Regular Season - 6,Ligat Ha'al,Bnei Sakhnin,Sektzia Nes Tziona,2,0,Doha Stadium,G. Levi,865875,383,Ligat Ha'al
+2022/23,2022-10-02,Regular Season - 6,Ligat Ha'al,Hapoel Tel Aviv,Hapoel Katamon,1,3,Bloomfield Stadium,N. Steif,865874,383,Ligat Ha'al
+2022/23,2022-10-03,Regular Season - 6,Ligat Ha'al,Beitar Jerusalem,Maccabi Bnei Raina,2,3,Bloomfield Stadium,E. Papir,865872,383,Ligat Ha'al
+2022/23,2022-10-08,Regular Season - 7,Ligat Ha'al,Sektzia Nes Tziona,Maccabi Netanya,1,1,HaMoshava Stadium,O. Grinfeeld,865878,383,Ligat Ha'al
+2022/23,2022-10-08,Regular Season - 7,Ligat Ha'al,Hapoel Katamon,Bnei Sakhnin,1,2,Teddi Malcha Stadium,S. Levi,865879,383,Ligat Ha'al
+2022/23,2022-10-08,Regular Season - 7,Ligat Ha'al,Hapoel Hadera,Beitar Jerusalem,2,1,Netanya Stadium,I. Frid,865882,383,Ligat Ha'al
+2022/23,2022-10-08,Regular Season - 7,Ligat Ha'al,Maccabi Bnei Raina,Maccabi Haifa,1,0,Green Stadium,I. Layba,865881,383,Ligat Ha'al
+2022/23,2022-10-10,Regular Season - 7,Ligat Ha'al,Ironi Kiryat Shmona,Ashdod,1,1,Kiryat-Shmona Municipal Stadium,S. Ben Avraham,865883,383,Ligat Ha'al
+2022/23,2022-10-10,Regular Season - 7,Ligat Ha'al,Hapoel Beer Sheva,Hapoel Haifa,2,2,Yaakov Turner Toto Stadium,A. Shiloach,865968,383,Ligat Ha'al
+2022/23,2022-10-10,Regular Season - 7,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,Bloomfield Stadium,R. Reinshreiber,865880,383,Ligat Ha'al
+2022/23,2022-10-15,Regular Season - 8,Ligat Ha'al,Hapoel Tel Aviv,Maccabi Bnei Raina,2,0,Bloomfield Stadium,O. Grinfeeld,865887,383,Ligat Ha'al
+2022/23,2022-10-15,Regular Season - 8,Ligat Ha'al,Ashdod,Hapoel Haifa,4,0,Yud-Alef Stadium,E. Shmuelevich,865884,383,Ligat Ha'al
+2022/23,2022-10-15,Regular Season - 8,Ligat Ha'al,Beitar Jerusalem,Ironi Kiryat Shmona,2,0,Teddi Malcha Stadium,I. Layba,865885,383,Ligat Ha'al
+2022/23,2022-10-15,Regular Season - 8,Ligat Ha'al,Bnei Sakhnin,Maccabi Tel Aviv,0,1,Doha Stadium,D. Fuxman,865888,383,Ligat Ha'al
+2022/23,2022-10-17,Regular Season - 8,Ligat Ha'al,Maccabi Netanya,Hapoel Katamon,0,2,Netanya Stadium,O. Asulin,865889,383,Ligat Ha'al
+2022/23,2022-10-17,Regular Season - 8,Ligat Ha'al,Hapoel Beer Sheva,Sektzia Nes Tziona,1,1,Yaakov Turner Toto Stadium,O. Na'al,865890,383,Ligat Ha'al
+2022/23,2022-10-17,Regular Season - 8,Ligat Ha'al,Maccabi Haifa,Hapoel Hadera,1,0,Sammy Ofer Stadium,S. Levi,865886,383,Ligat Ha'al
+2022/23,2022-10-22,Regular Season - 9,Ligat Ha'al,Hapoel Katamon,Hapoel Beer Sheva,1,4,Teddi Malcha Stadium,O. Grinfeeld,865892,383,Ligat Ha'al
+2022/23,2022-10-22,Regular Season - 9,Ligat Ha'al,Hapoel Haifa,Sektzia Nes Tziona,0,1,Sammy Ofer Stadium,E. Papir,865891,383,Ligat Ha'al
+2022/23,2022-10-22,Regular Season - 9,Ligat Ha'al,Ashdod,Beitar Jerusalem,0,2,Yud-Alef Stadium,A. Shiloach,865897,383,Ligat Ha'al
+2022/23,2022-10-22,Regular Season - 9,Ligat Ha'al,Ironi Kiryat Shmona,Maccabi Haifa,2,3,Kiryat-Shmona Municipal Stadium,O. Na'al,865896,383,Ligat Ha'al
+2022/23,2022-10-23,Regular Season - 9,Ligat Ha'al,Maccabi Bnei Raina,Bnei Sakhnin,2,0,Green Stadium,R. Reinshreiber,865894,383,Ligat Ha'al
+2022/23,2022-10-23,Regular Season - 9,Ligat Ha'al,Hapoel Hadera,Hapoel Tel Aviv,0,0,Netanya Stadium,G. Levi,865895,383,Ligat Ha'al
+2022/23,2022-10-24,Regular Season - 9,Ligat Ha'al,Maccabi Tel Aviv,Maccabi Netanya,3,0,Bloomfield Stadium,G. Laibuvitz,865893,383,Ligat Ha'al
+2022/23,2022-10-29,Regular Season - 10,Ligat Ha'al,Maccabi Haifa,Ashdod,3,1,Sammy Ofer Stadium,G. Laibuvitz,865899,383,Ligat Ha'al
+2022/23,2022-10-29,Regular Season - 10,Ligat Ha'al,Bnei Sakhnin,Hapoel Hadera,1,4,Doha Stadium,Y. Mizrahi,865901,383,Ligat Ha'al
+2022/23,2022-10-29,Regular Season - 10,Ligat Ha'al,Sektzia Nes Tziona,Hapoel Katamon,0,2,HaMoshava Stadium,M. Rushrush,865904,383,Ligat Ha'al
+2022/23,2022-10-29,Regular Season - 10,Ligat Ha'al,Maccabi Netanya,Maccabi Bnei Raina,2,1,Netanya Stadium,S. Ben Avraham,865902,383,Ligat Ha'al
+2022/23,2022-10-29,Regular Season - 10,Ligat Ha'al,Beitar Jerusalem,Hapoel Haifa,0,0,Teddi Malcha Stadium,N. Steif,865898,383,Ligat Ha'al
+2022/23,2022-10-30,Regular Season - 10,Ligat Ha'al,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,1,Bloomfield Stadium,O. Asulin,865900,383,Ligat Ha'al
+2022/23,2022-10-31,Regular Season - 10,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Tel Aviv,2,0,Yaakov Turner Toto Stadium,E. Shmuelevich,865903,383,Ligat Ha'al
+2022/23,2022-11-05,Regular Season - 11,Ligat Ha'al,Maccabi Tel Aviv,Sektzia Nes Tziona,1,1,Bloomfield Stadium,S. Levi,865906,383,Ligat Ha'al
+2022/23,2022-11-05,Regular Season - 11,Ligat Ha'al,Hapoel Hadera,Maccabi Netanya,3,1,Netanya Stadium,N. Odeh,865908,383,Ligat Ha'al
+2022/23,2022-11-05,Regular Season - 11,Ligat Ha'al,Hapoel Haifa,Hapoel Katamon,1,0,Sammy Ofer Stadium,R. Reinshreiber,865905,383,Ligat Ha'al
+2022/23,2022-11-05,Regular Season - 11,Ligat Ha'al,Ironi Kiryat Shmona,Bnei Sakhnin,1,1,Kiryat-Shmona Municipal Stadium,E. Papir,865909,383,Ligat Ha'al
+2022/23,2022-11-05,Regular Season - 11,Ligat Ha'al,Ashdod,Hapoel Tel Aviv,1,0,Yud-Alef Stadium,D. Fuxman,865910,383,Ligat Ha'al
+2022/23,2022-11-06,Regular Season - 11,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Beer Sheva,0,3,Green Stadium,G. Laibuvitz,865907,383,Ligat Ha'al
+2022/23,2022-11-06,Regular Season - 11,Ligat Ha'al,Beitar Jerusalem,Maccabi Haifa,1,4,Teddi Malcha Stadium,O. Grinfeeld,865911,383,Ligat Ha'al
+2022/23,2022-11-08,Regular Season - 12,Ligat Ha'al,Bnei Sakhnin,Ashdod,1,1,Doha Stadium,O. Asulin,865914,383,Ligat Ha'al
+2022/23,2022-11-08,Regular Season - 12,Ligat Ha'al,Maccabi Netanya,Ironi Kiryat Shmona,1,0,Netanya Stadium,G. Levi,865915,383,Ligat Ha'al
+2022/23,2022-11-08,Regular Season - 12,Ligat Ha'al,Hapoel Katamon,Maccabi Tel Aviv,0,3,Teddi Malcha Stadium,E. Papir,865918,383,Ligat Ha'al
+2022/23,2022-11-09,Regular Season - 12,Ligat Ha'al,Sektzia Nes Tziona,Maccabi Bnei Raina,3,3,HaMoshava Stadium,Y. Mizrahi,865917,383,Ligat Ha'al
+2022/23,2022-11-09,Regular Season - 12,Ligat Ha'al,Hapoel Beer Sheva,Hapoel Hadera,3,0,Yaakov Turner Toto Stadium,S. Ben Avraham,865916,383,Ligat Ha'al
+2022/23,2022-11-09,Regular Season - 12,Ligat Ha'al,Hapoel Tel Aviv,Beitar Jerusalem,2,1,Bloomfield Stadium,E. Shmuelevich,865913,383,Ligat Ha'al
+2022/23,2022-11-09,Regular Season - 12,Ligat Ha'al,Hapoel Haifa,Maccabi Haifa,0,1,Sammy Ofer Stadium,I. Layba,865912,383,Ligat Ha'al
+2022/23,2022-11-12,Regular Season - 13,Ligat Ha'al,Ashdod,Maccabi Netanya,2,3,Yud-Alef Stadium,I. Frid,865923,383,Ligat Ha'al
+2022/23,2022-11-12,Regular Season - 13,Ligat Ha'al,Hapoel Hadera,Sektzia Nes Tziona,0,0,Netanya Stadium,N. Steif,865921,383,Ligat Ha'al
+2022/23,2022-11-12,Regular Season - 13,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Haifa,1,0,Bloomfield Stadium,N. Odeh,865919,383,Ligat Ha'al
+2022/23,2022-11-13,Regular Season - 13,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Katamon,0,2,Green Stadium,D. Fuxman,865920,383,Ligat Ha'al
+2022/23,2022-11-13,Regular Season - 13,Ligat Ha'al,Ironi Kiryat Shmona,Hapoel Beer Sheva,0,2,Kiryat-Shmona Municipal Stadium,R. Reinshreiber,865922,383,Ligat Ha'al
+2022/23,2022-11-13,Regular Season - 13,Ligat Ha'al,Maccabi Haifa,Hapoel Tel Aviv,5,2,Sammy Ofer Stadium,S. Levi,865925,383,Ligat Ha'al
+2022/23,2022-11-14,Regular Season - 13,Ligat Ha'al,Beitar Jerusalem,Bnei Sakhnin,2,1,Teddi Malcha Stadium,A. Shiloach,865924,383,Ligat Ha'al
+2022/23,2022-12-17,Regular Season - 14,Ligat Ha'al,Hapoel Hadera,Hapoel Katamon,0,0,Netanya Stadium,S. Levi,865931,383,Ligat Ha'al
+2022/23,2022-12-17,Regular Season - 14,Ligat Ha'al,Hapoel Tel Aviv,Hapoel Haifa,3,3,Bloomfield Stadium,S. Ben Avraham,865926,383,Ligat Ha'al
+2022/23,2022-12-17,Regular Season - 14,Ligat Ha'al,Beitar Jerusalem,Maccabi Netanya,6,3,Teddi Malcha Stadium,G. Laibuvitz,865928,383,Ligat Ha'al
+2022/23,2022-12-17,Regular Season - 14,Ligat Ha'al,Ashdod,Hapoel Beer Sheva,0,1,Yud-Alef Stadium,O. Grinfeeld,865929,383,Ligat Ha'al
+2022/23,2022-12-19,Regular Season - 14,Ligat Ha'al,Ironi Kiryat Shmona,Sektzia Nes Tziona,3,3,Kiryat-Shmona Municipal Stadium,E. Shmuelevich,865930,383,Ligat Ha'al
+2022/23,2022-12-19,Regular Season - 14,Ligat Ha'al,Maccabi Bnei Raina,Maccabi Tel Aviv,0,2,Green Stadium,O. Asulin,865932,383,Ligat Ha'al
+2022/23,2022-12-19,Regular Season - 14,Ligat Ha'al,Maccabi Haifa,Bnei Sakhnin,3,1,Sammy Ofer Stadium,N. Odeh,865927,383,Ligat Ha'al
+2022/23,2022-12-24,Regular Season - 15,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Hadera,5,0,Bloomfield Stadium,D. Fuxman,865934,383,Ligat Ha'al
+2022/23,2022-12-24,Regular Season - 15,Ligat Ha'al,Hapoel Katamon,Ironi Kiryat Shmona,1,1,Teddi Malcha Stadium,N. Steif,865935,383,Ligat Ha'al
+2022/23,2022-12-24,Regular Season - 15,Ligat Ha'al,Hapoel Haifa,Maccabi Bnei Raina,0,0,Sammy Ofer Stadium,G. Levi,865933,383,Ligat Ha'al
+2022/23,2022-12-24,Regular Season - 15,Ligat Ha'al,Sektzia Nes Tziona,Ashdod,2,0,Nes Tziona Stadium,M. Rushrush,865936,383,Ligat Ha'al
+2022/23,2022-12-24,Regular Season - 15,Ligat Ha'al,Hapoel Beer Sheva,Beitar Jerusalem,3,2,Yaakov Turner Toto Stadium,E. Shmuelevich,865937,383,Ligat Ha'al
+2022/23,2022-12-25,Regular Season - 15,Ligat Ha'al,Bnei Sakhnin,Hapoel Tel Aviv,1,1,Doha Stadium,R. Reinshreiber,865939,383,Ligat Ha'al
+2022/23,2022-12-26,Regular Season - 15,Ligat Ha'al,Maccabi Netanya,Maccabi Haifa,0,2,Netanya Stadium,O. Grinfeeld,865938,383,Ligat Ha'al
+2022/23,2022-12-31,Regular Season - 16,Ligat Ha'al,Beitar Jerusalem,Sektzia Nes Tziona,3,2,Teddi Malcha Stadium,O. Asulin,865943,383,Ligat Ha'al
+2022/23,2022-12-31,Regular Season - 16,Ligat Ha'al,Hapoel Tel Aviv,Maccabi Netanya,1,1,Bloomfield Stadium,A. Shiloach,865941,383,Ligat Ha'al
+2022/23,2022-12-31,Regular Season - 16,Ligat Ha'al,Bnei Sakhnin,Hapoel Haifa,1,2,Doha Stadium,O. Grinfeeld,865940,383,Ligat Ha'al
+2022/23,2022-12-31,Regular Season - 16,Ligat Ha'al,Ashdod,Hapoel Katamon,1,1,Yud-Alef Stadium,Y. Mizrahi,865944,383,Ligat Ha'al
+2022/23,2022-12-31,Regular Season - 16,Ligat Ha'al,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,1,Kiryat-Shmona Municipal Stadium,I. Layba,865945,383,Ligat Ha'al
+2022/23,2023-01-01,Regular Season - 16,Ligat Ha'al,Hapoel Hadera,Maccabi Bnei Raina,2,2,Netanya Stadium,M. Rushrush,865946,383,Ligat Ha'al
+2022/23,2023-01-01,Regular Season - 16,Ligat Ha'al,Maccabi Haifa,Hapoel Beer Sheva,2,0,Sammy Ofer Stadium,R. Reinshreiber,865942,383,Ligat Ha'al
+2022/23,2023-01-07,Regular Season - 17,Ligat Ha'al,Maccabi Netanya,Bnei Sakhnin,0,0,Netanya Stadium,S. Ben Avraham,865953,383,Ligat Ha'al
+2022/23,2023-01-07,Regular Season - 17,Ligat Ha'al,Maccabi Tel Aviv,Ashdod,3,0,Bloomfield Stadium,N. Odeh,865949,383,Ligat Ha'al
+2022/23,2023-01-07,Regular Season - 17,Ligat Ha'al,Hapoel Haifa,Hapoel Hadera,3,0,Sammy Ofer Stadium,I. Frid,865947,383,Ligat Ha'al
+2022/23,2023-01-07,Regular Season - 17,Ligat Ha'al,Hapoel Katamon,Beitar Jerusalem,1,1,Teddi Malcha Stadium,O. Grinfeeld,865950,383,Ligat Ha'al
+2022/23,2023-01-08,Regular Season - 17,Ligat Ha'al,Maccabi Bnei Raina,Ironi Kiryat Shmona,0,1,Green Stadium,A. Shiloach,865948,383,Ligat Ha'al
+2022/23,2023-01-08,Regular Season - 17,Ligat Ha'al,Sektzia Nes Tziona,Maccabi Haifa,0,2,HaMoshava Stadium,S. Levi,865951,383,Ligat Ha'al
+2022/23,2023-01-09,Regular Season - 17,Ligat Ha'al,Hapoel Beer Sheva,Hapoel Tel Aviv,6,0,Yaakov Turner Toto Stadium,I. Layba,865952,383,Ligat Ha'al
+2022/23,2023-01-14,Regular Season - 18,Ligat Ha'al,Hapoel Tel Aviv,Sektzia Nes Tziona,1,1,Bloomfield Stadium,I. Frid,865956,383,Ligat Ha'al
+2022/23,2023-01-14,Regular Season - 18,Ligat Ha'al,Ironi Kiryat Shmona,Hapoel Hadera,2,2,Kiryat-Shmona Municipal Stadium,G. Levi,865960,383,Ligat Ha'al
+2022/23,2023-01-14,Regular Season - 18,Ligat Ha'al,Ashdod,Maccabi Bnei Raina,3,0,Yud-Alef Stadium,D. Fuxman,865959,383,Ligat Ha'al
+2022/23,2023-01-14,Regular Season - 18,Ligat Ha'al,Maccabi Netanya,Hapoel Haifa,1,0,Netanya Stadium,N. Steif,865954,383,Ligat Ha'al
+2022/23,2023-01-15,Regular Season - 18,Ligat Ha'al,Maccabi Haifa,Hapoel Katamon,2,1,Sammy Ofer Stadium,S. Ben Avraham,865957,383,Ligat Ha'al
+2022/23,2023-01-16,Regular Season - 18,Ligat Ha'al,Beitar Jerusalem,Maccabi Tel Aviv,2,2,Teddi Malcha Stadium,G. Laibuvitz,865958,383,Ligat Ha'al
+2022/23,2023-01-21,Regular Season - 19,Ligat Ha'al,Hapoel Katamon,Hapoel Tel Aviv,0,0,Teddi Malcha Stadium,A. Shiloach,865965,383,Ligat Ha'al
+2022/23,2023-01-21,Regular Season - 19,Ligat Ha'al,Hapoel Haifa,Ironi Kiryat Shmona,1,0,Sammy Ofer Stadium,Y. Mizrahi,865961,383,Ligat Ha'al
+2022/23,2023-01-21,Regular Season - 19,Ligat Ha'al,Sektzia Nes Tziona,Bnei Sakhnin,0,0,HaMoshava Stadium,N. Steif,865966,383,Ligat Ha'al
+2022/23,2023-01-21,Regular Season - 19,Ligat Ha'al,Hapoel Hadera,Ashdod,0,2,Netanya Stadium,O. Asulin,865962,383,Ligat Ha'al
+2022/23,2023-01-21,Regular Season - 19,Ligat Ha'al,Maccabi Bnei Raina,Beitar Jerusalem,0,2,Green Stadium,S. Levi,865963,383,Ligat Ha'al
+2022/23,2023-01-22,Regular Season - 19,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Netanya,2,2,Yaakov Turner Toto Stadium,I. Frid,865967,383,Ligat Ha'al
+2022/23,2023-01-23,Regular Season - 19,Ligat Ha'al,Maccabi Tel Aviv,Maccabi Haifa,3,0,Bloomfield Stadium,O. Grinfeeld,865964,383,Ligat Ha'al
+2022/23,2023-01-28,Regular Season - 20,Ligat Ha'al,Maccabi Haifa,Maccabi Bnei Raina,0,0,Sammy Ofer Stadium,I. Frid,865972,383,Ligat Ha'al
+2022/23,2023-01-28,Regular Season - 20,Ligat Ha'al,Ashdod,Ironi Kiryat Shmona,1,1,Yud-Alef Stadium,N. Steif,865974,383,Ligat Ha'al
+2022/23,2023-01-28,Regular Season - 20,Ligat Ha'al,Maccabi Netanya,Sektzia Nes Tziona,3,0,Netanya Stadium,M. Rushrush,865969,383,Ligat Ha'al
+2022/23,2023-01-28,Regular Season - 20,Ligat Ha'al,Beitar Jerusalem,Hapoel Hadera,0,2,HaMoshava Stadium,R. Reinshreiber,865973,383,Ligat Ha'al
+2022/23,2023-01-28,Regular Season - 20,Ligat Ha'al,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,Bloomfield Stadium,S. Levi,865971,383,Ligat Ha'al
+2022/23,2023-01-29,Regular Season - 20,Ligat Ha'al,Hapoel Haifa,Hapoel Beer Sheva,0,1,Sammy Ofer Stadium,N. Odeh,865877,383,Ligat Ha'al
+2022/23,2023-01-30,Regular Season - 20,Ligat Ha'al,Bnei Sakhnin,Hapoel Katamon,2,1,Doha Stadium,G. Levi,865970,383,Ligat Ha'al
+2022/23,2023-02-04,Regular Season - 21,Ligat Ha'al,Sektzia Nes Tziona,Hapoel Beer Sheva,0,1,HaMoshava Stadium,I. Layba,865981,383,Ligat Ha'al
+2022/23,2023-02-04,Regular Season - 21,Ligat Ha'al,Maccabi Tel Aviv,Bnei Sakhnin,1,1,Bloomfield Stadium,I. Frid,865979,383,Ligat Ha'al
+2022/23,2023-02-04,Regular Season - 21,Ligat Ha'al,Hapoel Haifa,Ashdod,1,1,Sammy Ofer Stadium,E. Shmuelevich,865975,383,Ligat Ha'al
+2022/23,2023-02-04,Regular Season - 21,Ligat Ha'al,Hapoel Katamon,Maccabi Netanya,0,2,Teddi Malcha Stadium,R. Reinshreiber,865980,383,Ligat Ha'al
+2022/23,2023-02-04,Regular Season - 21,Ligat Ha'al,Ironi Kiryat Shmona,Beitar Jerusalem,0,3,Kiryat-Shmona Municipal Stadium,N. Odeh,865976,383,Ligat Ha'al
+2022/23,2023-02-05,Regular Season - 21,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Tel Aviv,1,1,Netanya Stadium,S. Ben Avraham,865978,383,Ligat Ha'al
+2022/23,2023-02-08,Regular Season - 18,Ligat Ha'al,Bnei Sakhnin,Hapoel Beer Sheva,0,1,Doha Stadium,A. Shiloach,865955,383,Ligat Ha'al
+2022/23,2023-02-08,Regular Season - 21,Ligat Ha'al,Hapoel Hadera,Maccabi Haifa,1,1,Netanya Stadium,G. Laibuvitz,865977,383,Ligat Ha'al
+2022/23,2023-02-11,Regular Season - 22,Ligat Ha'al,Beitar Jerusalem,Ashdod,2,1,Teddi Malcha Stadium,I. Layba,865988,383,Ligat Ha'al
+2022/23,2023-02-11,Regular Season - 22,Ligat Ha'al,Hapoel Beer Sheva,Hapoel Katamon,0,0,Yaakov Turner Toto Stadium,O. Grinfeeld,865983,383,Ligat Ha'al
+2022/23,2023-02-11,Regular Season - 22,Ligat Ha'al,Bnei Sakhnin,Maccabi Bnei Raina,1,1,Doha Stadium,O. Asulin,865985,383,Ligat Ha'al
+2022/23,2023-02-11,Regular Season - 22,Ligat Ha'al,Sektzia Nes Tziona,Hapoel Haifa,0,2,HaMoshava Stadium,D. Tzino,865982,383,Ligat Ha'al
+2022/23,2023-02-11,Regular Season - 22,Ligat Ha'al,Maccabi Haifa,Ironi Kiryat Shmona,2,0,Sammy Ofer Stadium,R. Reinshreiber,865987,383,Ligat Ha'al
+2022/23,2023-02-12,Regular Season - 22,Ligat Ha'al,Hapoel Tel Aviv,Hapoel Hadera,0,0,Bloomfield Stadium,E. Shmuelevich,865986,383,Ligat Ha'al
+2022/23,2023-02-13,Regular Season - 22,Ligat Ha'al,Maccabi Netanya,Maccabi Tel Aviv,2,1,Netanya Stadium,N. Odeh,865984,383,Ligat Ha'al
+2022/23,2023-02-18,Regular Season - 23,Ligat Ha'al,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,Kiryat-Shmona Municipal Stadium,I. Layba,865991,383,Ligat Ha'al
+2022/23,2023-02-18,Regular Season - 23,Ligat Ha'al,Maccabi Bnei Raina,Maccabi Netanya,1,2,Green Stadium,S. Levi,865993,383,Ligat Ha'al
+2022/23,2023-02-18,Regular Season - 23,Ligat Ha'al,Hapoel Katamon,Sektzia Nes Tziona,1,0,Teddi Malcha Stadium,O. Asulin,865995,383,Ligat Ha'al
+2022/23,2023-02-18,Regular Season - 23,Ligat Ha'al,Hapoel Hadera,Bnei Sakhnin,1,3,Netanya Stadium,Y. Mizrahi,865992,383,Ligat Ha'al
+2022/23,2023-02-18,Regular Season - 23,Ligat Ha'al,Ashdod,Maccabi Haifa,3,1,Yud-Alef Stadium,I. Frid,865990,383,Ligat Ha'al
+2022/23,2023-02-19,Regular Season - 23,Ligat Ha'al,Hapoel Haifa,Beitar Jerusalem,0,0,Sammy Ofer Stadium,O. Grinfeeld,865989,383,Ligat Ha'al
+2022/23,2023-02-20,Regular Season - 23,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Beer Sheva,1,0,Bloomfield Stadium,R. Reinshreiber,865994,383,Ligat Ha'al
+2022/23,2023-02-25,Regular Season - 24,Ligat Ha'al,Hapoel Tel Aviv,Ashdod,1,2,Bloomfield Stadium,O. Grinfeeld,866001,383,Ligat Ha'al
+2022/23,2023-02-25,Regular Season - 24,Ligat Ha'al,Sektzia Nes Tziona,Maccabi Tel Aviv,0,2,HaMoshava Stadium,D. Fuxman,865997,383,Ligat Ha'al
+2022/23,2023-02-25,Regular Season - 24,Ligat Ha'al,Bnei Sakhnin,Ironi Kiryat Shmona,1,3,Doha Stadium,S. Levi,866000,383,Ligat Ha'al
+2022/23,2023-02-25,Regular Season - 24,Ligat Ha'al,Maccabi Netanya,Hapoel Hadera,1,0,Netanya Stadium,A. Shiloach,865999,383,Ligat Ha'al
+2022/23,2023-02-25,Regular Season - 24,Ligat Ha'al,Maccabi Haifa,Beitar Jerusalem,2,1,Sammy Ofer Stadium,G. Laibuvitz,866002,383,Ligat Ha'al
+2022/23,2023-02-26,Regular Season - 24,Ligat Ha'al,Hapoel Katamon,Hapoel Haifa,2,2,Teddi Malcha Stadium,I. Frid,865996,383,Ligat Ha'al
+2022/23,2023-02-27,Regular Season - 24,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Bnei Raina,2,0,Yaakov Turner Toto Stadium,I. Layba,865998,383,Ligat Ha'al
+2022/23,2023-03-04,Regular Season - 25,Ligat Ha'al,Ironi Kiryat Shmona,Maccabi Netanya,2,2,Kiryat-Shmona Municipal Stadium,N. Odeh,866006,383,Ligat Ha'al
+2022/23,2023-03-04,Regular Season - 25,Ligat Ha'al,Hapoel Hadera,Hapoel Beer Sheva,0,3,Netanya Stadium,D. Fuxman,866007,383,Ligat Ha'al
+2022/23,2023-03-04,Regular Season - 25,Ligat Ha'al,Ashdod,Bnei Sakhnin,1,1,Yud-Alef Stadium,O. Asulin,866005,383,Ligat Ha'al
+2022/23,2023-03-04,Regular Season - 25,Ligat Ha'al,Maccabi Bnei Raina,Sektzia Nes Tziona,3,2,Green Stadium,E. Shmuelevich,866008,383,Ligat Ha'al
+2022/23,2023-03-04,Regular Season - 25,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Katamon,1,2,Bloomfield Stadium,I. Layba,866009,383,Ligat Ha'al
+2022/23,2023-03-05,Regular Season - 25,Ligat Ha'al,Beitar Jerusalem,Hapoel Tel Aviv,1,3,Teddi Malcha Stadium,I. Frid,866004,383,Ligat Ha'al
+2022/23,2023-03-06,Regular Season - 25,Ligat Ha'al,Maccabi Haifa,Hapoel Haifa,4,1,Sammy Ofer Stadium,S. Levi,866003,383,Ligat Ha'al
+2022/23,2023-03-11,Regular Season - 26,Ligat Ha'al,Hapoel Haifa,Maccabi Tel Aviv,1,1,Sammy Ofer Stadium,A. Shiloach,866010,383,Ligat Ha'al
+2022/23,2023-03-11,Regular Season - 26,Ligat Ha'al,Hapoel Katamon,Maccabi Bnei Raina,0,1,Teddi Malcha Stadium,O. Asulin,866011,383,Ligat Ha'al
+2022/23,2023-03-11,Regular Season - 26,Ligat Ha'al,Sektzia Nes Tziona,Hapoel Hadera,1,3,HaMoshava Stadium,N. Steif,866012,383,Ligat Ha'al
+2022/23,2023-03-11,Regular Season - 26,Ligat Ha'al,Bnei Sakhnin,Beitar Jerusalem,2,0,Doha Stadium,I. Layba,866015,383,Ligat Ha'al
+2022/23,2023-03-11,Regular Season - 26,Ligat Ha'al,Maccabi Netanya,Ashdod,0,2,Netanya Stadium,S. Levi,866014,383,Ligat Ha'al
+2022/23,2023-03-12,Regular Season - 26,Ligat Ha'al,Hapoel Beer Sheva,Ironi Kiryat Shmona,2,1,Yaakov Turner Toto Stadium,S. Ben Avraham,866013,383,Ligat Ha'al
+2022/23,2023-03-13,Regular Season - 26,Ligat Ha'al,Hapoel Tel Aviv,Maccabi Haifa,0,1,Bloomfield Stadium,E. Shmuelevich,866016,383,Ligat Ha'al
+2022/23,2023-03-18,Championship Round - 1,Ligat Ha'al,Hapoel Beer Sheva,Hapoel Katamon,1,0,Yaakov Turner Toto Stadium,N. Odeh,1014703,383,Ligat Ha'al
+2022/23,2023-03-18,Championship Round - 1,Ligat Ha'al,Maccabi Tel Aviv,Maccabi Netanya,2,0,Bloomfield Stadium,G. Laibuvitz,1014704,383,Ligat Ha'al
+2022/23,2023-03-18,Relegation Round - 1,Ligat Ha'al,Hapoel Hadera,Sektzia Nes Tziona,1,2,Netanya Stadium,I. Frid,1014733,383,Ligat Ha'al
+2022/23,2023-03-18,Relegation Round - 1,Ligat Ha'al,Beitar Jerusalem,Hapoel Tel Aviv,2,1,Teddi Malcha Stadium,R. Reinshreiber,1014732,383,Ligat Ha'al
+2022/23,2023-03-18,Championship Round - 1,Ligat Ha'al,Maccabi Haifa,Ashdod,2,1,Sammy Ofer Stadium,A. Shiloach,1014702,383,Ligat Ha'al
+2022/23,2023-03-19,Relegation Round - 1,Ligat Ha'al,Bnei Sakhnin,Maccabi Bnei Raina,2,2,Doha Stadium,O. Grinfeeld,1014735,383,Ligat Ha'al
+2022/23,2023-03-19,Relegation Round - 1,Ligat Ha'al,Hapoel Haifa,Ironi Kiryat Shmona,1,1,Sammy Ofer Stadium,D. Fuxman,1014734,383,Ligat Ha'al
+2022/23,2023-04-01,Relegation Round - 2,Ligat Ha'al,Hapoel Tel Aviv,Sektzia Nes Tziona,2,1,Bloomfield Stadium,I. Layba,1014736,383,Ligat Ha'al
+2022/23,2023-04-01,Championship Round - 2,Ligat Ha'al,Hapoel Katamon,Maccabi Tel Aviv,0,2,Teddi Malcha Stadium,D. Fuxman,1014706,383,Ligat Ha'al
+2022/23,2023-04-01,Championship Round - 2,Ligat Ha'al,Maccabi Haifa,Hapoel Beer Sheva,1,0,Sammy Ofer Stadium,O. Grinfeeld,1014707,383,Ligat Ha'al
+2022/23,2023-04-01,Championship Round - 2,Ligat Ha'al,Ashdod,Maccabi Netanya,3,2,Yud-Alef Stadium,R. Geva,1014705,383,Ligat Ha'al
+2022/23,2023-04-02,Relegation Round - 2,Ligat Ha'al,Ironi Kiryat Shmona,Bnei Sakhnin,2,2,Kiryat-Shmona Municipal Stadium,E. Shmuelevich,1014738,383,Ligat Ha'al
+2022/23,2023-04-02,Relegation Round - 2,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Hadera,1,1,Green Stadium,S. Levi,1014737,383,Ligat Ha'al
+2022/23,2023-04-03,Relegation Round - 2,Ligat Ha'al,Beitar Jerusalem,Hapoel Haifa,2,0,Teddi Malcha Stadium,Y. Mizrahi,1014739,383,Ligat Ha'al
+2022/23,2023-04-04,Championship Round - 3,Ligat Ha'al,Maccabi Netanya,Hapoel Katamon,0,2,Netanya Stadium,N. Steif,1014710,383,Ligat Ha'al
+2022/23,2023-04-04,Championship Round - 3,Ligat Ha'al,Hapoel Beer Sheva,Ashdod,3,1,Yaakov Turner Toto Stadium,G. Laibuvitz,1014708,383,Ligat Ha'al
+2022/23,2023-04-04,Championship Round - 3,Ligat Ha'al,Maccabi Tel Aviv,Maccabi Haifa,1,1,Bloomfield Stadium,R. Reinshreiber,1014709,383,Ligat Ha'al
+2022/23,2023-04-08,Championship Round - 4,Ligat Ha'al,Ashdod,Hapoel Katamon,0,1,Yud-Alef Stadium,D. Tzino,1014711,383,Ligat Ha'al
+2022/23,2023-04-08,Championship Round - 4,Ligat Ha'al,Maccabi Haifa,Maccabi Netanya,4,1,Sammy Ofer Stadium,I. Frid,1014712,383,Ligat Ha'al
+2022/23,2023-04-10,Championship Round - 4,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Tel Aviv,1,2,Yaakov Turner Toto Stadium,E. Shmuelevich,1014713,383,Ligat Ha'al
+2022/23,2023-04-15,Relegation Round - 3,Ligat Ha'al,Hapoel Haifa,Hapoel Tel Aviv,1,0,Sammy Ofer Stadium,S. Ben Avraham,1014740,383,Ligat Ha'al
+2022/23,2023-04-15,Championship Round - 5,Ligat Ha'al,Hapoel Katamon,Maccabi Haifa,2,1,Teddi Malcha Stadium,I. Layba,1014716,383,Ligat Ha'al
+2022/23,2023-04-15,Championship Round - 5,Ligat Ha'al,Maccabi Tel Aviv,Ashdod,1,1,Bloomfield Stadium,N. Odeh,1014714,383,Ligat Ha'al
+2022/23,2023-04-15,Relegation Round - 3,Ligat Ha'al,Sektzia Nes Tziona,Maccabi Bnei Raina,1,2,HaMoshava Stadium,D. Fuxman,1014743,383,Ligat Ha'al
+2022/23,2023-04-15,Relegation Round - 3,Ligat Ha'al,Hapoel Hadera,Ironi Kiryat Shmona,1,1,Netanya Stadium,R. Reinshreiber,1014741,383,Ligat Ha'al
+2022/23,2023-04-16,Relegation Round - 3,Ligat Ha'al,Bnei Sakhnin,Beitar Jerusalem,4,3,HaMoshava Stadium,S. Levi,1014742,383,Ligat Ha'al
+2022/23,2023-04-16,Championship Round - 5,Ligat Ha'al,Maccabi Netanya,Hapoel Beer Sheva,1,1,Netanya Stadium,A. Shiloach,1014715,383,Ligat Ha'al
+2022/23,2023-04-22,Relegation Round - 4,Ligat Ha'al,Hapoel Tel Aviv,Maccabi Bnei Raina,1,2,Bloomfield Stadium,A. Shiloach,1014744,383,Ligat Ha'al
+2022/23,2023-04-22,Championship Round - 6,Ligat Ha'al,Hapoel Katamon,Hapoel Beer Sheva,1,2,Teddi Malcha Stadium,S. Ben Avraham,1014718,383,Ligat Ha'al
+2022/23,2023-04-22,Relegation Round - 4,Ligat Ha'al,Hapoel Haifa,Bnei Sakhnin,2,2,Sammy Ofer Stadium,M. Rushrush,1014747,383,Ligat Ha'al
+2022/23,2023-04-22,Championship Round - 6,Ligat Ha'al,Maccabi Netanya,Maccabi Tel Aviv,0,0,Netanya Stadium,S. Levi,1014719,383,Ligat Ha'al
+2022/23,2023-04-22,Relegation Round - 4,Ligat Ha'al,Ironi Kiryat Shmona,Sektzia Nes Tziona,1,1,Kiryat-Shmona Municipal Stadium,I. Frid,1014746,383,Ligat Ha'al
+2022/23,2023-04-23,Relegation Round - 4,Ligat Ha'al,Beitar Jerusalem,Hapoel Hadera,2,1,HaMoshava Stadium,G. Levi,1014745,383,Ligat Ha'al
+2022/23,2023-04-23,Championship Round - 6,Ligat Ha'al,Ashdod,Maccabi Haifa,1,2,Yud-Alef Stadium,O. Grinfeeld,1014717,383,Ligat Ha'al
+2022/23,2023-04-29,Relegation Round - 5,Ligat Ha'al,Maccabi Bnei Raina,Ironi Kiryat Shmona,1,3,Green Stadium,O. Grinfeeld,1014751,383,Ligat Ha'al
+2022/23,2023-04-29,Championship Round - 7,Ligat Ha'al,Maccabi Netanya,Ashdod,2,0,Netanya Stadium,Y. Mizrahi,1014720,383,Ligat Ha'al
+2022/23,2023-04-29,Championship Round - 7,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Katamon,2,1,Bloomfield Stadium,O. Asulin,1014721,383,Ligat Ha'al
+2022/23,2023-04-29,Relegation Round - 5,Ligat Ha'al,Sektzia Nes Tziona,Beitar Jerusalem,1,3,HaMoshava Stadium,N. Odeh,1014750,383,Ligat Ha'al
+2022/23,2023-04-30,Relegation Round - 5,Ligat Ha'al,Hapoel Hadera,Hapoel Haifa,1,2,Netanya Stadium,D. Tzino,1014749,383,Ligat Ha'al
+2022/23,2023-04-30,Relegation Round - 5,Ligat Ha'al,Bnei Sakhnin,Hapoel Tel Aviv,0,1,HaMoshava Stadium,G. Laibuvitz,1014748,383,Ligat Ha'al
+2022/23,2023-05-01,Championship Round - 7,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Haifa,2,1,Yaakov Turner Toto Stadium,R. Reinshreiber,1014722,383,Ligat Ha'al
+2022/23,2023-05-06,Relegation Round - 6,Ligat Ha'al,Hapoel Haifa,Sektzia Nes Tziona,0,1,Sammy Ofer Stadium,R. Geva,1014755,383,Ligat Ha'al
+2022/23,2023-05-06,Relegation Round - 6,Ligat Ha'al,Beitar Jerusalem,Maccabi Bnei Raina,0,1,HaMoshava Stadium,D. Fuxman,1014754,383,Ligat Ha'al
+2022/23,2023-05-06,Relegation Round - 6,Ligat Ha'al,Bnei Sakhnin,Hapoel Hadera,2,3,Doha Stadium,I. Layba,1014753,383,Ligat Ha'al
+2022/23,2023-05-06,Relegation Round - 6,Ligat Ha'al,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,2,Bloomfield Stadium,R. Reinshreiber,1014752,383,Ligat Ha'al
+2022/23,2023-05-07,Championship Round - 8,Ligat Ha'al,Hapoel Katamon,Maccabi Netanya,1,4,Teddi Malcha Stadium,G. Laibuvitz,1014725,383,Ligat Ha'al
+2022/23,2023-05-08,Championship Round - 8,Ligat Ha'al,Maccabi Haifa,Maccabi Tel Aviv,3,1,Sammy Ofer Stadium,O. Grinfeeld,1014724,383,Ligat Ha'al
+2022/23,2023-05-08,Championship Round - 8,Ligat Ha'al,Ashdod,Hapoel Beer Sheva,0,1,Yud-Alef Stadium,I. Frid,1014723,383,Ligat Ha'al
+2022/23,2023-05-13,Relegation Round - 7,Ligat Ha'al,Sektzia Nes Tziona,Bnei Sakhnin,1,1,HaMoshava Stadium,Y. Klez,1014757,383,Ligat Ha'al
+2022/23,2023-05-13,Relegation Round - 7,Ligat Ha'al,Hapoel Hadera,Hapoel Tel Aviv,1,2,Netanya Stadium,G. Levi,1014756,383,Ligat Ha'al
+2022/23,2023-05-13,Relegation Round - 7,Ligat Ha'al,Maccabi Bnei Raina,Hapoel Haifa,0,4,Green Stadium,Y. Mizrahi,1014758,383,Ligat Ha'al
+2022/23,2023-05-13,Relegation Round - 7,Ligat Ha'al,Ironi Kiryat Shmona,Beitar Jerusalem,3,2,Kiryat-Shmona Municipal Stadium,O. Asulin,1014759,383,Ligat Ha'al
+2022/23,2023-05-14,Championship Round - 9,Ligat Ha'al,Hapoel Katamon,Ashdod,0,1,Teddi Malcha Stadium,M. Rushrush,1014726,383,Ligat Ha'al
+2022/23,2023-05-15,Championship Round - 9,Ligat Ha'al,Maccabi Tel Aviv,Hapoel Beer Sheva,3,0,Bloomfield Stadium,G. Laibuvitz,1014728,383,Ligat Ha'al
+2022/23,2023-05-15,Championship Round - 9,Ligat Ha'al,Maccabi Netanya,Maccabi Haifa,1,5,Netanya Stadium,A. Shiloach,1014727,383,Ligat Ha'al
+2022/23,2023-05-20,Championship Round - 10,Ligat Ha'al,Hapoel Beer Sheva,Maccabi Netanya,2,0,Yaakov Turner Toto Stadium,N. Odeh,1014730,383,Ligat Ha'al
+2022/23,2023-05-20,Championship Round - 10,Ligat Ha'al,Maccabi Haifa,Hapoel Katamon,5,0,Sammy Ofer Stadium,E. Shmuelevich,1014731,383,Ligat Ha'al
+2022/23,2023-05-20,Championship Round - 10,Ligat Ha'al,Ashdod,Maccabi Tel Aviv,1,2,Yud-Alef Stadium,S. Ben Avraham,1014729,383,Ligat Ha'al
