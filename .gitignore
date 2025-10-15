@@ -1,0 +1,8 @@
+# Ignore generated data and secrets
+/data/
+*.env
+.env
+key.env
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
