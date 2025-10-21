@@ -1,8 +1,10 @@
 # Ignore generated data and secrets
-/data/
+/ligat_haal_project/data/
+.data/
 *.env
 .env
 key.env
 .ipynb_checkpoints/
 __pycache__/
 .vscode/
+.venv/
