@@ -1,0 +1,183 @@
+round,home,score,away
+1,Hapoel Haifa,2:0,Hapoel Tel Aviv
+2,H. Jerusalem,1:1,Hapoel Hadera
+3,Maccabi Netanya,4:1,B. Jerusalem
+4,M. Tel Aviv,5:0,M. Bnei Reineh
+5,Ness Ziona,0:2,Kiryat Shmona
+6,Bnei Sakhnin,0:1,Maccabi Haifa
+7,H. Beer Sheva,1:2,FC Ashdod
+8,Kiryat Shmona,1:1,H. Jerusalem
+9,Hapoel Tel Aviv,0:2,Bnei Sakhnin
+10,Maccabi Haifa,4:1,Maccabi Netanya
+11,FC Ashdod,1:0,Ness Ziona
+12,M. Bnei Reineh,1:1,Hapoel Haifa
+13,B. Jerusalem,0:5,H. Beer Sheva
+14,Hapoel Hadera,0:6,M. Tel Aviv
+15,M. Tel Aviv,3:1,Kiryat Shmona
+16,H. Jerusalem,3:0,FC Ashdod
+17,Hapoel Haifa,1:2,Bnei Sakhnin
+18,H. Beer Sheva,1:2,Maccabi Haifa
+19,M. Bnei Reineh,1:2,Hapoel Hadera
+20,Ness Ziona,0:3,B. Jerusalem
+21,Maccabi Netanya,0:2,Hapoel Tel Aviv
+22,Maccabi Haifa,3:1,Ness Ziona
+23,Hapoel Hadera,1:1,Hapoel Haifa
+24,Bnei Sakhnin,0:0,Maccabi Netanya
+25,FC Ashdod,0:0,M. Tel Aviv
+26,Hapoel Tel Aviv,2:3,H. Beer Sheva
+27,Kiryat Shmona,1:1,M. Bnei Reineh
+28,B. Jerusalem,0:1,H. Jerusalem
+29,Ness Ziona,4:3,Hapoel Tel Aviv
+30,M. Bnei Reineh,1:1,FC Ashdod
+31,Hapoel Haifa,0:0,Maccabi Netanya
+32,M. Tel Aviv,4:0,B. Jerusalem
+33,Hapoel Hadera,1:1,Kiryat Shmona
+34,H. Beer Sheva,1:0,Bnei Sakhnin
+35,H. Jerusalem,3:0,Maccabi Haifa
+36,Kiryat Shmona,1:1,Hapoel Haifa
+37,FC Ashdod,1:1,Hapoel Hadera
+38,Maccabi Netanya,1:2,H. Beer Sheva
+39,Maccabi Haifa,2:0,M. Tel Aviv
+40,Bnei Sakhnin,2:0,Ness Ziona
+41,Hapoel Tel Aviv,1:3,H. Jerusalem
+42,B. Jerusalem,2:3,M. Bnei Reineh
+43,Ness Ziona,1:1,Maccabi Netanya
+44,H. Jerusalem,1:2,Bnei Sakhnin
+45,Hapoel Hadera,2:1,B. Jerusalem
+46,M. Bnei Reineh,1:0,Maccabi Haifa
+47,Kiryat Shmona,1:1,FC Ashdod
+48,H. Beer Sheva,2:2,Hapoel Haifa
+49,M. Tel Aviv,3:0,Hapoel Tel Aviv
+50,Hapoel Tel Aviv,2:0,M. Bnei Reineh
+51,FC Ashdod,4:0,Hapoel Haifa
+52,B. Jerusalem,2:0,Kiryat Shmona
+53,Bnei Sakhnin,0:1,M. Tel Aviv
+54,Maccabi Netanya,0:2,H. Jerusalem
+55,H. Beer Sheva,1:1,Ness Ziona
+56,Maccabi Haifa,1:0,Hapoel Hadera
+57,H. Jerusalem,1:4,H. Beer Sheva
+58,Hapoel Haifa,0:1,Ness Ziona
+59,FC Ashdod,0:2,B. Jerusalem
+60,Kiryat Shmona,2:3,Maccabi Haifa
+61,M. Bnei Reineh,2:0,Bnei Sakhnin
+62,Hapoel Hadera,0:0,Hapoel Tel Aviv
+63,M. Tel Aviv,3:0,Maccabi Netanya
+64,Maccabi Haifa,3:1,FC Ashdod
+65,Bnei Sakhnin,1:4,Hapoel Hadera
+66,Ness Ziona,0:2,H. Jerusalem
+67,Maccabi Netanya,2:1,M. Bnei Reineh
+68,B. Jerusalem,0:0,Hapoel Haifa
+69,Hapoel Tel Aviv,2:1,Kiryat Shmona
+70,H. Beer Sheva,2:0,M. Tel Aviv
+71,M. Tel Aviv,1:1,Ness Ziona
+72,Hapoel Hadera,3:1,Maccabi Netanya
+73,Hapoel Haifa,1:0,H. Jerusalem
+74,Kiryat Shmona,1:1,Bnei Sakhnin
+75,FC Ashdod,1:0,Hapoel Tel Aviv
+76,M. Bnei Reineh,0:3,H. Beer Sheva
+77,B. Jerusalem,1:4,Maccabi Haifa
+78,Bnei Sakhnin,1:1,FC Ashdod
+79,Maccabi Netanya,1:0,Kiryat Shmona
+80,H. Jerusalem,0:3,M. Tel Aviv
+81,Ness Ziona,3:3,M. Bnei Reineh
+82,H. Beer Sheva,3:0,Hapoel Hadera
+83,Hapoel Tel Aviv,2:1,B. Jerusalem
+84,Hapoel Haifa,0:1,Maccabi Haifa
+85,FC Ashdod,2:3,Maccabi Netanya
+86,Hapoel Hadera,0:0,Ness Ziona
+87,M. Tel Aviv,1:0,Hapoel Haifa
+88,M. Bnei Reineh,0:2,H. Jerusalem
+89,Kiryat Shmona,0:2,H. Beer Sheva
+90,Maccabi Haifa,5:2,Hapoel Tel Aviv
+91,B. Jerusalem,2:1,Bnei Sakhnin
+92,Hapoel Tel Aviv,3:3,Hapoel Haifa
+93,Hapoel Hadera,0:0,H. Jerusalem
+94,B. Jerusalem,6:3,Maccabi Netanya
+95,FC Ashdod,0:1,H. Beer Sheva
+96,Kiryat Shmona,3:3,Ness Ziona
+97,M. Bnei Reineh,0:2,M. Tel Aviv
+98,Maccabi Haifa,3:1,Bnei Sakhnin
+99,M. Tel Aviv,5:0,Hapoel Hadera
+100,H. Jerusalem,1:1,Kiryat Shmona
+101,Hapoel Haifa,0:0,M. Bnei Reineh
+102,Ness Ziona,2:0,FC Ashdod
+103,H. Beer Sheva,3:2,B. Jerusalem
+104,Bnei Sakhnin,1:1,Hapoel Tel Aviv
+105,Maccabi Netanya,0:2,Maccabi Haifa
+106,B. Jerusalem,3:2,Ness Ziona
+107,Hapoel Tel Aviv,1:1,Maccabi Netanya
+108,Bnei Sakhnin,1:2,Hapoel Haifa
+109,FC Ashdod,1:1,H. Jerusalem
+110,Kiryat Shmona,1:1,M. Tel Aviv
+111,Hapoel Hadera,2:2,M. Bnei Reineh
+112,Maccabi Haifa,2:0,H. Beer Sheva
+113,Maccabi Netanya,0:0,Bnei Sakhnin
+114,M. Tel Aviv,3:0,FC Ashdod
+115,Hapoel Haifa,3:0,Hapoel Hadera
+116,H. Jerusalem,1:1,B. Jerusalem
+117,M. Bnei Reineh,0:1,Kiryat Shmona
+118,Ness Ziona,0:2,Maccabi Haifa
+119,H. Beer Sheva,6:0,Hapoel Tel Aviv
+120,Hapoel Tel Aviv,1:1,Ness Ziona
+121,Kiryat Shmona,2:2,Hapoel Hadera
+122,FC Ashdod,3:0,M. Bnei Reineh
+123,Maccabi Netanya,1:0,Hapoel Haifa
+124,Maccabi Haifa,2:1,H. Jerusalem
+125,B. Jerusalem,2:2,M. Tel Aviv
+126,Bnei Sakhnin,0:1,H. Beer Sheva
+127,H. Jerusalem,0:0,Hapoel Tel Aviv
+128,Hapoel Haifa,1:0,Kiryat Shmona
+129,Hapoel Hadera,0:2,FC Ashdod
+130,Ness Ziona,0:0,Bnei Sakhnin
+131,M. Bnei Reineh,0:2,B. Jerusalem
+132,H. Beer Sheva,2:2,Maccabi Netanya
+133,M. Tel Aviv,3:0,Maccabi Haifa
+134,Maccabi Haifa,0:0,M. Bnei Reineh
+135,FC Ashdod,1:1,Kiryat Shmona
+136,Maccabi Netanya,3:0,Ness Ziona
+137,B. Jerusalem,0:2,Hapoel Hadera
+138,Hapoel Tel Aviv,0:0,M. Tel Aviv
+139,Hapoel Haifa,0:1,H. Beer Sheva
+140,Bnei Sakhnin,2:1,H. Jerusalem
+141,Ness Ziona,0:1,H. Beer Sheva
+142,M. Tel Aviv,1:1,Bnei Sakhnin
+143,Hapoel Haifa,1:1,FC Ashdod
+144,H. Jerusalem,0:2,Maccabi Netanya
+145,Kiryat Shmona,0:3,B. Jerusalem
+146,M. Bnei Reineh,1:1,Hapoel Tel Aviv
+147,Hapoel Hadera,1:1,Maccabi Haifa
+148,B. Jerusalem,2:1,FC Ashdod
+149,H. Beer Sheva,0:0,H. Jerusalem
+150,Ness Ziona,0:2,Hapoel Haifa
+151,Bnei Sakhnin,1:1,M. Bnei Reineh
+152,Maccabi Haifa,2:0,Kiryat Shmona
+153,Hapoel Tel Aviv,0:0,Hapoel Hadera
+154,Maccabi Netanya,2:1,M. Tel Aviv
+155,Kiryat Shmona,0:1,Hapoel Tel Aviv
+156,M. Bnei Reineh,1:2,Maccabi Netanya
+157,Hapoel Hadera,1:3,Bnei Sakhnin
+158,H. Jerusalem,1:0,Ness Ziona
+159,FC Ashdod,3:1,Maccabi Haifa
+160,Hapoel Haifa,0:0,B. Jerusalem
+161,M. Tel Aviv,1:0,H. Beer Sheva
+162,Hapoel Tel Aviv,1:2,FC Ashdod
+163,Ness Ziona,0:2,M. Tel Aviv
+164,Bnei Sakhnin,1:3,Kiryat Shmona
+165,Maccabi Netanya,1:0,Hapoel Hadera
+166,Maccabi Haifa,2:1,B. Jerusalem
+167,H. Jerusalem,2:2,Hapoel Haifa
+168,H. Beer Sheva,2:0,M. Bnei Reineh
+169,Kiryat Shmona,2:2,Maccabi Netanya
+170,Hapoel Hadera,0:3,H. Beer Sheva
+171,FC Ashdod,1:1,Bnei Sakhnin
+172,M. Bnei Reineh,3:2,Ness Ziona
+173,M. Tel Aviv,1:2,H. Jerusalem
+174,B. Jerusalem,1:3,Hapoel Tel Aviv
+175,Maccabi Haifa,4:1,Hapoel Haifa
+176,Hapoel Haifa,1:1,M. Tel Aviv
+177,H. Jerusalem,0:1,M. Bnei Reineh
+178,Ness Ziona,1:3,Hapoel Hadera
+179,Maccabi Netanya,0:2,FC Ashdod
+180,Bnei Sakhnin,2:0,B. Jerusalem
+181,H. Beer Sheva,2:1,Kiryat Shmona
+182,Hapoel Tel Aviv,0:1,Maccabi Haifa

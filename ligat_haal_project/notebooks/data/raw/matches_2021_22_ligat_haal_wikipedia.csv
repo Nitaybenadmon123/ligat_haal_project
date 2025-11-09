@@ -1,0 +1,182 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2021/22,2021,Maccabi Haifa,HBS,1,2,-1,A,0,3
+2021/22,2021,Maccabi Haifa,MTA,3,2,1,H,3,0
+2021/22,2021,Maccabi Haifa,BnS,2,1,1,H,3,0
+2021/22,2021,Maccabi Haifa,MNE,2,0,2,H,3,0
+2021/22,2021,Maccabi Haifa,HTA,2,0,2,H,3,0
+2021/22,2021,Maccabi Haifa,HAH,1,0,1,H,3,0
+2021/22,2021,Maccabi Haifa,IKS,4,0,4,H,3,0
+2021/22,2021,Maccabi Haifa,HHA,5,1,4,H,3,0
+2021/22,2021,Maccabi Haifa,ASH,6,0,6,H,3,0
+2021/22,2021,Maccabi Haifa,HJE,1,1,0,D,1,1
+2021/22,2021,Maccabi Haifa,BEI,2,1,1,H,3,0
+2021/22,2021,Maccabi Haifa,MPT,2,0,2,H,3,0
+2021/22,2021,Maccabi Haifa,HNG,1,1,0,D,1,1
+2021/22,2021,Hapoel Be'er Sheva,MHA,1,2,-1,A,0,3
+2021/22,2021,Hapoel Be'er Sheva,MTA,2,0,2,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,BnS,3,0,3,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,MNE,0,1,-1,A,0,3
+2021/22,2021,Hapoel Be'er Sheva,HTA,2,1,1,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,HAH,2,2,0,D,1,1
+2021/22,2021,Hapoel Be'er Sheva,IKS,0,0,0,D,1,1
+2021/22,2021,Hapoel Be'er Sheva,HHA,3,1,2,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,ASH,1,1,0,D,1,1
+2021/22,2021,Hapoel Be'er Sheva,HJE,3,1,2,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,BEI,3,1,2,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,MPT,1,0,1,H,3,0
+2021/22,2021,Hapoel Be'er Sheva,HNG,2,0,2,H,3,0
+2021/22,2021,Maccabi Tel Aviv,MHA,2,1,1,H,3,0
+2021/22,2021,Maccabi Tel Aviv,HBS,1,0,1,H,3,0
+2021/22,2021,Maccabi Tel Aviv,BnS,1,1,0,D,1,1
+2021/22,2021,Maccabi Tel Aviv,MNE,2,2,0,D,1,1
+2021/22,2021,Maccabi Tel Aviv,HTA,1,1,0,D,1,1
+2021/22,2021,Maccabi Tel Aviv,HAH,3,0,3,H,3,0
+2021/22,2021,Maccabi Tel Aviv,IKS,1,0,1,H,3,0
+2021/22,2021,Maccabi Tel Aviv,HHA,2,0,2,H,3,0
+2021/22,2021,Maccabi Tel Aviv,ASH,0,2,-2,A,0,3
+2021/22,2021,Maccabi Tel Aviv,HJE,1,0,1,H,3,0
+2021/22,2021,Maccabi Tel Aviv,BEI,3,1,2,H,3,0
+2021/22,2021,Maccabi Tel Aviv,MPT,1,1,0,D,1,1
+2021/22,2021,Maccabi Tel Aviv,HNG,1,1,0,D,1,1
+2021/22,2021,Bnei Sakhnin,MHA,0,6,-6,A,0,3
+2021/22,2021,Bnei Sakhnin,HBS,0,0,0,D,1,1
+2021/22,2021,Bnei Sakhnin,MTA,3,1,2,H,3,0
+2021/22,2021,Bnei Sakhnin,MNE,1,3,-2,A,0,3
+2021/22,2021,Bnei Sakhnin,HTA,1,0,1,H,3,0
+2021/22,2021,Bnei Sakhnin,HAH,1,0,1,H,3,0
+2021/22,2021,Bnei Sakhnin,IKS,0,3,-3,A,0,3
+2021/22,2021,Bnei Sakhnin,HHA,2,2,0,D,1,1
+2021/22,2021,Bnei Sakhnin,ASH,0,1,-1,A,0,3
+2021/22,2021,Bnei Sakhnin,HJE,2,1,1,H,3,0
+2021/22,2021,Bnei Sakhnin,BEI,2,0,2,H,3,0
+2021/22,2021,Bnei Sakhnin,MPT,1,0,1,H,3,0
+2021/22,2021,Bnei Sakhnin,HNG,2,0,2,H,3,0
+2021/22,2021,Maccabi Netanya,MHA,1,1,0,D,1,1
+2021/22,2021,Maccabi Netanya,HBS,1,1,0,D,1,1
+2021/22,2021,Maccabi Netanya,MTA,4,2,2,H,3,0
+2021/22,2021,Maccabi Netanya,BnS,1,0,1,H,3,0
+2021/22,2021,Maccabi Netanya,HTA,1,1,0,D,1,1
+2021/22,2021,Maccabi Netanya,HAH,0,2,-2,A,0,3
+2021/22,2021,Maccabi Netanya,IKS,3,1,2,H,3,0
+2021/22,2021,Maccabi Netanya,HHA,1,0,1,H,3,0
+2021/22,2021,Maccabi Netanya,ASH,0,1,-1,A,0,3
+2021/22,2021,Maccabi Netanya,HJE,2,0,2,H,3,0
+2021/22,2021,Maccabi Netanya,BEI,0,0,0,D,1,1
+2021/22,2021,Maccabi Netanya,MPT,2,0,2,H,3,0
+2021/22,2021,Maccabi Netanya,HNG,1,3,-2,A,0,3
+2021/22,2021,Hapoel Tel Aviv,MHA,1,3,-2,A,0,3
+2021/22,2021,Hapoel Tel Aviv,HBS,1,1,0,D,1,1
+2021/22,2021,Hapoel Tel Aviv,MTA,2,3,-1,A,0,3
+2021/22,2021,Hapoel Tel Aviv,BnS,0,3,-3,A,0,3
+2021/22,2021,Hapoel Tel Aviv,MNE,2,2,0,D,1,1
+2021/22,2021,Hapoel Tel Aviv,HAH,0,1,-1,A,0,3
+2021/22,2021,Hapoel Tel Aviv,IKS,2,0,2,H,3,0
+2021/22,2021,Hapoel Tel Aviv,HHA,0,2,-2,A,0,3
+2021/22,2021,Hapoel Tel Aviv,ASH,2,1,1,H,3,0
+2021/22,2021,Hapoel Tel Aviv,HJE,1,1,0,D,1,1
+2021/22,2021,Hapoel Tel Aviv,BEI,1,0,1,H,3,0
+2021/22,2021,Hapoel Tel Aviv,MPT,2,1,1,H,3,0
+2021/22,2021,Hapoel Tel Aviv,HNG,2,2,0,D,1,1
+2021/22,2021,Hapoel Hadera,MHA,0,0,0,D,1,1
+2021/22,2021,Hapoel Hadera,HBS,1,2,-1,A,0,3
+2021/22,2021,Hapoel Hadera,MTA,0,2,-2,A,0,3
+2021/22,2021,Hapoel Hadera,BnS,2,1,1,H,3,0
+2021/22,2021,Hapoel Hadera,MNE,1,1,0,D,1,1
+2021/22,2021,Hapoel Hadera,HTA,0,3,-3,A,0,3
+2021/22,2021,Hapoel Hadera,IKS,2,0,2,H,3,0
+2021/22,2021,Hapoel Hadera,HHA,1,0,1,H,3,0
+2021/22,2021,Hapoel Hadera,ASH,2,1,1,H,3,0
+2021/22,2021,Hapoel Hadera,HJE,0,0,0,D,1,1
+2021/22,2021,Hapoel Hadera,BEI,1,0,1,H,3,0
+2021/22,2021,Hapoel Hadera,MPT,1,4,-3,A,0,3
+2021/22,2021,Hapoel Hadera,HNG,0,0,0,D,1,1
+2021/22,2021,Ironi Kiryat Shmona,MHA,2,1,1,H,3,0
+2021/22,2021,Ironi Kiryat Shmona,HBS,1,2,-1,A,0,3
+2021/22,2021,Ironi Kiryat Shmona,MTA,1,3,-2,A,0,3
+2021/22,2021,Ironi Kiryat Shmona,BnS,0,1,-1,A,0,3
+2021/22,2021,Ironi Kiryat Shmona,MNE,2,1,1,H,3,0
+2021/22,2021,Ironi Kiryat Shmona,HTA,0,2,-2,A,0,3
+2021/22,2021,Ironi Kiryat Shmona,HAH,0,1,-1,A,0,3
+2021/22,2021,Ironi Kiryat Shmona,HHA,2,2,0,D,1,1
+2021/22,2021,Ironi Kiryat Shmona,ASH,2,0,2,H,3,0
+2021/22,2021,Ironi Kiryat Shmona,HJE,0,0,0,D,1,1
+2021/22,2021,Ironi Kiryat Shmona,BEI,2,2,0,D,1,1
+2021/22,2021,Ironi Kiryat Shmona,MPT,1,0,1,H,3,0
+2021/22,2021,Ironi Kiryat Shmona,HNG,1,0,1,H,3,0
+2021/22,2021,Hapoel Haifa,MHA,0,1,-1,A,0,3
+2021/22,2021,Hapoel Haifa,HBS,0,1,-1,A,0,3
+2021/22,2021,Hapoel Haifa,MTA,1,3,-2,A,0,3
+2021/22,2021,Hapoel Haifa,BnS,1,1,0,D,1,1
+2021/22,2021,Hapoel Haifa,MNE,0,0,0,D,1,1
+2021/22,2021,Hapoel Haifa,HTA,0,2,-2,A,0,3
+2021/22,2021,Hapoel Haifa,HAH,3,0,3,H,3,0
+2021/22,2021,Hapoel Haifa,IKS,1,0,1,H,3,0
+2021/22,2021,Hapoel Haifa,ASH,2,1,1,H,3,0
+2021/22,2021,Hapoel Haifa,HJE,1,2,-1,A,0,3
+2021/22,2021,Hapoel Haifa,BEI,5,1,4,H,3,0
+2021/22,2021,Hapoel Haifa,MPT,2,2,0,D,1,1
+2021/22,2021,Hapoel Haifa,HNG,3,1,2,H,3,0
+2021/22,2021,F.C. Ashdod,MHA,2,2,0,D,1,1
+2021/22,2021,F.C. Ashdod,HBS,1,1,0,D,1,1
+2021/22,2021,F.C. Ashdod,MTA,1,3,-2,A,0,3
+2021/22,2021,F.C. Ashdod,BnS,0,1,-1,A,0,3
+2021/22,2021,F.C. Ashdod,MNE,1,3,-2,A,0,3
+2021/22,2021,F.C. Ashdod,HTA,1,4,-3,A,0,3
+2021/22,2021,F.C. Ashdod,HAH,1,2,-1,A,0,3
+2021/22,2021,F.C. Ashdod,IKS,0,2,-2,A,0,3
+2021/22,2021,F.C. Ashdod,HHA,1,3,-2,A,0,3
+2021/22,2021,F.C. Ashdod,HJE,1,0,1,H,3,0
+2021/22,2021,F.C. Ashdod,BEI,2,0,2,H,3,0
+2021/22,2021,F.C. Ashdod,MPT,3,4,-1,A,0,3
+2021/22,2021,F.C. Ashdod,HNG,3,0,3,H,3,0
+2021/22,2021,Hapoel Jerusalem,MHA,1,4,-3,A,0,3
+2021/22,2021,Hapoel Jerusalem,HBS,0,1,-1,A,0,3
+2021/22,2021,Hapoel Jerusalem,MTA,1,3,-2,A,0,3
+2021/22,2021,Hapoel Jerusalem,BnS,0,0,0,D,1,1
+2021/22,2021,Hapoel Jerusalem,MNE,2,1,1,H,3,0
+2021/22,2021,Hapoel Jerusalem,HTA,0,1,-1,A,0,3
+2021/22,2021,Hapoel Jerusalem,HAH,1,1,0,D,1,1
+2021/22,2021,Hapoel Jerusalem,IKS,0,1,-1,A,0,3
+2021/22,2021,Hapoel Jerusalem,HHA,1,1,0,D,1,1
+2021/22,2021,Hapoel Jerusalem,ASH,2,0,2,H,3,0
+2021/22,2021,Hapoel Jerusalem,BEI,0,3,-3,A,0,3
+2021/22,2021,Hapoel Jerusalem,MPT,1,0,1,H,3,0
+2021/22,2021,Hapoel Jerusalem,HNG,3,1,2,H,3,0
+2021/22,2021,Beitar Jerusalem,MHA,0,1,-1,A,0,3
+2021/22,2021,Beitar Jerusalem,HBS,0,2,-2,A,0,3
+2021/22,2021,Beitar Jerusalem,MTA,1,2,-1,A,0,3
+2021/22,2021,Beitar Jerusalem,BnS,1,1,0,D,1,1
+2021/22,2021,Beitar Jerusalem,MNE,1,1,0,D,1,1
+2021/22,2021,Beitar Jerusalem,HTA,0,2,-2,A,0,3
+2021/22,2021,Beitar Jerusalem,HAH,0,0,0,D,1,1
+2021/22,2021,Beitar Jerusalem,IKS,1,1,0,D,1,1
+2021/22,2021,Beitar Jerusalem,HHA,2,1,1,H,3,0
+2021/22,2021,Beitar Jerusalem,ASH,0,2,-2,A,0,3
+2021/22,2021,Beitar Jerusalem,MPT,2,1,1,H,3,0
+2021/22,2021,Beitar Jerusalem,HNG,0,0,0,D,1,1
+2021/22,2021,Maccabi Petah Tikva,MHA,0,4,-4,A,0,3
+2021/22,2021,Maccabi Petah Tikva,HBS,0,1,-1,A,0,3
+2021/22,2021,Maccabi Petah Tikva,MTA,1,2,-1,A,0,3
+2021/22,2021,Maccabi Petah Tikva,BnS,0,1,-1,A,0,3
+2021/22,2021,Maccabi Petah Tikva,MNE,1,1,0,D,1,1
+2021/22,2021,Maccabi Petah Tikva,HTA,1,1,0,D,1,1
+2021/22,2021,Maccabi Petah Tikva,HAH,1,1,0,D,1,1
+2021/22,2021,Maccabi Petah Tikva,IKS,1,1,0,D,1,1
+2021/22,2021,Maccabi Petah Tikva,HHA,2,0,2,H,3,0
+2021/22,2021,Maccabi Petah Tikva,ASH,0,1,-1,A,0,3
+2021/22,2021,Maccabi Petah Tikva,HJE,3,1,2,H,3,0
+2021/22,2021,Maccabi Petah Tikva,BEI,0,3,-3,A,0,3
+2021/22,2021,Maccabi Petah Tikva,HNG,4,0,4,H,3,0
+2021/22,2021,Hapoel Nof HaGalil,MHA,0,4,-4,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,HBS,0,2,-2,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,MTA,1,3,-2,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,BnS,1,2,-1,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,MNE,0,1,-1,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,HTA,2,2,0,D,1,1
+2021/22,2021,Hapoel Nof HaGalil,HAH,1,1,0,D,1,1
+2021/22,2021,Hapoel Nof HaGalil,IKS,2,6,-4,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,HHA,0,1,-1,A,0,3
+2021/22,2021,Hapoel Nof HaGalil,ASH,2,0,2,H,3,0
+2021/22,2021,Hapoel Nof HaGalil,HJE,0,0,0,D,1,1
+2021/22,2021,Hapoel Nof HaGalil,BEI,1,0,1,H,3,0
+2021/22,2021,Hapoel Nof HaGalil,MPT,1,0,1,H,3,0

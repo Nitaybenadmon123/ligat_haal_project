@@ -1,0 +1,65 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2025/26,2025,Hapoel Be'er Sheva,HTA,2,1,1,H,3,0
+2025/26,2025,Hapoel Be'er Sheva,BnS,3,1,2,H,3,0
+2025/26,2025,Hapoel Be'er Sheva,ITI,7,0,7,H,3,0
+2025/26,2025,Hapoel Be'er Sheva,MBR,1,0,1,H,3,0
+2025/26,2025,Maccabi Tel Aviv,BEI,2,6,-4,A,0,3
+2025/26,2025,Maccabi Tel Aviv,MNE,4,0,4,H,3,0
+2025/26,2025,Maccabi Tel Aviv,MHA,1,1,0,D,1,1
+2025/26,2025,Maccabi Tel Aviv,IKS,3,1,2,H,3,0
+2025/26,2025,Maccabi Tel Aviv,HJE,2,1,1,H,3,0
+2025/26,2025,Beitar Jerusalem,HBS,0,1,-1,A,0,3
+2025/26,2025,Beitar Jerusalem,ASH,0,0,0,D,1,1
+2025/26,2025,Beitar Jerusalem,MHA,0,0,0,D,1,1
+2025/26,2025,Beitar Jerusalem,HPT,5,2,3,H,3,0
+2025/26,2025,Beitar Jerusalem,IKS,2,1,1,H,3,0
+2025/26,2025,Hapoel Tel Aviv,MTA,0,3,-3,A,0,3
+2025/26,2025,Hapoel Tel Aviv,BEI,3,2,1,H,3,0
+2025/26,2025,Hapoel Tel Aviv,HHA,1,0,1,H,3,0
+2025/26,2025,Hapoel Tel Aviv,ITI,2,0,2,H,3,0
+2025/26,2025,Hapoel Tel Aviv,IKS,2,1,1,H,3,0
+2025/26,2025,Maccabi Netanya,HBS,2,4,-2,A,0,3
+2025/26,2025,Maccabi Netanya,HTA,2,0,2,H,3,0
+2025/26,2025,Maccabi Netanya,BnS,1,2,-1,A,0,3
+2025/26,2025,Maccabi Netanya,ITI,5,2,3,H,3,0
+2025/26,2025,F.C. Ashdod,HTA,2,6,-4,A,0,3
+2025/26,2025,F.C. Ashdod,BnS,1,2,-1,A,0,3
+2025/26,2025,F.C. Ashdod,HHA,4,1,3,H,3,0
+2025/26,2025,F.C. Ashdod,HPT,1,1,0,D,1,1
+2025/26,2025,F.C. Ashdod,MBR,2,0,2,H,3,0
+2025/26,2025,Bnei Sakhnin,MTA,0,0,0,D,1,1
+2025/26,2025,Bnei Sakhnin,BEI,1,2,-1,A,0,3
+2025/26,2025,Bnei Sakhnin,HHA,0,2,-2,A,0,3
+2025/26,2025,Bnei Sakhnin,ITI,2,0,2,H,3,0
+2025/26,2025,Maccabi Haifa,HBS,0,1,-1,A,0,3
+2025/26,2025,Maccabi Haifa,MNE,2,3,-1,A,0,3
+2025/26,2025,Maccabi Haifa,ASH,5,1,4,H,3,0
+2025/26,2025,Maccabi Haifa,HJE,2,2,0,D,1,1
+2025/26,2025,Maccabi Haifa,MBR,4,0,4,H,3,0
+2025/26,2025,Hapoel Haifa,BEI,2,3,-1,A,0,3
+2025/26,2025,Hapoel Haifa,MHA,1,1,0,D,1,1
+2025/26,2025,Hapoel Haifa,IKS,0,0,0,D,1,1
+2025/26,2025,Hapoel Haifa,HJE,2,1,1,H,3,0
+2025/26,2025,Hapoel Petah Tikva,MTA,0,4,-4,A,0,3
+2025/26,2025,Hapoel Petah Tikva,MNE,3,1,2,H,3,0
+2025/26,2025,Hapoel Petah Tikva,BnS,2,2,0,D,1,1
+2025/26,2025,Hapoel Petah Tikva,ITI,0,2,-2,A,0,3
+2025/26,2025,Hapoel Petah Tikva,HJE,0,0,0,D,1,1
+2025/26,2025,Ironi Tiberias,MTA,1,4,-3,A,0,3
+2025/26,2025,Ironi Tiberias,MHA,1,1,0,D,1,1
+2025/26,2025,Ironi Tiberias,HHA,1,0,1,H,3,0
+2025/26,2025,Ironi Tiberias,HJE,1,0,1,H,3,0
+2025/26,2025,Ironi Kiryat Shmona,HBS,1,0,1,H,3,0
+2025/26,2025,Ironi Kiryat Shmona,MNE,1,2,-1,A,0,3
+2025/26,2025,Ironi Kiryat Shmona,ASH,1,2,-1,A,0,3
+2025/26,2025,Ironi Kiryat Shmona,HPT,0,0,0,D,1,1
+2025/26,2025,Ironi Kiryat Shmona,MBR,3,1,2,H,3,0
+2025/26,2025,Hapoel Jerusalem,HBS,1,5,-4,A,0,3
+2025/26,2025,Hapoel Jerusalem,MNE,1,2,-1,A,0,3
+2025/26,2025,Hapoel Jerusalem,ASH,1,2,-1,A,0,3
+2025/26,2025,Hapoel Jerusalem,BnS,0,0,0,D,1,1
+2025/26,2025,Maccabi Bnei Reineh,MTA,0,2,-2,A,0,3
+2025/26,2025,Maccabi Bnei Reineh,BEI,1,3,-2,A,0,3
+2025/26,2025,Maccabi Bnei Reineh,HTA,2,2,0,D,1,1
+2025/26,2025,Maccabi Bnei Reineh,HHA,1,2,-1,A,0,3
+2025/26,2025,Maccabi Bnei Reineh,HPT,1,6,-5,A,0,3

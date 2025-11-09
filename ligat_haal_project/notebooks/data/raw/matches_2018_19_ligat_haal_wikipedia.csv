@@ -1,0 +1,183 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2018/19,2018,Beitar Jerusalem,BnS,3,2,1,H,3,0
+2018/19,2018,Beitar Jerusalem,BnY,1,5,-4,A,0,3
+2018/19,2018,Beitar Jerusalem,ASH,4,1,3,H,3,0
+2018/19,2018,Beitar Jerusalem,HAH,0,1,-1,A,0,3
+2018/19,2018,Beitar Jerusalem,HBS,2,3,-1,A,0,3
+2018/19,2018,Beitar Jerusalem,HHA,1,1,0,D,1,1
+2018/19,2018,Beitar Jerusalem,HRA,2,0,2,H,3,0
+2018/19,2018,Beitar Jerusalem,HTA,0,1,-1,A,0,3
+2018/19,2018,Beitar Jerusalem,MNE,1,1,0,D,1,1
+2018/19,2018,Beitar Jerusalem,IKS,0,0,0,D,1,1
+2018/19,2018,Beitar Jerusalem,MHA,1,1,0,D,1,1
+2018/19,2018,Beitar Jerusalem,MPT,0,0,0,D,1,1
+2018/19,2018,Beitar Jerusalem,MTA,0,2,-2,A,0,3
+2018/19,2018,Bnei Sakhnin,BEI,0,0,0,D,1,1
+2018/19,2018,Bnei Sakhnin,BnY,2,1,1,H,3,0
+2018/19,2018,Bnei Sakhnin,ASH,4,3,1,H,3,0
+2018/19,2018,Bnei Sakhnin,HAH,1,2,-1,A,0,3
+2018/19,2018,Bnei Sakhnin,HBS,0,0,0,D,1,1
+2018/19,2018,Bnei Sakhnin,HHA,0,4,-4,A,0,3
+2018/19,2018,Bnei Sakhnin,HRA,0,0,0,D,1,1
+2018/19,2018,Bnei Sakhnin,HTA,1,1,0,D,1,1
+2018/19,2018,Bnei Sakhnin,MNE,0,2,-2,A,0,3
+2018/19,2018,Bnei Sakhnin,IKS,0,3,-3,A,0,3
+2018/19,2018,Bnei Sakhnin,MHA,0,2,-2,A,0,3
+2018/19,2018,Bnei Sakhnin,MPT,0,1,-1,A,0,3
+2018/19,2018,Bnei Sakhnin,MTA,0,0,0,D,1,1
+2018/19,2018,Bnei Yehuda,BEI,0,2,-2,A,0,3
+2018/19,2018,Bnei Yehuda,BnS,0,1,-1,A,0,3
+2018/19,2018,Bnei Yehuda,ASH,2,0,2,H,3,0
+2018/19,2018,Bnei Yehuda,HAH,2,0,2,H,3,0
+2018/19,2018,Bnei Yehuda,HBS,3,1,2,H,3,0
+2018/19,2018,Bnei Yehuda,HHA,4,2,2,H,3,0
+2018/19,2018,Bnei Yehuda,HRA,3,0,3,H,3,0
+2018/19,2018,Bnei Yehuda,HTA,0,0,0,D,1,1
+2018/19,2018,Bnei Yehuda,MNE,0,0,0,D,1,1
+2018/19,2018,Bnei Yehuda,IKS,0,1,-1,A,0,3
+2018/19,2018,Bnei Yehuda,MHA,1,1,0,D,1,1
+2018/19,2018,Bnei Yehuda,MPT,2,2,0,D,1,1
+2018/19,2018,Bnei Yehuda,MTA,1,3,-2,A,0,3
+2018/19,2018,F.C. Ashdod,BEI,1,1,0,D,1,1
+2018/19,2018,F.C. Ashdod,BnS,2,1,1,H,3,0
+2018/19,2018,F.C. Ashdod,BnY,1,0,1,H,3,0
+2018/19,2018,F.C. Ashdod,HAH,2,3,-1,A,0,3
+2018/19,2018,F.C. Ashdod,HBS,1,0,1,H,3,0
+2018/19,2018,F.C. Ashdod,HHA,0,3,-3,A,0,3
+2018/19,2018,F.C. Ashdod,HRA,1,1,0,D,1,1
+2018/19,2018,F.C. Ashdod,HTA,1,1,0,D,1,1
+2018/19,2018,F.C. Ashdod,MNE,1,4,-3,A,0,3
+2018/19,2018,F.C. Ashdod,IKS,1,0,1,H,3,0
+2018/19,2018,F.C. Ashdod,MHA,0,1,-1,A,0,3
+2018/19,2018,F.C. Ashdod,MPT,1,1,0,D,1,1
+2018/19,2018,F.C. Ashdod,MTA,0,2,-2,A,0,3
+2018/19,2018,Hapoel Hadera,BEI,0,3,-3,A,0,3
+2018/19,2018,Hapoel Hadera,BnS,2,1,1,H,3,0
+2018/19,2018,Hapoel Hadera,BnY,0,4,-4,A,0,3
+2018/19,2018,Hapoel Hadera,ASH,3,2,1,H,3,0
+2018/19,2018,Hapoel Hadera,HBS,1,2,-1,A,0,3
+2018/19,2018,Hapoel Hadera,HHA,2,0,2,H,3,0
+2018/19,2018,Hapoel Hadera,HRA,0,0,0,D,1,1
+2018/19,2018,Hapoel Hadera,HTA,2,1,1,H,3,0
+2018/19,2018,Hapoel Hadera,MNE,2,2,0,D,1,1
+2018/19,2018,Hapoel Hadera,IKS,1,0,1,H,3,0
+2018/19,2018,Hapoel Hadera,MHA,1,2,-1,A,0,3
+2018/19,2018,Hapoel Hadera,MPT,3,0,3,H,3,0
+2018/19,2018,Hapoel Hadera,MTA,0,2,-2,A,0,3
+2018/19,2018,Hapoel Be'er Sheva,BEI,3,1,2,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,BnS,1,1,0,D,1,1
+2018/19,2018,Hapoel Be'er Sheva,BnY,0,0,0,D,1,1
+2018/19,2018,Hapoel Be'er Sheva,ASH,1,0,1,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,HAH,2,2,0,D,1,1
+2018/19,2018,Hapoel Be'er Sheva,HHA,2,0,2,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,HRA,2,0,2,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,HTA,2,1,1,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,MNE,1,1,0,D,1,1
+2018/19,2018,Hapoel Be'er Sheva,IKS,2,1,1,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,MHA,0,2,-2,A,0,3
+2018/19,2018,Hapoel Be'er Sheva,MPT,4,1,3,H,3,0
+2018/19,2018,Hapoel Be'er Sheva,MTA,1,1,0,D,1,1
+2018/19,2018,Hapoel Haifa,BEI,2,2,0,D,1,1
+2018/19,2018,Hapoel Haifa,BnS,0,3,-3,A,0,3
+2018/19,2018,Hapoel Haifa,BnY,0,2,-2,A,0,3
+2018/19,2018,Hapoel Haifa,ASH,0,1,-1,A,0,3
+2018/19,2018,Hapoel Haifa,HAH,1,1,0,D,1,1
+2018/19,2018,Hapoel Haifa,HBS,4,4,0,D,1,1
+2018/19,2018,Hapoel Haifa,HRA,2,2,0,D,1,1
+2018/19,2018,Hapoel Haifa,HTA,1,1,0,D,1,1
+2018/19,2018,Hapoel Haifa,MNE,5,0,5,H,3,0
+2018/19,2018,Hapoel Haifa,IKS,1,1,0,D,1,1
+2018/19,2018,Hapoel Haifa,MHA,0,0,0,D,1,1
+2018/19,2018,Hapoel Haifa,MPT,4,2,2,H,3,0
+2018/19,2018,Hapoel Haifa,MTA,1,3,-2,A,0,3
+2018/19,2018,Hapoel Ra'anana,BEI,2,1,1,H,3,0
+2018/19,2018,Hapoel Ra'anana,BnS,2,1,1,H,3,0
+2018/19,2018,Hapoel Ra'anana,BnY,0,0,0,D,1,1
+2018/19,2018,Hapoel Ra'anana,ASH,1,1,0,D,1,1
+2018/19,2018,Hapoel Ra'anana,HAH,1,0,1,H,3,0
+2018/19,2018,Hapoel Ra'anana,HBS,3,1,2,H,3,0
+2018/19,2018,Hapoel Ra'anana,HHA,0,3,-3,A,0,3
+2018/19,2018,Hapoel Ra'anana,HTA,0,0,0,D,1,1
+2018/19,2018,Hapoel Ra'anana,MNE,1,2,-1,A,0,3
+2018/19,2018,Hapoel Ra'anana,IKS,2,1,1,H,3,0
+2018/19,2018,Hapoel Ra'anana,MHA,1,1,0,D,1,1
+2018/19,2018,Hapoel Ra'anana,MPT,1,0,1,H,3,0
+2018/19,2018,Hapoel Ra'anana,MTA,0,2,-2,A,0,3
+2018/19,2018,Hapoel Tel Aviv,BEI,0,3,-3,A,0,3
+2018/19,2018,Hapoel Tel Aviv,BnS,2,0,2,H,3,0
+2018/19,2018,Hapoel Tel Aviv,BnY,3,2,1,H,3,0
+2018/19,2018,Hapoel Tel Aviv,ASH,0,0,0,D,1,1
+2018/19,2018,Hapoel Tel Aviv,HAH,1,1,0,D,1,1
+2018/19,2018,Hapoel Tel Aviv,HBS,1,0,1,H,3,0
+2018/19,2018,Hapoel Tel Aviv,HHA,1,0,1,H,3,0
+2018/19,2018,Hapoel Tel Aviv,HRA,0,0,0,D,1,1
+2018/19,2018,Hapoel Tel Aviv,MNE,1,2,-1,A,0,3
+2018/19,2018,Hapoel Tel Aviv,IKS,0,0,0,D,1,1
+2018/19,2018,Hapoel Tel Aviv,MHA,1,2,-1,A,0,3
+2018/19,2018,Hapoel Tel Aviv,MPT,6,0,6,H,3,0
+2018/19,2018,Hapoel Tel Aviv,MTA,1,1,0,D,1,1
+2018/19,2018,Maccabi Netanya,BEI,3,1,2,H,3,0
+2018/19,2018,Maccabi Netanya,BnS,1,1,0,D,1,1
+2018/19,2018,Maccabi Netanya,BnY,1,3,-2,A,0,3
+2018/19,2018,Maccabi Netanya,ASH,1,0,1,H,3,0
+2018/19,2018,Maccabi Netanya,HAH,1,0,1,H,3,0
+2018/19,2018,Maccabi Netanya,HBS,1,0,1,H,3,0
+2018/19,2018,Maccabi Netanya,HHA,1,2,-1,A,0,3
+2018/19,2018,Maccabi Netanya,HRA,1,0,1,H,3,0
+2018/19,2018,Maccabi Netanya,HTA,1,1,0,D,1,1
+2018/19,2018,Maccabi Netanya,IKS,1,0,1,H,3,0
+2018/19,2018,Maccabi Netanya,MHA,0,0,0,D,1,1
+2018/19,2018,Maccabi Netanya,MPT,0,1,-1,A,0,3
+2018/19,2018,Maccabi Netanya,MTA,1,2,-1,A,0,3
+2018/19,2018,Ironi Kiryat Shmona,BEI,2,0,2,H,3,0
+2018/19,2018,Ironi Kiryat Shmona,BnS,2,2,0,D,1,1
+2018/19,2018,Ironi Kiryat Shmona,BnY,0,2,-2,A,0,3
+2018/19,2018,Ironi Kiryat Shmona,ASH,0,0,0,D,1,1
+2018/19,2018,Ironi Kiryat Shmona,HAH,3,1,2,H,3,0
+2018/19,2018,Ironi Kiryat Shmona,HBS,1,1,0,D,1,1
+2018/19,2018,Ironi Kiryat Shmona,HHA,1,1,0,D,1,1
+2018/19,2018,Ironi Kiryat Shmona,HRA,1,1,0,D,1,1
+2018/19,2018,Ironi Kiryat Shmona,HTA,1,0,1,H,3,0
+2018/19,2018,Ironi Kiryat Shmona,MNE,1,0,1,H,3,0
+2018/19,2018,Ironi Kiryat Shmona,MHA,2,3,-1,A,0,3
+2018/19,2018,Ironi Kiryat Shmona,MPT,0,2,-2,A,0,3
+2018/19,2018,Ironi Kiryat Shmona,MTA,1,2,-1,A,0,3
+2018/19,2018,Maccabi Haifa,BEI,1,2,-1,A,0,3
+2018/19,2018,Maccabi Haifa,BnS,2,0,2,H,3,0
+2018/19,2018,Maccabi Haifa,BnY,1,0,1,H,3,0
+2018/19,2018,Maccabi Haifa,ASH,2,0,2,H,3,0
+2018/19,2018,Maccabi Haifa,HAH,3,1,2,H,3,0
+2018/19,2018,Maccabi Haifa,HBS,0,0,0,D,1,1
+2018/19,2018,Maccabi Haifa,HHA,1,3,-2,A,0,3
+2018/19,2018,Maccabi Haifa,HRA,0,0,0,D,1,1
+2018/19,2018,Maccabi Haifa,HTA,3,2,1,H,3,0
+2018/19,2018,Maccabi Haifa,MNE,0,2,-2,A,0,3
+2018/19,2018,Maccabi Haifa,IKS,2,2,0,D,1,1
+2018/19,2018,Maccabi Haifa,MPT,1,2,-1,A,0,3
+2018/19,2018,Maccabi Haifa,MTA,1,3,-2,A,0,3
+2018/19,2018,Maccabi Petah Tikva,BEI,4,1,3,H,3,0
+2018/19,2018,Maccabi Petah Tikva,BnS,0,0,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,BnY,1,1,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,ASH,2,0,2,H,3,0
+2018/19,2018,Maccabi Petah Tikva,HAH,1,1,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,HBS,1,3,-2,A,0,3
+2018/19,2018,Maccabi Petah Tikva,HHA,1,1,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,HRA,1,1,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,HTA,0,0,0,D,1,1
+2018/19,2018,Maccabi Petah Tikva,MNE,1,4,-3,A,0,3
+2018/19,2018,Maccabi Petah Tikva,IKS,0,1,-1,A,0,3
+2018/19,2018,Maccabi Petah Tikva,MHA,1,2,-1,A,0,3
+2018/19,2018,Maccabi Petah Tikva,MTA,1,1,0,D,1,1
+2018/19,2018,Maccabi Tel Aviv,BEI,1,0,1,H,3,0
+2018/19,2018,Maccabi Tel Aviv,BnS,3,0,3,H,3,0
+2018/19,2018,Maccabi Tel Aviv,BnY,2,1,1,H,3,0
+2018/19,2018,Maccabi Tel Aviv,ASH,4,0,4,H,3,0
+2018/19,2018,Maccabi Tel Aviv,HAH,4,0,4,H,3,0
+2018/19,2018,Maccabi Tel Aviv,HBS,3,0,3,H,3,0
+2018/19,2018,Maccabi Tel Aviv,HHA,1,1,0,D,1,1
+2018/19,2018,Maccabi Tel Aviv,HRA,4,1,3,H,3,0
+2018/19,2018,Maccabi Tel Aviv,HTA,0,0,0,D,1,1
+2018/19,2018,Maccabi Tel Aviv,MNE,4,1,3,H,3,0
+2018/19,2018,Maccabi Tel Aviv,IKS,3,0,3,H,3,0
+2018/19,2018,Maccabi Tel Aviv,MHA,2,0,2,H,3,0
+2018/19,2018,Maccabi Tel Aviv,MPT,2,0,2,H,3,0

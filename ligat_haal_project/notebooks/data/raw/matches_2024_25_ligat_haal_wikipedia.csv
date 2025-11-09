@@ -1,0 +1,180 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2024/25,2024,Hapoel Be'er Sheva,MTA,2,2,0,D,1,1
+2024/25,2024,Hapoel Be'er Sheva,MHA,3,3,0,D,1,1
+2024/25,2024,Hapoel Be'er Sheva,BEI,4,1,3,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,HHA,3,0,3,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,MNE,1,0,1,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,IKS,5,1,4,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,MBR,1,1,0,D,1,1
+2024/25,2024,Hapoel Be'er Sheva,HJE,3,1,2,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,ITI,4,0,4,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,MPT,1,0,1,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,ASH,3,1,2,H,3,0
+2024/25,2024,Hapoel Be'er Sheva,HAH,2,1,1,H,3,0
+2024/25,2024,Maccabi Tel Aviv,HBS,1,0,1,H,3,0
+2024/25,2024,Maccabi Tel Aviv,MHA,2,0,2,H,3,0
+2024/25,2024,Maccabi Tel Aviv,BEI,1,1,0,D,1,1
+2024/25,2024,Maccabi Tel Aviv,HHA,2,0,2,H,3,0
+2024/25,2024,Maccabi Tel Aviv,MNE,4,1,3,H,3,0
+2024/25,2024,Maccabi Tel Aviv,IKS,0,1,-1,A,0,3
+2024/25,2024,Maccabi Tel Aviv,MBR,0,1,-1,A,0,3
+2024/25,2024,Maccabi Tel Aviv,HJE,2,1,1,H,3,0
+2024/25,2024,Maccabi Tel Aviv,ITI,1,1,0,D,1,1
+2024/25,2024,Maccabi Tel Aviv,MPT,3,2,1,H,3,0
+2024/25,2024,Maccabi Tel Aviv,BnS,3,1,2,H,3,0
+2024/25,2024,Maccabi Tel Aviv,ASH,5,1,4,H,3,0
+2024/25,2024,Maccabi Tel Aviv,HAH,2,2,0,D,1,1
+2024/25,2024,Maccabi Haifa,HBS,0,2,-2,A,0,3
+2024/25,2024,Maccabi Haifa,BEI,1,3,-2,A,0,3
+2024/25,2024,Maccabi Haifa,HHA,1,1,0,D,1,1
+2024/25,2024,Maccabi Haifa,MNE,2,1,1,H,3,0
+2024/25,2024,Maccabi Haifa,IKS,4,1,3,H,3,0
+2024/25,2024,Maccabi Haifa,MBR,2,0,2,H,3,0
+2024/25,2024,Maccabi Haifa,HJE,3,3,0,D,1,1
+2024/25,2024,Maccabi Haifa,ITI,4,0,4,H,3,0
+2024/25,2024,Maccabi Haifa,MPT,1,0,1,H,3,0
+2024/25,2024,Maccabi Haifa,BnS,3,0,3,H,3,0
+2024/25,2024,Maccabi Haifa,ASH,1,2,-1,A,0,3
+2024/25,2024,Maccabi Haifa,HAH,4,2,2,H,3,0
+2024/25,2024,Beitar Jerusalem,HBS,1,1,0,D,1,1
+2024/25,2024,Beitar Jerusalem,MTA,3,1,2,H,3,0
+2024/25,2024,Beitar Jerusalem,MHA,3,2,1,H,3,0
+2024/25,2024,Beitar Jerusalem,HHA,1,0,1,H,3,0
+2024/25,2024,Beitar Jerusalem,MNE,2,0,2,H,3,0
+2024/25,2024,Beitar Jerusalem,IKS,1,1,0,D,1,1
+2024/25,2024,Beitar Jerusalem,MBR,1,4,-3,A,0,3
+2024/25,2024,Beitar Jerusalem,HJE,1,1,0,D,1,1
+2024/25,2024,Beitar Jerusalem,ITI,1,1,0,D,1,1
+2024/25,2024,Beitar Jerusalem,MPT,5,0,5,H,3,0
+2024/25,2024,Beitar Jerusalem,BnS,1,0,1,H,3,0
+2024/25,2024,Beitar Jerusalem,ASH,3,2,1,H,3,0
+2024/25,2024,Beitar Jerusalem,HAH,0,0,0,D,1,1
+2024/25,2024,Hapoel Haifa,HBS,0,1,-1,A,0,3
+2024/25,2024,Hapoel Haifa,MTA,1,1,0,D,1,1
+2024/25,2024,Hapoel Haifa,MHA,1,4,-3,A,0,3
+2024/25,2024,Hapoel Haifa,BEI,3,2,1,H,3,0
+2024/25,2024,Hapoel Haifa,MNE,1,3,-2,A,0,3
+2024/25,2024,Hapoel Haifa,IKS,4,3,1,H,3,0
+2024/25,2024,Hapoel Haifa,MBR,1,3,-2,A,0,3
+2024/25,2024,Hapoel Haifa,HJE,4,0,4,H,3,0
+2024/25,2024,Hapoel Haifa,ITI,1,0,1,H,3,0
+2024/25,2024,Hapoel Haifa,MPT,5,1,4,H,3,0
+2024/25,2024,Hapoel Haifa,BnS,2,1,1,H,3,0
+2024/25,2024,Hapoel Haifa,ASH,2,1,1,H,3,0
+2024/25,2024,Hapoel Haifa,HAH,3,0,3,H,3,0
+2024/25,2024,Maccabi Netanya,HBS,1,2,-1,A,0,3
+2024/25,2024,Maccabi Netanya,MTA,1,2,-1,A,0,3
+2024/25,2024,Maccabi Netanya,MHA,0,2,-2,A,0,3
+2024/25,2024,Maccabi Netanya,BEI,3,0,3,H,3,0
+2024/25,2024,Maccabi Netanya,HHA,0,3,-3,A,0,3
+2024/25,2024,Maccabi Netanya,IKS,2,0,2,H,3,0
+2024/25,2024,Maccabi Netanya,MBR,2,0,2,H,3,0
+2024/25,2024,Maccabi Netanya,HJE,2,1,1,H,3,0
+2024/25,2024,Maccabi Netanya,ITI,1,1,0,D,1,1
+2024/25,2024,Maccabi Netanya,MPT,1,2,-1,A,0,3
+2024/25,2024,Maccabi Netanya,BnS,4,0,4,H,3,0
+2024/25,2024,Maccabi Netanya,ASH,2,2,0,D,1,1
+2024/25,2024,Maccabi Netanya,HAH,2,1,1,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,HBS,0,1,-1,A,0,3
+2024/25,2024,Ironi Kiryat Shmona,MTA,1,2,-1,A,0,3
+2024/25,2024,Ironi Kiryat Shmona,MHA,0,4,-4,A,0,3
+2024/25,2024,Ironi Kiryat Shmona,BEI,0,3,-3,A,0,3
+2024/25,2024,Ironi Kiryat Shmona,HHA,2,1,1,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,MNE,0,1,-1,A,0,3
+2024/25,2024,Ironi Kiryat Shmona,MBR,0,0,0,D,1,1
+2024/25,2024,Ironi Kiryat Shmona,HJE,2,0,2,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,ITI,2,0,2,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,MPT,2,0,2,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,BnS,2,1,1,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,ASH,3,2,1,H,3,0
+2024/25,2024,Ironi Kiryat Shmona,HAH,1,1,0,D,1,1
+2024/25,2024,Maccabi Bnei Reineh,HBS,1,0,1,H,3,0
+2024/25,2024,Maccabi Bnei Reineh,MTA,1,2,-1,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,MHA,2,2,0,D,1,1
+2024/25,2024,Maccabi Bnei Reineh,BEI,0,2,-2,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,HHA,0,2,-2,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,MNE,4,3,1,H,3,0
+2024/25,2024,Maccabi Bnei Reineh,IKS,1,0,1,H,3,0
+2024/25,2024,Maccabi Bnei Reineh,HJE,0,0,0,D,1,1
+2024/25,2024,Maccabi Bnei Reineh,ITI,1,0,1,H,3,0
+2024/25,2024,Maccabi Bnei Reineh,MPT,1,2,-1,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,BnS,0,1,-1,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,ASH,1,4,-3,A,0,3
+2024/25,2024,Maccabi Bnei Reineh,HAH,1,2,-1,A,0,3
+2024/25,2024,Hapoel Jerusalem,HBS,0,2,-2,A,0,3
+2024/25,2024,Hapoel Jerusalem,MTA,2,3,-1,A,0,3
+2024/25,2024,Hapoel Jerusalem,MHA,0,0,0,D,1,1
+2024/25,2024,Hapoel Jerusalem,BEI,3,3,0,D,1,1
+2024/25,2024,Hapoel Jerusalem,HHA,1,0,1,H,3,0
+2024/25,2024,Hapoel Jerusalem,MNE,2,3,-1,A,0,3
+2024/25,2024,Hapoel Jerusalem,IKS,0,0,0,D,1,1
+2024/25,2024,Hapoel Jerusalem,MBR,0,1,-1,A,0,3
+2024/25,2024,Hapoel Jerusalem,ITI,4,0,4,H,3,0
+2024/25,2024,Hapoel Jerusalem,MPT,4,1,3,H,3,0
+2024/25,2024,Hapoel Jerusalem,BnS,1,0,1,H,3,0
+2024/25,2024,Hapoel Jerusalem,ASH,1,0,1,H,3,0
+2024/25,2024,Hapoel Jerusalem,HAH,1,1,0,D,1,1
+2024/25,2024,Ironi Tiberias,HBS,0,2,-2,A,0,3
+2024/25,2024,Ironi Tiberias,MTA,2,2,0,D,1,1
+2024/25,2024,Ironi Tiberias,MHA,0,0,0,D,1,1
+2024/25,2024,Ironi Tiberias,BEI,1,0,1,H,3,0
+2024/25,2024,Ironi Tiberias,HHA,1,1,0,D,1,1
+2024/25,2024,Ironi Tiberias,MNE,2,3,-1,A,0,3
+2024/25,2024,Ironi Tiberias,IKS,3,1,2,H,3,0
+2024/25,2024,Ironi Tiberias,MBR,1,0,1,H,3,0
+2024/25,2024,Ironi Tiberias,HJE,0,2,-2,A,0,3
+2024/25,2024,Ironi Tiberias,MPT,1,2,-1,A,0,3
+2024/25,2024,Ironi Tiberias,BnS,1,0,1,H,3,0
+2024/25,2024,Ironi Tiberias,ASH,2,1,1,H,3,0
+2024/25,2024,Ironi Tiberias,HAH,1,1,0,D,1,1
+2024/25,2024,Maccabi Petah Tikva,HBS,2,5,-3,A,0,3
+2024/25,2024,Maccabi Petah Tikva,MTA,0,3,-3,A,0,3
+2024/25,2024,Maccabi Petah Tikva,MHA,1,2,-1,A,0,3
+2024/25,2024,Maccabi Petah Tikva,BEI,1,2,-1,A,0,3
+2024/25,2024,Maccabi Petah Tikva,HHA,0,0,0,D,1,1
+2024/25,2024,Maccabi Petah Tikva,MNE,0,1,-1,A,0,3
+2024/25,2024,Maccabi Petah Tikva,IKS,0,1,-1,A,0,3
+2024/25,2024,Maccabi Petah Tikva,MBR,2,1,1,H,3,0
+2024/25,2024,Maccabi Petah Tikva,HJE,2,0,2,H,3,0
+2024/25,2024,Maccabi Petah Tikva,ITI,0,0,0,D,1,1
+2024/25,2024,Maccabi Petah Tikva,BnS,1,1,0,D,1,1
+2024/25,2024,Maccabi Petah Tikva,ASH,2,2,0,D,1,1
+2024/25,2024,Maccabi Petah Tikva,HAH,0,0,0,D,1,1
+2024/25,2024,Bnei Sakhnin,HBS,0,0,0,D,1,1
+2024/25,2024,Bnei Sakhnin,MTA,0,4,-4,A,0,3
+2024/25,2024,Bnei Sakhnin,BEI,2,1,1,H,3,0
+2024/25,2024,Bnei Sakhnin,HHA,0,2,-2,A,0,3
+2024/25,2024,Bnei Sakhnin,MNE,1,0,1,H,3,0
+2024/25,2024,Bnei Sakhnin,IKS,0,1,-1,A,0,3
+2024/25,2024,Bnei Sakhnin,MBR,2,0,2,H,3,0
+2024/25,2024,Bnei Sakhnin,HJE,0,2,-2,A,0,3
+2024/25,2024,Bnei Sakhnin,ITI,0,0,0,D,1,1
+2024/25,2024,Bnei Sakhnin,MPT,2,0,2,H,3,0
+2024/25,2024,Bnei Sakhnin,ASH,2,2,0,D,1,1
+2024/25,2024,Bnei Sakhnin,HAH,0,1,-1,A,0,3
+2024/25,2024,F.C. Ashdod,HBS,0,2,-2,A,0,3
+2024/25,2024,F.C. Ashdod,MTA,0,2,-2,A,0,3
+2024/25,2024,F.C. Ashdod,MHA,1,3,-2,A,0,3
+2024/25,2024,F.C. Ashdod,BEI,2,3,-1,A,0,3
+2024/25,2024,F.C. Ashdod,HHA,0,1,-1,A,0,3
+2024/25,2024,F.C. Ashdod,MNE,0,0,0,D,1,1
+2024/25,2024,F.C. Ashdod,IKS,2,1,1,H,3,0
+2024/25,2024,F.C. Ashdod,MBR,1,2,-1,A,0,3
+2024/25,2024,F.C. Ashdod,HJE,1,1,0,D,1,1
+2024/25,2024,F.C. Ashdod,ITI,1,0,1,H,3,0
+2024/25,2024,F.C. Ashdod,MPT,0,0,0,D,1,1
+2024/25,2024,F.C. Ashdod,BnS,3,5,-2,A,0,3
+2024/25,2024,F.C. Ashdod,HAH,1,1,0,D,1,1
+2024/25,2024,Hapoel Hadera,HBS,1,2,-1,A,0,3
+2024/25,2024,Hapoel Hadera,MTA,2,3,-1,A,0,3
+2024/25,2024,Hapoel Hadera,MHA,1,3,-2,A,0,3
+2024/25,2024,Hapoel Hadera,BEI,0,4,-4,A,0,3
+2024/25,2024,Hapoel Hadera,HHA,0,0,0,D,1,1
+2024/25,2024,Hapoel Hadera,MNE,2,2,0,D,1,1
+2024/25,2024,Hapoel Hadera,IKS,0,2,-2,A,0,3
+2024/25,2024,Hapoel Hadera,MBR,2,1,1,H,3,0
+2024/25,2024,Hapoel Hadera,HJE,1,1,0,D,1,1
+2024/25,2024,Hapoel Hadera,ITI,1,2,-1,A,0,3
+2024/25,2024,Hapoel Hadera,MPT,0,1,-1,A,0,3
+2024/25,2024,Hapoel Hadera,BnS,0,0,0,D,1,1
+2024/25,2024,Hapoel Hadera,ASH,0,3,-3,A,0,3
