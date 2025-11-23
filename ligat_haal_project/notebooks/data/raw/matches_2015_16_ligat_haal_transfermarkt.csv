@@ -1,183 +1,183 @@
-round,home,score,away
-1,M. Tel Aviv,3:2,Bnei Sakhnin
-2,Hapoel Raanana,2:2,H. Kfar Saba
-3,M. Petah Tikva,1:0,Maccabi Netanya
-4,Hapoel Acre,0:1,Hapoel Haifa
-5,Maccabi Haifa,0:3,Bnei Yehuda
-6,Kiryat Shmona,1:3,H. Beer Sheva
-7,B. Jerusalem,0:0,Hapoel Tel Aviv
-8,H. Kfar Saba,1:0,Maccabi Haifa
-9,Hapoel Haifa,0:3,M. Petah Tikva
-10,Bnei Sakhnin,2:3,Hapoel Raanana
-11,Hapoel Tel Aviv,0:3,Kiryat Shmona
-12,Maccabi Netanya,0:0,B. Jerusalem
-13,H. Beer Sheva,0:1,M. Tel Aviv
-14,Bnei Yehuda,0:2,Hapoel Acre
-15,Hapoel Tel Aviv,1:1,Maccabi Netanya
-16,M. Petah Tikva,3:1,Bnei Yehuda
-17,Maccabi Haifa,0:0,Bnei Sakhnin
-18,Hapoel Raanana,2:3,H. Beer Sheva
-19,Hapoel Acre,1:0,H. Kfar Saba
-20,B. Jerusalem,1:1,Hapoel Haifa
-21,Kiryat Shmona,1:1,M. Tel Aviv
-22,Hapoel Haifa,0:1,Hapoel Tel Aviv
-23,H. Kfar Saba,0:1,M. Petah Tikva
-24,Bnei Sakhnin,2:0,Hapoel Acre
-25,Maccabi Netanya,1:1,Kiryat Shmona
-26,Bnei Yehuda,2:1,B. Jerusalem
-27,M. Tel Aviv,1:2,Hapoel Raanana
-28,H. Beer Sheva,0:0,Maccabi Haifa
-29,Kiryat Shmona,0:0,Hapoel Raanana
-30,Hapoel Acre,1:0,H. Beer Sheva
-31,M. Petah Tikva,0:1,Bnei Sakhnin
-32,Maccabi Netanya,1:2,Hapoel Haifa
-33,Maccabi Haifa,0:2,M. Tel Aviv
-34,Hapoel Tel Aviv,3:1,Bnei Yehuda
-35,B. Jerusalem,3:1,H. Kfar Saba
-36,Bnei Yehuda,1:2,Maccabi Netanya
-37,H. Kfar Saba,1:1,Hapoel Tel Aviv
-38,Hapoel Raanana,0:2,Maccabi Haifa
-39,Hapoel Haifa,1:4,Kiryat Shmona
-40,M. Tel Aviv,5:0,Hapoel Acre
-41,H. Beer Sheva,5:2,M. Petah Tikva
-42,Bnei Sakhnin,1:3,B. Jerusalem
-43,Hapoel Tel Aviv,0:4,Bnei Sakhnin
-44,Hapoel Haifa,0:1,Bnei Yehuda
-45,Hapoel Acre,0:1,Hapoel Raanana
-46,Maccabi Netanya,0:1,H. Kfar Saba
-47,M. Petah Tikva,1:2,M. Tel Aviv
-48,Kiryat Shmona,2:0,Maccabi Haifa
-49,B. Jerusalem,1:3,H. Beer Sheva
-50,Bnei Sakhnin,0:0,Maccabi Netanya
-51,M. Petah Tikva,0:2,Hapoel Raanana
-52,H. Kfar Saba,2:2,Hapoel Haifa
-53,Bnei Yehuda,2:2,Kiryat Shmona
-54,Maccabi Haifa,4:0,Hapoel Acre
-55,H. Beer Sheva,3:1,Hapoel Tel Aviv
-56,M. Tel Aviv,2:4,B. Jerusalem
-57,Kiryat Shmona,0:0,Hapoel Acre
-58,Hapoel Tel Aviv,0:1,M. Tel Aviv
-59,Hapoel Haifa,2:0,Bnei Sakhnin
-60,M. Petah Tikva,1:1,Maccabi Haifa
-61,Bnei Yehuda,2:1,H. Kfar Saba
-62,Maccabi Netanya,0:2,H. Beer Sheva
-63,B. Jerusalem,1:0,Hapoel Raanana
-64,Hapoel Raanana,0:1,Hapoel Tel Aviv
-65,Bnei Sakhnin,2:2,Bnei Yehuda
-66,H. Kfar Saba,0:0,Kiryat Shmona
-67,Hapoel Acre,1:0,M. Petah Tikva
-68,M. Tel Aviv,2:1,Maccabi Netanya
-69,Maccabi Haifa,0:2,B. Jerusalem
-70,H. Beer Sheva,1:0,Hapoel Haifa
-71,Hapoel Haifa,0:3,M. Tel Aviv
-72,Kiryat Shmona,0:1,M. Petah Tikva
-73,H. Kfar Saba,1:0,Bnei Sakhnin
-74,Maccabi Netanya,1:3,Hapoel Raanana
-75,Bnei Yehuda,0:0,H. Beer Sheva
-76,B. Jerusalem,1:0,Hapoel Acre
-77,Hapoel Tel Aviv,0:3,Maccabi Haifa
-78,Maccabi Haifa,1:0,Maccabi Netanya
-79,Kiryat Shmona,0:2,Bnei Sakhnin
-80,Hapoel Raanana,2:2,Hapoel Haifa
-81,M. Petah Tikva,2:0,B. Jerusalem
-82,H. Beer Sheva,3:0,H. Kfar Saba
-83,M. Tel Aviv,4:0,Bnei Yehuda
-84,Hapoel Acre,0:1,Hapoel Tel Aviv
-85,Hapoel Tel Aviv,0:1,M. Petah Tikva
-86,Bnei Sakhnin,0:1,H. Beer Sheva
-87,Maccabi Netanya,0:0,Hapoel Acre
-88,Bnei Yehuda,1:3,Hapoel Raanana
-89,H. Kfar Saba,0:0,M. Tel Aviv
-90,B. Jerusalem,2:0,Kiryat Shmona
-91,Hapoel Haifa,2:4,Maccabi Haifa
-92,Bnei Yehuda,0:0,Maccabi Haifa
-93,Hapoel Haifa,3:1,Hapoel Acre
-94,H. Kfar Saba,0:0,Hapoel Raanana
-95,Maccabi Netanya,0:0,M. Petah Tikva
-96,Hapoel Tel Aviv,0:0,B. Jerusalem
-97,H. Beer Sheva,2:1,Kiryat Shmona
-98,Bnei Sakhnin,0:2,M. Tel Aviv
-99,Hapoel Raanana,1:0,Bnei Sakhnin
-100,M. Petah Tikva,1:1,Hapoel Haifa
-101,Kiryat Shmona,3:0,Hapoel Tel Aviv
-102,Hapoel Acre,0:1,Bnei Yehuda
-103,B. Jerusalem,1:0,Maccabi Netanya
-104,Maccabi Haifa,1:1,H. Kfar Saba
-105,M. Tel Aviv,1:2,H. Beer Sheva
-106,Bnei Sakhnin,1:2,Maccabi Haifa
-107,H. Kfar Saba,0:1,Hapoel Acre
-108,Bnei Yehuda,1:1,M. Petah Tikva
-109,Maccabi Netanya,1:1,Hapoel Tel Aviv
-110,Hapoel Haifa,1:1,B. Jerusalem
-111,M. Tel Aviv,5:0,Kiryat Shmona
-112,H. Beer Sheva,2:0,Hapoel Raanana
-113,Hapoel Raanana,0:2,M. Tel Aviv
-114,Kiryat Shmona,3:0,Maccabi Netanya
-115,M. Petah Tikva,2:0,H. Kfar Saba
-116,Hapoel Acre,2:2,Bnei Sakhnin
-117,B. Jerusalem,1:0,Bnei Yehuda
-118,Hapoel Tel Aviv,0:0,Hapoel Haifa
-119,Maccabi Haifa,1:1,H. Beer Sheva
-120,Bnei Yehuda,1:3,Hapoel Tel Aviv
-121,Hapoel Raanana,1:1,Kiryat Shmona
-122,Hapoel Haifa,2:0,Maccabi Netanya
-123,Bnei Sakhnin,1:0,M. Petah Tikva
-124,H. Beer Sheva,3:0,Hapoel Acre
-125,H. Kfar Saba,1:0,B. Jerusalem
-126,M. Tel Aviv,2:1,Maccabi Haifa
-127,Hapoel Tel Aviv,0:1,H. Kfar Saba
-128,Kiryat Shmona,1:1,Hapoel Haifa
-129,Maccabi Netanya,0:2,Bnei Yehuda
-130,M. Petah Tikva,0:1,H. Beer Sheva
-131,Maccabi Haifa,2:0,Hapoel Raanana
-132,Hapoel Acre,0:3,M. Tel Aviv
-133,B. Jerusalem,1:0,Bnei Sakhnin
-134,Bnei Yehuda,1:0,Hapoel Haifa
-135,Bnei Sakhnin,1:0,Hapoel Tel Aviv
-136,Hapoel Raanana,3:1,Hapoel Acre
-137,H. Kfar Saba,1:0,Maccabi Netanya
-138,M. Tel Aviv,3:1,M. Petah Tikva
-139,Maccabi Haifa,0:1,Kiryat Shmona
-140,H. Beer Sheva,2:1,B. Jerusalem
-141,Maccabi Netanya,0:2,Bnei Sakhnin
-142,Hapoel Haifa,1:1,H. Kfar Saba
-143,Kiryat Shmona,1:1,Bnei Yehuda
-144,Hapoel Tel Aviv,0:1,H. Beer Sheva
-145,Hapoel Raanana,1:0,M. Petah Tikva
-146,Hapoel Acre,1:1,Maccabi Haifa
-147,B. Jerusalem,2:2,M. Tel Aviv
-148,Maccabi Haifa,4:0,M. Petah Tikva
-149,H. Kfar Saba,1:2,Bnei Yehuda
-150,Bnei Sakhnin,0:0,Hapoel Haifa
-151,Hapoel Acre,1:0,Kiryat Shmona
-152,H. Beer Sheva,2:0,Maccabi Netanya
-153,M. Tel Aviv,1:1,Hapoel Tel Aviv
-154,Hapoel Raanana,0:2,B. Jerusalem
-155,Bnei Yehuda,0:2,Bnei Sakhnin
-156,Hapoel Haifa,1:2,H. Beer Sheva
-157,Kiryat Shmona,0:2,H. Kfar Saba
-158,M. Petah Tikva,1:2,Hapoel Acre
-159,Hapoel Tel Aviv,2:1,Hapoel Raanana
-160,Maccabi Netanya,1:3,M. Tel Aviv
-161,B. Jerusalem,3:0,Maccabi Haifa
-162,Hapoel Raanana,1:0,Maccabi Netanya
-163,M. Tel Aviv,2:1,Hapoel Haifa
-164,Bnei Sakhnin,2:0,H. Kfar Saba
-165,M. Petah Tikva,0:0,Kiryat Shmona
-166,Maccabi Haifa,0:0,Hapoel Tel Aviv
-167,Hapoel Acre,1:3,B. Jerusalem
-168,H. Beer Sheva,2:0,Bnei Yehuda
-169,Hapoel Haifa,1:1,Hapoel Raanana
-170,Maccabi Netanya,0:3,Maccabi Haifa
-171,Bnei Sakhnin,3:0,Kiryat Shmona
-172,Bnei Yehuda,0:1,M. Tel Aviv
-173,B. Jerusalem,2:0,M. Petah Tikva
-174,H. Kfar Saba,1:2,H. Beer Sheva
-175,Hapoel Tel Aviv,0:2,Hapoel Acre
-176,M. Petah Tikva,1:1,Hapoel Tel Aviv
-177,Hapoel Raanana,0:2,Bnei Yehuda
-178,Hapoel Acre,1:1,Maccabi Netanya
-179,Kiryat Shmona,0:2,B. Jerusalem
-180,M. Tel Aviv,5:0,H. Kfar Saba
-181,Maccabi Haifa,3:2,Hapoel Haifa
-182,H. Beer Sheva,2:2,Bnei Sakhnin
+﻿round,home,score,away,season,season_year
+1,M. Tel Aviv,3:2,Bnei Sakhnin,2015/16,2015
+2,Hapoel Raanana,2:2,H. Kfar Saba,2015/16,2015
+3,M. Petah Tikva,1:0,Maccabi Netanya,2015/16,2015
+4,Hapoel Acre,0:1,Hapoel Haifa,2015/16,2015
+5,Maccabi Haifa,0:3,Bnei Yehuda,2015/16,2015
+6,Kiryat Shmona,1:3,H. Beer Sheva,2015/16,2015
+7,B. Jerusalem,0:0,Hapoel Tel Aviv,2015/16,2015
+8,H. Kfar Saba,1:0,Maccabi Haifa,2015/16,2015
+9,Hapoel Haifa,0:3,M. Petah Tikva,2015/16,2015
+10,Bnei Sakhnin,2:3,Hapoel Raanana,2015/16,2015
+11,Hapoel Tel Aviv,0:3,Kiryat Shmona,2015/16,2015
+12,Maccabi Netanya,0:0,B. Jerusalem,2015/16,2015
+13,H. Beer Sheva,0:1,M. Tel Aviv,2015/16,2015
+14,Bnei Yehuda,0:2,Hapoel Acre,2015/16,2015
+15,Hapoel Tel Aviv,1:1,Maccabi Netanya,2015/16,2015
+16,M. Petah Tikva,3:1,Bnei Yehuda,2015/16,2015
+17,Maccabi Haifa,0:0,Bnei Sakhnin,2015/16,2015
+18,Hapoel Raanana,2:3,H. Beer Sheva,2015/16,2015
+19,Hapoel Acre,1:0,H. Kfar Saba,2015/16,2015
+20,B. Jerusalem,1:1,Hapoel Haifa,2015/16,2015
+21,Kiryat Shmona,1:1,M. Tel Aviv,2015/16,2015
+22,Hapoel Haifa,0:1,Hapoel Tel Aviv,2015/16,2015
+23,H. Kfar Saba,0:1,M. Petah Tikva,2015/16,2015
+24,Bnei Sakhnin,2:0,Hapoel Acre,2015/16,2015
+25,Maccabi Netanya,1:1,Kiryat Shmona,2015/16,2015
+26,Bnei Yehuda,2:1,B. Jerusalem,2015/16,2015
+27,M. Tel Aviv,1:2,Hapoel Raanana,2015/16,2015
+28,H. Beer Sheva,0:0,Maccabi Haifa,2015/16,2015
+29,Kiryat Shmona,0:0,Hapoel Raanana,2015/16,2015
+30,Hapoel Acre,1:0,H. Beer Sheva,2015/16,2015
+31,M. Petah Tikva,0:1,Bnei Sakhnin,2015/16,2015
+32,Maccabi Netanya,1:2,Hapoel Haifa,2015/16,2015
+33,Maccabi Haifa,0:2,M. Tel Aviv,2015/16,2015
+34,Hapoel Tel Aviv,3:1,Bnei Yehuda,2015/16,2015
+35,B. Jerusalem,3:1,H. Kfar Saba,2015/16,2015
+36,Bnei Yehuda,1:2,Maccabi Netanya,2015/16,2015
+37,H. Kfar Saba,1:1,Hapoel Tel Aviv,2015/16,2015
+38,Hapoel Raanana,0:2,Maccabi Haifa,2015/16,2015
+39,Hapoel Haifa,1:4,Kiryat Shmona,2015/16,2015
+40,M. Tel Aviv,5:0,Hapoel Acre,2015/16,2015
+41,H. Beer Sheva,5:2,M. Petah Tikva,2015/16,2015
+42,Bnei Sakhnin,1:3,B. Jerusalem,2015/16,2015
+43,Hapoel Tel Aviv,0:4,Bnei Sakhnin,2015/16,2015
+44,Hapoel Haifa,0:1,Bnei Yehuda,2015/16,2015
+45,Hapoel Acre,0:1,Hapoel Raanana,2015/16,2015
+46,Maccabi Netanya,0:1,H. Kfar Saba,2015/16,2015
+47,M. Petah Tikva,1:2,M. Tel Aviv,2015/16,2015
+48,Kiryat Shmona,2:0,Maccabi Haifa,2015/16,2015
+49,B. Jerusalem,1:3,H. Beer Sheva,2015/16,2015
+50,Bnei Sakhnin,0:0,Maccabi Netanya,2015/16,2015
+51,M. Petah Tikva,0:2,Hapoel Raanana,2015/16,2015
+52,H. Kfar Saba,2:2,Hapoel Haifa,2015/16,2015
+53,Bnei Yehuda,2:2,Kiryat Shmona,2015/16,2015
+54,Maccabi Haifa,4:0,Hapoel Acre,2015/16,2015
+55,H. Beer Sheva,3:1,Hapoel Tel Aviv,2015/16,2015
+56,M. Tel Aviv,2:4,B. Jerusalem,2015/16,2015
+57,Kiryat Shmona,0:0,Hapoel Acre,2015/16,2015
+58,Hapoel Tel Aviv,0:1,M. Tel Aviv,2015/16,2015
+59,Hapoel Haifa,2:0,Bnei Sakhnin,2015/16,2015
+60,M. Petah Tikva,1:1,Maccabi Haifa,2015/16,2015
+61,Bnei Yehuda,2:1,H. Kfar Saba,2015/16,2015
+62,Maccabi Netanya,0:2,H. Beer Sheva,2015/16,2015
+63,B. Jerusalem,1:0,Hapoel Raanana,2015/16,2015
+64,Hapoel Raanana,0:1,Hapoel Tel Aviv,2015/16,2015
+65,Bnei Sakhnin,2:2,Bnei Yehuda,2015/16,2015
+66,H. Kfar Saba,0:0,Kiryat Shmona,2015/16,2015
+67,Hapoel Acre,1:0,M. Petah Tikva,2015/16,2015
+68,M. Tel Aviv,2:1,Maccabi Netanya,2015/16,2015
+69,Maccabi Haifa,0:2,B. Jerusalem,2015/16,2015
+70,H. Beer Sheva,1:0,Hapoel Haifa,2015/16,2015
+71,Hapoel Haifa,0:3,M. Tel Aviv,2015/16,2015
+72,Kiryat Shmona,0:1,M. Petah Tikva,2015/16,2015
+73,H. Kfar Saba,1:0,Bnei Sakhnin,2015/16,2015
+74,Maccabi Netanya,1:3,Hapoel Raanana,2015/16,2015
+75,Bnei Yehuda,0:0,H. Beer Sheva,2015/16,2015
+76,B. Jerusalem,1:0,Hapoel Acre,2015/16,2015
+77,Hapoel Tel Aviv,0:3,Maccabi Haifa,2015/16,2015
+78,Maccabi Haifa,1:0,Maccabi Netanya,2015/16,2015
+79,Kiryat Shmona,0:2,Bnei Sakhnin,2015/16,2015
+80,Hapoel Raanana,2:2,Hapoel Haifa,2015/16,2015
+81,M. Petah Tikva,2:0,B. Jerusalem,2015/16,2015
+82,H. Beer Sheva,3:0,H. Kfar Saba,2015/16,2015
+83,M. Tel Aviv,4:0,Bnei Yehuda,2015/16,2015
+84,Hapoel Acre,0:1,Hapoel Tel Aviv,2015/16,2015
+85,Hapoel Tel Aviv,0:1,M. Petah Tikva,2015/16,2015
+86,Bnei Sakhnin,0:1,H. Beer Sheva,2015/16,2015
+87,Maccabi Netanya,0:0,Hapoel Acre,2015/16,2015
+88,Bnei Yehuda,1:3,Hapoel Raanana,2015/16,2015
+89,H. Kfar Saba,0:0,M. Tel Aviv,2015/16,2015
+90,B. Jerusalem,2:0,Kiryat Shmona,2015/16,2015
+91,Hapoel Haifa,2:4,Maccabi Haifa,2015/16,2015
+92,Bnei Yehuda,0:0,Maccabi Haifa,2015/16,2015
+93,Hapoel Haifa,3:1,Hapoel Acre,2015/16,2015
+94,H. Kfar Saba,0:0,Hapoel Raanana,2015/16,2015
+95,Maccabi Netanya,0:0,M. Petah Tikva,2015/16,2015
+96,Hapoel Tel Aviv,0:0,B. Jerusalem,2015/16,2015
+97,H. Beer Sheva,2:1,Kiryat Shmona,2015/16,2015
+98,Bnei Sakhnin,0:2,M. Tel Aviv,2015/16,2015
+99,Hapoel Raanana,1:0,Bnei Sakhnin,2015/16,2015
+100,M. Petah Tikva,1:1,Hapoel Haifa,2015/16,2015
+101,Kiryat Shmona,3:0,Hapoel Tel Aviv,2015/16,2015
+102,Hapoel Acre,0:1,Bnei Yehuda,2015/16,2015
+103,B. Jerusalem,1:0,Maccabi Netanya,2015/16,2015
+104,Maccabi Haifa,1:1,H. Kfar Saba,2015/16,2015
+105,M. Tel Aviv,1:2,H. Beer Sheva,2015/16,2015
+106,Bnei Sakhnin,1:2,Maccabi Haifa,2015/16,2015
+107,H. Kfar Saba,0:1,Hapoel Acre,2015/16,2015
+108,Bnei Yehuda,1:1,M. Petah Tikva,2015/16,2015
+109,Maccabi Netanya,1:1,Hapoel Tel Aviv,2015/16,2015
+110,Hapoel Haifa,1:1,B. Jerusalem,2015/16,2015
+111,M. Tel Aviv,5:0,Kiryat Shmona,2015/16,2015
+112,H. Beer Sheva,2:0,Hapoel Raanana,2015/16,2015
+113,Hapoel Raanana,0:2,M. Tel Aviv,2015/16,2015
+114,Kiryat Shmona,3:0,Maccabi Netanya,2015/16,2015
+115,M. Petah Tikva,2:0,H. Kfar Saba,2015/16,2015
+116,Hapoel Acre,2:2,Bnei Sakhnin,2015/16,2015
+117,B. Jerusalem,1:0,Bnei Yehuda,2015/16,2015
+118,Hapoel Tel Aviv,0:0,Hapoel Haifa,2015/16,2015
+119,Maccabi Haifa,1:1,H. Beer Sheva,2015/16,2015
+120,Bnei Yehuda,1:3,Hapoel Tel Aviv,2015/16,2015
+121,Hapoel Raanana,1:1,Kiryat Shmona,2015/16,2015
+122,Hapoel Haifa,2:0,Maccabi Netanya,2015/16,2015
+123,Bnei Sakhnin,1:0,M. Petah Tikva,2015/16,2015
+124,H. Beer Sheva,3:0,Hapoel Acre,2015/16,2015
+125,H. Kfar Saba,1:0,B. Jerusalem,2015/16,2015
+126,M. Tel Aviv,2:1,Maccabi Haifa,2015/16,2015
+127,Hapoel Tel Aviv,0:1,H. Kfar Saba,2015/16,2015
+128,Kiryat Shmona,1:1,Hapoel Haifa,2015/16,2015
+129,Maccabi Netanya,0:2,Bnei Yehuda,2015/16,2015
+130,M. Petah Tikva,0:1,H. Beer Sheva,2015/16,2015
+131,Maccabi Haifa,2:0,Hapoel Raanana,2015/16,2015
+132,Hapoel Acre,0:3,M. Tel Aviv,2015/16,2015
+133,B. Jerusalem,1:0,Bnei Sakhnin,2015/16,2015
+134,Bnei Yehuda,1:0,Hapoel Haifa,2015/16,2015
+135,Bnei Sakhnin,1:0,Hapoel Tel Aviv,2015/16,2015
+136,Hapoel Raanana,3:1,Hapoel Acre,2015/16,2015
+137,H. Kfar Saba,1:0,Maccabi Netanya,2015/16,2015
+138,M. Tel Aviv,3:1,M. Petah Tikva,2015/16,2015
+139,Maccabi Haifa,0:1,Kiryat Shmona,2015/16,2015
+140,H. Beer Sheva,2:1,B. Jerusalem,2015/16,2015
+141,Maccabi Netanya,0:2,Bnei Sakhnin,2015/16,2015
+142,Hapoel Haifa,1:1,H. Kfar Saba,2015/16,2015
+143,Kiryat Shmona,1:1,Bnei Yehuda,2015/16,2015
+144,Hapoel Tel Aviv,0:1,H. Beer Sheva,2015/16,2015
+145,Hapoel Raanana,1:0,M. Petah Tikva,2015/16,2015
+146,Hapoel Acre,1:1,Maccabi Haifa,2015/16,2015
+147,B. Jerusalem,2:2,M. Tel Aviv,2015/16,2015
+148,Maccabi Haifa,4:0,M. Petah Tikva,2015/16,2015
+149,H. Kfar Saba,1:2,Bnei Yehuda,2015/16,2015
+150,Bnei Sakhnin,0:0,Hapoel Haifa,2015/16,2015
+151,Hapoel Acre,1:0,Kiryat Shmona,2015/16,2015
+152,H. Beer Sheva,2:0,Maccabi Netanya,2015/16,2015
+153,M. Tel Aviv,1:1,Hapoel Tel Aviv,2015/16,2015
+154,Hapoel Raanana,0:2,B. Jerusalem,2015/16,2015
+155,Bnei Yehuda,0:2,Bnei Sakhnin,2015/16,2015
+156,Hapoel Haifa,1:2,H. Beer Sheva,2015/16,2015
+157,Kiryat Shmona,0:2,H. Kfar Saba,2015/16,2015
+158,M. Petah Tikva,1:2,Hapoel Acre,2015/16,2015
+159,Hapoel Tel Aviv,2:1,Hapoel Raanana,2015/16,2015
+160,Maccabi Netanya,1:3,M. Tel Aviv,2015/16,2015
+161,B. Jerusalem,3:0,Maccabi Haifa,2015/16,2015
+162,Hapoel Raanana,1:0,Maccabi Netanya,2015/16,2015
+163,M. Tel Aviv,2:1,Hapoel Haifa,2015/16,2015
+164,Bnei Sakhnin,2:0,H. Kfar Saba,2015/16,2015
+165,M. Petah Tikva,0:0,Kiryat Shmona,2015/16,2015
+166,Maccabi Haifa,0:0,Hapoel Tel Aviv,2015/16,2015
+167,Hapoel Acre,1:3,B. Jerusalem,2015/16,2015
+168,H. Beer Sheva,2:0,Bnei Yehuda,2015/16,2015
+169,Hapoel Haifa,1:1,Hapoel Raanana,2015/16,2015
+170,Maccabi Netanya,0:3,Maccabi Haifa,2015/16,2015
+171,Bnei Sakhnin,3:0,Kiryat Shmona,2015/16,2015
+172,Bnei Yehuda,0:1,M. Tel Aviv,2015/16,2015
+173,B. Jerusalem,2:0,M. Petah Tikva,2015/16,2015
+174,H. Kfar Saba,1:2,H. Beer Sheva,2015/16,2015
+175,Hapoel Tel Aviv,0:2,Hapoel Acre,2015/16,2015
+176,M. Petah Tikva,1:1,Hapoel Tel Aviv,2015/16,2015
+177,Hapoel Raanana,0:2,Bnei Yehuda,2015/16,2015
+178,Hapoel Acre,1:1,Maccabi Netanya,2015/16,2015
+179,Kiryat Shmona,0:2,B. Jerusalem,2015/16,2015
+180,M. Tel Aviv,5:0,H. Kfar Saba,2015/16,2015
+181,Maccabi Haifa,3:2,Hapoel Haifa,2015/16,2015
+182,H. Beer Sheva,2:2,Bnei Sakhnin,2015/16,2015

@@ -1,183 +1,183 @@
-round,home,score,away
-1,FC Ashdod,1:2,M. Petah Tikva
-2,Hapoel Raanana,0:0,Kiryat Shmona
-3,Hapoel Haifa,3:1,H. Ashkelon
-4,H. Beer Sheva,1:1,Maccabi Netanya
-5,Hapoel Acre,1:2,Bnei Sakhnin
-6,M. Tel Aviv,0:3,B. Jerusalem
-7,Bnei Yehuda,2:0,Maccabi Haifa
-8,Bnei Sakhnin,2:1,Hapoel Raanana
-9,H. Ashkelon,1:1,Bnei Yehuda
-10,Maccabi Netanya,2:2,Hapoel Acre
-11,M. Petah Tikva,0:2,Hapoel Haifa
-12,Kiryat Shmona,1:2,M. Tel Aviv
-13,Maccabi Haifa,3:1,H. Beer Sheva
-14,B. Jerusalem,4:1,FC Ashdod
-15,M. Tel Aviv,2:0,Bnei Sakhnin
-16,Hapoel Haifa,2:1,Bnei Yehuda
-17,FC Ashdod,0:2,Kiryat Shmona
-18,H. Beer Sheva,1:0,H. Ashkelon
-19,Hapoel Raanana,0:3,Maccabi Netanya
-20,Hapoel Acre,2:0,Maccabi Haifa
-21,M. Petah Tikva,1:2,B. Jerusalem
-22,Kiryat Shmona,3:1,M. Petah Tikva
-23,Maccabi Haifa,4:2,Hapoel Raanana
-24,H. Ashkelon,2:1,Hapoel Acre
-25,B. Jerusalem,3:3,Hapoel Haifa
-26,Bnei Sakhnin,0:0,FC Ashdod
-27,Bnei Yehuda,0:1,H. Beer Sheva
-28,Maccabi Netanya,2:3,M. Tel Aviv
-29,Hapoel Acre,1:1,Bnei Yehuda
-30,Hapoel Raanana,0:3,H. Ashkelon
-31,FC Ashdod,0:3,Maccabi Netanya
-32,Hapoel Haifa,1:1,H. Beer Sheva
-33,M. Petah Tikva,1:0,Bnei Sakhnin
-34,M. Tel Aviv,0:0,Maccabi Haifa
-35,B. Jerusalem,1:1,Kiryat Shmona
-36,Bnei Yehuda,1:0,Hapoel Raanana
-37,Kiryat Shmona,0:1,Hapoel Haifa
-38,Maccabi Haifa,1:0,FC Ashdod
-39,H. Ashkelon,2:2,M. Tel Aviv
-40,Maccabi Netanya,4:0,M. Petah Tikva
-41,Bnei Sakhnin,3:2,B. Jerusalem
-42,H. Beer Sheva,3:1,Hapoel Acre
-43,M. Petah Tikva,2:2,Maccabi Haifa
-44,Hapoel Haifa,4:0,Hapoel Acre
-45,FC Ashdod,1:1,H. Ashkelon
-46,Hapoel Raanana,1:3,H. Beer Sheva
-47,Kiryat Shmona,0:0,Bnei Sakhnin
-48,M. Tel Aviv,2:0,Bnei Yehuda
-49,B. Jerusalem,4:1,Maccabi Netanya
-50,Bnei Yehuda,1:2,FC Ashdod
-51,Hapoel Acre,0:2,Hapoel Raanana
-52,Maccabi Netanya,3:1,Kiryat Shmona
-53,Maccabi Haifa,1:2,B. Jerusalem
-54,H. Ashkelon,1:3,M. Petah Tikva
-55,Bnei Sakhnin,0:1,Hapoel Haifa
-56,H. Beer Sheva,2:1,M. Tel Aviv
-57,Bnei Sakhnin,0:0,Maccabi Netanya
-58,Hapoel Haifa,2:0,Hapoel Raanana
-59,Kiryat Shmona,1:0,Maccabi Haifa
-60,B. Jerusalem,2:0,H. Ashkelon
-61,M. Tel Aviv,5:2,Hapoel Acre
-62,FC Ashdod,1:3,H. Beer Sheva
-63,M. Petah Tikva,1:2,Bnei Yehuda
-64,Hapoel Acre,1:0,FC Ashdod
-65,Maccabi Netanya,2:0,Hapoel Haifa
-66,Bnei Yehuda,3:2,B. Jerusalem
-67,M. Petah Tikva,0:2,H. Beer Sheva
-68,Hapoel Raanana,0:1,M. Tel Aviv
-69,Maccabi Haifa,2:0,Bnei Sakhnin
-70,H. Ashkelon,0:0,Kiryat Shmona
-71,Bnei Sakhnin,2:1,H. Ashkelon
-72,Kiryat Shmona,2:1,Bnei Yehuda
-73,Maccabi Netanya,1:1,Maccabi Haifa
-74,Hapoel Acre,0:3,M. Petah Tikva
-75,FC Ashdod,0:1,Hapoel Raanana
-76,Hapoel Haifa,2:2,M. Tel Aviv
-77,B. Jerusalem,2:2,H. Beer Sheva
-78,M. Tel Aviv,1:1,FC Ashdod
-79,Bnei Yehuda,3:0,Bnei Sakhnin
-80,H. Ashkelon,1:1,Maccabi Netanya
-81,Hapoel Acre,1:3,B. Jerusalem
-82,Hapoel Raanana,0:0,M. Petah Tikva
-83,H. Beer Sheva,3:1,Kiryat Shmona
-84,Hapoel Haifa,1:0,Maccabi Haifa
-85,FC Ashdod,1:1,Hapoel Haifa
-86,Maccabi Netanya,1:2,Bnei Yehuda
-87,Maccabi Haifa,1:1,H. Ashkelon
-88,B. Jerusalem,3:2,Hapoel Raanana
-89,Kiryat Shmona,4:0,Hapoel Acre
-90,Bnei Sakhnin,1:3,H. Beer Sheva
-91,M. Petah Tikva,0:0,M. Tel Aviv
-92,M. Petah Tikva,1:1,FC Ashdod
-93,Bnei Sakhnin,2:1,Hapoel Acre
-94,H. Ashkelon,0:0,Hapoel Haifa
-95,Maccabi Haifa,0:2,Bnei Yehuda
-96,Kiryat Shmona,0:2,Hapoel Raanana
-97,Maccabi Netanya,1:0,H. Beer Sheva
-98,B. Jerusalem,1:2,M. Tel Aviv
-99,Hapoel Acre,0:3,Maccabi Netanya
-100,Bnei Yehuda,3:1,H. Ashkelon
-101,Hapoel Haifa,2:0,M. Petah Tikva
-102,M. Tel Aviv,2:1,Kiryat Shmona
-103,Hapoel Raanana,1:1,Bnei Sakhnin
-104,FC Ashdod,1:3,B. Jerusalem
-105,H. Beer Sheva,2:0,Maccabi Haifa
-106,Bnei Yehuda,0:1,Hapoel Haifa
-107,Maccabi Haifa,0:1,Hapoel Acre
-108,Maccabi Netanya,2:2,Hapoel Raanana
-109,B. Jerusalem,1:0,M. Petah Tikva
-110,Kiryat Shmona,1:2,FC Ashdod
-111,H. Ashkelon,0:1,H. Beer Sheva
-112,Bnei Sakhnin,0:1,M. Tel Aviv
-113,FC Ashdod,1:2,Bnei Sakhnin
-114,Hapoel Acre,0:1,H. Ashkelon
-115,Hapoel Haifa,0:2,B. Jerusalem
-116,M. Petah Tikva,2:0,Kiryat Shmona
-117,H. Beer Sheva,0:0,Bnei Yehuda
-118,M. Tel Aviv,3:0,Maccabi Netanya
-119,Hapoel Raanana,0:3,Maccabi Haifa
-120,Bnei Yehuda,2:1,Hapoel Acre
-121,Bnei Sakhnin,0:2,M. Petah Tikva
-122,Maccabi Netanya,2:2,FC Ashdod
-123,Kiryat Shmona,1:1,B. Jerusalem
-124,H. Ashkelon,0:1,Hapoel Raanana
-125,H. Beer Sheva,1:1,Hapoel Haifa
-126,Maccabi Haifa,1:3,M. Tel Aviv
-127,Hapoel Haifa,0:2,Kiryat Shmona
-128,Hapoel Raanana,1:1,Bnei Yehuda
-129,FC Ashdod,0:0,Maccabi Haifa
-130,Hapoel Acre,0:1,H. Beer Sheva
-131,M. Petah Tikva,1:1,Maccabi Netanya
-132,M. Tel Aviv,3:1,H. Ashkelon
-133,B. Jerusalem,4:2,Bnei Sakhnin
-134,Hapoel Acre,0:1,Hapoel Haifa
-135,H. Ashkelon,1:2,FC Ashdod
-136,Maccabi Haifa,1:1,M. Petah Tikva
-137,H. Beer Sheva,3:1,Hapoel Raanana
-138,Bnei Sakhnin,1:2,Kiryat Shmona
-139,Bnei Yehuda,0:0,M. Tel Aviv
-140,Maccabi Netanya,2:1,B. Jerusalem
-141,Hapoel Haifa,1:0,Bnei Sakhnin
-142,Hapoel Raanana,0:1,Hapoel Acre
-143,Kiryat Shmona,1:2,Maccabi Netanya
-144,B. Jerusalem,3:1,Maccabi Haifa
-145,FC Ashdod,1:1,Bnei Yehuda
-146,M. Tel Aviv,1:0,H. Beer Sheva
-147,M. Petah Tikva,3:0,H. Ashkelon
-148,Hapoel Raanana,1:1,Hapoel Haifa
-149,Bnei Yehuda,2:1,M. Petah Tikva
-150,Maccabi Haifa,4:0,Kiryat Shmona
-151,H. Ashkelon,1:3,B. Jerusalem
-152,Maccabi Netanya,1:1,Bnei Sakhnin
-153,Hapoel Acre,0:2,M. Tel Aviv
-154,H. Beer Sheva,2:0,FC Ashdod
-155,H. Beer Sheva,3:0,M. Petah Tikva
-156,M. Tel Aviv,0:1,Hapoel Raanana
-157,FC Ashdod,3:2,Hapoel Acre
-158,Bnei Sakhnin,1:0,Maccabi Haifa
-159,Kiryat Shmona,1:0,H. Ashkelon
-160,Hapoel Haifa,2:0,Maccabi Netanya
-161,B. Jerusalem,2:0,Bnei Yehuda
-162,Hapoel Raanana,2:1,FC Ashdod
-163,H. Ashkelon,0:2,Bnei Sakhnin
-164,Maccabi Haifa,1:2,Maccabi Netanya
-165,M. Tel Aviv,4:0,Hapoel Haifa
-166,Bnei Yehuda,1:0,Kiryat Shmona
-167,H. Beer Sheva,1:1,B. Jerusalem
-168,M. Petah Tikva,2:1,Hapoel Acre
-169,M. Petah Tikva,3:2,Hapoel Raanana
-170,Maccabi Netanya,2:0,H. Ashkelon
-171,Bnei Sakhnin,2:2,Bnei Yehuda
-172,FC Ashdod,0:0,M. Tel Aviv
-173,Kiryat Shmona,0:1,H. Beer Sheva
-174,B. Jerusalem,3:0,Hapoel Acre
-175,Maccabi Haifa,0:3,Hapoel Haifa
-176,Bnei Yehuda,0:1,Maccabi Netanya
-177,Hapoel Haifa,1:0,FC Ashdod
-178,H. Ashkelon,0:0,Maccabi Haifa
-179,H. Beer Sheva,2:0,Bnei Sakhnin
-180,Hapoel Acre,0:3,Kiryat Shmona
-181,Hapoel Raanana,0:2,B. Jerusalem
-182,M. Tel Aviv,2:0,M. Petah Tikva
+﻿round,home,score,away,season,season_year
+1,FC Ashdod,1:2,M. Petah Tikva,2017/18,2017
+2,Hapoel Raanana,0:0,Kiryat Shmona,2017/18,2017
+3,Hapoel Haifa,3:1,H. Ashkelon,2017/18,2017
+4,H. Beer Sheva,1:1,Maccabi Netanya,2017/18,2017
+5,Hapoel Acre,1:2,Bnei Sakhnin,2017/18,2017
+6,M. Tel Aviv,0:3,B. Jerusalem,2017/18,2017
+7,Bnei Yehuda,2:0,Maccabi Haifa,2017/18,2017
+8,Bnei Sakhnin,2:1,Hapoel Raanana,2017/18,2017
+9,H. Ashkelon,1:1,Bnei Yehuda,2017/18,2017
+10,Maccabi Netanya,2:2,Hapoel Acre,2017/18,2017
+11,M. Petah Tikva,0:2,Hapoel Haifa,2017/18,2017
+12,Kiryat Shmona,1:2,M. Tel Aviv,2017/18,2017
+13,Maccabi Haifa,3:1,H. Beer Sheva,2017/18,2017
+14,B. Jerusalem,4:1,FC Ashdod,2017/18,2017
+15,M. Tel Aviv,2:0,Bnei Sakhnin,2017/18,2017
+16,Hapoel Haifa,2:1,Bnei Yehuda,2017/18,2017
+17,FC Ashdod,0:2,Kiryat Shmona,2017/18,2017
+18,H. Beer Sheva,1:0,H. Ashkelon,2017/18,2017
+19,Hapoel Raanana,0:3,Maccabi Netanya,2017/18,2017
+20,Hapoel Acre,2:0,Maccabi Haifa,2017/18,2017
+21,M. Petah Tikva,1:2,B. Jerusalem,2017/18,2017
+22,Kiryat Shmona,3:1,M. Petah Tikva,2017/18,2017
+23,Maccabi Haifa,4:2,Hapoel Raanana,2017/18,2017
+24,H. Ashkelon,2:1,Hapoel Acre,2017/18,2017
+25,B. Jerusalem,3:3,Hapoel Haifa,2017/18,2017
+26,Bnei Sakhnin,0:0,FC Ashdod,2017/18,2017
+27,Bnei Yehuda,0:1,H. Beer Sheva,2017/18,2017
+28,Maccabi Netanya,2:3,M. Tel Aviv,2017/18,2017
+29,Hapoel Acre,1:1,Bnei Yehuda,2017/18,2017
+30,Hapoel Raanana,0:3,H. Ashkelon,2017/18,2017
+31,FC Ashdod,0:3,Maccabi Netanya,2017/18,2017
+32,Hapoel Haifa,1:1,H. Beer Sheva,2017/18,2017
+33,M. Petah Tikva,1:0,Bnei Sakhnin,2017/18,2017
+34,M. Tel Aviv,0:0,Maccabi Haifa,2017/18,2017
+35,B. Jerusalem,1:1,Kiryat Shmona,2017/18,2017
+36,Bnei Yehuda,1:0,Hapoel Raanana,2017/18,2017
+37,Kiryat Shmona,0:1,Hapoel Haifa,2017/18,2017
+38,Maccabi Haifa,1:0,FC Ashdod,2017/18,2017
+39,H. Ashkelon,2:2,M. Tel Aviv,2017/18,2017
+40,Maccabi Netanya,4:0,M. Petah Tikva,2017/18,2017
+41,Bnei Sakhnin,3:2,B. Jerusalem,2017/18,2017
+42,H. Beer Sheva,3:1,Hapoel Acre,2017/18,2017
+43,M. Petah Tikva,2:2,Maccabi Haifa,2017/18,2017
+44,Hapoel Haifa,4:0,Hapoel Acre,2017/18,2017
+45,FC Ashdod,1:1,H. Ashkelon,2017/18,2017
+46,Hapoel Raanana,1:3,H. Beer Sheva,2017/18,2017
+47,Kiryat Shmona,0:0,Bnei Sakhnin,2017/18,2017
+48,M. Tel Aviv,2:0,Bnei Yehuda,2017/18,2017
+49,B. Jerusalem,4:1,Maccabi Netanya,2017/18,2017
+50,Bnei Yehuda,1:2,FC Ashdod,2017/18,2017
+51,Hapoel Acre,0:2,Hapoel Raanana,2017/18,2017
+52,Maccabi Netanya,3:1,Kiryat Shmona,2017/18,2017
+53,Maccabi Haifa,1:2,B. Jerusalem,2017/18,2017
+54,H. Ashkelon,1:3,M. Petah Tikva,2017/18,2017
+55,Bnei Sakhnin,0:1,Hapoel Haifa,2017/18,2017
+56,H. Beer Sheva,2:1,M. Tel Aviv,2017/18,2017
+57,Bnei Sakhnin,0:0,Maccabi Netanya,2017/18,2017
+58,Hapoel Haifa,2:0,Hapoel Raanana,2017/18,2017
+59,Kiryat Shmona,1:0,Maccabi Haifa,2017/18,2017
+60,B. Jerusalem,2:0,H. Ashkelon,2017/18,2017
+61,M. Tel Aviv,5:2,Hapoel Acre,2017/18,2017
+62,FC Ashdod,1:3,H. Beer Sheva,2017/18,2017
+63,M. Petah Tikva,1:2,Bnei Yehuda,2017/18,2017
+64,Hapoel Acre,1:0,FC Ashdod,2017/18,2017
+65,Maccabi Netanya,2:0,Hapoel Haifa,2017/18,2017
+66,Bnei Yehuda,3:2,B. Jerusalem,2017/18,2017
+67,M. Petah Tikva,0:2,H. Beer Sheva,2017/18,2017
+68,Hapoel Raanana,0:1,M. Tel Aviv,2017/18,2017
+69,Maccabi Haifa,2:0,Bnei Sakhnin,2017/18,2017
+70,H. Ashkelon,0:0,Kiryat Shmona,2017/18,2017
+71,Bnei Sakhnin,2:1,H. Ashkelon,2017/18,2017
+72,Kiryat Shmona,2:1,Bnei Yehuda,2017/18,2017
+73,Maccabi Netanya,1:1,Maccabi Haifa,2017/18,2017
+74,Hapoel Acre,0:3,M. Petah Tikva,2017/18,2017
+75,FC Ashdod,0:1,Hapoel Raanana,2017/18,2017
+76,Hapoel Haifa,2:2,M. Tel Aviv,2017/18,2017
+77,B. Jerusalem,2:2,H. Beer Sheva,2017/18,2017
+78,M. Tel Aviv,1:1,FC Ashdod,2017/18,2017
+79,Bnei Yehuda,3:0,Bnei Sakhnin,2017/18,2017
+80,H. Ashkelon,1:1,Maccabi Netanya,2017/18,2017
+81,Hapoel Acre,1:3,B. Jerusalem,2017/18,2017
+82,Hapoel Raanana,0:0,M. Petah Tikva,2017/18,2017
+83,H. Beer Sheva,3:1,Kiryat Shmona,2017/18,2017
+84,Hapoel Haifa,1:0,Maccabi Haifa,2017/18,2017
+85,FC Ashdod,1:1,Hapoel Haifa,2017/18,2017
+86,Maccabi Netanya,1:2,Bnei Yehuda,2017/18,2017
+87,Maccabi Haifa,1:1,H. Ashkelon,2017/18,2017
+88,B. Jerusalem,3:2,Hapoel Raanana,2017/18,2017
+89,Kiryat Shmona,4:0,Hapoel Acre,2017/18,2017
+90,Bnei Sakhnin,1:3,H. Beer Sheva,2017/18,2017
+91,M. Petah Tikva,0:0,M. Tel Aviv,2017/18,2017
+92,M. Petah Tikva,1:1,FC Ashdod,2017/18,2017
+93,Bnei Sakhnin,2:1,Hapoel Acre,2017/18,2017
+94,H. Ashkelon,0:0,Hapoel Haifa,2017/18,2017
+95,Maccabi Haifa,0:2,Bnei Yehuda,2017/18,2017
+96,Kiryat Shmona,0:2,Hapoel Raanana,2017/18,2017
+97,Maccabi Netanya,1:0,H. Beer Sheva,2017/18,2017
+98,B. Jerusalem,1:2,M. Tel Aviv,2017/18,2017
+99,Hapoel Acre,0:3,Maccabi Netanya,2017/18,2017
+100,Bnei Yehuda,3:1,H. Ashkelon,2017/18,2017
+101,Hapoel Haifa,2:0,M. Petah Tikva,2017/18,2017
+102,M. Tel Aviv,2:1,Kiryat Shmona,2017/18,2017
+103,Hapoel Raanana,1:1,Bnei Sakhnin,2017/18,2017
+104,FC Ashdod,1:3,B. Jerusalem,2017/18,2017
+105,H. Beer Sheva,2:0,Maccabi Haifa,2017/18,2017
+106,Bnei Yehuda,0:1,Hapoel Haifa,2017/18,2017
+107,Maccabi Haifa,0:1,Hapoel Acre,2017/18,2017
+108,Maccabi Netanya,2:2,Hapoel Raanana,2017/18,2017
+109,B. Jerusalem,1:0,M. Petah Tikva,2017/18,2017
+110,Kiryat Shmona,1:2,FC Ashdod,2017/18,2017
+111,H. Ashkelon,0:1,H. Beer Sheva,2017/18,2017
+112,Bnei Sakhnin,0:1,M. Tel Aviv,2017/18,2017
+113,FC Ashdod,1:2,Bnei Sakhnin,2017/18,2017
+114,Hapoel Acre,0:1,H. Ashkelon,2017/18,2017
+115,Hapoel Haifa,0:2,B. Jerusalem,2017/18,2017
+116,M. Petah Tikva,2:0,Kiryat Shmona,2017/18,2017
+117,H. Beer Sheva,0:0,Bnei Yehuda,2017/18,2017
+118,M. Tel Aviv,3:0,Maccabi Netanya,2017/18,2017
+119,Hapoel Raanana,0:3,Maccabi Haifa,2017/18,2017
+120,Bnei Yehuda,2:1,Hapoel Acre,2017/18,2017
+121,Bnei Sakhnin,0:2,M. Petah Tikva,2017/18,2017
+122,Maccabi Netanya,2:2,FC Ashdod,2017/18,2017
+123,Kiryat Shmona,1:1,B. Jerusalem,2017/18,2017
+124,H. Ashkelon,0:1,Hapoel Raanana,2017/18,2017
+125,H. Beer Sheva,1:1,Hapoel Haifa,2017/18,2017
+126,Maccabi Haifa,1:3,M. Tel Aviv,2017/18,2017
+127,Hapoel Haifa,0:2,Kiryat Shmona,2017/18,2017
+128,Hapoel Raanana,1:1,Bnei Yehuda,2017/18,2017
+129,FC Ashdod,0:0,Maccabi Haifa,2017/18,2017
+130,Hapoel Acre,0:1,H. Beer Sheva,2017/18,2017
+131,M. Petah Tikva,1:1,Maccabi Netanya,2017/18,2017
+132,M. Tel Aviv,3:1,H. Ashkelon,2017/18,2017
+133,B. Jerusalem,4:2,Bnei Sakhnin,2017/18,2017
+134,Hapoel Acre,0:1,Hapoel Haifa,2017/18,2017
+135,H. Ashkelon,1:2,FC Ashdod,2017/18,2017
+136,Maccabi Haifa,1:1,M. Petah Tikva,2017/18,2017
+137,H. Beer Sheva,3:1,Hapoel Raanana,2017/18,2017
+138,Bnei Sakhnin,1:2,Kiryat Shmona,2017/18,2017
+139,Bnei Yehuda,0:0,M. Tel Aviv,2017/18,2017
+140,Maccabi Netanya,2:1,B. Jerusalem,2017/18,2017
+141,Hapoel Haifa,1:0,Bnei Sakhnin,2017/18,2017
+142,Hapoel Raanana,0:1,Hapoel Acre,2017/18,2017
+143,Kiryat Shmona,1:2,Maccabi Netanya,2017/18,2017
+144,B. Jerusalem,3:1,Maccabi Haifa,2017/18,2017
+145,FC Ashdod,1:1,Bnei Yehuda,2017/18,2017
+146,M. Tel Aviv,1:0,H. Beer Sheva,2017/18,2017
+147,M. Petah Tikva,3:0,H. Ashkelon,2017/18,2017
+148,Hapoel Raanana,1:1,Hapoel Haifa,2017/18,2017
+149,Bnei Yehuda,2:1,M. Petah Tikva,2017/18,2017
+150,Maccabi Haifa,4:0,Kiryat Shmona,2017/18,2017
+151,H. Ashkelon,1:3,B. Jerusalem,2017/18,2017
+152,Maccabi Netanya,1:1,Bnei Sakhnin,2017/18,2017
+153,Hapoel Acre,0:2,M. Tel Aviv,2017/18,2017
+154,H. Beer Sheva,2:0,FC Ashdod,2017/18,2017
+155,H. Beer Sheva,3:0,M. Petah Tikva,2017/18,2017
+156,M. Tel Aviv,0:1,Hapoel Raanana,2017/18,2017
+157,FC Ashdod,3:2,Hapoel Acre,2017/18,2017
+158,Bnei Sakhnin,1:0,Maccabi Haifa,2017/18,2017
+159,Kiryat Shmona,1:0,H. Ashkelon,2017/18,2017
+160,Hapoel Haifa,2:0,Maccabi Netanya,2017/18,2017
+161,B. Jerusalem,2:0,Bnei Yehuda,2017/18,2017
+162,Hapoel Raanana,2:1,FC Ashdod,2017/18,2017
+163,H. Ashkelon,0:2,Bnei Sakhnin,2017/18,2017
+164,Maccabi Haifa,1:2,Maccabi Netanya,2017/18,2017
+165,M. Tel Aviv,4:0,Hapoel Haifa,2017/18,2017
+166,Bnei Yehuda,1:0,Kiryat Shmona,2017/18,2017
+167,H. Beer Sheva,1:1,B. Jerusalem,2017/18,2017
+168,M. Petah Tikva,2:1,Hapoel Acre,2017/18,2017
+169,M. Petah Tikva,3:2,Hapoel Raanana,2017/18,2017
+170,Maccabi Netanya,2:0,H. Ashkelon,2017/18,2017
+171,Bnei Sakhnin,2:2,Bnei Yehuda,2017/18,2017
+172,FC Ashdod,0:0,M. Tel Aviv,2017/18,2017
+173,Kiryat Shmona,0:1,H. Beer Sheva,2017/18,2017
+174,B. Jerusalem,3:0,Hapoel Acre,2017/18,2017
+175,Maccabi Haifa,0:3,Hapoel Haifa,2017/18,2017
+176,Bnei Yehuda,0:1,Maccabi Netanya,2017/18,2017
+177,Hapoel Haifa,1:0,FC Ashdod,2017/18,2017
+178,H. Ashkelon,0:0,Maccabi Haifa,2017/18,2017
+179,H. Beer Sheva,2:0,Bnei Sakhnin,2017/18,2017
+180,Hapoel Acre,0:3,Kiryat Shmona,2017/18,2017
+181,Hapoel Raanana,0:2,B. Jerusalem,2017/18,2017
+182,M. Tel Aviv,2:0,M. Petah Tikva,2017/18,2017

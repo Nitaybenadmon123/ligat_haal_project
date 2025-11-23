@@ -1,199 +1,199 @@
-round,home,score,away
-1,M. Tel Aviv,2:1,Bnei Yehuda
-2,Maccabi Haifa,3:1,FC Ashdod
-3,M. Petah Tikva,1:1,Maccabi Netanya
-4,Bnei Sakhnin,0:0,B. Jerusalem
-5,Kiryat Shmona,0:0,H. Petah Tikva
-6,Hakoah Amidar,2:2,Hapoel Tel Aviv
-7,Bnei Yehuda,2:2,Hakoah Amidar
-8,Maccabi Netanya,3:1,H. Petah Tikva
-9,FC Ashdod,2:0,Kiryat Shmona
-10,M. Petah Tikva,1:0,Bnei Sakhnin
-11,Hapoel Tel Aviv,0:0,Maccabi Haifa
-12,B. Jerusalem,0:0,M. Tel Aviv
-13,Bnei Sakhnin,0:1,Maccabi Netanya
-14,M. Tel Aviv,0:0,M. Petah Tikva
-15,H. Petah Tikva,2:1,FC Ashdod
-16,Hakoah Amidar,2:4,B. Jerusalem
-17,Maccabi Haifa,1:0,Bnei Yehuda
-18,Kiryat Shmona,0:0,Hapoel Tel Aviv
-19,Bnei Yehuda,0:1,Kiryat Shmona
-20,Bnei Sakhnin,2:3,M. Tel Aviv
-21,Maccabi Netanya,2:1,FC Ashdod
-22,Hapoel Tel Aviv,3:2,H. Petah Tikva
-23,M. Petah Tikva,1:0,Hakoah Amidar
-24,B. Jerusalem,1:1,Maccabi Haifa
-25,Hakoah Amidar,0:0,Bnei Sakhnin
-26,Maccabi Haifa,3:1,M. Petah Tikva
-27,Kiryat Shmona,1:0,B. Jerusalem
-28,H. Petah Tikva,1:0,Bnei Yehuda
-29,M. Tel Aviv,0:1,Maccabi Netanya
-30,FC Ashdod,1:0,Hapoel Tel Aviv
-31,M. Tel Aviv,0:0,Hakoah Amidar
-32,Bnei Sakhnin,0:1,Maccabi Haifa
-33,M. Petah Tikva,2:1,Kiryat Shmona
-34,Bnei Yehuda,1:0,FC Ashdod
-35,Maccabi Netanya,0:0,Hapoel Tel Aviv
-36,B. Jerusalem,2:2,H. Petah Tikva
-37,Hakoah Amidar,1:2,Maccabi Netanya
-38,Hapoel Tel Aviv,2:0,Bnei Yehuda
-39,H. Petah Tikva,0:1,M. Petah Tikva
-40,Kiryat Shmona,1:2,Bnei Sakhnin
-41,FC Ashdod,1:2,B. Jerusalem
-42,Maccabi Haifa,3:2,M. Tel Aviv
-43,Hakoah Amidar,0:3,Maccabi Haifa
-44,Maccabi Netanya,2:2,Bnei Yehuda
-45,Bnei Sakhnin,0:3,H. Petah Tikva
-46,M. Petah Tikva,2:3,FC Ashdod
-47,M. Tel Aviv,0:1,Kiryat Shmona
-48,B. Jerusalem,0:2,Hapoel Tel Aviv
-49,Hapoel Tel Aviv,1:1,M. Petah Tikva
-50,H. Petah Tikva,0:1,M. Tel Aviv
-51,Kiryat Shmona,0:2,Hakoah Amidar
-52,FC Ashdod,4:2,Bnei Sakhnin
-53,Bnei Yehuda,0:3,B. Jerusalem
-54,Maccabi Haifa,2:3,Maccabi Netanya
-55,Bnei Sakhnin,1:0,Hapoel Tel Aviv
-56,M. Petah Tikva,0:0,Bnei Yehuda
-57,Hakoah Amidar,0:1,H. Petah Tikva
-58,Maccabi Haifa,1:1,Kiryat Shmona
-59,M. Tel Aviv,2:2,FC Ashdod
-60,Maccabi Netanya,1:2,B. Jerusalem
-61,H. Petah Tikva,1:4,Maccabi Haifa
-62,Kiryat Shmona,0:3,Maccabi Netanya
-63,FC Ashdod,3:2,Hakoah Amidar
-64,Bnei Yehuda,2:0,Bnei Sakhnin
-65,B. Jerusalem,1:1,M. Petah Tikva
-66,Hapoel Tel Aviv,2:0,M. Tel Aviv
-67,Hapoel Tel Aviv,3:0,Hakoah Amidar
-68,Maccabi Netanya,0:0,M. Petah Tikva
-69,FC Ashdod,1:3,Maccabi Haifa
-70,H. Petah Tikva,3:0,Kiryat Shmona
-71,Bnei Yehuda,3:2,M. Tel Aviv
-72,B. Jerusalem,0:0,Bnei Sakhnin
-73,H. Petah Tikva,0:0,Maccabi Netanya
-74,Hakoah Amidar,0:1,Bnei Yehuda
-75,Bnei Sakhnin,2:1,M. Petah Tikva
-76,Kiryat Shmona,1:1,FC Ashdod
-77,M. Tel Aviv,0:0,B. Jerusalem
-78,Maccabi Haifa,2:2,Hapoel Tel Aviv
-79,Maccabi Netanya,1:1,Bnei Sakhnin
-80,Hapoel Tel Aviv,1:1,Kiryat Shmona
-81,M. Petah Tikva,0:0,M. Tel Aviv
-82,B. Jerusalem,3:0,Hakoah Amidar
-83,FC Ashdod,4:1,H. Petah Tikva
-84,Bnei Yehuda,0:1,Maccabi Haifa
-85,H. Petah Tikva,0:2,Hapoel Tel Aviv
-86,FC Ashdod,3:3,Maccabi Netanya
-87,Kiryat Shmona,0:2,Bnei Yehuda
-88,Hakoah Amidar,2:2,M. Petah Tikva
-89,M. Tel Aviv,1:1,Bnei Sakhnin
-90,Maccabi Haifa,0:0,B. Jerusalem
-91,Bnei Sakhnin,0:1,Hakoah Amidar
-92,Hapoel Tel Aviv,2:0,FC Ashdod
-93,M. Petah Tikva,2:0,Maccabi Haifa
-94,B. Jerusalem,2:2,Kiryat Shmona
-95,Bnei Yehuda,1:0,H. Petah Tikva
-96,Maccabi Netanya,1:0,M. Tel Aviv
-97,Maccabi Haifa,2:1,Bnei Sakhnin
-98,Hakoah Amidar,0:1,M. Tel Aviv
-99,FC Ashdod,0:2,Bnei Yehuda
-100,Kiryat Shmona,0:0,M. Petah Tikva
-101,H. Petah Tikva,0:2,B. Jerusalem
-102,Hapoel Tel Aviv,2:1,Maccabi Netanya
-103,Bnei Yehuda,3:0,Hapoel Tel Aviv
-104,M. Petah Tikva,2:1,H. Petah Tikva
-105,Maccabi Netanya,2:2,Hakoah Amidar
-106,Bnei Sakhnin,1:0,Kiryat Shmona
-107,B. Jerusalem,3:2,FC Ashdod
-108,M. Tel Aviv,1:1,Maccabi Haifa
-109,Bnei Yehuda,1:1,Maccabi Netanya
-110,Kiryat Shmona,1:2,M. Tel Aviv
-111,FC Ashdod,1:1,M. Petah Tikva
-112,H. Petah Tikva,1:1,Bnei Sakhnin
-113,Maccabi Haifa,2:0,Hakoah Amidar
-114,Hapoel Tel Aviv,4:0,B. Jerusalem
-115,M. Tel Aviv,1:2,H. Petah Tikva
-116,M. Petah Tikva,1:1,Hapoel Tel Aviv
-117,Hakoah Amidar,1:0,Kiryat Shmona
-118,Bnei Sakhnin,0:2,FC Ashdod
-119,B. Jerusalem,1:0,Bnei Yehuda
-120,Maccabi Netanya,2:0,Maccabi Haifa
-121,Bnei Yehuda,1:0,M. Petah Tikva
-122,Kiryat Shmona,1:0,Maccabi Haifa
-123,H. Petah Tikva,1:0,Hakoah Amidar
-124,FC Ashdod,1:0,M. Tel Aviv
-125,Hapoel Tel Aviv,1:0,Bnei Sakhnin
-126,B. Jerusalem,2:1,Maccabi Netanya
-127,Maccabi Netanya,2:1,Kiryat Shmona
-128,Maccabi Haifa,1:0,H. Petah Tikva
-129,Bnei Sakhnin,0:2,Bnei Yehuda
-130,Hakoah Amidar,1:1,FC Ashdod
-131,M. Petah Tikva,0:1,B. Jerusalem
-132,M. Tel Aviv,1:3,Hapoel Tel Aviv
-133,M. Petah Tikva,0:0,Bnei Sakhnin
-134,Maccabi Netanya,0:0,Hakoah Amidar
-135,FC Ashdod,2:0,Kiryat Shmona
-136,H. Petah Tikva,1:2,M. Tel Aviv
-137,Bnei Yehuda,0:1,Maccabi Haifa
-138,B. Jerusalem,2:1,Hapoel Tel Aviv
-139,Hakoah Amidar,1:1,M. Tel Aviv
-140,Bnei Sakhnin,3:2,FC Ashdod
-141,Kiryat Shmona,1:1,H. Petah Tikva
-142,Maccabi Haifa,0:0,M. Petah Tikva
-143,Hapoel Tel Aviv,2:1,Bnei Yehuda
-144,Maccabi Netanya,1:0,B. Jerusalem
-145,Bnei Yehuda,2:0,Maccabi Netanya
-146,M. Petah Tikva,1:2,Hapoel Tel Aviv
-147,B. Jerusalem,4:0,Hakoah Amidar
-148,H. Petah Tikva,2:2,Bnei Sakhnin
-149,M. Tel Aviv,3:2,Kiryat Shmona
-150,FC Ashdod,0:3,Maccabi Haifa
-151,Bnei Sakhnin,0:3,M. Tel Aviv
-152,Hakoah Amidar,1:0,Kiryat Shmona
-153,Maccabi Haifa,2:1,H. Petah Tikva
-154,Maccabi Netanya,1:2,M. Petah Tikva
-155,Hapoel Tel Aviv,1:0,FC Ashdod
-156,B. Jerusalem,2:2,Bnei Yehuda
-157,H. Petah Tikva,0:1,Hapoel Tel Aviv
-158,Kiryat Shmona,0:2,Bnei Sakhnin
-159,Bnei Yehuda,1:0,Hakoah Amidar
-160,FC Ashdod,0:0,Maccabi Netanya
-161,M. Petah Tikva,0:2,B. Jerusalem
-162,M. Tel Aviv,1:1,Maccabi Haifa
-163,Maccabi Haifa,2:1,Kiryat Shmona
-164,Hakoah Amidar,1:1,Bnei Sakhnin
-165,Maccabi Netanya,1:0,H. Petah Tikva
-166,Bnei Yehuda,1:1,M. Petah Tikva
-167,B. Jerusalem,2:1,FC Ashdod
-168,Hapoel Tel Aviv,1:1,M. Tel Aviv
-169,M. Petah Tikva,0:2,Hakoah Amidar
-170,M. Tel Aviv,0:1,Maccabi Netanya
-171,FC Ashdod,0:3,Bnei Yehuda
-172,Kiryat Shmona,1:3,Hapoel Tel Aviv
-173,H. Petah Tikva,0:0,B. Jerusalem
-174,Bnei Sakhnin,0:0,Maccabi Haifa
-175,Maccabi Haifa,2:0,Hakoah Amidar
-176,Maccabi Netanya,1:3,Kiryat Shmona
-177,Bnei Yehuda,2:1,H. Petah Tikva
-178,M. Petah Tikva,0:0,FC Ashdod
-179,B. Jerusalem,2:0,M. Tel Aviv
-180,Hapoel Tel Aviv,1:1,Bnei Sakhnin
-181,M. Tel Aviv,2:1,Bnei Yehuda
-182,Hakoah Amidar,0:0,FC Ashdod
-183,H. Petah Tikva,2:0,M. Petah Tikva
-184,Kiryat Shmona,2:0,B. Jerusalem
-185,Bnei Sakhnin,0:0,Maccabi Netanya
-186,Maccabi Haifa,1:0,Hapoel Tel Aviv
-187,Maccabi Netanya,0:2,Maccabi Haifa
-188,B. Jerusalem,3:0,Bnei Sakhnin
-189,Bnei Yehuda,0:0,Kiryat Shmona
-190,M. Petah Tikva,0:3,M. Tel Aviv
-191,FC Ashdod,1:0,H. Petah Tikva
-192,Hapoel Tel Aviv,3:2,Hakoah Amidar
-193,M. Tel Aviv,1:0,FC Ashdod
-194,Kiryat Shmona,1:2,M. Petah Tikva
-195,Bnei Sakhnin,3:1,Bnei Yehuda
-196,Hapoel Tel Aviv,1:2,Maccabi Netanya
-197,Hakoah Amidar,1:0,H. Petah Tikva
-198,Maccabi Haifa,1:1,B. Jerusalem
+﻿round,home,score,away,season,season_year
+1,M. Tel Aviv,2:1,Bnei Yehuda,2008/09,2008
+2,Maccabi Haifa,3:1,FC Ashdod,2008/09,2008
+3,M. Petah Tikva,1:1,Maccabi Netanya,2008/09,2008
+4,Bnei Sakhnin,0:0,B. Jerusalem,2008/09,2008
+5,Kiryat Shmona,0:0,H. Petah Tikva,2008/09,2008
+6,Hakoah Amidar,2:2,Hapoel Tel Aviv,2008/09,2008
+7,Bnei Yehuda,2:2,Hakoah Amidar,2008/09,2008
+8,Maccabi Netanya,3:1,H. Petah Tikva,2008/09,2008
+9,FC Ashdod,2:0,Kiryat Shmona,2008/09,2008
+10,M. Petah Tikva,1:0,Bnei Sakhnin,2008/09,2008
+11,Hapoel Tel Aviv,0:0,Maccabi Haifa,2008/09,2008
+12,B. Jerusalem,0:0,M. Tel Aviv,2008/09,2008
+13,Bnei Sakhnin,0:1,Maccabi Netanya,2008/09,2008
+14,M. Tel Aviv,0:0,M. Petah Tikva,2008/09,2008
+15,H. Petah Tikva,2:1,FC Ashdod,2008/09,2008
+16,Hakoah Amidar,2:4,B. Jerusalem,2008/09,2008
+17,Maccabi Haifa,1:0,Bnei Yehuda,2008/09,2008
+18,Kiryat Shmona,0:0,Hapoel Tel Aviv,2008/09,2008
+19,Bnei Yehuda,0:1,Kiryat Shmona,2008/09,2008
+20,Bnei Sakhnin,2:3,M. Tel Aviv,2008/09,2008
+21,Maccabi Netanya,2:1,FC Ashdod,2008/09,2008
+22,Hapoel Tel Aviv,3:2,H. Petah Tikva,2008/09,2008
+23,M. Petah Tikva,1:0,Hakoah Amidar,2008/09,2008
+24,B. Jerusalem,1:1,Maccabi Haifa,2008/09,2008
+25,Hakoah Amidar,0:0,Bnei Sakhnin,2008/09,2008
+26,Maccabi Haifa,3:1,M. Petah Tikva,2008/09,2008
+27,Kiryat Shmona,1:0,B. Jerusalem,2008/09,2008
+28,H. Petah Tikva,1:0,Bnei Yehuda,2008/09,2008
+29,M. Tel Aviv,0:1,Maccabi Netanya,2008/09,2008
+30,FC Ashdod,1:0,Hapoel Tel Aviv,2008/09,2008
+31,M. Tel Aviv,0:0,Hakoah Amidar,2008/09,2008
+32,Bnei Sakhnin,0:1,Maccabi Haifa,2008/09,2008
+33,M. Petah Tikva,2:1,Kiryat Shmona,2008/09,2008
+34,Bnei Yehuda,1:0,FC Ashdod,2008/09,2008
+35,Maccabi Netanya,0:0,Hapoel Tel Aviv,2008/09,2008
+36,B. Jerusalem,2:2,H. Petah Tikva,2008/09,2008
+37,Hakoah Amidar,1:2,Maccabi Netanya,2008/09,2008
+38,Hapoel Tel Aviv,2:0,Bnei Yehuda,2008/09,2008
+39,H. Petah Tikva,0:1,M. Petah Tikva,2008/09,2008
+40,Kiryat Shmona,1:2,Bnei Sakhnin,2008/09,2008
+41,FC Ashdod,1:2,B. Jerusalem,2008/09,2008
+42,Maccabi Haifa,3:2,M. Tel Aviv,2008/09,2008
+43,Hakoah Amidar,0:3,Maccabi Haifa,2008/09,2008
+44,Maccabi Netanya,2:2,Bnei Yehuda,2008/09,2008
+45,Bnei Sakhnin,0:3,H. Petah Tikva,2008/09,2008
+46,M. Petah Tikva,2:3,FC Ashdod,2008/09,2008
+47,M. Tel Aviv,0:1,Kiryat Shmona,2008/09,2008
+48,B. Jerusalem,0:2,Hapoel Tel Aviv,2008/09,2008
+49,Hapoel Tel Aviv,1:1,M. Petah Tikva,2008/09,2008
+50,H. Petah Tikva,0:1,M. Tel Aviv,2008/09,2008
+51,Kiryat Shmona,0:2,Hakoah Amidar,2008/09,2008
+52,FC Ashdod,4:2,Bnei Sakhnin,2008/09,2008
+53,Bnei Yehuda,0:3,B. Jerusalem,2008/09,2008
+54,Maccabi Haifa,2:3,Maccabi Netanya,2008/09,2008
+55,Bnei Sakhnin,1:0,Hapoel Tel Aviv,2008/09,2008
+56,M. Petah Tikva,0:0,Bnei Yehuda,2008/09,2008
+57,Hakoah Amidar,0:1,H. Petah Tikva,2008/09,2008
+58,Maccabi Haifa,1:1,Kiryat Shmona,2008/09,2008
+59,M. Tel Aviv,2:2,FC Ashdod,2008/09,2008
+60,Maccabi Netanya,1:2,B. Jerusalem,2008/09,2008
+61,H. Petah Tikva,1:4,Maccabi Haifa,2008/09,2008
+62,Kiryat Shmona,0:3,Maccabi Netanya,2008/09,2008
+63,FC Ashdod,3:2,Hakoah Amidar,2008/09,2008
+64,Bnei Yehuda,2:0,Bnei Sakhnin,2008/09,2008
+65,B. Jerusalem,1:1,M. Petah Tikva,2008/09,2008
+66,Hapoel Tel Aviv,2:0,M. Tel Aviv,2008/09,2008
+67,Hapoel Tel Aviv,3:0,Hakoah Amidar,2008/09,2008
+68,Maccabi Netanya,0:0,M. Petah Tikva,2008/09,2008
+69,FC Ashdod,1:3,Maccabi Haifa,2008/09,2008
+70,H. Petah Tikva,3:0,Kiryat Shmona,2008/09,2008
+71,Bnei Yehuda,3:2,M. Tel Aviv,2008/09,2008
+72,B. Jerusalem,0:0,Bnei Sakhnin,2008/09,2008
+73,H. Petah Tikva,0:0,Maccabi Netanya,2008/09,2008
+74,Hakoah Amidar,0:1,Bnei Yehuda,2008/09,2008
+75,Bnei Sakhnin,2:1,M. Petah Tikva,2008/09,2008
+76,Kiryat Shmona,1:1,FC Ashdod,2008/09,2008
+77,M. Tel Aviv,0:0,B. Jerusalem,2008/09,2008
+78,Maccabi Haifa,2:2,Hapoel Tel Aviv,2008/09,2008
+79,Maccabi Netanya,1:1,Bnei Sakhnin,2008/09,2008
+80,Hapoel Tel Aviv,1:1,Kiryat Shmona,2008/09,2008
+81,M. Petah Tikva,0:0,M. Tel Aviv,2008/09,2008
+82,B. Jerusalem,3:0,Hakoah Amidar,2008/09,2008
+83,FC Ashdod,4:1,H. Petah Tikva,2008/09,2008
+84,Bnei Yehuda,0:1,Maccabi Haifa,2008/09,2008
+85,H. Petah Tikva,0:2,Hapoel Tel Aviv,2008/09,2008
+86,FC Ashdod,3:3,Maccabi Netanya,2008/09,2008
+87,Kiryat Shmona,0:2,Bnei Yehuda,2008/09,2008
+88,Hakoah Amidar,2:2,M. Petah Tikva,2008/09,2008
+89,M. Tel Aviv,1:1,Bnei Sakhnin,2008/09,2008
+90,Maccabi Haifa,0:0,B. Jerusalem,2008/09,2008
+91,Bnei Sakhnin,0:1,Hakoah Amidar,2008/09,2008
+92,Hapoel Tel Aviv,2:0,FC Ashdod,2008/09,2008
+93,M. Petah Tikva,2:0,Maccabi Haifa,2008/09,2008
+94,B. Jerusalem,2:2,Kiryat Shmona,2008/09,2008
+95,Bnei Yehuda,1:0,H. Petah Tikva,2008/09,2008
+96,Maccabi Netanya,1:0,M. Tel Aviv,2008/09,2008
+97,Maccabi Haifa,2:1,Bnei Sakhnin,2008/09,2008
+98,Hakoah Amidar,0:1,M. Tel Aviv,2008/09,2008
+99,FC Ashdod,0:2,Bnei Yehuda,2008/09,2008
+100,Kiryat Shmona,0:0,M. Petah Tikva,2008/09,2008
+101,H. Petah Tikva,0:2,B. Jerusalem,2008/09,2008
+102,Hapoel Tel Aviv,2:1,Maccabi Netanya,2008/09,2008
+103,Bnei Yehuda,3:0,Hapoel Tel Aviv,2008/09,2008
+104,M. Petah Tikva,2:1,H. Petah Tikva,2008/09,2008
+105,Maccabi Netanya,2:2,Hakoah Amidar,2008/09,2008
+106,Bnei Sakhnin,1:0,Kiryat Shmona,2008/09,2008
+107,B. Jerusalem,3:2,FC Ashdod,2008/09,2008
+108,M. Tel Aviv,1:1,Maccabi Haifa,2008/09,2008
+109,Bnei Yehuda,1:1,Maccabi Netanya,2008/09,2008
+110,Kiryat Shmona,1:2,M. Tel Aviv,2008/09,2008
+111,FC Ashdod,1:1,M. Petah Tikva,2008/09,2008
+112,H. Petah Tikva,1:1,Bnei Sakhnin,2008/09,2008
+113,Maccabi Haifa,2:0,Hakoah Amidar,2008/09,2008
+114,Hapoel Tel Aviv,4:0,B. Jerusalem,2008/09,2008
+115,M. Tel Aviv,1:2,H. Petah Tikva,2008/09,2008
+116,M. Petah Tikva,1:1,Hapoel Tel Aviv,2008/09,2008
+117,Hakoah Amidar,1:0,Kiryat Shmona,2008/09,2008
+118,Bnei Sakhnin,0:2,FC Ashdod,2008/09,2008
+119,B. Jerusalem,1:0,Bnei Yehuda,2008/09,2008
+120,Maccabi Netanya,2:0,Maccabi Haifa,2008/09,2008
+121,Bnei Yehuda,1:0,M. Petah Tikva,2008/09,2008
+122,Kiryat Shmona,1:0,Maccabi Haifa,2008/09,2008
+123,H. Petah Tikva,1:0,Hakoah Amidar,2008/09,2008
+124,FC Ashdod,1:0,M. Tel Aviv,2008/09,2008
+125,Hapoel Tel Aviv,1:0,Bnei Sakhnin,2008/09,2008
+126,B. Jerusalem,2:1,Maccabi Netanya,2008/09,2008
+127,Maccabi Netanya,2:1,Kiryat Shmona,2008/09,2008
+128,Maccabi Haifa,1:0,H. Petah Tikva,2008/09,2008
+129,Bnei Sakhnin,0:2,Bnei Yehuda,2008/09,2008
+130,Hakoah Amidar,1:1,FC Ashdod,2008/09,2008
+131,M. Petah Tikva,0:1,B. Jerusalem,2008/09,2008
+132,M. Tel Aviv,1:3,Hapoel Tel Aviv,2008/09,2008
+133,M. Petah Tikva,0:0,Bnei Sakhnin,2008/09,2008
+134,Maccabi Netanya,0:0,Hakoah Amidar,2008/09,2008
+135,FC Ashdod,2:0,Kiryat Shmona,2008/09,2008
+136,H. Petah Tikva,1:2,M. Tel Aviv,2008/09,2008
+137,Bnei Yehuda,0:1,Maccabi Haifa,2008/09,2008
+138,B. Jerusalem,2:1,Hapoel Tel Aviv,2008/09,2008
+139,Hakoah Amidar,1:1,M. Tel Aviv,2008/09,2008
+140,Bnei Sakhnin,3:2,FC Ashdod,2008/09,2008
+141,Kiryat Shmona,1:1,H. Petah Tikva,2008/09,2008
+142,Maccabi Haifa,0:0,M. Petah Tikva,2008/09,2008
+143,Hapoel Tel Aviv,2:1,Bnei Yehuda,2008/09,2008
+144,Maccabi Netanya,1:0,B. Jerusalem,2008/09,2008
+145,Bnei Yehuda,2:0,Maccabi Netanya,2008/09,2008
+146,M. Petah Tikva,1:2,Hapoel Tel Aviv,2008/09,2008
+147,B. Jerusalem,4:0,Hakoah Amidar,2008/09,2008
+148,H. Petah Tikva,2:2,Bnei Sakhnin,2008/09,2008
+149,M. Tel Aviv,3:2,Kiryat Shmona,2008/09,2008
+150,FC Ashdod,0:3,Maccabi Haifa,2008/09,2008
+151,Bnei Sakhnin,0:3,M. Tel Aviv,2008/09,2008
+152,Hakoah Amidar,1:0,Kiryat Shmona,2008/09,2008
+153,Maccabi Haifa,2:1,H. Petah Tikva,2008/09,2008
+154,Maccabi Netanya,1:2,M. Petah Tikva,2008/09,2008
+155,Hapoel Tel Aviv,1:0,FC Ashdod,2008/09,2008
+156,B. Jerusalem,2:2,Bnei Yehuda,2008/09,2008
+157,H. Petah Tikva,0:1,Hapoel Tel Aviv,2008/09,2008
+158,Kiryat Shmona,0:2,Bnei Sakhnin,2008/09,2008
+159,Bnei Yehuda,1:0,Hakoah Amidar,2008/09,2008
+160,FC Ashdod,0:0,Maccabi Netanya,2008/09,2008
+161,M. Petah Tikva,0:2,B. Jerusalem,2008/09,2008
+162,M. Tel Aviv,1:1,Maccabi Haifa,2008/09,2008
+163,Maccabi Haifa,2:1,Kiryat Shmona,2008/09,2008
+164,Hakoah Amidar,1:1,Bnei Sakhnin,2008/09,2008
+165,Maccabi Netanya,1:0,H. Petah Tikva,2008/09,2008
+166,Bnei Yehuda,1:1,M. Petah Tikva,2008/09,2008
+167,B. Jerusalem,2:1,FC Ashdod,2008/09,2008
+168,Hapoel Tel Aviv,1:1,M. Tel Aviv,2008/09,2008
+169,M. Petah Tikva,0:2,Hakoah Amidar,2008/09,2008
+170,M. Tel Aviv,0:1,Maccabi Netanya,2008/09,2008
+171,FC Ashdod,0:3,Bnei Yehuda,2008/09,2008
+172,Kiryat Shmona,1:3,Hapoel Tel Aviv,2008/09,2008
+173,H. Petah Tikva,0:0,B. Jerusalem,2008/09,2008
+174,Bnei Sakhnin,0:0,Maccabi Haifa,2008/09,2008
+175,Maccabi Haifa,2:0,Hakoah Amidar,2008/09,2008
+176,Maccabi Netanya,1:3,Kiryat Shmona,2008/09,2008
+177,Bnei Yehuda,2:1,H. Petah Tikva,2008/09,2008
+178,M. Petah Tikva,0:0,FC Ashdod,2008/09,2008
+179,B. Jerusalem,2:0,M. Tel Aviv,2008/09,2008
+180,Hapoel Tel Aviv,1:1,Bnei Sakhnin,2008/09,2008
+181,M. Tel Aviv,2:1,Bnei Yehuda,2008/09,2008
+182,Hakoah Amidar,0:0,FC Ashdod,2008/09,2008
+183,H. Petah Tikva,2:0,M. Petah Tikva,2008/09,2008
+184,Kiryat Shmona,2:0,B. Jerusalem,2008/09,2008
+185,Bnei Sakhnin,0:0,Maccabi Netanya,2008/09,2008
+186,Maccabi Haifa,1:0,Hapoel Tel Aviv,2008/09,2008
+187,Maccabi Netanya,0:2,Maccabi Haifa,2008/09,2008
+188,B. Jerusalem,3:0,Bnei Sakhnin,2008/09,2008
+189,Bnei Yehuda,0:0,Kiryat Shmona,2008/09,2008
+190,M. Petah Tikva,0:3,M. Tel Aviv,2008/09,2008
+191,FC Ashdod,1:0,H. Petah Tikva,2008/09,2008
+192,Hapoel Tel Aviv,3:2,Hakoah Amidar,2008/09,2008
+193,M. Tel Aviv,1:0,FC Ashdod,2008/09,2008
+194,Kiryat Shmona,1:2,M. Petah Tikva,2008/09,2008
+195,Bnei Sakhnin,3:1,Bnei Yehuda,2008/09,2008
+196,Hapoel Tel Aviv,1:2,Maccabi Netanya,2008/09,2008
+197,Hakoah Amidar,1:0,H. Petah Tikva,2008/09,2008
+198,Maccabi Haifa,1:1,B. Jerusalem,2008/09,2008

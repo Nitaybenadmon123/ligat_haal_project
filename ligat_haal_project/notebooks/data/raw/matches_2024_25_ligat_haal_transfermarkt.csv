@@ -1,183 +1,183 @@
-round,home,score,away
-1,M. Bnei Reineh,4:3,Maccabi Netanya
-2,Bnei Sakhnin,2:0,M. Petah Tikva
-3,Hapoel Hadera,0:0,Hapoel Haifa
-4,Maccabi Haifa,4:0,Ironi Tiberias
-5,B. Jerusalem,3:2,FC Ashdod
-6,Kiryat Shmona,0:1,H. Beer Sheva
-7,M. Tel Aviv,2:1,H. Jerusalem
-8,Hapoel Haifa,1:3,M. Bnei Reineh
-9,FC Ashdod,2:1,Kiryat Shmona
-10,H. Jerusalem,1:1,Hapoel Hadera
-11,Ironi Tiberias,1:0,B. Jerusalem
-12,Maccabi Netanya,0:2,Maccabi Haifa
-13,H. Beer Sheva,0:0,Bnei Sakhnin
-14,M. Petah Tikva,0:3,M. Tel Aviv
-15,Bnei Sakhnin,2:2,FC Ashdod
-16,Hapoel Haifa,4:0,H. Jerusalem
-17,M. Bnei Reineh,2:2,Maccabi Haifa
-18,Kiryat Shmona,2:0,Ironi Tiberias
-19,M. Tel Aviv,1:0,H. Beer Sheva
-20,B. Jerusalem,2:0,Maccabi Netanya
-21,Hapoel Hadera,0:1,M. Petah Tikva
-22,H. Jerusalem,0:1,M. Bnei Reineh
-23,Ironi Tiberias,1:0,Bnei Sakhnin
-24,M. Petah Tikva,0:0,Hapoel Haifa
-25,Maccabi Netanya,2:0,Kiryat Shmona
-26,H. Beer Sheva,2:1,Hapoel Hadera
-27,FC Ashdod,0:2,M. Tel Aviv
-28,B. Jerusalem,3:2,Maccabi Haifa
-29,Kiryat Shmona,0:4,Maccabi Haifa
-30,M. Bnei Reineh,0:2,B. Jerusalem
-31,H. Jerusalem,4:1,M. Petah Tikva
-32,H. Beer Sheva,3:0,Hapoel Haifa
-33,M. Tel Aviv,1:1,Ironi Tiberias
-34,Bnei Sakhnin,1:0,Maccabi Netanya
-35,Hapoel Hadera,0:3,FC Ashdod
-36,FC Ashdod,0:1,Hapoel Haifa
-37,Maccabi Haifa,3:0,Bnei Sakhnin
-38,M. Petah Tikva,2:1,M. Bnei Reineh
-39,Ironi Tiberias,1:1,Hapoel Hadera
-40,B. Jerusalem,1:1,Kiryat Shmona
-41,H. Beer Sheva,3:1,H. Jerusalem
-42,Maccabi Netanya,1:2,M. Tel Aviv
-43,M. Bnei Reineh,1:0,Kiryat Shmona
-44,Hapoel Hadera,2:2,Maccabi Netanya
-45,Hapoel Haifa,1:0,Ironi Tiberias
-46,M. Tel Aviv,2:0,Maccabi Haifa
-47,H. Jerusalem,1:0,FC Ashdod
-48,M. Petah Tikva,2:5,H. Beer Sheva
-49,Bnei Sakhnin,2:1,B. Jerusalem
-50,Kiryat Shmona,2:1,Bnei Sakhnin
-51,FC Ashdod,0:0,M. Petah Tikva
-52,Ironi Tiberias,0:2,H. Jerusalem
-53,H. Beer Sheva,1:1,M. Bnei Reineh
-54,Maccabi Netanya,0:3,Hapoel Haifa
-55,B. Jerusalem,3:1,M. Tel Aviv
-56,Maccabi Haifa,4:2,Hapoel Hadera
-57,H. Jerusalem,2:3,Maccabi Netanya
-58,M. Tel Aviv,0:1,Kiryat Shmona
-59,M. Bnei Reineh,0:1,Bnei Sakhnin
-60,M. Petah Tikva,0:0,Ironi Tiberias
-61,Hapoel Hadera,0:4,B. Jerusalem
-62,H. Beer Sheva,3:1,FC Ashdod
-63,Hapoel Haifa,1:4,Maccabi Haifa
-64,H. Jerusalem,0:0,Maccabi Haifa
-65,B. Jerusalem,1:0,Hapoel Haifa
-66,Ironi Tiberias,0:2,H. Beer Sheva
-67,FC Ashdod,1:2,M. Bnei Reineh
-68,Kiryat Shmona,1:1,Hapoel Hadera
-69,Maccabi Netanya,1:2,M. Petah Tikva
-70,Bnei Sakhnin,0:4,M. Tel Aviv
-71,Kiryat Shmona,2:1,Hapoel Haifa
-72,M. Petah Tikva,1:2,Maccabi Haifa
-73,Hapoel Hadera,0:0,Bnei Sakhnin
-74,FC Ashdod,1:0,Ironi Tiberias
-75,H. Beer Sheva,1:0,Maccabi Netanya
-76,H. Jerusalem,3:3,B. Jerusalem
-77,M. Bnei Reineh,1:2,M. Tel Aviv
-78,Bnei Sakhnin,0:2,Hapoel Haifa
-79,Maccabi Netanya,2:2,FC Ashdod
-80,Kiryat Shmona,2:0,H. Jerusalem
-81,B. Jerusalem,5:0,M. Petah Tikva
-82,Maccabi Haifa,0:2,H. Beer Sheva
-83,M. Bnei Reineh,1:0,Ironi Tiberias
-84,M. Tel Aviv,2:2,Hapoel Hadera
-85,M. Petah Tikva,0:1,Kiryat Shmona
-86,FC Ashdod,1:3,Maccabi Haifa
-87,H. Jerusalem,1:0,Bnei Sakhnin
-88,Hapoel Haifa,1:1,M. Tel Aviv
-89,Hapoel Hadera,2:1,M. Bnei Reineh
-90,Ironi Tiberias,2:3,Maccabi Netanya
-91,H. Beer Sheva,4:1,B. Jerusalem
-92,Maccabi Netanya,2:0,M. Bnei Reineh
-93,H. Beer Sheva,5:1,Kiryat Shmona
-94,M. Petah Tikva,1:1,Bnei Sakhnin
-95,Hapoel Haifa,3:0,Hapoel Hadera
-96,FC Ashdod,2:3,B. Jerusalem
-97,Ironi Tiberias,0:0,Maccabi Haifa
-98,H. Jerusalem,2:3,M. Tel Aviv
-99,M. Tel Aviv,3:2,M. Petah Tikva
-100,M. Bnei Reineh,0:2,Hapoel Haifa
-101,Hapoel Hadera,1:1,H. Jerusalem
-102,Bnei Sakhnin,0:0,H. Beer Sheva
-103,Maccabi Haifa,2:1,Maccabi Netanya
-104,Kiryat Shmona,3:2,FC Ashdod
-105,B. Jerusalem,1:1,Ironi Tiberias
-106,Ironi Tiberias,3:1,Kiryat Shmona
-107,M. Petah Tikva,0:0,Hapoel Hadera
-108,FC Ashdod,3:5,Bnei Sakhnin
-109,H. Jerusalem,1:0,Hapoel Haifa
-110,Maccabi Netanya,3:0,B. Jerusalem
-111,H. Beer Sheva,2:2,M. Tel Aviv
-112,Maccabi Haifa,2:0,M. Bnei Reineh
-113,Hapoel Haifa,5:1,M. Petah Tikva
-114,M. Tel Aviv,5:1,FC Ashdod
-115,Bnei Sakhnin,0:0,Ironi Tiberias
-116,Hapoel Hadera,1:2,H. Beer Sheva
-117,Kiryat Shmona,0:1,Maccabi Netanya
-118,M. Bnei Reineh,0:0,H. Jerusalem
-119,Maccabi Haifa,1:3,B. Jerusalem
-120,Maccabi Haifa,4:1,Kiryat Shmona
-121,B. Jerusalem,1:4,M. Bnei Reineh
-122,Maccabi Netanya,4:0,Bnei Sakhnin
-123,M. Petah Tikva,2:0,H. Jerusalem
-124,Ironi Tiberias,2:2,M. Tel Aviv
-125,FC Ashdod,1:1,Hapoel Hadera
-126,Hapoel Haifa,0:1,H. Beer Sheva
-127,Kiryat Shmona,0:3,B. Jerusalem
-128,Bnei Sakhnin,0:3,Maccabi Haifa
-129,M. Bnei Reineh,1:2,M. Petah Tikva
-130,M. Tel Aviv,4:1,Maccabi Netanya
-131,H. Jerusalem,0:2,H. Beer Sheva
-132,Hapoel Haifa,2:1,FC Ashdod
-133,Hapoel Hadera,1:2,Ironi Tiberias
-134,B. Jerusalem,1:0,Bnei Sakhnin
-135,Ironi Tiberias,1:1,Hapoel Haifa
-136,Kiryat Shmona,0:0,M. Bnei Reineh
-137,FC Ashdod,1:1,H. Jerusalem
-138,H. Beer Sheva,1:0,M. Petah Tikva
-139,Maccabi Netanya,2:1,Hapoel Hadera
-140,Maccabi Haifa,0:3,M. Tel Aviv
-141,M. Bnei Reineh,1:0,H. Beer Sheva
-142,H. Jerusalem,4:0,Ironi Tiberias
-143,M. Petah Tikva,2:2,FC Ashdod
-144,Bnei Sakhnin,0:1,Kiryat Shmona
-145,Hapoel Hadera,1:3,Maccabi Haifa
-146,Hapoel Haifa,1:3,Maccabi Netanya
-147,M. Tel Aviv,1:1,B. Jerusalem
-148,Maccabi Netanya,2:1,H. Jerusalem
-149,B. Jerusalem,0:0,Hapoel Hadera
-150,Bnei Sakhnin,2:0,M. Bnei Reineh
-151,Ironi Tiberias,1:2,M. Petah Tikva
-152,FC Ashdod,0:2,H. Beer Sheva
-153,Kiryat Shmona,1:2,M. Tel Aviv
-154,Maccabi Haifa,1:1,Hapoel Haifa
-155,H. Beer Sheva,4:0,Ironi Tiberias
-156,M. Petah Tikva,0:1,Maccabi Netanya
-157,M. Bnei Reineh,1:4,FC Ashdod
-158,Hapoel Hadera,0:2,Kiryat Shmona
-159,Hapoel Haifa,3:2,B. Jerusalem
-160,M. Tel Aviv,3:1,Bnei Sakhnin
-161,Maccabi Haifa,3:3,H. Jerusalem
-162,B. Jerusalem,1:1,H. Jerusalem
-163,M. Tel Aviv,0:1,M. Bnei Reineh
-164,Ironi Tiberias,2:1,FC Ashdod
-165,Maccabi Haifa,1:0,M. Petah Tikva
-166,Maccabi Netanya,1:2,H. Beer Sheva
-167,Bnei Sakhnin,0:1,Hapoel Hadera
-168,Hapoel Haifa,4:3,Kiryat Shmona
-169,H. Jerusalem,0:0,Kiryat Shmona
-170,FC Ashdod,0:0,Maccabi Netanya
-171,Hapoel Hadera,2:3,M. Tel Aviv
-172,Ironi Tiberias,1:0,M. Bnei Reineh
-173,Hapoel Haifa,2:1,Bnei Sakhnin
-174,M. Petah Tikva,1:2,B. Jerusalem
-175,H. Beer Sheva,3:3,Maccabi Haifa
-176,Maccabi Netanya,1:1,Ironi Tiberias
-177,M. Tel Aviv,2:0,Hapoel Haifa
-178,M. Bnei Reineh,1:2,Hapoel Hadera
-179,Bnei Sakhnin,0:2,H. Jerusalem
-180,Kiryat Shmona,2:0,M. Petah Tikva
-181,Maccabi Haifa,1:2,FC Ashdod
-182,B. Jerusalem,1:1,H. Beer Sheva
+﻿round,home,score,away,season,season_year
+1,M. Bnei Reineh,4:3,Maccabi Netanya,2024/25,2024
+2,Bnei Sakhnin,2:0,M. Petah Tikva,2024/25,2024
+3,Hapoel Hadera,0:0,Hapoel Haifa,2024/25,2024
+4,Maccabi Haifa,4:0,Ironi Tiberias,2024/25,2024
+5,B. Jerusalem,3:2,FC Ashdod,2024/25,2024
+6,Kiryat Shmona,0:1,H. Beer Sheva,2024/25,2024
+7,M. Tel Aviv,2:1,H. Jerusalem,2024/25,2024
+8,Hapoel Haifa,1:3,M. Bnei Reineh,2024/25,2024
+9,FC Ashdod,2:1,Kiryat Shmona,2024/25,2024
+10,H. Jerusalem,1:1,Hapoel Hadera,2024/25,2024
+11,Ironi Tiberias,1:0,B. Jerusalem,2024/25,2024
+12,Maccabi Netanya,0:2,Maccabi Haifa,2024/25,2024
+13,H. Beer Sheva,0:0,Bnei Sakhnin,2024/25,2024
+14,M. Petah Tikva,0:3,M. Tel Aviv,2024/25,2024
+15,Bnei Sakhnin,2:2,FC Ashdod,2024/25,2024
+16,Hapoel Haifa,4:0,H. Jerusalem,2024/25,2024
+17,M. Bnei Reineh,2:2,Maccabi Haifa,2024/25,2024
+18,Kiryat Shmona,2:0,Ironi Tiberias,2024/25,2024
+19,M. Tel Aviv,1:0,H. Beer Sheva,2024/25,2024
+20,B. Jerusalem,2:0,Maccabi Netanya,2024/25,2024
+21,Hapoel Hadera,0:1,M. Petah Tikva,2024/25,2024
+22,H. Jerusalem,0:1,M. Bnei Reineh,2024/25,2024
+23,Ironi Tiberias,1:0,Bnei Sakhnin,2024/25,2024
+24,M. Petah Tikva,0:0,Hapoel Haifa,2024/25,2024
+25,Maccabi Netanya,2:0,Kiryat Shmona,2024/25,2024
+26,H. Beer Sheva,2:1,Hapoel Hadera,2024/25,2024
+27,FC Ashdod,0:2,M. Tel Aviv,2024/25,2024
+28,B. Jerusalem,3:2,Maccabi Haifa,2024/25,2024
+29,Kiryat Shmona,0:4,Maccabi Haifa,2024/25,2024
+30,M. Bnei Reineh,0:2,B. Jerusalem,2024/25,2024
+31,H. Jerusalem,4:1,M. Petah Tikva,2024/25,2024
+32,H. Beer Sheva,3:0,Hapoel Haifa,2024/25,2024
+33,M. Tel Aviv,1:1,Ironi Tiberias,2024/25,2024
+34,Bnei Sakhnin,1:0,Maccabi Netanya,2024/25,2024
+35,Hapoel Hadera,0:3,FC Ashdod,2024/25,2024
+36,FC Ashdod,0:1,Hapoel Haifa,2024/25,2024
+37,Maccabi Haifa,3:0,Bnei Sakhnin,2024/25,2024
+38,M. Petah Tikva,2:1,M. Bnei Reineh,2024/25,2024
+39,Ironi Tiberias,1:1,Hapoel Hadera,2024/25,2024
+40,B. Jerusalem,1:1,Kiryat Shmona,2024/25,2024
+41,H. Beer Sheva,3:1,H. Jerusalem,2024/25,2024
+42,Maccabi Netanya,1:2,M. Tel Aviv,2024/25,2024
+43,M. Bnei Reineh,1:0,Kiryat Shmona,2024/25,2024
+44,Hapoel Hadera,2:2,Maccabi Netanya,2024/25,2024
+45,Hapoel Haifa,1:0,Ironi Tiberias,2024/25,2024
+46,M. Tel Aviv,2:0,Maccabi Haifa,2024/25,2024
+47,H. Jerusalem,1:0,FC Ashdod,2024/25,2024
+48,M. Petah Tikva,2:5,H. Beer Sheva,2024/25,2024
+49,Bnei Sakhnin,2:1,B. Jerusalem,2024/25,2024
+50,Kiryat Shmona,2:1,Bnei Sakhnin,2024/25,2024
+51,FC Ashdod,0:0,M. Petah Tikva,2024/25,2024
+52,Ironi Tiberias,0:2,H. Jerusalem,2024/25,2024
+53,H. Beer Sheva,1:1,M. Bnei Reineh,2024/25,2024
+54,Maccabi Netanya,0:3,Hapoel Haifa,2024/25,2024
+55,B. Jerusalem,3:1,M. Tel Aviv,2024/25,2024
+56,Maccabi Haifa,4:2,Hapoel Hadera,2024/25,2024
+57,H. Jerusalem,2:3,Maccabi Netanya,2024/25,2024
+58,M. Tel Aviv,0:1,Kiryat Shmona,2024/25,2024
+59,M. Bnei Reineh,0:1,Bnei Sakhnin,2024/25,2024
+60,M. Petah Tikva,0:0,Ironi Tiberias,2024/25,2024
+61,Hapoel Hadera,0:4,B. Jerusalem,2024/25,2024
+62,H. Beer Sheva,3:1,FC Ashdod,2024/25,2024
+63,Hapoel Haifa,1:4,Maccabi Haifa,2024/25,2024
+64,H. Jerusalem,0:0,Maccabi Haifa,2024/25,2024
+65,B. Jerusalem,1:0,Hapoel Haifa,2024/25,2024
+66,Ironi Tiberias,0:2,H. Beer Sheva,2024/25,2024
+67,FC Ashdod,1:2,M. Bnei Reineh,2024/25,2024
+68,Kiryat Shmona,1:1,Hapoel Hadera,2024/25,2024
+69,Maccabi Netanya,1:2,M. Petah Tikva,2024/25,2024
+70,Bnei Sakhnin,0:4,M. Tel Aviv,2024/25,2024
+71,Kiryat Shmona,2:1,Hapoel Haifa,2024/25,2024
+72,M. Petah Tikva,1:2,Maccabi Haifa,2024/25,2024
+73,Hapoel Hadera,0:0,Bnei Sakhnin,2024/25,2024
+74,FC Ashdod,1:0,Ironi Tiberias,2024/25,2024
+75,H. Beer Sheva,1:0,Maccabi Netanya,2024/25,2024
+76,H. Jerusalem,3:3,B. Jerusalem,2024/25,2024
+77,M. Bnei Reineh,1:2,M. Tel Aviv,2024/25,2024
+78,Bnei Sakhnin,0:2,Hapoel Haifa,2024/25,2024
+79,Maccabi Netanya,2:2,FC Ashdod,2024/25,2024
+80,Kiryat Shmona,2:0,H. Jerusalem,2024/25,2024
+81,B. Jerusalem,5:0,M. Petah Tikva,2024/25,2024
+82,Maccabi Haifa,0:2,H. Beer Sheva,2024/25,2024
+83,M. Bnei Reineh,1:0,Ironi Tiberias,2024/25,2024
+84,M. Tel Aviv,2:2,Hapoel Hadera,2024/25,2024
+85,M. Petah Tikva,0:1,Kiryat Shmona,2024/25,2024
+86,FC Ashdod,1:3,Maccabi Haifa,2024/25,2024
+87,H. Jerusalem,1:0,Bnei Sakhnin,2024/25,2024
+88,Hapoel Haifa,1:1,M. Tel Aviv,2024/25,2024
+89,Hapoel Hadera,2:1,M. Bnei Reineh,2024/25,2024
+90,Ironi Tiberias,2:3,Maccabi Netanya,2024/25,2024
+91,H. Beer Sheva,4:1,B. Jerusalem,2024/25,2024
+92,Maccabi Netanya,2:0,M. Bnei Reineh,2024/25,2024
+93,H. Beer Sheva,5:1,Kiryat Shmona,2024/25,2024
+94,M. Petah Tikva,1:1,Bnei Sakhnin,2024/25,2024
+95,Hapoel Haifa,3:0,Hapoel Hadera,2024/25,2024
+96,FC Ashdod,2:3,B. Jerusalem,2024/25,2024
+97,Ironi Tiberias,0:0,Maccabi Haifa,2024/25,2024
+98,H. Jerusalem,2:3,M. Tel Aviv,2024/25,2024
+99,M. Tel Aviv,3:2,M. Petah Tikva,2024/25,2024
+100,M. Bnei Reineh,0:2,Hapoel Haifa,2024/25,2024
+101,Hapoel Hadera,1:1,H. Jerusalem,2024/25,2024
+102,Bnei Sakhnin,0:0,H. Beer Sheva,2024/25,2024
+103,Maccabi Haifa,2:1,Maccabi Netanya,2024/25,2024
+104,Kiryat Shmona,3:2,FC Ashdod,2024/25,2024
+105,B. Jerusalem,1:1,Ironi Tiberias,2024/25,2024
+106,Ironi Tiberias,3:1,Kiryat Shmona,2024/25,2024
+107,M. Petah Tikva,0:0,Hapoel Hadera,2024/25,2024
+108,FC Ashdod,3:5,Bnei Sakhnin,2024/25,2024
+109,H. Jerusalem,1:0,Hapoel Haifa,2024/25,2024
+110,Maccabi Netanya,3:0,B. Jerusalem,2024/25,2024
+111,H. Beer Sheva,2:2,M. Tel Aviv,2024/25,2024
+112,Maccabi Haifa,2:0,M. Bnei Reineh,2024/25,2024
+113,Hapoel Haifa,5:1,M. Petah Tikva,2024/25,2024
+114,M. Tel Aviv,5:1,FC Ashdod,2024/25,2024
+115,Bnei Sakhnin,0:0,Ironi Tiberias,2024/25,2024
+116,Hapoel Hadera,1:2,H. Beer Sheva,2024/25,2024
+117,Kiryat Shmona,0:1,Maccabi Netanya,2024/25,2024
+118,M. Bnei Reineh,0:0,H. Jerusalem,2024/25,2024
+119,Maccabi Haifa,1:3,B. Jerusalem,2024/25,2024
+120,Maccabi Haifa,4:1,Kiryat Shmona,2024/25,2024
+121,B. Jerusalem,1:4,M. Bnei Reineh,2024/25,2024
+122,Maccabi Netanya,4:0,Bnei Sakhnin,2024/25,2024
+123,M. Petah Tikva,2:0,H. Jerusalem,2024/25,2024
+124,Ironi Tiberias,2:2,M. Tel Aviv,2024/25,2024
+125,FC Ashdod,1:1,Hapoel Hadera,2024/25,2024
+126,Hapoel Haifa,0:1,H. Beer Sheva,2024/25,2024
+127,Kiryat Shmona,0:3,B. Jerusalem,2024/25,2024
+128,Bnei Sakhnin,0:3,Maccabi Haifa,2024/25,2024
+129,M. Bnei Reineh,1:2,M. Petah Tikva,2024/25,2024
+130,M. Tel Aviv,4:1,Maccabi Netanya,2024/25,2024
+131,H. Jerusalem,0:2,H. Beer Sheva,2024/25,2024
+132,Hapoel Haifa,2:1,FC Ashdod,2024/25,2024
+133,Hapoel Hadera,1:2,Ironi Tiberias,2024/25,2024
+134,B. Jerusalem,1:0,Bnei Sakhnin,2024/25,2024
+135,Ironi Tiberias,1:1,Hapoel Haifa,2024/25,2024
+136,Kiryat Shmona,0:0,M. Bnei Reineh,2024/25,2024
+137,FC Ashdod,1:1,H. Jerusalem,2024/25,2024
+138,H. Beer Sheva,1:0,M. Petah Tikva,2024/25,2024
+139,Maccabi Netanya,2:1,Hapoel Hadera,2024/25,2024
+140,Maccabi Haifa,0:3,M. Tel Aviv,2024/25,2024
+141,M. Bnei Reineh,1:0,H. Beer Sheva,2024/25,2024
+142,H. Jerusalem,4:0,Ironi Tiberias,2024/25,2024
+143,M. Petah Tikva,2:2,FC Ashdod,2024/25,2024
+144,Bnei Sakhnin,0:1,Kiryat Shmona,2024/25,2024
+145,Hapoel Hadera,1:3,Maccabi Haifa,2024/25,2024
+146,Hapoel Haifa,1:3,Maccabi Netanya,2024/25,2024
+147,M. Tel Aviv,1:1,B. Jerusalem,2024/25,2024
+148,Maccabi Netanya,2:1,H. Jerusalem,2024/25,2024
+149,B. Jerusalem,0:0,Hapoel Hadera,2024/25,2024
+150,Bnei Sakhnin,2:0,M. Bnei Reineh,2024/25,2024
+151,Ironi Tiberias,1:2,M. Petah Tikva,2024/25,2024
+152,FC Ashdod,0:2,H. Beer Sheva,2024/25,2024
+153,Kiryat Shmona,1:2,M. Tel Aviv,2024/25,2024
+154,Maccabi Haifa,1:1,Hapoel Haifa,2024/25,2024
+155,H. Beer Sheva,4:0,Ironi Tiberias,2024/25,2024
+156,M. Petah Tikva,0:1,Maccabi Netanya,2024/25,2024
+157,M. Bnei Reineh,1:4,FC Ashdod,2024/25,2024
+158,Hapoel Hadera,0:2,Kiryat Shmona,2024/25,2024
+159,Hapoel Haifa,3:2,B. Jerusalem,2024/25,2024
+160,M. Tel Aviv,3:1,Bnei Sakhnin,2024/25,2024
+161,Maccabi Haifa,3:3,H. Jerusalem,2024/25,2024
+162,B. Jerusalem,1:1,H. Jerusalem,2024/25,2024
+163,M. Tel Aviv,0:1,M. Bnei Reineh,2024/25,2024
+164,Ironi Tiberias,2:1,FC Ashdod,2024/25,2024
+165,Maccabi Haifa,1:0,M. Petah Tikva,2024/25,2024
+166,Maccabi Netanya,1:2,H. Beer Sheva,2024/25,2024
+167,Bnei Sakhnin,0:1,Hapoel Hadera,2024/25,2024
+168,Hapoel Haifa,4:3,Kiryat Shmona,2024/25,2024
+169,H. Jerusalem,0:0,Kiryat Shmona,2024/25,2024
+170,FC Ashdod,0:0,Maccabi Netanya,2024/25,2024
+171,Hapoel Hadera,2:3,M. Tel Aviv,2024/25,2024
+172,Ironi Tiberias,1:0,M. Bnei Reineh,2024/25,2024
+173,Hapoel Haifa,2:1,Bnei Sakhnin,2024/25,2024
+174,M. Petah Tikva,1:2,B. Jerusalem,2024/25,2024
+175,H. Beer Sheva,3:3,Maccabi Haifa,2024/25,2024
+176,Maccabi Netanya,1:1,Ironi Tiberias,2024/25,2024
+177,M. Tel Aviv,2:0,Hapoel Haifa,2024/25,2024
+178,M. Bnei Reineh,1:2,Hapoel Hadera,2024/25,2024
+179,Bnei Sakhnin,0:2,H. Jerusalem,2024/25,2024
+180,Kiryat Shmona,2:0,M. Petah Tikva,2024/25,2024
+181,Maccabi Haifa,1:2,FC Ashdod,2024/25,2024
+182,B. Jerusalem,1:1,H. Beer Sheva,2024/25,2024
