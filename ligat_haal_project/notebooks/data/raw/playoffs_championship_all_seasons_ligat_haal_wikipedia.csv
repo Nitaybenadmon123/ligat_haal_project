@@ -1,0 +1,151 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,championship,Beitar Jerusalem,BnS,0,3,-3,A,0,3
+2015/16,2015,championship,Beitar Jerusalem,HBS,0,2,-2,A,0,3
+2015/16,2015,championship,Beitar Jerusalem,HRA,1,0,1,H,3,0
+2015/16,2015,championship,Beitar Jerusalem,MHA,3,2,1,H,3,0
+2015/16,2015,championship,Beitar Jerusalem,MTA,0,2,-2,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,BEI,2,0,2,H,3,0
+2015/16,2015,championship,Bnei Sakhnin,HBS,1,4,-3,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,HRA,1,1,0,D,1,1
+2015/16,2015,championship,Bnei Sakhnin,MHA,0,1,-1,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,MTA,0,0,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,BEI,2,0,2,H,3,0
+2015/16,2015,championship,Hapoel Be'er Sheva,BnS,3,1,2,H,3,0
+2015/16,2015,championship,Hapoel Be'er Sheva,HRA,0,0,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,MHA,1,1,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,MTA,1,1,0,D,1,1
+2015/16,2015,championship,Hapoel Ra'anana,BEI,1,2,-1,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,BnS,2,3,-1,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,HBS,1,4,-3,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,MHA,3,0,3,H,3,0
+2015/16,2015,championship,Hapoel Ra'anana,MTA,1,1,0,D,1,1
+2015/16,2015,championship,Maccabi Haifa,BEI,1,0,1,H,3,0
+2015/16,2015,championship,Maccabi Haifa,BnS,3,3,0,D,1,1
+2015/16,2015,championship,Maccabi Haifa,HBS,2,1,1,H,3,0
+2015/16,2015,championship,Maccabi Haifa,HRA,2,0,2,H,3,0
+2015/16,2015,championship,Maccabi Haifa,MTA,0,0,0,D,1,1
+2015/16,2015,championship,Maccabi Tel Aviv,BEI,3,2,1,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,BnS,1,0,1,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,HBS,0,0,0,D,1,1
+2015/16,2015,championship,Maccabi Tel Aviv,HRA,3,0,3,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,MHA,6,0,6,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,BnS,3,0,3,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,HBS,1,1,0,D,1,1
+2016/17,2016,championship,Beitar Jerusalem,MHA,2,0,2,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,MPT,2,1,1,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,MTA,1,1,0,D,1,1
+2016/17,2016,championship,Bnei Sakhnin,BEI,1,5,-4,A,0,3
+2016/17,2016,championship,Bnei Sakhnin,HBS,1,3,-2,A,0,3
+2016/17,2016,championship,Bnei Sakhnin,MHA,1,0,1,H,3,0
+2016/17,2016,championship,Bnei Sakhnin,MPT,1,0,1,H,3,0
+2016/17,2016,championship,Bnei Sakhnin,MTA,1,3,-2,A,0,3
+2016/17,2016,championship,Hapoel Be'er Sheva,BEI,2,0,2,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,BnS,2,0,2,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,MHA,4,0,4,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,MPT,1,1,0,D,1,1
+2016/17,2016,championship,Hapoel Be'er Sheva,MTA,1,0,1,H,3,0
+2016/17,2016,championship,Maccabi Haifa,BEI,3,2,1,H,3,0
+2016/17,2016,championship,Maccabi Haifa,BnS,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Haifa,HBS,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Haifa,MPT,0,0,0,D,1,1
+2016/17,2016,championship,Maccabi Haifa,MTA,0,2,-2,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,BEI,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,BnS,1,0,1,H,3,0
+2016/17,2016,championship,Maccabi Petah Tikva,HBS,1,2,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,MHA,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,MTA,2,1,1,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,BEI,0,2,-2,A,0,3
+2016/17,2016,championship,Maccabi Tel Aviv,BnS,3,0,3,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,HBS,1,2,-1,A,0,3
+2016/17,2016,championship,Maccabi Tel Aviv,MHA,3,0,3,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,MPT,2,0,2,H,3,0
+2017/18,2017,championship,Beitar Jerusalem,BnY,1,1,0,D,1,1
+2017/18,2017,championship,Beitar Jerusalem,HBS,1,4,-3,A,0,3
+2017/18,2017,championship,Beitar Jerusalem,HHA,1,1,0,D,1,1
+2017/18,2017,championship,Beitar Jerusalem,MNE,2,0,2,H,3,0
+2017/18,2017,championship,Beitar Jerusalem,MTA,3,2,1,H,3,0
+2017/18,2017,championship,Bnei Yehuda,BEI,3,3,0,D,1,1
+2017/18,2017,championship,Bnei Yehuda,HBS,1,1,0,D,1,1
+2017/18,2017,championship,Bnei Yehuda,HHA,3,0,3,H,3,0
+2017/18,2017,championship,Bnei Yehuda,MNE,1,3,-2,A,0,3
+2017/18,2017,championship,Bnei Yehuda,MTA,0,2,-2,A,0,3
+2017/18,2017,championship,Hapoel Be'er Sheva,BEI,3,1,2,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,BnY,1,0,1,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,HHA,2,2,0,D,1,1
+2017/18,2017,championship,Hapoel Be'er Sheva,MNE,6,1,5,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,MTA,0,1,-1,A,0,3
+2017/18,2017,championship,Hapoel Haifa,BEI,0,1,-1,A,0,3
+2017/18,2017,championship,Hapoel Haifa,BnY,2,1,1,H,3,0
+2017/18,2017,championship,Hapoel Haifa,HBS,1,4,-3,A,0,3
+2017/18,2017,championship,Hapoel Haifa,MNE,1,1,0,D,1,1
+2017/18,2017,championship,Hapoel Haifa,MTA,2,2,0,D,1,1
+2017/18,2017,championship,Maccabi Netanya,BEI,4,1,3,H,3,0
+2017/18,2017,championship,Maccabi Netanya,BnY,0,5,-5,A,0,3
+2017/18,2017,championship,Maccabi Netanya,HBS,1,5,-4,A,0,3
+2017/18,2017,championship,Maccabi Netanya,HHA,2,1,1,H,3,0
+2017/18,2017,championship,Maccabi Netanya,MTA,4,1,3,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,BEI,3,1,2,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,BnY,2,0,2,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,HBS,0,1,-1,A,0,3
+2017/18,2017,championship,Maccabi Tel Aviv,HHA,1,2,-1,A,0,3
+2017/18,2017,championship,Maccabi Tel Aviv,MNE,2,0,2,H,3,0
+2018/19,2018,championship,Bnei Yehuda,HAH,1,2,-1,A,0,3
+2018/19,2018,championship,Bnei Yehuda,HBS,2,3,-1,A,0,3
+2018/19,2018,championship,Bnei Yehuda,MHA,2,2,0,D,1,1
+2018/19,2018,championship,Bnei Yehuda,MNE,1,1,0,D,1,1
+2018/19,2018,championship,Bnei Yehuda,MTA,0,2,-2,A,0,3
+2018/19,2018,championship,Hapoel Hadera,BnY,2,3,-1,A,0,3
+2018/19,2018,championship,Hapoel Hadera,HBS,1,4,-3,A,0,3
+2018/19,2018,championship,Hapoel Hadera,MHA,2,0,2,H,3,0
+2018/19,2018,championship,Hapoel Hadera,MNE,1,2,-1,A,0,3
+2018/19,2018,championship,Hapoel Hadera,MTA,0,1,-1,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,BnY,2,1,1,H,3,0
+2018/19,2018,championship,Hapoel Be'er Sheva,HAH,1,0,1,H,3,0
+2018/19,2018,championship,Hapoel Be'er Sheva,MHA,0,1,-1,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,MNE,0,2,-2,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,MTA,0,4,-4,A,0,3
+2018/19,2018,championship,Maccabi Haifa,BnY,0,2,-2,A,0,3
+2018/19,2018,championship,Maccabi Haifa,HAH,1,3,-2,A,0,3
+2018/19,2018,championship,Maccabi Haifa,HBS,3,1,2,H,3,0
+2018/19,2018,championship,Maccabi Haifa,MNE,2,1,1,H,3,0
+2018/19,2018,championship,Maccabi Haifa,MTA,1,1,0,D,1,1
+2018/19,2018,championship,Maccabi Netanya,BnY,0,2,-2,A,0,3
+2018/19,2018,championship,Maccabi Netanya,HAH,3,2,1,H,3,0
+2018/19,2018,championship,Maccabi Netanya,HBS,0,1,-1,A,0,3
+2018/19,2018,championship,Maccabi Netanya,MHA,1,2,-1,A,0,3
+2018/19,2018,championship,Maccabi Netanya,MTA,1,4,-3,A,0,3
+2018/19,2018,championship,Maccabi Tel Aviv,BnY,2,3,-1,A,0,3
+2018/19,2018,championship,Maccabi Tel Aviv,HAH,2,0,2,H,3,0
+2018/19,2018,championship,Maccabi Tel Aviv,HBS,0,0,0,D,1,1
+2018/19,2018,championship,Maccabi Tel Aviv,MHA,1,0,1,H,3,0
+2018/19,2018,championship,Maccabi Tel Aviv,MNE,3,0,3,H,3,0
+2019/20,2019,championship,Beitar Jerusalem,HBS,1,1,0,D,1,1
+2019/20,2019,championship,Beitar Jerusalem,HHA,1,1,0,D,1,1
+2019/20,2019,championship,Beitar Jerusalem,HTA,3,0,3,H,3,0
+2019/20,2019,championship,Beitar Jerusalem,MHA,2,2,0,D,1,1
+2019/20,2019,championship,Beitar Jerusalem,MTA,0,0,0,D,1,1
+2019/20,2019,championship,Hapoel Be'er Sheva,BEI,2,2,0,D,1,1
+2019/20,2019,championship,Hapoel Be'er Sheva,HHA,3,1,2,H,3,0
+2019/20,2019,championship,Hapoel Be'er Sheva,HTA,0,0,0,D,1,1
+2019/20,2019,championship,Hapoel Be'er Sheva,MHA,0,1,-1,A,0,3
+2019/20,2019,championship,Hapoel Be'er Sheva,MTA,2,0,2,H,3,0
+2019/20,2019,championship,Hapoel Haifa,BEI,0,0,0,D,1,1
+2019/20,2019,championship,Hapoel Haifa,HBS,1,1,0,D,1,1
+2019/20,2019,championship,Hapoel Haifa,HTA,4,0,4,H,3,0
+2019/20,2019,championship,Hapoel Haifa,MHA,1,4,-3,A,0,3
+2019/20,2019,championship,Hapoel Haifa,MTA,0,3,-3,A,0,3
+2019/20,2019,championship,Hapoel Tel Aviv,BEI,3,0,3,H,3,0
+2019/20,2019,championship,Hapoel Tel Aviv,HBS,1,0,1,H,3,0
+2019/20,2019,championship,Hapoel Tel Aviv,HHA,0,3,-3,A,0,3
+2019/20,2019,championship,Hapoel Tel Aviv,MHA,1,3,-2,A,0,3
+2019/20,2019,championship,Hapoel Tel Aviv,MTA,0,2,-2,A,0,3
+2019/20,2019,championship,Maccabi Haifa,BEI,0,0,0,D,1,1
+2019/20,2019,championship,Maccabi Haifa,HBS,2,1,1,H,3,0
+2019/20,2019,championship,Maccabi Haifa,HHA,2,2,0,D,1,1
+2019/20,2019,championship,Maccabi Haifa,HTA,1,2,-1,A,0,3
+2019/20,2019,championship,Maccabi Haifa,MTA,0,1,-1,A,0,3
+2019/20,2019,championship,Maccabi Tel Aviv,BEI,1,0,1,H,3,0
+2019/20,2019,championship,Maccabi Tel Aviv,HBS,1,1,0,D,1,1
+2019/20,2019,championship,Maccabi Tel Aviv,HHA,2,0,2,H,3,0
+2019/20,2019,championship,Maccabi Tel Aviv,HTA,3,0,3,H,3,0
+2019/20,2019,championship,Maccabi Tel Aviv,MHA,2,0,2,H,3,0

@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2016/17,2016,championship,Beitar Jerusalem,BnS,3,0,3,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,HBS,1,1,0,D,1,1
+2016/17,2016,championship,Beitar Jerusalem,MHA,2,0,2,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,MPT,2,1,1,H,3,0
+2016/17,2016,championship,Beitar Jerusalem,MTA,1,1,0,D,1,1
+2016/17,2016,championship,Bnei Sakhnin,BEI,1,5,-4,A,0,3
+2016/17,2016,championship,Bnei Sakhnin,HBS,1,3,-2,A,0,3
+2016/17,2016,championship,Bnei Sakhnin,MHA,1,0,1,H,3,0
+2016/17,2016,championship,Bnei Sakhnin,MPT,1,0,1,H,3,0
+2016/17,2016,championship,Bnei Sakhnin,MTA,1,3,-2,A,0,3
+2016/17,2016,championship,Hapoel Be'er Sheva,BEI,2,0,2,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,BnS,2,0,2,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,MHA,4,0,4,H,3,0
+2016/17,2016,championship,Hapoel Be'er Sheva,MPT,1,1,0,D,1,1
+2016/17,2016,championship,Hapoel Be'er Sheva,MTA,1,0,1,H,3,0
+2016/17,2016,championship,Maccabi Haifa,BEI,3,2,1,H,3,0
+2016/17,2016,championship,Maccabi Haifa,BnS,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Haifa,HBS,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Haifa,MPT,0,0,0,D,1,1
+2016/17,2016,championship,Maccabi Haifa,MTA,0,2,-2,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,BEI,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,BnS,1,0,1,H,3,0
+2016/17,2016,championship,Maccabi Petah Tikva,HBS,1,2,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,MHA,0,1,-1,A,0,3
+2016/17,2016,championship,Maccabi Petah Tikva,MTA,2,1,1,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,BEI,0,2,-2,A,0,3
+2016/17,2016,championship,Maccabi Tel Aviv,BnS,3,0,3,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,HBS,1,2,-1,A,0,3
+2016/17,2016,championship,Maccabi Tel Aviv,MHA,3,0,3,H,3,0
+2016/17,2016,championship,Maccabi Tel Aviv,MPT,2,0,2,H,3,0

@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,relegation,Bnei Yehuda,HAC,3,1,2,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,HTA,2,4,-2,A,0,3
+2015/16,2015,relegation,Bnei Yehuda,IKS,1,0,1,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,MPT,1,2,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,HHA,2,3,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,IKS,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Acre,MNE,4,1,3,H,3,0
+2015/16,2015,relegation,Hapoel Acre,MPT,1,3,-2,A,0,3
+2015/16,2015,relegation,Hapoel Haifa,BnY,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,HKS,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,MNE,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Kfar Saba,BnY,0,1,-1,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,HAC,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Kfar Saba,HTA,0,3,-3,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,IKS,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,HAC,1,0,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,HHA,3,3,0,D,1,1
+2015/16,2015,relegation,Hapoel Tel Aviv,MPT,0,0,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,HHA,2,1,1,H,3,0
+2015/16,2015,relegation,Ironi Kiryat Shmona,HTA,1,1,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,MNE,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Netanya,BnY,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Netanya,HKS,1,1,0,D,1,1
+2015/16,2015,relegation,Maccabi Netanya,HTA,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,HHA,2,1,1,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,HKS,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,IKS,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,MNE,2,1,1,H,3,0

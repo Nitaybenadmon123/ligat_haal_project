@@ -1,0 +1,141 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,relegation,Bnei Yehuda,HAC,3,1,2,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,HTA,2,4,-2,A,0,3
+2015/16,2015,relegation,Bnei Yehuda,IKS,1,0,1,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,MPT,1,2,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,HHA,2,3,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,IKS,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Acre,MNE,4,1,3,H,3,0
+2015/16,2015,relegation,Hapoel Acre,MPT,1,3,-2,A,0,3
+2015/16,2015,relegation,Hapoel Haifa,BnY,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,HKS,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,MNE,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Kfar Saba,BnY,0,1,-1,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,HAC,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Kfar Saba,HTA,0,3,-3,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,IKS,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,HAC,1,0,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,HHA,3,3,0,D,1,1
+2015/16,2015,relegation,Hapoel Tel Aviv,MPT,0,0,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,HHA,2,1,1,H,3,0
+2015/16,2015,relegation,Ironi Kiryat Shmona,HTA,1,1,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,MNE,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Netanya,BnY,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Netanya,HKS,1,1,0,D,1,1
+2015/16,2015,relegation,Maccabi Netanya,HTA,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,HHA,2,1,1,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,HKS,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,IKS,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,MNE,2,1,1,H,3,0
+2016/17,2016,relegation,F.C. Ashdod,HKS,0,0,0,D,1,1
+2016/17,2016,relegation,F.C. Ashdod,HRA,2,2,0,D,1,1
+2016/17,2016,relegation,F.C. Ashdod,HTA,2,0,2,H,3,0
+2016/17,2016,relegation,F.C. Ashdod,IKS,1,1,0,D,1,1
+2016/17,2016,relegation,Bnei Yehuda,ASH,2,1,1,H,3,0
+2016/17,2016,relegation,Bnei Yehuda,HKS,1,0,1,H,3,0
+2016/17,2016,relegation,Bnei Yehuda,IKS,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ashkelon,ASH,0,0,0,D,1,1
+2016/17,2016,relegation,Hapoel Ashkelon,BnY,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Ashkelon,IKS,2,1,1,H,3,0
+2016/17,2016,relegation,Hapoel Haifa,ASH,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Haifa,BnY,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Haifa,HAS,1,4,-3,A,0,3
+2016/17,2016,relegation,Hapoel Haifa,HTA,3,3,0,D,1,1
+2016/17,2016,relegation,Hapoel Kfar Saba,HAS,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Kfar Saba,HHA,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Kfar Saba,HRA,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,BnY,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,HAS,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,HHA,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,HTA,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Tel Aviv,BnY,2,0,2,H,3,0
+2016/17,2016,relegation,Hapoel Tel Aviv,HAS,0,0,0,D,1,1
+2016/17,2016,relegation,Hapoel Tel Aviv,HKS,2,0,2,H,3,0
+2016/17,2016,relegation,Ironi Kiryat Shmona,HHA,0,2,-2,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,HKS,1,4,-3,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,HRA,2,3,-1,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,HTA,2,3,-1,A,0,3
+2017/18,2017,relegation,Bnei Sakhnin,ASH,2,1,1,H,3,0
+2017/18,2017,relegation,Bnei Sakhnin,HRA,1,3,-2,A,0,3
+2017/18,2017,relegation,Bnei Sakhnin,MHA,1,1,0,D,1,1
+2017/18,2017,relegation,Bnei Sakhnin,MPT,2,2,0,D,1,1
+2017/18,2017,relegation,F.C. Ashdod,HAS,1,0,1,H,3,0
+2017/18,2017,relegation,F.C. Ashdod,IKS,1,2,-1,A,0,3
+2017/18,2017,relegation,F.C. Ashdod,MHA,2,1,1,H,3,0
+2017/18,2017,relegation,Hapoel Ashkelon,BnS,2,0,2,H,3,0
+2017/18,2017,relegation,Hapoel Ashkelon,HAC,0,2,-2,A,0,3
+2017/18,2017,relegation,Hapoel Ashkelon,MPT,0,2,-2,A,0,3
+2017/18,2017,relegation,Hapoel Acre,BnS,1,2,-1,A,0,3
+2017/18,2017,relegation,Hapoel Acre,ASH,1,1,0,D,1,1
+2017/18,2017,relegation,Hapoel Acre,MPT,2,1,1,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,ASH,1,0,1,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,HAS,4,0,4,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,HAC,1,1,0,D,1,1
+2017/18,2017,relegation,Ironi Kiryat Shmona,BnS,2,0,2,H,3,0
+2017/18,2017,relegation,Ironi Kiryat Shmona,HAS,1,1,0,D,1,1
+2017/18,2017,relegation,Ironi Kiryat Shmona,HAC,4,0,4,H,3,0
+2017/18,2017,relegation,Ironi Kiryat Shmona,HRA,0,1,-1,A,0,3
+2017/18,2017,relegation,Maccabi Haifa,HAS,2,1,1,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,HAC,4,0,4,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,HRA,2,0,2,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,IKS,1,2,-1,A,0,3
+2017/18,2017,relegation,Maccabi Petah Tikva,ASH,2,1,1,H,3,0
+2017/18,2017,relegation,Maccabi Petah Tikva,HRA,1,3,-2,A,0,3
+2017/18,2017,relegation,Maccabi Petah Tikva,IKS,2,0,2,H,3,0
+2017/18,2017,relegation,Maccabi Petah Tikva,MHA,0,1,-1,A,0,3
+2018/19,2018,relegation,Beitar Jerusalem,BnS,0,0,0,D,1,1
+2018/19,2018,relegation,Beitar Jerusalem,ASH,2,3,-1,A,0,3
+2018/19,2018,relegation,Beitar Jerusalem,MPT,4,1,3,H,3,0
+2018/19,2018,relegation,Bnei Sakhnin,HHA,1,2,-1,A,0,3
+2018/19,2018,relegation,Bnei Sakhnin,IKS,0,2,-2,A,0,3
+2018/19,2018,relegation,Bnei Sakhnin,MPT,1,1,0,D,1,1
+2018/19,2018,relegation,F.C. Ashdod,BnS,1,2,-1,A,0,3
+2018/19,2018,relegation,F.C. Ashdod,HHA,1,0,1,H,3,0
+2018/19,2018,relegation,F.C. Ashdod,IKS,3,2,1,H,3,0
+2018/19,2018,relegation,Hapoel Haifa,BEI,0,0,0,D,1,1
+2018/19,2018,relegation,Hapoel Haifa,HRA,0,2,-2,A,0,3
+2018/19,2018,relegation,Hapoel Haifa,HTA,0,0,0,D,1,1
+2018/19,2018,relegation,Hapoel Haifa,MPT,0,3,-3,A,0,3
+2018/19,2018,relegation,Hapoel Ra'anana,BEI,1,2,-1,A,0,3
+2018/19,2018,relegation,Hapoel Ra'anana,BnS,2,2,0,D,1,1
+2018/19,2018,relegation,Hapoel Ra'anana,ASH,1,2,-1,A,0,3
+2018/19,2018,relegation,Hapoel Ra'anana,HTA,2,1,1,H,3,0
+2018/19,2018,relegation,Hapoel Tel Aviv,BEI,1,2,-1,A,0,3
+2018/19,2018,relegation,Hapoel Tel Aviv,BnS,3,0,3,H,3,0
+2018/19,2018,relegation,Hapoel Tel Aviv,ASH,5,1,4,H,3,0
+2018/19,2018,relegation,Hapoel Tel Aviv,IKS,2,2,0,D,1,1
+2018/19,2018,relegation,Ironi Kiryat Shmona,BEI,0,1,-1,A,0,3
+2018/19,2018,relegation,Ironi Kiryat Shmona,HHA,3,0,3,H,3,0
+2018/19,2018,relegation,Ironi Kiryat Shmona,HRA,0,0,0,D,1,1
+2018/19,2018,relegation,Ironi Kiryat Shmona,MPT,0,1,-1,A,0,3
+2018/19,2018,relegation,Maccabi Petah Tikva,ASH,0,3,-3,A,0,3
+2018/19,2018,relegation,Maccabi Petah Tikva,HRA,1,1,0,D,1,1
+2018/19,2018,relegation,Maccabi Petah Tikva,HTA,0,2,-2,A,0,3
+2019/20,2019,relegation,F.C. Ashdod,HAH,3,1,2,H,3,0
+2019/20,2019,relegation,F.C. Ashdod,HKS,2,3,-1,A,0,3
+2019/20,2019,relegation,F.C. Ashdod,HRA,3,2,1,H,3,0
+2019/20,2019,relegation,F.C. Ashdod,NES,2,0,2,H,3,0
+2019/20,2019,relegation,Bnei Yehuda,ASH,0,0,0,D,1,1
+2019/20,2019,relegation,Bnei Yehuda,HAH,5,0,5,H,3,0
+2019/20,2019,relegation,Bnei Yehuda,HKS,0,0,0,D,1,1
+2019/20,2019,relegation,Bnei Yehuda,IKS,2,0,2,H,3,0
+2019/20,2019,relegation,Hapoel Hadera,HKS,0,0,0,D,1,1
+2019/20,2019,relegation,Hapoel Hadera,HRA,2,2,0,D,1,1
+2019/20,2019,relegation,Hapoel Hadera,MNE,1,2,-1,A,0,3
+2019/20,2019,relegation,Hapoel Hadera,NES,2,2,0,D,1,1
+2019/20,2019,relegation,Hapoel Kfar Saba,HRA,2,0,2,H,3,0
+2019/20,2019,relegation,Hapoel Kfar Saba,IKS,0,0,0,D,1,1
+2019/20,2019,relegation,Hapoel Kfar Saba,NES,0,1,-1,A,0,3
+2019/20,2019,relegation,Hapoel Ra'anana,BnY,0,4,-4,A,0,3
+2019/20,2019,relegation,Hapoel Ra'anana,IKS,0,1,-1,A,0,3
+2019/20,2019,relegation,Hapoel Ra'anana,MNE,2,4,-2,A,0,3
+2019/20,2019,relegation,Ironi Kiryat Shmona,ASH,3,0,3,H,3,0
+2019/20,2019,relegation,Ironi Kiryat Shmona,HAH,0,3,-3,A,0,3
+2019/20,2019,relegation,Ironi Kiryat Shmona,NES,1,0,1,H,3,0
+2019/20,2019,relegation,Maccabi Netanya,ASH,2,5,-3,A,0,3
+2019/20,2019,relegation,Maccabi Netanya,BnY,1,3,-2,A,0,3
+2019/20,2019,relegation,Maccabi Netanya,HKS,0,1,-1,A,0,3
+2019/20,2019,relegation,Maccabi Netanya,IKS,3,1,2,H,3,0
+2019/20,2019,relegation,Sektzia Ness Ziona,BnY,0,0,0,D,1,1
+2019/20,2019,relegation,Sektzia Ness Ziona,HRA,2,1,1,H,3,0
+2019/20,2019,relegation,Sektzia Ness Ziona,MNE,1,0,1,H,3,0
