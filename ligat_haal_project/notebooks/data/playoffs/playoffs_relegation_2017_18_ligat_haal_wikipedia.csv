@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2017/18,2017,relegation,Bnei Sakhnin,F.C. Ashdod,2,1,1,H,3,0
+2017/18,2017,relegation,Bnei Sakhnin,Hapoel Ra'anana,1,3,-2,A,0,3
+2017/18,2017,relegation,Bnei Sakhnin,Maccabi Haifa,1,1,0,D,1,1
+2017/18,2017,relegation,Bnei Sakhnin,Maccabi Petah Tikva,2,2,0,D,1,1
+2017/18,2017,relegation,F.C. Ashdod,Hapoel Ashkelon,1,0,1,H,3,0
+2017/18,2017,relegation,F.C. Ashdod,Ironi Kiryat Shmona,1,2,-1,A,0,3
+2017/18,2017,relegation,F.C. Ashdod,Maccabi Haifa,2,1,1,H,3,0
+2017/18,2017,relegation,Hapoel Ashkelon,Bnei Sakhnin,2,0,2,H,3,0
+2017/18,2017,relegation,Hapoel Ashkelon,Hapoel Acre,0,2,-2,A,0,3
+2017/18,2017,relegation,Hapoel Ashkelon,Maccabi Petah Tikva,0,2,-2,A,0,3
+2017/18,2017,relegation,Hapoel Acre,Bnei Sakhnin,1,2,-1,A,0,3
+2017/18,2017,relegation,Hapoel Acre,F.C. Ashdod,1,1,0,D,1,1
+2017/18,2017,relegation,Hapoel Acre,Maccabi Petah Tikva,2,1,1,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,F.C. Ashdod,1,0,1,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,Hapoel Ashkelon,4,0,4,H,3,0
+2017/18,2017,relegation,Hapoel Ra'anana,Hapoel Acre,1,1,0,D,1,1
+2017/18,2017,relegation,Ironi Kiryat Shmona,Bnei Sakhnin,2,0,2,H,3,0
+2017/18,2017,relegation,Ironi Kiryat Shmona,Hapoel Ashkelon,1,1,0,D,1,1
+2017/18,2017,relegation,Ironi Kiryat Shmona,Hapoel Acre,4,0,4,H,3,0
+2017/18,2017,relegation,Ironi Kiryat Shmona,Hapoel Ra'anana,0,1,-1,A,0,3
+2017/18,2017,relegation,Maccabi Haifa,Hapoel Ashkelon,2,1,1,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,Hapoel Acre,4,0,4,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,Hapoel Ra'anana,2,0,2,H,3,0
+2017/18,2017,relegation,Maccabi Haifa,Ironi Kiryat Shmona,1,2,-1,A,0,3
+2017/18,2017,relegation,Maccabi Petah Tikva,F.C. Ashdod,2,1,1,H,3,0
+2017/18,2017,relegation,Maccabi Petah Tikva,Hapoel Ra'anana,1,3,-2,A,0,3
+2017/18,2017,relegation,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
+2017/18,2017,relegation,Maccabi Petah Tikva,Maccabi Haifa,0,1,-1,A,0,3

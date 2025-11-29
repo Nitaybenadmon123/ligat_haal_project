@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,championship,Beitar Jerusalem,Bnei Sakhnin,0,3,-3,A,0,3
+2015/16,2015,championship,Beitar Jerusalem,Hapoel Be'er Sheva,0,2,-2,A,0,3
+2015/16,2015,championship,Beitar Jerusalem,Hapoel Ra'anana,1,0,1,H,3,0
+2015/16,2015,championship,Beitar Jerusalem,Maccabi Haifa,3,2,1,H,3,0
+2015/16,2015,championship,Beitar Jerusalem,Maccabi Tel Aviv,0,2,-2,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,Beitar Jerusalem,2,0,2,H,3,0
+2015/16,2015,championship,Bnei Sakhnin,Hapoel Be'er Sheva,1,4,-3,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,Hapoel Ra'anana,1,1,0,D,1,1
+2015/16,2015,championship,Bnei Sakhnin,Maccabi Haifa,0,1,-1,A,0,3
+2015/16,2015,championship,Bnei Sakhnin,Maccabi Tel Aviv,0,0,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,Beitar Jerusalem,2,0,2,H,3,0
+2015/16,2015,championship,Hapoel Be'er Sheva,Bnei Sakhnin,3,1,2,H,3,0
+2015/16,2015,championship,Hapoel Be'er Sheva,Hapoel Ra'anana,0,0,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,Maccabi Haifa,1,1,0,D,1,1
+2015/16,2015,championship,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2015/16,2015,championship,Hapoel Ra'anana,Beitar Jerusalem,1,2,-1,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,Bnei Sakhnin,2,3,-1,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,Hapoel Be'er Sheva,1,4,-3,A,0,3
+2015/16,2015,championship,Hapoel Ra'anana,Maccabi Haifa,3,0,3,H,3,0
+2015/16,2015,championship,Hapoel Ra'anana,Maccabi Tel Aviv,1,1,0,D,1,1
+2015/16,2015,championship,Maccabi Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2015/16,2015,championship,Maccabi Haifa,Bnei Sakhnin,3,3,0,D,1,1
+2015/16,2015,championship,Maccabi Haifa,Hapoel Be'er Sheva,2,1,1,H,3,0
+2015/16,2015,championship,Maccabi Haifa,Hapoel Ra'anana,2,0,2,H,3,0
+2015/16,2015,championship,Maccabi Haifa,Maccabi Tel Aviv,0,0,0,D,1,1
+2015/16,2015,championship,Maccabi Tel Aviv,Beitar Jerusalem,3,2,1,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,Bnei Sakhnin,1,0,1,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,0,0,D,1,1
+2015/16,2015,championship,Maccabi Tel Aviv,Hapoel Ra'anana,3,0,3,H,3,0
+2015/16,2015,championship,Maccabi Tel Aviv,Maccabi Haifa,6,0,6,H,3,0

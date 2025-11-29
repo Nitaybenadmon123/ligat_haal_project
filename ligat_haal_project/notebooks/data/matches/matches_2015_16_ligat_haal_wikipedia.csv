@@ -1,0 +1,183 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,Beitar Jerusalem,BnS,1,0,1,H,3,0
+2015/16,2015,Beitar Jerusalem,BnY,1,0,1,H,3,0
+2015/16,2015,Beitar Jerusalem,HAC,1,0,1,H,3,0
+2015/16,2015,Beitar Jerusalem,HBS,1,3,-2,A,0,3
+2015/16,2015,Beitar Jerusalem,HHA,1,1,0,D,1,1
+2015/16,2015,Beitar Jerusalem,HKS,3,1,2,H,3,0
+2015/16,2015,Beitar Jerusalem,HRA,1,0,1,H,3,0
+2015/16,2015,Beitar Jerusalem,HTA,0,0,0,D,1,1
+2015/16,2015,Beitar Jerusalem,IKS,2,0,2,H,3,0
+2015/16,2015,Beitar Jerusalem,MHA,3,0,3,H,3,0
+2015/16,2015,Beitar Jerusalem,MNE,1,0,1,H,3,0
+2015/16,2015,Beitar Jerusalem,MPT,2,0,2,H,3,0
+2015/16,2015,Beitar Jerusalem,MTA,2,2,0,D,1,1
+2015/16,2015,Bnei Sakhnin,BEI,1,3,-2,A,0,3
+2015/16,2015,Bnei Sakhnin,BnY,2,2,0,D,1,1
+2015/16,2015,Bnei Sakhnin,HAC,2,0,2,H,3,0
+2015/16,2015,Bnei Sakhnin,HBS,0,1,-1,A,0,3
+2015/16,2015,Bnei Sakhnin,HHA,0,0,0,D,1,1
+2015/16,2015,Bnei Sakhnin,HKS,2,0,2,H,3,0
+2015/16,2015,Bnei Sakhnin,HRA,2,3,-1,A,0,3
+2015/16,2015,Bnei Sakhnin,HTA,1,0,1,H,3,0
+2015/16,2015,Bnei Sakhnin,IKS,3,0,3,H,3,0
+2015/16,2015,Bnei Sakhnin,MHA,1,2,-1,A,0,3
+2015/16,2015,Bnei Sakhnin,MNE,0,0,0,D,1,1
+2015/16,2015,Bnei Sakhnin,MPT,1,0,1,H,3,0
+2015/16,2015,Bnei Sakhnin,MTA,0,2,-2,A,0,3
+2015/16,2015,Bnei Yehuda,BEI,2,1,1,H,3,0
+2015/16,2015,Bnei Yehuda,BnS,0,2,-2,A,0,3
+2015/16,2015,Bnei Yehuda,HAC,0,2,-2,A,0,3
+2015/16,2015,Bnei Yehuda,HBS,0,0,0,D,1,1
+2015/16,2015,Bnei Yehuda,HHA,1,0,1,H,3,0
+2015/16,2015,Bnei Yehuda,HKS,2,1,1,H,3,0
+2015/16,2015,Bnei Yehuda,HRA,1,3,-2,A,0,3
+2015/16,2015,Bnei Yehuda,HTA,1,3,-2,A,0,3
+2015/16,2015,Bnei Yehuda,IKS,2,2,0,D,1,1
+2015/16,2015,Bnei Yehuda,MHA,0,0,0,D,1,1
+2015/16,2015,Bnei Yehuda,MNE,1,2,-1,A,0,3
+2015/16,2015,Bnei Yehuda,MPT,1,1,0,D,1,1
+2015/16,2015,Bnei Yehuda,MTA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Acre,BEI,1,3,-2,A,0,3
+2015/16,2015,Hapoel Acre,BnS,2,2,0,D,1,1
+2015/16,2015,Hapoel Acre,BnY,0,1,-1,A,0,3
+2015/16,2015,Hapoel Acre,HBS,1,0,1,H,3,0
+2015/16,2015,Hapoel Acre,HHA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Acre,HKS,1,0,1,H,3,0
+2015/16,2015,Hapoel Acre,HRA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Acre,HTA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Acre,IKS,1,0,1,H,3,0
+2015/16,2015,Hapoel Acre,MHA,1,1,0,D,1,1
+2015/16,2015,Hapoel Acre,MNE,1,1,0,D,1,1
+2015/16,2015,Hapoel Acre,MPT,1,0,1,H,3,0
+2015/16,2015,Hapoel Acre,MTA,0,3,-3,A,0,3
+2015/16,2015,Hapoel Be'er Sheva,BEI,2,1,1,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,BnS,2,2,0,D,1,1
+2015/16,2015,Hapoel Be'er Sheva,BnY,2,0,2,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,HAC,3,0,3,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,HHA,1,0,1,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,HKS,3,0,3,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,HRA,2,0,2,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,HTA,3,1,2,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,IKS,2,1,1,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,MHA,0,0,0,D,1,1
+2015/16,2015,Hapoel Be'er Sheva,MNE,2,0,2,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,MPT,5,2,3,H,3,0
+2015/16,2015,Hapoel Be'er Sheva,MTA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Haifa,BEI,1,1,0,D,1,1
+2015/16,2015,Hapoel Haifa,BnS,2,0,2,H,3,0
+2015/16,2015,Hapoel Haifa,BnY,0,1,-1,A,0,3
+2015/16,2015,Hapoel Haifa,HAC,3,1,2,H,3,0
+2015/16,2015,Hapoel Haifa,HBS,1,2,-1,A,0,3
+2015/16,2015,Hapoel Haifa,HKS,1,1,0,D,1,1
+2015/16,2015,Hapoel Haifa,HRA,1,1,0,D,1,1
+2015/16,2015,Hapoel Haifa,HTA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Haifa,IKS,1,4,-3,A,0,3
+2015/16,2015,Hapoel Haifa,MHA,2,4,-2,A,0,3
+2015/16,2015,Hapoel Haifa,MNE,2,0,2,H,3,0
+2015/16,2015,Hapoel Haifa,MPT,0,3,-3,A,0,3
+2015/16,2015,Hapoel Haifa,MTA,0,3,-3,A,0,3
+2015/16,2015,Hapoel Kfar Saba,BEI,1,0,1,H,3,0
+2015/16,2015,Hapoel Kfar Saba,BnS,1,0,1,H,3,0
+2015/16,2015,Hapoel Kfar Saba,BnY,1,2,-1,A,0,3
+2015/16,2015,Hapoel Kfar Saba,HAC,0,1,-1,A,0,3
+2015/16,2015,Hapoel Kfar Saba,HBS,1,2,-1,A,0,3
+2015/16,2015,Hapoel Kfar Saba,HHA,2,2,0,D,1,1
+2015/16,2015,Hapoel Kfar Saba,HRA,0,0,0,D,1,1
+2015/16,2015,Hapoel Kfar Saba,HTA,1,1,0,D,1,1
+2015/16,2015,Hapoel Kfar Saba,IKS,0,0,0,D,1,1
+2015/16,2015,Hapoel Kfar Saba,MHA,1,0,1,H,3,0
+2015/16,2015,Hapoel Kfar Saba,MNE,1,0,1,H,3,0
+2015/16,2015,Hapoel Kfar Saba,MPT,0,1,-1,A,0,3
+2015/16,2015,Hapoel Kfar Saba,MTA,0,0,0,D,1,1
+2015/16,2015,Hapoel Ra'anana,BEI,0,2,-2,A,0,3
+2015/16,2015,Hapoel Ra'anana,BnS,1,0,1,H,3,0
+2015/16,2015,Hapoel Ra'anana,BnY,0,2,-2,A,0,3
+2015/16,2015,Hapoel Ra'anana,HAC,3,1,2,H,3,0
+2015/16,2015,Hapoel Ra'anana,HBS,2,3,-1,A,0,3
+2015/16,2015,Hapoel Ra'anana,HHA,2,2,0,D,1,1
+2015/16,2015,Hapoel Ra'anana,HKS,2,2,0,D,1,1
+2015/16,2015,Hapoel Ra'anana,HTA,0,1,-1,A,0,3
+2015/16,2015,Hapoel Ra'anana,IKS,1,1,0,D,1,1
+2015/16,2015,Hapoel Ra'anana,MHA,0,2,-2,A,0,3
+2015/16,2015,Hapoel Ra'anana,MNE,1,0,1,H,3,0
+2015/16,2015,Hapoel Ra'anana,MPT,1,0,1,H,3,0
+2015/16,2015,Hapoel Ra'anana,MTA,0,2,-2,A,0,3
+2015/16,2015,Hapoel Tel Aviv,BEI,0,0,0,D,1,1
+2015/16,2015,Hapoel Tel Aviv,BnS,0,4,-4,A,0,3
+2015/16,2015,Hapoel Tel Aviv,BnY,3,1,2,H,3,0
+2015/16,2015,Hapoel Tel Aviv,HAC,0,2,-2,A,0,3
+2015/16,2015,Hapoel Tel Aviv,HBS,0,1,-1,A,0,3
+2015/16,2015,Hapoel Tel Aviv,HHA,0,0,0,D,1,1
+2015/16,2015,Hapoel Tel Aviv,HKS,0,1,-1,A,0,3
+2015/16,2015,Hapoel Tel Aviv,HRA,2,1,1,H,3,0
+2015/16,2015,Hapoel Tel Aviv,IKS,0,3,-3,A,0,3
+2015/16,2015,Hapoel Tel Aviv,MHA,0,3,-3,A,0,3
+2015/16,2015,Hapoel Tel Aviv,MNE,1,1,0,D,1,1
+2015/16,2015,Hapoel Tel Aviv,MPT,0,1,-1,A,0,3
+2015/16,2015,Hapoel Tel Aviv,MTA,0,1,-1,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,BEI,0,2,-2,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,BnS,0,2,-2,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,BnY,1,1,0,D,1,1
+2015/16,2015,Ironi Kiryat Shmona,HAC,0,0,0,D,1,1
+2015/16,2015,Ironi Kiryat Shmona,HBS,1,3,-2,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,HHA,1,1,0,D,1,1
+2015/16,2015,Ironi Kiryat Shmona,HKS,0,2,-2,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,HRA,0,0,0,D,1,1
+2015/16,2015,Ironi Kiryat Shmona,HTA,3,0,3,H,3,0
+2015/16,2015,Ironi Kiryat Shmona,MHA,2,0,2,H,3,0
+2015/16,2015,Ironi Kiryat Shmona,MNE,3,0,3,H,3,0
+2015/16,2015,Ironi Kiryat Shmona,MPT,0,1,-1,A,0,3
+2015/16,2015,Ironi Kiryat Shmona,MTA,1,1,0,D,1,1
+2015/16,2015,Maccabi Haifa,BEI,0,2,-2,A,0,3
+2015/16,2015,Maccabi Haifa,BnS,0,0,0,D,1,1
+2015/16,2015,Maccabi Haifa,BnY,0,3,-3,A,0,3
+2015/16,2015,Maccabi Haifa,HAC,4,0,4,H,3,0
+2015/16,2015,Maccabi Haifa,HBS,1,1,0,D,1,1
+2015/16,2015,Maccabi Haifa,HHA,3,2,1,H,3,0
+2015/16,2015,Maccabi Haifa,HKS,1,1,0,D,1,1
+2015/16,2015,Maccabi Haifa,HRA,2,0,2,H,3,0
+2015/16,2015,Maccabi Haifa,HTA,0,0,0,D,1,1
+2015/16,2015,Maccabi Haifa,IKS,0,1,-1,A,0,3
+2015/16,2015,Maccabi Haifa,MNE,1,0,1,H,3,0
+2015/16,2015,Maccabi Haifa,MPT,4,0,4,H,3,0
+2015/16,2015,Maccabi Haifa,MTA,0,2,-2,A,0,3
+2015/16,2015,Maccabi Netanya,BEI,0,0,0,D,1,1
+2015/16,2015,Maccabi Netanya,BnS,0,2,-2,A,0,3
+2015/16,2015,Maccabi Netanya,BnY,0,2,-2,A,0,3
+2015/16,2015,Maccabi Netanya,HAC,0,0,0,D,1,1
+2015/16,2015,Maccabi Netanya,HBS,0,2,-2,A,0,3
+2015/16,2015,Maccabi Netanya,HHA,1,2,-1,A,0,3
+2015/16,2015,Maccabi Netanya,HKS,0,1,-1,A,0,3
+2015/16,2015,Maccabi Netanya,HRA,1,3,-2,A,0,3
+2015/16,2015,Maccabi Netanya,HTA,1,1,0,D,1,1
+2015/16,2015,Maccabi Netanya,IKS,1,1,0,D,1,1
+2015/16,2015,Maccabi Netanya,MHA,0,3,-3,A,0,3
+2015/16,2015,Maccabi Netanya,MPT,0,0,0,D,1,1
+2015/16,2015,Maccabi Netanya,MTA,1,3,-2,A,0,3
+2015/16,2015,Maccabi Petah Tikva,BEI,2,0,2,H,3,0
+2015/16,2015,Maccabi Petah Tikva,BnS,0,1,-1,A,0,3
+2015/16,2015,Maccabi Petah Tikva,BnY,3,1,2,H,3,0
+2015/16,2015,Maccabi Petah Tikva,HAC,1,2,-1,A,0,3
+2015/16,2015,Maccabi Petah Tikva,HBS,0,1,-1,A,0,3
+2015/16,2015,Maccabi Petah Tikva,HHA,1,1,0,D,1,1
+2015/16,2015,Maccabi Petah Tikva,HKS,2,0,2,H,3,0
+2015/16,2015,Maccabi Petah Tikva,HRA,0,2,-2,A,0,3
+2015/16,2015,Maccabi Petah Tikva,HTA,1,1,0,D,1,1
+2015/16,2015,Maccabi Petah Tikva,IKS,0,0,0,D,1,1
+2015/16,2015,Maccabi Petah Tikva,MHA,1,1,0,D,1,1
+2015/16,2015,Maccabi Petah Tikva,MNE,1,0,1,H,3,0
+2015/16,2015,Maccabi Petah Tikva,MTA,1,2,-1,A,0,3
+2015/16,2015,Maccabi Tel Aviv,BEI,2,4,-2,A,0,3
+2015/16,2015,Maccabi Tel Aviv,BnS,3,2,1,H,3,0
+2015/16,2015,Maccabi Tel Aviv,BnY,4,0,4,H,3,0
+2015/16,2015,Maccabi Tel Aviv,HAC,5,0,5,H,3,0
+2015/16,2015,Maccabi Tel Aviv,HBS,1,2,-1,A,0,3
+2015/16,2015,Maccabi Tel Aviv,HHA,2,1,1,H,3,0
+2015/16,2015,Maccabi Tel Aviv,HKS,5,0,5,H,3,0
+2015/16,2015,Maccabi Tel Aviv,HRA,1,2,-1,A,0,3
+2015/16,2015,Maccabi Tel Aviv,HTA,1,1,0,D,1,1
+2015/16,2015,Maccabi Tel Aviv,IKS,5,0,5,H,3,0
+2015/16,2015,Maccabi Tel Aviv,MHA,2,1,1,H,3,0
+2015/16,2015,Maccabi Tel Aviv,MNE,2,1,1,H,3,0
+2015/16,2015,Maccabi Tel Aviv,MPT,3,1,2,H,3,0

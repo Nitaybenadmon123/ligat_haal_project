@@ -1,0 +1,199 @@
+season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2008/09,2008,M. Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2008/09,2008,Maccabi Haifa,FC Ashdod,3,1,2,H,3,0
+2008/09,2008,M. Petah Tikva,Maccabi Netanya,1,1,0,D,1,1
+2008/09,2008,Bnei Sakhnin,B. Jerusalem,0,0,0,D,1,1
+2008/09,2008,Kiryat Shmona,H. Petah Tikva,0,0,0,D,1,1
+2008/09,2008,Hakoah Amidar,Hapoel Tel Aviv,2,2,0,D,1,1
+2008/09,2008,Bnei Yehuda,Hakoah Amidar,2,2,0,D,1,1
+2008/09,2008,Maccabi Netanya,H. Petah Tikva,3,1,2,H,3,0
+2008/09,2008,FC Ashdod,Kiryat Shmona,2,0,2,H,3,0
+2008/09,2008,M. Petah Tikva,Bnei Sakhnin,1,0,1,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Maccabi Haifa,0,0,0,D,1,1
+2008/09,2008,B. Jerusalem,M. Tel Aviv,0,0,0,D,1,1
+2008/09,2008,Bnei Sakhnin,Maccabi Netanya,0,1,-1,A,0,3
+2008/09,2008,M. Tel Aviv,M. Petah Tikva,0,0,0,D,1,1
+2008/09,2008,H. Petah Tikva,FC Ashdod,2,1,1,H,3,0
+2008/09,2008,Hakoah Amidar,B. Jerusalem,2,4,-2,A,0,3
+2008/09,2008,Maccabi Haifa,Bnei Yehuda,1,0,1,H,3,0
+2008/09,2008,Kiryat Shmona,Hapoel Tel Aviv,0,0,0,D,1,1
+2008/09,2008,Bnei Yehuda,Kiryat Shmona,0,1,-1,A,0,3
+2008/09,2008,Bnei Sakhnin,M. Tel Aviv,2,3,-1,A,0,3
+2008/09,2008,Maccabi Netanya,FC Ashdod,2,1,1,H,3,0
+2008/09,2008,Hapoel Tel Aviv,H. Petah Tikva,3,2,1,H,3,0
+2008/09,2008,M. Petah Tikva,Hakoah Amidar,1,0,1,H,3,0
+2008/09,2008,B. Jerusalem,Maccabi Haifa,1,1,0,D,1,1
+2008/09,2008,Hakoah Amidar,Bnei Sakhnin,0,0,0,D,1,1
+2008/09,2008,Maccabi Haifa,M. Petah Tikva,3,1,2,H,3,0
+2008/09,2008,Kiryat Shmona,B. Jerusalem,1,0,1,H,3,0
+2008/09,2008,H. Petah Tikva,Bnei Yehuda,1,0,1,H,3,0
+2008/09,2008,M. Tel Aviv,Maccabi Netanya,0,1,-1,A,0,3
+2008/09,2008,FC Ashdod,Hapoel Tel Aviv,1,0,1,H,3,0
+2008/09,2008,M. Tel Aviv,Hakoah Amidar,0,0,0,D,1,1
+2008/09,2008,Bnei Sakhnin,Maccabi Haifa,0,1,-1,A,0,3
+2008/09,2008,M. Petah Tikva,Kiryat Shmona,2,1,1,H,3,0
+2008/09,2008,Bnei Yehuda,FC Ashdod,1,0,1,H,3,0
+2008/09,2008,Maccabi Netanya,Hapoel Tel Aviv,0,0,0,D,1,1
+2008/09,2008,B. Jerusalem,H. Petah Tikva,2,2,0,D,1,1
+2008/09,2008,Hakoah Amidar,Maccabi Netanya,1,2,-1,A,0,3
+2008/09,2008,Hapoel Tel Aviv,Bnei Yehuda,2,0,2,H,3,0
+2008/09,2008,H. Petah Tikva,M. Petah Tikva,0,1,-1,A,0,3
+2008/09,2008,Kiryat Shmona,Bnei Sakhnin,1,2,-1,A,0,3
+2008/09,2008,FC Ashdod,B. Jerusalem,1,2,-1,A,0,3
+2008/09,2008,Maccabi Haifa,M. Tel Aviv,3,2,1,H,3,0
+2008/09,2008,Hakoah Amidar,Maccabi Haifa,0,3,-3,A,0,3
+2008/09,2008,Maccabi Netanya,Bnei Yehuda,2,2,0,D,1,1
+2008/09,2008,Bnei Sakhnin,H. Petah Tikva,0,3,-3,A,0,3
+2008/09,2008,M. Petah Tikva,FC Ashdod,2,3,-1,A,0,3
+2008/09,2008,M. Tel Aviv,Kiryat Shmona,0,1,-1,A,0,3
+2008/09,2008,B. Jerusalem,Hapoel Tel Aviv,0,2,-2,A,0,3
+2008/09,2008,Hapoel Tel Aviv,M. Petah Tikva,1,1,0,D,1,1
+2008/09,2008,H. Petah Tikva,M. Tel Aviv,0,1,-1,A,0,3
+2008/09,2008,Kiryat Shmona,Hakoah Amidar,0,2,-2,A,0,3
+2008/09,2008,FC Ashdod,Bnei Sakhnin,4,2,2,H,3,0
+2008/09,2008,Bnei Yehuda,B. Jerusalem,0,3,-3,A,0,3
+2008/09,2008,Maccabi Haifa,Maccabi Netanya,2,3,-1,A,0,3
+2008/09,2008,Bnei Sakhnin,Hapoel Tel Aviv,1,0,1,H,3,0
+2008/09,2008,M. Petah Tikva,Bnei Yehuda,0,0,0,D,1,1
+2008/09,2008,Hakoah Amidar,H. Petah Tikva,0,1,-1,A,0,3
+2008/09,2008,Maccabi Haifa,Kiryat Shmona,1,1,0,D,1,1
+2008/09,2008,M. Tel Aviv,FC Ashdod,2,2,0,D,1,1
+2008/09,2008,Maccabi Netanya,B. Jerusalem,1,2,-1,A,0,3
+2008/09,2008,H. Petah Tikva,Maccabi Haifa,1,4,-3,A,0,3
+2008/09,2008,Kiryat Shmona,Maccabi Netanya,0,3,-3,A,0,3
+2008/09,2008,FC Ashdod,Hakoah Amidar,3,2,1,H,3,0
+2008/09,2008,Bnei Yehuda,Bnei Sakhnin,2,0,2,H,3,0
+2008/09,2008,B. Jerusalem,M. Petah Tikva,1,1,0,D,1,1
+2008/09,2008,Hapoel Tel Aviv,M. Tel Aviv,2,0,2,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Hakoah Amidar,3,0,3,H,3,0
+2008/09,2008,Maccabi Netanya,M. Petah Tikva,0,0,0,D,1,1
+2008/09,2008,FC Ashdod,Maccabi Haifa,1,3,-2,A,0,3
+2008/09,2008,H. Petah Tikva,Kiryat Shmona,3,0,3,H,3,0
+2008/09,2008,Bnei Yehuda,M. Tel Aviv,3,2,1,H,3,0
+2008/09,2008,B. Jerusalem,Bnei Sakhnin,0,0,0,D,1,1
+2008/09,2008,H. Petah Tikva,Maccabi Netanya,0,0,0,D,1,1
+2008/09,2008,Hakoah Amidar,Bnei Yehuda,0,1,-1,A,0,3
+2008/09,2008,Bnei Sakhnin,M. Petah Tikva,2,1,1,H,3,0
+2008/09,2008,Kiryat Shmona,FC Ashdod,1,1,0,D,1,1
+2008/09,2008,M. Tel Aviv,B. Jerusalem,0,0,0,D,1,1
+2008/09,2008,Maccabi Haifa,Hapoel Tel Aviv,2,2,0,D,1,1
+2008/09,2008,Maccabi Netanya,Bnei Sakhnin,1,1,0,D,1,1
+2008/09,2008,Hapoel Tel Aviv,Kiryat Shmona,1,1,0,D,1,1
+2008/09,2008,M. Petah Tikva,M. Tel Aviv,0,0,0,D,1,1
+2008/09,2008,B. Jerusalem,Hakoah Amidar,3,0,3,H,3,0
+2008/09,2008,FC Ashdod,H. Petah Tikva,4,1,3,H,3,0
+2008/09,2008,Bnei Yehuda,Maccabi Haifa,0,1,-1,A,0,3
+2008/09,2008,H. Petah Tikva,Hapoel Tel Aviv,0,2,-2,A,0,3
+2008/09,2008,FC Ashdod,Maccabi Netanya,3,3,0,D,1,1
+2008/09,2008,Kiryat Shmona,Bnei Yehuda,0,2,-2,A,0,3
+2008/09,2008,Hakoah Amidar,M. Petah Tikva,2,2,0,D,1,1
+2008/09,2008,M. Tel Aviv,Bnei Sakhnin,1,1,0,D,1,1
+2008/09,2008,Maccabi Haifa,B. Jerusalem,0,0,0,D,1,1
+2008/09,2008,Bnei Sakhnin,Hakoah Amidar,0,1,-1,A,0,3
+2008/09,2008,Hapoel Tel Aviv,FC Ashdod,2,0,2,H,3,0
+2008/09,2008,M. Petah Tikva,Maccabi Haifa,2,0,2,H,3,0
+2008/09,2008,B. Jerusalem,Kiryat Shmona,2,2,0,D,1,1
+2008/09,2008,Bnei Yehuda,H. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Maccabi Netanya,M. Tel Aviv,1,0,1,H,3,0
+2008/09,2008,Maccabi Haifa,Bnei Sakhnin,2,1,1,H,3,0
+2008/09,2008,Hakoah Amidar,M. Tel Aviv,0,1,-1,A,0,3
+2008/09,2008,FC Ashdod,Bnei Yehuda,0,2,-2,A,0,3
+2008/09,2008,Kiryat Shmona,M. Petah Tikva,0,0,0,D,1,1
+2008/09,2008,H. Petah Tikva,B. Jerusalem,0,2,-2,A,0,3
+2008/09,2008,Hapoel Tel Aviv,Maccabi Netanya,2,1,1,H,3,0
+2008/09,2008,Bnei Yehuda,Hapoel Tel Aviv,3,0,3,H,3,0
+2008/09,2008,M. Petah Tikva,H. Petah Tikva,2,1,1,H,3,0
+2008/09,2008,Maccabi Netanya,Hakoah Amidar,2,2,0,D,1,1
+2008/09,2008,Bnei Sakhnin,Kiryat Shmona,1,0,1,H,3,0
+2008/09,2008,B. Jerusalem,FC Ashdod,3,2,1,H,3,0
+2008/09,2008,M. Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2008/09,2008,Bnei Yehuda,Maccabi Netanya,1,1,0,D,1,1
+2008/09,2008,Kiryat Shmona,M. Tel Aviv,1,2,-1,A,0,3
+2008/09,2008,FC Ashdod,M. Petah Tikva,1,1,0,D,1,1
+2008/09,2008,H. Petah Tikva,Bnei Sakhnin,1,1,0,D,1,1
+2008/09,2008,Maccabi Haifa,Hakoah Amidar,2,0,2,H,3,0
+2008/09,2008,Hapoel Tel Aviv,B. Jerusalem,4,0,4,H,3,0
+2008/09,2008,M. Tel Aviv,H. Petah Tikva,1,2,-1,A,0,3
+2008/09,2008,M. Petah Tikva,Hapoel Tel Aviv,1,1,0,D,1,1
+2008/09,2008,Hakoah Amidar,Kiryat Shmona,1,0,1,H,3,0
+2008/09,2008,Bnei Sakhnin,FC Ashdod,0,2,-2,A,0,3
+2008/09,2008,B. Jerusalem,Bnei Yehuda,1,0,1,H,3,0
+2008/09,2008,Maccabi Netanya,Maccabi Haifa,2,0,2,H,3,0
+2008/09,2008,Bnei Yehuda,M. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Kiryat Shmona,Maccabi Haifa,1,0,1,H,3,0
+2008/09,2008,H. Petah Tikva,Hakoah Amidar,1,0,1,H,3,0
+2008/09,2008,FC Ashdod,M. Tel Aviv,1,0,1,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Bnei Sakhnin,1,0,1,H,3,0
+2008/09,2008,B. Jerusalem,Maccabi Netanya,2,1,1,H,3,0
+2008/09,2008,Maccabi Netanya,Kiryat Shmona,2,1,1,H,3,0
+2008/09,2008,Maccabi Haifa,H. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Bnei Sakhnin,Bnei Yehuda,0,2,-2,A,0,3
+2008/09,2008,Hakoah Amidar,FC Ashdod,1,1,0,D,1,1
+2008/09,2008,M. Petah Tikva,B. Jerusalem,0,1,-1,A,0,3
+2008/09,2008,M. Tel Aviv,Hapoel Tel Aviv,1,3,-2,A,0,3
+2008/09,2008,M. Petah Tikva,Bnei Sakhnin,0,0,0,D,1,1
+2008/09,2008,Maccabi Netanya,Hakoah Amidar,0,0,0,D,1,1
+2008/09,2008,FC Ashdod,Kiryat Shmona,2,0,2,H,3,0
+2008/09,2008,H. Petah Tikva,M. Tel Aviv,1,2,-1,A,0,3
+2008/09,2008,Bnei Yehuda,Maccabi Haifa,0,1,-1,A,0,3
+2008/09,2008,B. Jerusalem,Hapoel Tel Aviv,2,1,1,H,3,0
+2008/09,2008,Hakoah Amidar,M. Tel Aviv,1,1,0,D,1,1
+2008/09,2008,Bnei Sakhnin,FC Ashdod,3,2,1,H,3,0
+2008/09,2008,Kiryat Shmona,H. Petah Tikva,1,1,0,D,1,1
+2008/09,2008,Maccabi Haifa,M. Petah Tikva,0,0,0,D,1,1
+2008/09,2008,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2008/09,2008,Maccabi Netanya,B. Jerusalem,1,0,1,H,3,0
+2008/09,2008,Bnei Yehuda,Maccabi Netanya,2,0,2,H,3,0
+2008/09,2008,M. Petah Tikva,Hapoel Tel Aviv,1,2,-1,A,0,3
+2008/09,2008,B. Jerusalem,Hakoah Amidar,4,0,4,H,3,0
+2008/09,2008,H. Petah Tikva,Bnei Sakhnin,2,2,0,D,1,1
+2008/09,2008,M. Tel Aviv,Kiryat Shmona,3,2,1,H,3,0
+2008/09,2008,FC Ashdod,Maccabi Haifa,0,3,-3,A,0,3
+2008/09,2008,Bnei Sakhnin,M. Tel Aviv,0,3,-3,A,0,3
+2008/09,2008,Hakoah Amidar,Kiryat Shmona,1,0,1,H,3,0
+2008/09,2008,Maccabi Haifa,H. Petah Tikva,2,1,1,H,3,0
+2008/09,2008,Maccabi Netanya,M. Petah Tikva,1,2,-1,A,0,3
+2008/09,2008,Hapoel Tel Aviv,FC Ashdod,1,0,1,H,3,0
+2008/09,2008,B. Jerusalem,Bnei Yehuda,2,2,0,D,1,1
+2008/09,2008,H. Petah Tikva,Hapoel Tel Aviv,0,1,-1,A,0,3
+2008/09,2008,Kiryat Shmona,Bnei Sakhnin,0,2,-2,A,0,3
+2008/09,2008,Bnei Yehuda,Hakoah Amidar,1,0,1,H,3,0
+2008/09,2008,FC Ashdod,Maccabi Netanya,0,0,0,D,1,1
+2008/09,2008,M. Petah Tikva,B. Jerusalem,0,2,-2,A,0,3
+2008/09,2008,M. Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2008/09,2008,Maccabi Haifa,Kiryat Shmona,2,1,1,H,3,0
+2008/09,2008,Hakoah Amidar,Bnei Sakhnin,1,1,0,D,1,1
+2008/09,2008,Maccabi Netanya,H. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Bnei Yehuda,M. Petah Tikva,1,1,0,D,1,1
+2008/09,2008,B. Jerusalem,FC Ashdod,2,1,1,H,3,0
+2008/09,2008,Hapoel Tel Aviv,M. Tel Aviv,1,1,0,D,1,1
+2008/09,2008,M. Petah Tikva,Hakoah Amidar,0,2,-2,A,0,3
+2008/09,2008,M. Tel Aviv,Maccabi Netanya,0,1,-1,A,0,3
+2008/09,2008,FC Ashdod,Bnei Yehuda,0,3,-3,A,0,3
+2008/09,2008,Kiryat Shmona,Hapoel Tel Aviv,1,3,-2,A,0,3
+2008/09,2008,H. Petah Tikva,B. Jerusalem,0,0,0,D,1,1
+2008/09,2008,Bnei Sakhnin,Maccabi Haifa,0,0,0,D,1,1
+2008/09,2008,Maccabi Haifa,Hakoah Amidar,2,0,2,H,3,0
+2008/09,2008,Maccabi Netanya,Kiryat Shmona,1,3,-2,A,0,3
+2008/09,2008,Bnei Yehuda,H. Petah Tikva,2,1,1,H,3,0
+2008/09,2008,M. Petah Tikva,FC Ashdod,0,0,0,D,1,1
+2008/09,2008,B. Jerusalem,M. Tel Aviv,2,0,2,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Bnei Sakhnin,1,1,0,D,1,1
+2008/09,2008,M. Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2008/09,2008,Hakoah Amidar,FC Ashdod,0,0,0,D,1,1
+2008/09,2008,H. Petah Tikva,M. Petah Tikva,2,0,2,H,3,0
+2008/09,2008,Kiryat Shmona,B. Jerusalem,2,0,2,H,3,0
+2008/09,2008,Bnei Sakhnin,Maccabi Netanya,0,0,0,D,1,1
+2008/09,2008,Maccabi Haifa,Hapoel Tel Aviv,1,0,1,H,3,0
+2008/09,2008,Maccabi Netanya,Maccabi Haifa,0,2,-2,A,0,3
+2008/09,2008,B. Jerusalem,Bnei Sakhnin,3,0,3,H,3,0
+2008/09,2008,Bnei Yehuda,Kiryat Shmona,0,0,0,D,1,1
+2008/09,2008,M. Petah Tikva,M. Tel Aviv,0,3,-3,A,0,3
+2008/09,2008,FC Ashdod,H. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Hakoah Amidar,3,2,1,H,3,0
+2008/09,2008,M. Tel Aviv,FC Ashdod,1,0,1,H,3,0
+2008/09,2008,Kiryat Shmona,M. Petah Tikva,1,2,-1,A,0,3
+2008/09,2008,Bnei Sakhnin,Bnei Yehuda,3,1,2,H,3,0
+2008/09,2008,Hapoel Tel Aviv,Maccabi Netanya,1,2,-1,A,0,3
+2008/09,2008,Hakoah Amidar,H. Petah Tikva,1,0,1,H,3,0
+2008/09,2008,Maccabi Haifa,B. Jerusalem,1,1,0,D,1,1

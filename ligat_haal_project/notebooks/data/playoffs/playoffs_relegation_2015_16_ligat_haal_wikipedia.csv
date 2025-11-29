@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2015/16,2015,relegation,Bnei Yehuda,Hapoel Acre,3,1,2,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,Hapoel Tel Aviv,2,4,-2,A,0,3
+2015/16,2015,relegation,Bnei Yehuda,Ironi Kiryat Shmona,1,0,1,H,3,0
+2015/16,2015,relegation,Bnei Yehuda,Maccabi Petah Tikva,1,2,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,Hapoel Haifa,2,3,-1,A,0,3
+2015/16,2015,relegation,Hapoel Acre,Ironi Kiryat Shmona,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Acre,Maccabi Netanya,4,1,3,H,3,0
+2015/16,2015,relegation,Hapoel Acre,Maccabi Petah Tikva,1,3,-2,A,0,3
+2015/16,2015,relegation,Hapoel Haifa,Bnei Yehuda,1,1,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,Hapoel Kfar Saba,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Haifa,Maccabi Netanya,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Kfar Saba,Bnei Yehuda,0,1,-1,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,Hapoel Acre,0,0,0,D,1,1
+2015/16,2015,relegation,Hapoel Kfar Saba,Hapoel Tel Aviv,0,3,-3,A,0,3
+2015/16,2015,relegation,Hapoel Kfar Saba,Ironi Kiryat Shmona,2,1,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,Hapoel Acre,1,0,1,H,3,0
+2015/16,2015,relegation,Hapoel Tel Aviv,Hapoel Haifa,3,3,0,D,1,1
+2015/16,2015,relegation,Hapoel Tel Aviv,Maccabi Petah Tikva,0,0,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,Hapoel Haifa,2,1,1,H,3,0
+2015/16,2015,relegation,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,1,0,D,1,1
+2015/16,2015,relegation,Ironi Kiryat Shmona,Maccabi Netanya,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Netanya,Bnei Yehuda,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Netanya,Hapoel Kfar Saba,1,1,0,D,1,1
+2015/16,2015,relegation,Maccabi Netanya,Hapoel Tel Aviv,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,Hapoel Haifa,2,1,1,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,Hapoel Kfar Saba,0,1,-1,A,0,3
+2015/16,2015,relegation,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
+2015/16,2015,relegation,Maccabi Petah Tikva,Maccabi Netanya,2,1,1,H,3,0

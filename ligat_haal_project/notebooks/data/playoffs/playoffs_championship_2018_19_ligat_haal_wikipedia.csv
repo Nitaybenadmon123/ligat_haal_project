@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2018/19,2018,championship,Bnei Yehuda,Hapoel Hadera,1,2,-1,A,0,3
+2018/19,2018,championship,Bnei Yehuda,Hapoel Be'er Sheva,2,3,-1,A,0,3
+2018/19,2018,championship,Bnei Yehuda,Maccabi Haifa,2,2,0,D,1,1
+2018/19,2018,championship,Bnei Yehuda,Maccabi Netanya,1,1,0,D,1,1
+2018/19,2018,championship,Bnei Yehuda,Maccabi Tel Aviv,0,2,-2,A,0,3
+2018/19,2018,championship,Hapoel Hadera,Bnei Yehuda,2,3,-1,A,0,3
+2018/19,2018,championship,Hapoel Hadera,Hapoel Be'er Sheva,1,4,-3,A,0,3
+2018/19,2018,championship,Hapoel Hadera,Maccabi Haifa,2,0,2,H,3,0
+2018/19,2018,championship,Hapoel Hadera,Maccabi Netanya,1,2,-1,A,0,3
+2018/19,2018,championship,Hapoel Hadera,Maccabi Tel Aviv,0,1,-1,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,Bnei Yehuda,2,1,1,H,3,0
+2018/19,2018,championship,Hapoel Be'er Sheva,Hapoel Hadera,1,0,1,H,3,0
+2018/19,2018,championship,Hapoel Be'er Sheva,Maccabi Haifa,0,1,-1,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,Maccabi Netanya,0,2,-2,A,0,3
+2018/19,2018,championship,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,4,-4,A,0,3
+2018/19,2018,championship,Maccabi Haifa,Bnei Yehuda,0,2,-2,A,0,3
+2018/19,2018,championship,Maccabi Haifa,Hapoel Hadera,1,3,-2,A,0,3
+2018/19,2018,championship,Maccabi Haifa,Hapoel Be'er Sheva,3,1,2,H,3,0
+2018/19,2018,championship,Maccabi Haifa,Maccabi Netanya,2,1,1,H,3,0
+2018/19,2018,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2018/19,2018,championship,Maccabi Netanya,Bnei Yehuda,0,2,-2,A,0,3
+2018/19,2018,championship,Maccabi Netanya,Hapoel Hadera,3,2,1,H,3,0
+2018/19,2018,championship,Maccabi Netanya,Hapoel Be'er Sheva,0,1,-1,A,0,3
+2018/19,2018,championship,Maccabi Netanya,Maccabi Haifa,1,2,-1,A,0,3
+2018/19,2018,championship,Maccabi Netanya,Maccabi Tel Aviv,1,4,-3,A,0,3
+2018/19,2018,championship,Maccabi Tel Aviv,Bnei Yehuda,2,3,-1,A,0,3
+2018/19,2018,championship,Maccabi Tel Aviv,Hapoel Hadera,2,0,2,H,3,0
+2018/19,2018,championship,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,0,0,D,1,1
+2018/19,2018,championship,Maccabi Tel Aviv,Maccabi Haifa,1,0,1,H,3,0
+2018/19,2018,championship,Maccabi Tel Aviv,Maccabi Netanya,3,0,3,H,3,0

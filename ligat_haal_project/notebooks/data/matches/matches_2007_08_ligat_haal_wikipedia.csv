@@ -1,0 +1,133 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2007/08,2007,Beitar Jerusalem,BnS,0,1,-1,A,0,3
+2007/08,2007,Beitar Jerusalem,BnY,3,0,3,H,3,0
+2007/08,2007,Beitar Jerusalem,ASH,5,0,5,H,3,0
+2007/08,2007,Beitar Jerusalem,HKS,4,0,4,H,3,0
+2007/08,2007,Beitar Jerusalem,HTA,1,0,1,H,3,0
+2007/08,2007,Beitar Jerusalem,IKS,0,0,0,D,1,1
+2007/08,2007,Beitar Jerusalem,MHA,1,0,1,H,3,0
+2007/08,2007,Beitar Jerusalem,MHE,4,2,2,H,3,0
+2007/08,2007,Beitar Jerusalem,MNE,2,0,2,H,3,0
+2007/08,2007,Beitar Jerusalem,MPT,2,1,1,H,3,0
+2007/08,2007,Beitar Jerusalem,MTA,2,0,2,H,3,0
+2007/08,2007,Bnei Sakhnin,BEI,2,2,0,D,1,1
+2007/08,2007,Bnei Sakhnin,BnY,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,ASH,3,0,3,H,3,0
+2007/08,2007,Bnei Sakhnin,HKS,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,HTA,1,0,1,H,3,0
+2007/08,2007,Bnei Sakhnin,IKS,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,MHA,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,MHE,0,3,-3,A,0,3
+2007/08,2007,Bnei Sakhnin,MNE,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,MPT,1,0,1,H,3,0
+2007/08,2007,Bnei Sakhnin,MTA,3,2,1,H,3,0
+2007/08,2007,Bnei Yehuda,BEI,0,3,-3,A,0,3
+2007/08,2007,Bnei Yehuda,BnS,3,0,3,H,3,0
+2007/08,2007,Bnei Yehuda,ASH,3,2,1,H,3,0
+2007/08,2007,Bnei Yehuda,HKS,0,2,-2,A,0,3
+2007/08,2007,Bnei Yehuda,HTA,1,1,0,D,1,1
+2007/08,2007,Bnei Yehuda,IKS,1,1,0,D,1,1
+2007/08,2007,Bnei Yehuda,MHA,0,3,-3,A,0,3
+2007/08,2007,Bnei Yehuda,MHE,0,1,-1,A,0,3
+2007/08,2007,Bnei Yehuda,MNE,1,2,-1,A,0,3
+2007/08,2007,Bnei Yehuda,MPT,0,1,-1,A,0,3
+2007/08,2007,Bnei Yehuda,MTA,0,4,-4,A,0,3
+2007/08,2007,F.C. Ashdod,BEI,1,2,-1,A,0,3
+2007/08,2007,F.C. Ashdod,BnS,3,1,2,H,3,0
+2007/08,2007,F.C. Ashdod,BnY,3,0,3,H,3,0
+2007/08,2007,F.C. Ashdod,HKS,2,4,-2,A,0,3
+2007/08,2007,F.C. Ashdod,HTA,1,1,0,D,1,1
+2007/08,2007,F.C. Ashdod,IKS,0,0,0,D,1,1
+2007/08,2007,F.C. Ashdod,MHA,1,0,1,H,3,0
+2007/08,2007,F.C. Ashdod,MHE,0,1,-1,A,0,3
+2007/08,2007,F.C. Ashdod,MNE,1,6,-5,A,0,3
+2007/08,2007,F.C. Ashdod,MPT,1,3,-2,A,0,3
+2007/08,2007,F.C. Ashdod,MTA,0,0,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,BEI,1,1,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,BnS,0,0,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,BnY,0,0,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,ASH,3,1,2,H,3,0
+2007/08,2007,Hapoel Kfar Saba,HTA,1,1,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,IKS,2,3,-1,A,0,3
+2007/08,2007,Hapoel Kfar Saba,MHA,0,3,-3,A,0,3
+2007/08,2007,Hapoel Kfar Saba,MHE,2,3,-1,A,0,3
+2007/08,2007,Hapoel Kfar Saba,MNE,1,2,-1,A,0,3
+2007/08,2007,Hapoel Kfar Saba,MPT,0,0,0,D,1,1
+2007/08,2007,Hapoel Kfar Saba,MTA,0,3,-3,A,0,3
+2007/08,2007,Hapoel Tel Aviv,BEI,1,2,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,BnS,0,1,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,BnY,1,0,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,ASH,0,2,-2,A,0,3
+2007/08,2007,Hapoel Tel Aviv,HKS,1,2,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,IKS,0,1,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,MHA,2,0,2,H,3,0
+2007/08,2007,Hapoel Tel Aviv,MHE,0,2,-2,A,0,3
+2007/08,2007,Hapoel Tel Aviv,MNE,0,1,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,MPT,2,1,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,MTA,1,0,1,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,BEI,0,3,-3,A,0,3
+2007/08,2007,Ironi Kiryat Shmona,BnS,0,0,0,D,1,1
+2007/08,2007,Ironi Kiryat Shmona,BnY,2,1,1,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,ASH,2,1,1,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,HKS,2,2,0,D,1,1
+2007/08,2007,Ironi Kiryat Shmona,HTA,2,1,1,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,MHA,1,1,0,D,1,1
+2007/08,2007,Ironi Kiryat Shmona,MHE,3,0,3,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,MNE,0,0,0,D,1,1
+2007/08,2007,Ironi Kiryat Shmona,MPT,2,1,1,H,3,0
+2007/08,2007,Ironi Kiryat Shmona,MTA,1,0,1,H,3,0
+2007/08,2007,Maccabi Haifa,BEI,0,0,0,D,1,1
+2007/08,2007,Maccabi Haifa,BnS,0,1,-1,A,0,3
+2007/08,2007,Maccabi Haifa,BnY,1,0,1,H,3,0
+2007/08,2007,Maccabi Haifa,ASH,3,0,3,H,3,0
+2007/08,2007,Maccabi Haifa,HKS,2,1,1,H,3,0
+2007/08,2007,Maccabi Haifa,HTA,2,0,2,H,3,0
+2007/08,2007,Maccabi Haifa,IKS,1,0,1,H,3,0
+2007/08,2007,Maccabi Haifa,MHE,1,1,0,D,1,1
+2007/08,2007,Maccabi Haifa,MNE,0,2,-2,A,0,3
+2007/08,2007,Maccabi Haifa,MPT,0,1,-1,A,0,3
+2007/08,2007,Maccabi Haifa,MTA,3,1,2,H,3,0
+2007/08,2007,Maccabi Herzliya,BEI,1,1,0,D,1,1
+2007/08,2007,Maccabi Herzliya,BnS,0,1,-1,A,0,3
+2007/08,2007,Maccabi Herzliya,BnY,0,2,-2,A,0,3
+2007/08,2007,Maccabi Herzliya,ASH,1,1,0,D,1,1
+2007/08,2007,Maccabi Herzliya,HKS,0,0,0,D,1,1
+2007/08,2007,Maccabi Herzliya,HTA,2,3,-1,A,0,3
+2007/08,2007,Maccabi Herzliya,IKS,1,3,-2,A,0,3
+2007/08,2007,Maccabi Herzliya,MHA,0,1,-1,A,0,3
+2007/08,2007,Maccabi Herzliya,MNE,1,2,-1,A,0,3
+2007/08,2007,Maccabi Herzliya,MPT,1,1,0,D,1,1
+2007/08,2007,Maccabi Herzliya,MTA,1,3,-2,A,0,3
+2007/08,2007,Maccabi Netanya,BEI,0,1,-1,A,0,3
+2007/08,2007,Maccabi Netanya,BnS,1,2,-1,A,0,3
+2007/08,2007,Maccabi Netanya,BnY,0,0,0,D,1,1
+2007/08,2007,Maccabi Netanya,ASH,3,0,3,H,3,0
+2007/08,2007,Maccabi Netanya,HKS,2,3,-1,A,0,3
+2007/08,2007,Maccabi Netanya,HTA,0,0,0,D,1,1
+2007/08,2007,Maccabi Netanya,IKS,0,0,0,D,1,1
+2007/08,2007,Maccabi Netanya,MHA,2,1,1,H,3,0
+2007/08,2007,Maccabi Netanya,MHE,0,0,0,D,1,1
+2007/08,2007,Maccabi Netanya,MPT,1,0,1,H,3,0
+2007/08,2007,Maccabi Netanya,MTA,1,0,1,H,3,0
+2007/08,2007,Maccabi Petah Tikva,BEI,1,2,-1,A,0,3
+2007/08,2007,Maccabi Petah Tikva,BnS,2,0,2,H,3,0
+2007/08,2007,Maccabi Petah Tikva,BnY,1,0,1,H,3,0
+2007/08,2007,Maccabi Petah Tikva,ASH,0,0,0,D,1,1
+2007/08,2007,Maccabi Petah Tikva,HKS,0,1,-1,A,0,3
+2007/08,2007,Maccabi Petah Tikva,HTA,2,1,1,H,3,0
+2007/08,2007,Maccabi Petah Tikva,IKS,3,1,2,H,3,0
+2007/08,2007,Maccabi Petah Tikva,MHA,1,1,0,D,1,1
+2007/08,2007,Maccabi Petah Tikva,MHE,1,1,0,D,1,1
+2007/08,2007,Maccabi Petah Tikva,MNE,0,0,0,D,1,1
+2007/08,2007,Maccabi Petah Tikva,MTA,3,2,1,H,3,0
+2007/08,2007,Maccabi Tel Aviv,BEI,0,0,0,D,1,1
+2007/08,2007,Maccabi Tel Aviv,BnS,0,0,0,D,1,1
+2007/08,2007,Maccabi Tel Aviv,BnY,3,1,2,H,3,0
+2007/08,2007,Maccabi Tel Aviv,ASH,1,1,0,D,1,1
+2007/08,2007,Maccabi Tel Aviv,HKS,0,1,-1,A,0,3
+2007/08,2007,Maccabi Tel Aviv,HTA,1,3,-2,A,0,3
+2007/08,2007,Maccabi Tel Aviv,IKS,2,2,0,D,1,1
+2007/08,2007,Maccabi Tel Aviv,MHA,0,3,-3,A,0,3
+2007/08,2007,Maccabi Tel Aviv,MHE,2,0,2,H,3,0
+2007/08,2007,Maccabi Tel Aviv,MNE,0,2,-2,A,0,3
+2007/08,2007,Maccabi Tel Aviv,MPT,2,1,1,H,3,0

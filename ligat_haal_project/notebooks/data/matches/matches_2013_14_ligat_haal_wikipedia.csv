@@ -1,0 +1,183 @@
+﻿season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2013/14,2013,Beitar Jerusalem,BnY,2,1,1,H,3,0
+2013/14,2013,Beitar Jerusalem,BnS,0,1,-1,A,0,3
+2013/14,2013,Beitar Jerusalem,ASH,2,0,2,H,3,0
+2013/14,2013,Beitar Jerusalem,HAC,1,0,1,H,3,0
+2013/14,2013,Beitar Jerusalem,HBS,0,2,-2,A,0,3
+2013/14,2013,Beitar Jerusalem,HHA,0,1,-1,A,0,3
+2013/14,2013,Beitar Jerusalem,HRA,1,1,0,D,1,1
+2013/14,2013,Beitar Jerusalem,HRH,0,1,-1,A,0,3
+2013/14,2013,Beitar Jerusalem,HTA,1,0,1,H,3,0
+2013/14,2013,Beitar Jerusalem,IKS,1,4,-3,A,0,3
+2013/14,2013,Beitar Jerusalem,MHA,1,0,1,H,3,0
+2013/14,2013,Beitar Jerusalem,MPT,1,0,1,H,3,0
+2013/14,2013,Beitar Jerusalem,MTA,1,2,-1,A,0,3
+2013/14,2013,Bnei Yehuda,BEI,0,0,0,D,1,1
+2013/14,2013,Bnei Yehuda,BnS,2,4,-2,A,0,3
+2013/14,2013,Bnei Yehuda,ASH,1,0,1,H,3,0
+2013/14,2013,Bnei Yehuda,HAC,1,0,1,H,3,0
+2013/14,2013,Bnei Yehuda,HBS,1,2,-1,A,0,3
+2013/14,2013,Bnei Yehuda,HHA,2,2,0,D,1,1
+2013/14,2013,Bnei Yehuda,HRA,0,0,0,D,1,1
+2013/14,2013,Bnei Yehuda,HRH,0,1,-1,A,0,3
+2013/14,2013,Bnei Yehuda,HTA,2,2,0,D,1,1
+2013/14,2013,Bnei Yehuda,IKS,0,0,0,D,1,1
+2013/14,2013,Bnei Yehuda,MHA,0,2,-2,A,0,3
+2013/14,2013,Bnei Yehuda,MPT,2,4,-2,A,0,3
+2013/14,2013,Bnei Yehuda,MTA,0,2,-2,A,0,3
+2013/14,2013,Bnei Sakhnin,BEI,0,0,0,D,1,1
+2013/14,2013,Bnei Sakhnin,BnY,0,1,-1,A,0,3
+2013/14,2013,Bnei Sakhnin,ASH,2,1,1,H,3,0
+2013/14,2013,Bnei Sakhnin,HAC,1,0,1,H,3,0
+2013/14,2013,Bnei Sakhnin,HBS,0,4,-4,A,0,3
+2013/14,2013,Bnei Sakhnin,HHA,2,0,2,H,3,0
+2013/14,2013,Bnei Sakhnin,HRA,2,0,2,H,3,0
+2013/14,2013,Bnei Sakhnin,HRH,1,1,0,D,1,1
+2013/14,2013,Bnei Sakhnin,HTA,4,0,4,H,3,0
+2013/14,2013,Bnei Sakhnin,IKS,1,1,0,D,1,1
+2013/14,2013,Bnei Sakhnin,MHA,0,0,0,D,1,1
+2013/14,2013,Bnei Sakhnin,MPT,0,2,-2,A,0,3
+2013/14,2013,Bnei Sakhnin,MTA,0,2,-2,A,0,3
+2013/14,2013,F.C. Ironi Ashdod,BEI,1,0,1,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,BnY,1,0,1,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,BnS,0,0,0,D,1,1
+2013/14,2013,F.C. Ironi Ashdod,HAC,0,0,0,D,1,1
+2013/14,2013,F.C. Ironi Ashdod,HBS,2,2,0,D,1,1
+2013/14,2013,F.C. Ironi Ashdod,HHA,1,0,1,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,HRA,1,2,-1,A,0,3
+2013/14,2013,F.C. Ironi Ashdod,HRH,3,0,3,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,HTA,4,5,-1,A,0,3
+2013/14,2013,F.C. Ironi Ashdod,IKS,2,1,1,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,MHA,3,2,1,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,MPT,2,0,2,H,3,0
+2013/14,2013,F.C. Ironi Ashdod,MTA,0,0,0,D,1,1
+2013/14,2013,Hapoel Acre,BEI,0,0,0,D,1,1
+2013/14,2013,Hapoel Acre,BnY,3,2,1,H,3,0
+2013/14,2013,Hapoel Acre,BnS,0,2,-2,A,0,3
+2013/14,2013,Hapoel Acre,ASH,1,1,0,D,1,1
+2013/14,2013,Hapoel Acre,HBS,1,2,-1,A,0,3
+2013/14,2013,Hapoel Acre,HHA,2,1,1,H,3,0
+2013/14,2013,Hapoel Acre,HRA,0,0,0,D,1,1
+2013/14,2013,Hapoel Acre,HRH,4,3,1,H,3,0
+2013/14,2013,Hapoel Acre,HTA,2,1,1,H,3,0
+2013/14,2013,Hapoel Acre,IKS,2,1,1,H,3,0
+2013/14,2013,Hapoel Acre,MHA,1,1,0,D,1,1
+2013/14,2013,Hapoel Acre,MPT,1,3,-2,A,0,3
+2013/14,2013,Hapoel Acre,MTA,0,2,-2,A,0,3
+2013/14,2013,Hapoel Be'er Sheva,BEI,2,0,2,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,BnY,2,1,1,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,BnS,2,1,1,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,ASH,2,0,2,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,HAC,1,1,0,D,1,1
+2013/14,2013,Hapoel Be'er Sheva,HHA,1,0,1,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,HRA,0,0,0,D,1,1
+2013/14,2013,Hapoel Be'er Sheva,HRH,0,0,0,D,1,1
+2013/14,2013,Hapoel Be'er Sheva,HTA,2,0,2,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,IKS,0,2,-2,A,0,3
+2013/14,2013,Hapoel Be'er Sheva,MHA,3,1,2,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,MPT,3,0,3,H,3,0
+2013/14,2013,Hapoel Be'er Sheva,MTA,3,2,1,H,3,0
+2013/14,2013,Hapoel Haifa,BEI,2,2,0,D,1,1
+2013/14,2013,Hapoel Haifa,BnY,2,1,1,H,3,0
+2013/14,2013,Hapoel Haifa,BnS,2,0,2,H,3,0
+2013/14,2013,Hapoel Haifa,ASH,1,1,0,D,1,1
+2013/14,2013,Hapoel Haifa,HAC,0,0,0,D,1,1
+2013/14,2013,Hapoel Haifa,HBS,1,3,-2,A,0,3
+2013/14,2013,Hapoel Haifa,HRA,1,1,0,D,1,1
+2013/14,2013,Hapoel Haifa,HRH,3,0,3,H,3,0
+2013/14,2013,Hapoel Haifa,HTA,0,4,-4,A,0,3
+2013/14,2013,Hapoel Haifa,IKS,2,0,2,H,3,0
+2013/14,2013,Hapoel Haifa,MHA,0,1,-1,A,0,3
+2013/14,2013,Hapoel Haifa,MPT,0,1,-1,A,0,3
+2013/14,2013,Hapoel Haifa,MTA,1,3,-2,A,0,3
+2013/14,2013,Hapoel Ra'anana,BEI,2,2,0,D,1,1
+2013/14,2013,Hapoel Ra'anana,BnY,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ra'anana,BnS,0,1,-1,A,0,3
+2013/14,2013,Hapoel Ra'anana,ASH,3,0,3,H,3,0
+2013/14,2013,Hapoel Ra'anana,HAC,1,3,-2,A,0,3
+2013/14,2013,Hapoel Ra'anana,HBS,1,0,1,H,3,0
+2013/14,2013,Hapoel Ra'anana,HHA,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ra'anana,HRH,1,2,-1,A,0,3
+2013/14,2013,Hapoel Ra'anana,HTA,1,4,-3,A,0,3
+2013/14,2013,Hapoel Ra'anana,IKS,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ra'anana,MHA,1,0,1,H,3,0
+2013/14,2013,Hapoel Ra'anana,MPT,1,0,1,H,3,0
+2013/14,2013,Hapoel Ra'anana,MTA,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,BEI,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,BnY,1,0,1,H,3,0
+2013/14,2013,Hapoel Ramat HaSharon,BnS,0,1,-1,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,ASH,2,3,-1,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,HAC,1,1,0,D,1,1
+2013/14,2013,Hapoel Ramat HaSharon,HBS,0,4,-4,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,HHA,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,HRA,1,3,-2,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,HTA,0,5,-5,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,IKS,0,2,-2,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,MHA,1,2,-1,A,0,3
+2013/14,2013,Hapoel Ramat HaSharon,MPT,2,0,2,H,3,0
+2013/14,2013,Hapoel Ramat HaSharon,MTA,0,3,-3,A,0,3
+2013/14,2013,Hapoel Tel Aviv,BEI,3,1,2,H,3,0
+2013/14,2013,Hapoel Tel Aviv,BnY,2,2,0,D,1,1
+2013/14,2013,Hapoel Tel Aviv,BnS,0,0,0,D,1,1
+2013/14,2013,Hapoel Tel Aviv,ASH,2,1,1,H,3,0
+2013/14,2013,Hapoel Tel Aviv,HAC,2,0,2,H,3,0
+2013/14,2013,Hapoel Tel Aviv,HBS,1,3,-2,A,0,3
+2013/14,2013,Hapoel Tel Aviv,HHA,4,0,4,H,3,0
+2013/14,2013,Hapoel Tel Aviv,HRA,0,0,0,D,1,1
+2013/14,2013,Hapoel Tel Aviv,HRH,3,0,3,H,3,0
+2013/14,2013,Hapoel Tel Aviv,IKS,1,1,0,D,1,1
+2013/14,2013,Hapoel Tel Aviv,MHA,2,4,-2,A,0,3
+2013/14,2013,Hapoel Tel Aviv,MPT,3,1,2,H,3,0
+2013/14,2013,Hapoel Tel Aviv,MTA,2,3,-1,A,0,3
+2013/14,2013,Ironi Kiryat Shmona,BEI,1,0,1,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,BnY,2,1,1,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,BnS,1,1,0,D,1,1
+2013/14,2013,Ironi Kiryat Shmona,ASH,1,0,1,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,HAC,2,0,2,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,HBS,0,1,-1,A,0,3
+2013/14,2013,Ironi Kiryat Shmona,HHA,2,0,2,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,HRA,0,0,0,D,1,1
+2013/14,2013,Ironi Kiryat Shmona,HRH,4,1,3,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,HTA,2,2,0,D,1,1
+2013/14,2013,Ironi Kiryat Shmona,MHA,2,1,1,H,3,0
+2013/14,2013,Ironi Kiryat Shmona,MPT,0,0,0,D,1,1
+2013/14,2013,Ironi Kiryat Shmona,MTA,3,1,2,H,3,0
+2013/14,2013,Maccabi Haifa,BEI,2,0,2,H,3,0
+2013/14,2013,Maccabi Haifa,BnY,2,2,0,D,1,1
+2013/14,2013,Maccabi Haifa,BnS,2,1,1,H,3,0
+2013/14,2013,Maccabi Haifa,ASH,2,1,1,H,3,0
+2013/14,2013,Maccabi Haifa,HAC,2,1,1,H,3,0
+2013/14,2013,Maccabi Haifa,HBS,0,0,0,D,1,1
+2013/14,2013,Maccabi Haifa,HHA,0,1,-1,A,0,3
+2013/14,2013,Maccabi Haifa,HRA,3,1,2,H,3,0
+2013/14,2013,Maccabi Haifa,HRH,1,1,0,D,1,1
+2013/14,2013,Maccabi Haifa,HTA,3,1,2,H,3,0
+2013/14,2013,Maccabi Haifa,IKS,3,1,2,H,3,0
+2013/14,2013,Maccabi Haifa,MPT,1,0,1,H,3,0
+2013/14,2013,Maccabi Haifa,MTA,0,3,-3,A,0,3
+2013/14,2013,Maccabi Petah Tikva,BEI,1,3,-2,A,0,3
+2013/14,2013,Maccabi Petah Tikva,BnY,2,2,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,BnS,1,3,-2,A,0,3
+2013/14,2013,Maccabi Petah Tikva,ASH,1,1,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,HAC,1,1,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,HBS,1,3,-2,A,0,3
+2013/14,2013,Maccabi Petah Tikva,HHA,1,1,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,HRA,1,0,1,H,3,0
+2013/14,2013,Maccabi Petah Tikva,HRH,3,3,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,HTA,0,2,-2,A,0,3
+2013/14,2013,Maccabi Petah Tikva,IKS,3,3,0,D,1,1
+2013/14,2013,Maccabi Petah Tikva,MHA,0,3,-3,A,0,3
+2013/14,2013,Maccabi Petah Tikva,MTA,0,2,-2,A,0,3
+2013/14,2013,Maccabi Tel Aviv,BEI,1,0,1,H,3,0
+2013/14,2013,Maccabi Tel Aviv,BnY,1,0,1,H,3,0
+2013/14,2013,Maccabi Tel Aviv,BnS,4,1,3,H,3,0
+2013/14,2013,Maccabi Tel Aviv,ASH,2,0,2,H,3,0
+2013/14,2013,Maccabi Tel Aviv,HAC,5,0,5,H,3,0
+2013/14,2013,Maccabi Tel Aviv,HBS,3,1,2,H,3,0
+2013/14,2013,Maccabi Tel Aviv,HHA,2,2,0,D,1,1
+2013/14,2013,Maccabi Tel Aviv,HRA,3,1,2,H,3,0
+2013/14,2013,Maccabi Tel Aviv,HRH,1,0,1,H,3,0
+2013/14,2013,Maccabi Tel Aviv,HTA,1,0,1,H,3,0
+2013/14,2013,Maccabi Tel Aviv,IKS,3,0,3,H,3,0
+2013/14,2013,Maccabi Tel Aviv,MHA,3,1,2,H,3,0
+2013/14,2013,Maccabi Tel Aviv,MPT,2,2,0,D,1,1

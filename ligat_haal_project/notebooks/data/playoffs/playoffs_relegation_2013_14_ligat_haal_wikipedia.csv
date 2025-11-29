@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2013/14,2013,relegation,Beitar Jerusalem,F.C. Ashdod,1,0,1,H,3,0
+2013/14,2013,relegation,Beitar Jerusalem,Hapoel Acre,0,2,-2,A,0,3
+2013/14,2013,relegation,Beitar Jerusalem,Hapoel Ramat HaSharon,4,0,4,H,3,0
+2013/14,2013,relegation,Beitar Jerusalem,Maccabi Petah Tikva,3,0,3,H,3,0
+2013/14,2013,relegation,Bnei Yehuda,Beitar Jerusalem,1,0,1,H,3,0
+2013/14,2013,relegation,Bnei Yehuda,F.C. Ashdod,1,1,0,D,1,1
+2013/14,2013,relegation,Bnei Yehuda,Hapoel Ra'anana,1,3,-2,A,0,3
+2013/14,2013,relegation,F.C. Ashdod,Hapoel Acre,1,0,1,H,3,0
+2013/14,2013,relegation,F.C. Ashdod,Hapoel Haifa,4,1,3,H,3,0
+2013/14,2013,relegation,F.C. Ashdod,Hapoel Ramat HaSharon,0,1,-1,A,0,3
+2013/14,2013,relegation,F.C. Ashdod,Maccabi Petah Tikva,0,5,-5,A,0,3
+2013/14,2013,relegation,Hapoel Acre,Bnei Yehuda,1,1,0,D,1,1
+2013/14,2013,relegation,Hapoel Acre,Hapoel Haifa,1,0,1,H,3,0
+2013/14,2013,relegation,Hapoel Acre,Hapoel Ra'anana,1,1,0,D,1,1
+2013/14,2013,relegation,Hapoel Acre,Hapoel Ramat HaSharon,1,2,-1,A,0,3
+2013/14,2013,relegation,Hapoel Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2013/14,2013,relegation,Hapoel Haifa,Bnei Yehuda,0,1,-1,A,0,3
+2013/14,2013,relegation,Hapoel Haifa,Hapoel Ra'anana,0,2,-2,A,0,3
+2013/14,2013,relegation,Hapoel Haifa,Hapoel Ramat HaSharon,0,1,-1,A,0,3
+2013/14,2013,relegation,Hapoel Ra'anana,Beitar Jerusalem,0,2,-2,A,0,3
+2013/14,2013,relegation,Hapoel Ra'anana,F.C. Ashdod,1,1,0,D,1,1
+2013/14,2013,relegation,Hapoel Ra'anana,Maccabi Petah Tikva,4,2,2,H,3,0
+2013/14,2013,relegation,Hapoel Ramat HaSharon,Bnei Yehuda,0,1,-1,A,0,3
+2013/14,2013,relegation,Hapoel Ramat HaSharon,Hapoel Ra'anana,0,0,0,D,1,1
+2013/14,2013,relegation,Hapoel Ramat HaSharon,Maccabi Petah Tikva,4,1,3,H,3,0
+2013/14,2013,relegation,Maccabi Petah Tikva,Bnei Yehuda,1,0,1,H,3,0
+2013/14,2013,relegation,Maccabi Petah Tikva,Hapoel Acre,0,0,0,D,1,1
+2013/14,2013,relegation,Maccabi Petah Tikva,Hapoel Haifa,2,1,1,H,3,0

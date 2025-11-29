@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2020/21,2020,relegation,Maccabi Netanya,Hapoel Haifa,2,0,2,H,3,0
+2020/21,2020,relegation,Maccabi Netanya,Beitar Jerusalem,1,0,1,H,3,0
+2020/21,2020,relegation,Maccabi Netanya,Hapoel Tel Aviv,0,1,-1,A,0,3
+2020/21,2020,relegation,Maccabi Netanya,BNS,0,0,0,D,1,1
+2020/21,2020,relegation,Hapoel Hadera,Maccabi Netanya,2,2,0,D,1,1
+2020/21,2020,relegation,Hapoel Hadera,Hapoel Haifa,3,0,3,H,3,0
+2020/21,2020,relegation,Hapoel Hadera,Hapoel Tel Aviv,0,1,-1,A,0,3
+2020/21,2020,relegation,Hapoel Hadera,BNS,1,0,1,H,3,0
+2020/21,2020,relegation,Hapoel Haifa,Beitar Jerusalem,3,1,2,H,3,0
+2020/21,2020,relegation,Hapoel Haifa,BNS,1,0,1,H,3,0
+2020/21,2020,relegation,Hapoel Haifa,Bnei Yehuda,1,3,-2,A,0,3
+2020/21,2020,relegation,Hapoel Haifa,Hapoel Kfar Saba,3,2,1,H,3,0
+2020/21,2020,relegation,Beitar Jerusalem,Hapoel Hadera,0,3,-3,A,0,3
+2020/21,2020,relegation,Beitar Jerusalem,BNS,3,1,2,H,3,0
+2020/21,2020,relegation,Beitar Jerusalem,Bnei Yehuda,2,2,0,D,1,1
+2020/21,2020,relegation,Beitar Jerusalem,Hapoel Kfar Saba,3,1,2,H,3,0
+2020/21,2020,relegation,Hapoel Tel Aviv,Hapoel Haifa,0,2,-2,A,0,3
+2020/21,2020,relegation,Hapoel Tel Aviv,Beitar Jerusalem,0,0,0,D,1,1
+2020/21,2020,relegation,Hapoel Tel Aviv,Hapoel Kfar Saba,2,2,0,D,1,1
+2020/21,2020,relegation,Bnei Sakhnin,Hapoel Tel Aviv,2,3,-1,A,0,3
+2020/21,2020,relegation,Bnei Sakhnin,Bnei Yehuda,1,1,0,D,1,1
+2020/21,2020,relegation,Bnei Sakhnin,Hapoel Kfar Saba,3,0,3,H,3,0
+2020/21,2020,relegation,Bnei Yehuda,Maccabi Netanya,1,2,-1,A,0,3
+2020/21,2020,relegation,Bnei Yehuda,Hapoel Hadera,2,3,-1,A,0,3
+2020/21,2020,relegation,Bnei Yehuda,Hapoel Tel Aviv,1,0,1,H,3,0
+2020/21,2020,relegation,Hapoel Kfar Saba,Maccabi Netanya,0,1,-1,A,0,3
+2020/21,2020,relegation,Hapoel Kfar Saba,Hapoel Hadera,1,2,-1,A,0,3
+2020/21,2020,relegation,Hapoel Kfar Saba,Bnei Yehuda,1,2,-1,A,0,3

@@ -1,0 +1,16 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2009/10,2009,relegation,Hapoel Acre,Hapoel Haifa,1,0,1,H,3,0
+2009/10,2009,relegation,Hapoel Acre,Maccabi Ahi Nazareth,3,1,2,H,3,0
+2009/10,2009,relegation,Hapoel Haifa,Hapoel Ra'anana,1,0,1,H,3,0
+2009/10,2009,relegation,Hapoel Haifa,Maccabi Ahi Nazareth,2,2,0,D,1,1
+2009/10,2009,relegation,Hapoel Haifa,Hapoel Petah Tikva,1,2,-1,A,0,3
+2009/10,2009,relegation,Hapoel Ra'anana,Hapoel Acre,4,0,4,H,3,0
+2009/10,2009,relegation,Hapoel Ra'anana,Maccabi Ahi Nazareth,2,0,2,H,3,0
+2009/10,2009,relegation,Hapoel Ramat Gan,Hapoel Acre,0,0,0,D,1,1
+2009/10,2009,relegation,Hapoel Ramat Gan,Hapoel Haifa,0,1,-1,A,0,3
+2009/10,2009,relegation,Hapoel Ramat Gan,Hapoel Ra'anana,0,0,0,D,1,1
+2009/10,2009,relegation,Maccabi Ahi Nazareth,Hapoel Ramat Gan,0,7,-7,A,0,3
+2009/10,2009,relegation,Maccabi Ahi Nazareth,Hapoel Petah Tikva,3,0,3,H,3,0
+2009/10,2009,relegation,Hapoel Petah Tikva,Hapoel Acre,1,2,-1,A,0,3
+2009/10,2009,relegation,Hapoel Petah Tikva,Hapoel Ra'anana,0,0,0,D,1,1
+2009/10,2009,relegation,Hapoel Petah Tikva,Hapoel Ramat Gan,2,1,1,H,3,0

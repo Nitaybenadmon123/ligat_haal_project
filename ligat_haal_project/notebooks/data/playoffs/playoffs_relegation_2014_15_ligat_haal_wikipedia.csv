@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2014/15,2014,relegation,F.C. Ashdod,Hapoel Acre,0,0,0,D,1,1
+2014/15,2014,relegation,F.C. Ashdod,Hapoel Haifa,0,0,0,D,1,1
+2014/15,2014,relegation,F.C. Ashdod,Hapoel Petah Tikva,2,4,-2,A,0,3
+2014/15,2014,relegation,Bnei Sakhnin,F.C. Ashdod,1,1,0,D,1,1
+2014/15,2014,relegation,Bnei Sakhnin,Hapoel Haifa,1,0,1,H,3,0
+2014/15,2014,relegation,Bnei Sakhnin,Hapoel Ra'anana,1,1,0,D,1,1
+2014/15,2014,relegation,Bnei Sakhnin,Hapoel Tel Aviv,2,0,2,H,3,0
+2014/15,2014,relegation,Hapoel Acre,Bnei Sakhnin,1,0,1,H,3,0
+2014/15,2014,relegation,Hapoel Acre,Hapoel Haifa,1,0,1,H,3,0
+2014/15,2014,relegation,Hapoel Acre,Hapoel Ra'anana,2,0,2,H,3,0
+2014/15,2014,relegation,Hapoel Haifa,Hapoel Petah Tikva,3,2,1,H,3,0
+2014/15,2014,relegation,Hapoel Haifa,Hapoel Tel Aviv,0,1,-1,A,0,3
+2014/15,2014,relegation,Hapoel Haifa,Maccabi Netanya,0,0,0,D,1,1
+2014/15,2014,relegation,Hapoel Petah Tikva,Bnei Sakhnin,2,3,-1,A,0,3
+2014/15,2014,relegation,Hapoel Petah Tikva,Hapoel Acre,0,2,-2,A,0,3
+2014/15,2014,relegation,Hapoel Petah Tikva,Hapoel Ra'anana,4,2,2,H,3,0
+2014/15,2014,relegation,Hapoel Ra'anana,F.C. Ashdod,4,0,4,H,3,0
+2014/15,2014,relegation,Hapoel Ra'anana,Hapoel Haifa,1,2,-1,A,0,3
+2014/15,2014,relegation,Hapoel Ra'anana,Hapoel Tel Aviv,2,2,0,D,1,1
+2014/15,2014,relegation,Hapoel Ra'anana,Maccabi Netanya,1,2,-1,A,0,3
+2014/15,2014,relegation,Hapoel Tel Aviv,F.C. Ashdod,1,0,1,H,3,0
+2014/15,2014,relegation,Hapoel Tel Aviv,Hapoel Acre,2,0,2,H,3,0
+2014/15,2014,relegation,Hapoel Tel Aviv,Hapoel Petah Tikva,1,2,-1,A,0,3
+2014/15,2014,relegation,Hapoel Tel Aviv,Maccabi Netanya,2,1,1,H,3,0
+2014/15,2014,relegation,Maccabi Netanya,F.C. Ashdod,0,0,0,D,1,1
+2014/15,2014,relegation,Maccabi Netanya,Bnei Sakhnin,2,3,-1,A,0,3
+2014/15,2014,relegation,Maccabi Netanya,Hapoel Acre,1,2,-1,A,0,3
+2014/15,2014,relegation,Maccabi Netanya,Hapoel Petah Tikva,3,1,2,H,3,0

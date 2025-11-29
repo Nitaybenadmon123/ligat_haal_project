@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2017/18,2017,championship,Beitar Jerusalem,Bnei Yehuda,1,1,0,D,1,1
+2017/18,2017,championship,Beitar Jerusalem,Hapoel Be'er Sheva,1,4,-3,A,0,3
+2017/18,2017,championship,Beitar Jerusalem,Hapoel Haifa,1,1,0,D,1,1
+2017/18,2017,championship,Beitar Jerusalem,Maccabi Netanya,2,0,2,H,3,0
+2017/18,2017,championship,Beitar Jerusalem,Maccabi Tel Aviv,3,2,1,H,3,0
+2017/18,2017,championship,Bnei Yehuda,Beitar Jerusalem,3,3,0,D,1,1
+2017/18,2017,championship,Bnei Yehuda,Hapoel Be'er Sheva,1,1,0,D,1,1
+2017/18,2017,championship,Bnei Yehuda,Hapoel Haifa,3,0,3,H,3,0
+2017/18,2017,championship,Bnei Yehuda,Maccabi Netanya,1,3,-2,A,0,3
+2017/18,2017,championship,Bnei Yehuda,Maccabi Tel Aviv,0,2,-2,A,0,3
+2017/18,2017,championship,Hapoel Be'er Sheva,Beitar Jerusalem,3,1,2,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,Bnei Yehuda,1,0,1,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,Hapoel Haifa,2,2,0,D,1,1
+2017/18,2017,championship,Hapoel Be'er Sheva,Maccabi Netanya,6,1,5,H,3,0
+2017/18,2017,championship,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,1,-1,A,0,3
+2017/18,2017,championship,Hapoel Haifa,Beitar Jerusalem,0,1,-1,A,0,3
+2017/18,2017,championship,Hapoel Haifa,Bnei Yehuda,2,1,1,H,3,0
+2017/18,2017,championship,Hapoel Haifa,Hapoel Be'er Sheva,1,4,-3,A,0,3
+2017/18,2017,championship,Hapoel Haifa,Maccabi Netanya,1,1,0,D,1,1
+2017/18,2017,championship,Hapoel Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2017/18,2017,championship,Maccabi Netanya,Beitar Jerusalem,4,1,3,H,3,0
+2017/18,2017,championship,Maccabi Netanya,Bnei Yehuda,0,5,-5,A,0,3
+2017/18,2017,championship,Maccabi Netanya,Hapoel Be'er Sheva,1,5,-4,A,0,3
+2017/18,2017,championship,Maccabi Netanya,Hapoel Haifa,2,1,1,H,3,0
+2017/18,2017,championship,Maccabi Netanya,Maccabi Tel Aviv,4,1,3,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,Beitar Jerusalem,3,1,2,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,Bnei Yehuda,2,0,2,H,3,0
+2017/18,2017,championship,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,1,-1,A,0,3
+2017/18,2017,championship,Maccabi Tel Aviv,Hapoel Haifa,1,2,-1,A,0,3
+2017/18,2017,championship,Maccabi Tel Aviv,Maccabi Netanya,2,0,2,H,3,0

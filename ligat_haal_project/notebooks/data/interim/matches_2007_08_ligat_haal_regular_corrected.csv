@@ -1,0 +1,199 @@
+season,season_year,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2007/08,2007,Kiryat Shmona,Maccabi Herzlya,3,0,3,H,3,0
+2007/08,2007,Maccabi Haifa,Bnei Sakhnin,0,1,-1,A,0,3
+2007/08,2007,M. Petah Tikva,H. Kfar Saba,0,1,-1,A,0,3
+2007/08,2007,B. Jerusalem,Bnei Yehuda,3,0,3,H,3,0
+2007/08,2007,Maccabi Netanya,Hapoel Tel Aviv,0,0,0,D,1,1
+2007/08,2007,M. Tel Aviv,FC Ashdod,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,Kiryat Shmona,0,0,0,D,1,1
+2007/08,2007,H. Kfar Saba,Bnei Yehuda,0,0,0,D,1,1
+2007/08,2007,FC Ashdod,Maccabi Haifa,1,0,1,H,3,0
+2007/08,2007,Maccabi Herzlya,Maccabi Netanya,1,2,-1,A,0,3
+2007/08,2007,M. Petah Tikva,M. Tel Aviv,3,2,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,B. Jerusalem,1,2,-1,A,0,3
+2007/08,2007,B. Jerusalem,Maccabi Herzlya,4,2,2,H,3,0
+2007/08,2007,Bnei Yehuda,Hapoel Tel Aviv,1,1,0,D,1,1
+2007/08,2007,Kiryat Shmona,FC Ashdod,2,1,1,H,3,0
+2007/08,2007,Maccabi Netanya,Bnei Sakhnin,1,2,-1,A,0,3
+2007/08,2007,Maccabi Haifa,M. Petah Tikva,0,1,-1,A,0,3
+2007/08,2007,M. Tel Aviv,H. Kfar Saba,0,1,-1,A,0,3
+2007/08,2007,H. Kfar Saba,Hapoel Tel Aviv,1,1,0,D,1,1
+2007/08,2007,FC Ashdod,Maccabi Netanya,1,6,-5,A,0,3
+2007/08,2007,Maccabi Herzlya,Bnei Yehuda,0,2,-2,A,0,3
+2007/08,2007,M. Petah Tikva,Kiryat Shmona,3,1,2,H,3,0
+2007/08,2007,M. Tel Aviv,Maccabi Haifa,0,3,-3,A,0,3
+2007/08,2007,Bnei Sakhnin,B. Jerusalem,2,2,0,D,1,1
+2007/08,2007,Bnei Yehuda,Bnei Sakhnin,3,0,3,H,3,0
+2007/08,2007,Kiryat Shmona,M. Tel Aviv,1,0,1,H,3,0
+2007/08,2007,Maccabi Haifa,H. Kfar Saba,2,1,1,H,3,0
+2007/08,2007,Maccabi Netanya,M. Petah Tikva,1,0,1,H,3,0
+2007/08,2007,B. Jerusalem,FC Ashdod,5,0,5,H,3,0
+2007/08,2007,Hapoel Tel Aviv,Maccabi Herzlya,0,2,-2,A,0,3
+2007/08,2007,Bnei Sakhnin,Hapoel Tel Aviv,1,0,1,H,3,0
+2007/08,2007,H. Kfar Saba,Maccabi Herzlya,2,3,-1,A,0,3
+2007/08,2007,FC Ashdod,Bnei Yehuda,3,0,3,H,3,0
+2007/08,2007,Maccabi Haifa,Kiryat Shmona,1,0,1,H,3,0
+2007/08,2007,M. Petah Tikva,B. Jerusalem,1,2,-1,A,0,3
+2007/08,2007,M. Tel Aviv,Maccabi Netanya,0,2,-2,A,0,3
+2007/08,2007,Bnei Yehuda,M. Petah Tikva,0,1,-1,A,0,3
+2007/08,2007,Kiryat Shmona,H. Kfar Saba,2,2,0,D,1,1
+2007/08,2007,Maccabi Herzlya,Bnei Sakhnin,0,1,-1,A,0,3
+2007/08,2007,Maccabi Netanya,Maccabi Haifa,2,1,1,H,3,0
+2007/08,2007,B. Jerusalem,M. Tel Aviv,2,0,2,H,3,0
+2007/08,2007,Hapoel Tel Aviv,FC Ashdod,0,2,-2,A,0,3
+2007/08,2007,H. Kfar Saba,Bnei Sakhnin,0,0,0,D,1,1
+2007/08,2007,Kiryat Shmona,Maccabi Netanya,0,0,0,D,1,1
+2007/08,2007,FC Ashdod,Maccabi Herzlya,0,1,-1,A,0,3
+2007/08,2007,M. Petah Tikva,Hapoel Tel Aviv,2,1,1,H,3,0
+2007/08,2007,M. Tel Aviv,Bnei Yehuda,3,1,2,H,3,0
+2007/08,2007,Maccabi Haifa,B. Jerusalem,0,0,0,D,1,1
+2007/08,2007,B. Jerusalem,Kiryat Shmona,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,FC Ashdod,3,0,3,H,3,0
+2007/08,2007,Bnei Yehuda,Maccabi Haifa,0,3,-3,A,0,3
+2007/08,2007,Maccabi Herzlya,M. Petah Tikva,1,1,0,D,1,1
+2007/08,2007,Maccabi Netanya,H. Kfar Saba,2,3,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,M. Tel Aviv,1,0,1,H,3,0
+2007/08,2007,H. Kfar Saba,FC Ashdod,3,1,2,H,3,0
+2007/08,2007,Kiryat Shmona,Bnei Yehuda,2,1,1,H,3,0
+2007/08,2007,Maccabi Haifa,Hapoel Tel Aviv,2,0,2,H,3,0
+2007/08,2007,M. Petah Tikva,Bnei Sakhnin,2,0,2,H,3,0
+2007/08,2007,M. Tel Aviv,Maccabi Herzlya,2,0,2,H,3,0
+2007/08,2007,Maccabi Netanya,B. Jerusalem,0,1,-1,A,0,3
+2007/08,2007,Bnei Yehuda,Maccabi Netanya,1,2,-1,A,0,3
+2007/08,2007,Maccabi Herzlya,Maccabi Haifa,0,1,-1,A,0,3
+2007/08,2007,FC Ashdod,M. Petah Tikva,1,3,-2,A,0,3
+2007/08,2007,B. Jerusalem,H. Kfar Saba,4,0,4,H,3,0
+2007/08,2007,Bnei Sakhnin,M. Tel Aviv,3,2,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,Kiryat Shmona,0,1,-1,A,0,3
+2007/08,2007,FC Ashdod,M. Tel Aviv,0,0,0,D,1,1
+2007/08,2007,Maccabi Herzlya,Kiryat Shmona,1,3,-2,A,0,3
+2007/08,2007,H. Kfar Saba,M. Petah Tikva,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,Maccabi Haifa,1,1,0,D,1,1
+2007/08,2007,Hapoel Tel Aviv,Maccabi Netanya,0,1,-1,A,0,3
+2007/08,2007,Bnei Yehuda,B. Jerusalem,0,3,-3,A,0,3
+2007/08,2007,Kiryat Shmona,Bnei Sakhnin,0,0,0,D,1,1
+2007/08,2007,Bnei Yehuda,H. Kfar Saba,0,2,-2,A,0,3
+2007/08,2007,Maccabi Netanya,Maccabi Herzlya,0,0,0,D,1,1
+2007/08,2007,Maccabi Haifa,FC Ashdod,3,0,3,H,3,0
+2007/08,2007,M. Tel Aviv,M. Petah Tikva,2,1,1,H,3,0
+2007/08,2007,B. Jerusalem,Hapoel Tel Aviv,1,0,1,H,3,0
+2007/08,2007,Bnei Sakhnin,Maccabi Netanya,0,0,0,D,1,1
+2007/08,2007,H. Kfar Saba,M. Tel Aviv,0,3,-3,A,0,3
+2007/08,2007,Hapoel Tel Aviv,Bnei Yehuda,1,0,1,H,3,0
+2007/08,2007,FC Ashdod,Kiryat Shmona,0,0,0,D,1,1
+2007/08,2007,Maccabi Herzlya,B. Jerusalem,1,1,0,D,1,1
+2007/08,2007,M. Petah Tikva,Maccabi Haifa,1,1,0,D,1,1
+2007/08,2007,Hapoel Tel Aviv,H. Kfar Saba,1,2,-1,A,0,3
+2007/08,2007,Kiryat Shmona,M. Petah Tikva,2,1,1,H,3,0
+2007/08,2007,Maccabi Netanya,FC Ashdod,3,0,3,H,3,0
+2007/08,2007,Bnei Yehuda,Maccabi Herzlya,0,1,-1,A,0,3
+2007/08,2007,B. Jerusalem,Bnei Sakhnin,0,1,-1,A,0,3
+2007/08,2007,Maccabi Haifa,M. Tel Aviv,3,1,2,H,3,0
+2007/08,2007,Bnei Sakhnin,Bnei Yehuda,0,0,0,D,1,1
+2007/08,2007,Maccabi Herzlya,Hapoel Tel Aviv,2,3,-1,A,0,3
+2007/08,2007,M. Petah Tikva,Maccabi Netanya,0,0,0,D,1,1
+2007/08,2007,M. Tel Aviv,Kiryat Shmona,2,2,0,D,1,1
+2007/08,2007,H. Kfar Saba,Maccabi Haifa,0,3,-3,A,0,3
+2007/08,2007,FC Ashdod,B. Jerusalem,1,2,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,Bnei Sakhnin,0,1,-1,A,0,3
+2007/08,2007,Kiryat Shmona,Maccabi Haifa,1,1,0,D,1,1
+2007/08,2007,Maccabi Herzlya,H. Kfar Saba,0,0,0,D,1,1
+2007/08,2007,B. Jerusalem,M. Petah Tikva,2,1,1,H,3,0
+2007/08,2007,Bnei Yehuda,FC Ashdod,3,2,1,H,3,0
+2007/08,2007,Maccabi Netanya,M. Tel Aviv,1,0,1,H,3,0
+2007/08,2007,FC Ashdod,Hapoel Tel Aviv,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,Maccabi Herzlya,0,3,-3,A,0,3
+2007/08,2007,H. Kfar Saba,Kiryat Shmona,2,3,-1,A,0,3
+2007/08,2007,M. Petah Tikva,Bnei Yehuda,1,0,1,H,3,0
+2007/08,2007,Maccabi Haifa,Maccabi Netanya,0,2,-2,A,0,3
+2007/08,2007,M. Tel Aviv,B. Jerusalem,0,0,0,D,1,1
+2007/08,2007,Bnei Yehuda,M. Tel Aviv,0,4,-4,A,0,3
+2007/08,2007,Bnei Sakhnin,H. Kfar Saba,1,1,0,D,1,1
+2007/08,2007,Maccabi Netanya,Kiryat Shmona,0,0,0,D,1,1
+2007/08,2007,Maccabi Herzlya,FC Ashdod,1,1,0,D,1,1
+2007/08,2007,Hapoel Tel Aviv,M. Petah Tikva,2,1,1,H,3,0
+2007/08,2007,B. Jerusalem,Maccabi Haifa,1,0,1,H,3,0
+2007/08,2007,H. Kfar Saba,Maccabi Netanya,1,2,-1,A,0,3
+2007/08,2007,Maccabi Haifa,Bnei Yehuda,1,0,1,H,3,0
+2007/08,2007,FC Ashdod,Bnei Sakhnin,3,1,2,H,3,0
+2007/08,2007,M. Petah Tikva,Maccabi Herzlya,1,1,0,D,1,1
+2007/08,2007,Kiryat Shmona,B. Jerusalem,0,3,-3,A,0,3
+2007/08,2007,M. Tel Aviv,Hapoel Tel Aviv,1,3,-2,A,0,3
+2007/08,2007,Bnei Yehuda,Kiryat Shmona,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,M. Petah Tikva,1,0,1,H,3,0
+2007/08,2007,Maccabi Herzlya,M. Tel Aviv,1,3,-2,A,0,3
+2007/08,2007,FC Ashdod,H. Kfar Saba,2,4,-2,A,0,3
+2007/08,2007,Hapoel Tel Aviv,Maccabi Haifa,2,0,2,H,3,0
+2007/08,2007,B. Jerusalem,Maccabi Netanya,2,0,2,H,3,0
+2007/08,2007,Kiryat Shmona,Hapoel Tel Aviv,2,1,1,H,3,0
+2007/08,2007,Maccabi Haifa,Maccabi Herzlya,1,1,0,D,1,1
+2007/08,2007,M. Petah Tikva,FC Ashdod,0,0,0,D,1,1
+2007/08,2007,Maccabi Netanya,Bnei Yehuda,0,0,0,D,1,1
+2007/08,2007,M. Tel Aviv,Bnei Sakhnin,0,0,0,D,1,1
+2007/08,2007,H. Kfar Saba,B. Jerusalem,1,1,0,D,1,1
+2007/08,2007,Kiryat Shmona,Bnei Yehuda,2,0,2,H,3,0
+2007/08,2007,Bnei Sakhnin,Maccabi Netanya,1,1,0,D,1,1
+2007/08,2007,H. Kfar Saba,Maccabi Herzlya,3,3,0,D,1,1
+2007/08,2007,Maccabi Haifa,B. Jerusalem,0,1,-1,A,0,3
+2007/08,2007,M. Petah Tikva,FC Ashdod,0,3,-3,A,0,3
+2007/08,2007,M. Tel Aviv,Hapoel Tel Aviv,2,1,1,H,3,0
+2007/08,2007,Kiryat Shmona,Bnei Sakhnin,0,1,-1,A,0,3
+2007/08,2007,Bnei Yehuda,Hapoel Tel Aviv,2,3,-1,A,0,3
+2007/08,2007,B. Jerusalem,M. Petah Tikva,4,0,4,H,3,0
+2007/08,2007,FC Ashdod,H. Kfar Saba,3,1,2,H,3,0
+2007/08,2007,Maccabi Herzlya,M. Tel Aviv,1,0,1,H,3,0
+2007/08,2007,Maccabi Netanya,Maccabi Haifa,0,2,-2,A,0,3
+2007/08,2007,Bnei Sakhnin,Bnei Yehuda,1,3,-2,A,0,3
+2007/08,2007,Maccabi Haifa,Kiryat Shmona,2,1,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,Maccabi Herzlya,2,1,1,H,3,0
+2007/08,2007,H. Kfar Saba,B. Jerusalem,0,4,-4,A,0,3
+2007/08,2007,M. Petah Tikva,Maccabi Netanya,0,1,-1,A,0,3
+2007/08,2007,M. Tel Aviv,FC Ashdod,2,0,2,H,3,0
+2007/08,2007,Bnei Sakhnin,Maccabi Haifa,1,0,1,H,3,0
+2007/08,2007,Kiryat Shmona,M. Petah Tikva,1,0,1,H,3,0
+2007/08,2007,Maccabi Netanya,H. Kfar Saba,1,1,0,D,1,1
+2007/08,2007,Bnei Yehuda,Maccabi Herzlya,2,0,2,H,3,0
+2007/08,2007,FC Ashdod,Hapoel Tel Aviv,2,1,1,H,3,0
+2007/08,2007,B. Jerusalem,M. Tel Aviv,1,1,0,D,1,1
+2007/08,2007,Maccabi Herzlya,FC Ashdod,2,0,2,H,3,0
+2007/08,2007,H. Kfar Saba,Kiryat Shmona,1,3,-2,A,0,3
+2007/08,2007,Maccabi Haifa,Bnei Yehuda,0,1,-1,A,0,3
+2007/08,2007,M. Tel Aviv,Maccabi Netanya,0,0,0,D,1,1
+2007/08,2007,M. Petah Tikva,Bnei Sakhnin,0,4,-4,A,0,3
+2007/08,2007,Hapoel Tel Aviv,B. Jerusalem,3,1,2,H,3,0
+2007/08,2007,Kiryat Shmona,M. Tel Aviv,3,1,2,H,3,0
+2007/08,2007,Maccabi Haifa,M. Petah Tikva,0,0,0,D,1,1
+2007/08,2007,Bnei Sakhnin,H. Kfar Saba,2,0,2,H,3,0
+2007/08,2007,Bnei Yehuda,FC Ashdod,2,0,2,H,3,0
+2007/08,2007,Maccabi Netanya,Hapoel Tel Aviv,3,0,3,H,3,0
+2007/08,2007,B. Jerusalem,Maccabi Herzlya,3,1,2,H,3,0
+2007/08,2007,M. Tel Aviv,Bnei Sakhnin,3,1,2,H,3,0
+2007/08,2007,H. Kfar Saba,Maccabi Haifa,1,0,1,H,3,0
+2007/08,2007,Maccabi Herzlya,Maccabi Netanya,0,2,-2,A,0,3
+2007/08,2007,M. Petah Tikva,Bnei Yehuda,0,1,-1,A,0,3
+2007/08,2007,Hapoel Tel Aviv,Kiryat Shmona,2,0,2,H,3,0
+2007/08,2007,FC Ashdod,B. Jerusalem,1,0,1,H,3,0
+2007/08,2007,M. Petah Tikva,H. Kfar Saba,1,0,1,H,3,0
+2007/08,2007,Bnei Sakhnin,Hapoel Tel Aviv,0,1,-1,A,0,3
+2007/08,2007,Kiryat Shmona,Maccabi Herzlya,2,2,0,D,1,1
+2007/08,2007,Maccabi Netanya,FC Ashdod,1,0,1,H,3,0
+2007/08,2007,B. Jerusalem,Bnei Yehuda,0,1,-1,A,0,3
+2007/08,2007,Maccabi Haifa,M. Tel Aviv,3,3,0,D,1,1
+2007/08,2007,Bnei Yehuda,H. Kfar Saba,3,0,3,H,3,0
+2007/08,2007,FC Ashdod,Kiryat Shmona,2,0,2,H,3,0
+2007/08,2007,B. Jerusalem,Maccabi Netanya,3,0,3,H,3,0
+2007/08,2007,Maccabi Herzlya,Bnei Sakhnin,0,2,-2,A,0,3
+2007/08,2007,M. Tel Aviv,M. Petah Tikva,2,1,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2007/08,2007,Bnei Sakhnin,FC Ashdod,1,2,-1,A,0,3
+2007/08,2007,H. Kfar Saba,M. Tel Aviv,2,3,-1,A,0,3
+2007/08,2007,Kiryat Shmona,B. Jerusalem,3,2,1,H,3,0
+2007/08,2007,Maccabi Haifa,Maccabi Herzlya,3,0,3,H,3,0
+2007/08,2007,M. Petah Tikva,Hapoel Tel Aviv,1,2,-1,A,0,3
+2007/08,2007,Maccabi Netanya,Bnei Yehuda,3,2,1,H,3,0
+2007/08,2007,B. Jerusalem,Bnei Sakhnin,1,2,-1,A,0,3
+2007/08,2007,Bnei Yehuda,M. Tel Aviv,1,0,1,H,3,0
+2007/08,2007,Hapoel Tel Aviv,H. Kfar Saba,0,1,-1,A,0,3
+2007/08,2007,Maccabi Herzlya,M. Petah Tikva,0,1,-1,A,0,3
+2007/08,2007,FC Ashdod,Maccabi Haifa,2,0,2,H,3,0
+2007/08,2007,Maccabi Netanya,Kiryat Shmona,1,2,-1,A,0,3

@@ -1,0 +1,183 @@
+﻿round,home,score,away,season,season_year
+1,Hapoel Haifa,2:0,Hapoel Tel Aviv,2022/23,2022
+2,H. Jerusalem,1:1,Hapoel Hadera,2022/23,2022
+3,Maccabi Netanya,4:1,B. Jerusalem,2022/23,2022
+4,M. Tel Aviv,5:0,M. Bnei Reineh,2022/23,2022
+5,Ness Ziona,0:2,Kiryat Shmona,2022/23,2022
+6,Bnei Sakhnin,0:1,Maccabi Haifa,2022/23,2022
+7,H. Beer Sheva,1:2,FC Ashdod,2022/23,2022
+8,Kiryat Shmona,1:1,H. Jerusalem,2022/23,2022
+9,Hapoel Tel Aviv,0:2,Bnei Sakhnin,2022/23,2022
+10,Maccabi Haifa,4:1,Maccabi Netanya,2022/23,2022
+11,FC Ashdod,1:0,Ness Ziona,2022/23,2022
+12,M. Bnei Reineh,1:1,Hapoel Haifa,2022/23,2022
+13,B. Jerusalem,0:5,H. Beer Sheva,2022/23,2022
+14,Hapoel Hadera,0:6,M. Tel Aviv,2022/23,2022
+15,M. Tel Aviv,3:1,Kiryat Shmona,2022/23,2022
+16,H. Jerusalem,3:0,FC Ashdod,2022/23,2022
+17,Hapoel Haifa,1:2,Bnei Sakhnin,2022/23,2022
+18,H. Beer Sheva,1:2,Maccabi Haifa,2022/23,2022
+19,M. Bnei Reineh,1:2,Hapoel Hadera,2022/23,2022
+20,Ness Ziona,0:3,B. Jerusalem,2022/23,2022
+21,Maccabi Netanya,0:2,Hapoel Tel Aviv,2022/23,2022
+22,Maccabi Haifa,3:1,Ness Ziona,2022/23,2022
+23,Hapoel Hadera,1:1,Hapoel Haifa,2022/23,2022
+24,Bnei Sakhnin,0:0,Maccabi Netanya,2022/23,2022
+25,FC Ashdod,0:0,M. Tel Aviv,2022/23,2022
+26,Hapoel Tel Aviv,2:3,H. Beer Sheva,2022/23,2022
+27,Kiryat Shmona,1:1,M. Bnei Reineh,2022/23,2022
+28,B. Jerusalem,0:1,H. Jerusalem,2022/23,2022
+29,Ness Ziona,4:3,Hapoel Tel Aviv,2022/23,2022
+30,M. Bnei Reineh,1:1,FC Ashdod,2022/23,2022
+31,Hapoel Haifa,0:0,Maccabi Netanya,2022/23,2022
+32,M. Tel Aviv,4:0,B. Jerusalem,2022/23,2022
+33,Hapoel Hadera,1:1,Kiryat Shmona,2022/23,2022
+34,H. Beer Sheva,1:0,Bnei Sakhnin,2022/23,2022
+35,H. Jerusalem,3:0,Maccabi Haifa,2022/23,2022
+36,Kiryat Shmona,1:1,Hapoel Haifa,2022/23,2022
+37,FC Ashdod,1:1,Hapoel Hadera,2022/23,2022
+38,Maccabi Netanya,1:2,H. Beer Sheva,2022/23,2022
+39,Maccabi Haifa,2:0,M. Tel Aviv,2022/23,2022
+40,Bnei Sakhnin,2:0,Ness Ziona,2022/23,2022
+41,Hapoel Tel Aviv,1:3,H. Jerusalem,2022/23,2022
+42,B. Jerusalem,2:3,M. Bnei Reineh,2022/23,2022
+43,Ness Ziona,1:1,Maccabi Netanya,2022/23,2022
+44,H. Jerusalem,1:2,Bnei Sakhnin,2022/23,2022
+45,Hapoel Hadera,2:1,B. Jerusalem,2022/23,2022
+46,M. Bnei Reineh,1:0,Maccabi Haifa,2022/23,2022
+47,Kiryat Shmona,1:1,FC Ashdod,2022/23,2022
+48,H. Beer Sheva,2:2,Hapoel Haifa,2022/23,2022
+49,M. Tel Aviv,3:0,Hapoel Tel Aviv,2022/23,2022
+50,Hapoel Tel Aviv,2:0,M. Bnei Reineh,2022/23,2022
+51,FC Ashdod,4:0,Hapoel Haifa,2022/23,2022
+52,B. Jerusalem,2:0,Kiryat Shmona,2022/23,2022
+53,Bnei Sakhnin,0:1,M. Tel Aviv,2022/23,2022
+54,Maccabi Netanya,0:2,H. Jerusalem,2022/23,2022
+55,H. Beer Sheva,1:1,Ness Ziona,2022/23,2022
+56,Maccabi Haifa,1:0,Hapoel Hadera,2022/23,2022
+57,H. Jerusalem,1:4,H. Beer Sheva,2022/23,2022
+58,Hapoel Haifa,0:1,Ness Ziona,2022/23,2022
+59,FC Ashdod,0:2,B. Jerusalem,2022/23,2022
+60,Kiryat Shmona,2:3,Maccabi Haifa,2022/23,2022
+61,M. Bnei Reineh,2:0,Bnei Sakhnin,2022/23,2022
+62,Hapoel Hadera,0:0,Hapoel Tel Aviv,2022/23,2022
+63,M. Tel Aviv,3:0,Maccabi Netanya,2022/23,2022
+64,Maccabi Haifa,3:1,FC Ashdod,2022/23,2022
+65,Bnei Sakhnin,1:4,Hapoel Hadera,2022/23,2022
+66,Ness Ziona,0:2,H. Jerusalem,2022/23,2022
+67,Maccabi Netanya,2:1,M. Bnei Reineh,2022/23,2022
+68,B. Jerusalem,0:0,Hapoel Haifa,2022/23,2022
+69,Hapoel Tel Aviv,2:1,Kiryat Shmona,2022/23,2022
+70,H. Beer Sheva,2:0,M. Tel Aviv,2022/23,2022
+71,M. Tel Aviv,1:1,Ness Ziona,2022/23,2022
+72,Hapoel Hadera,3:1,Maccabi Netanya,2022/23,2022
+73,Hapoel Haifa,1:0,H. Jerusalem,2022/23,2022
+74,Kiryat Shmona,1:1,Bnei Sakhnin,2022/23,2022
+75,FC Ashdod,1:0,Hapoel Tel Aviv,2022/23,2022
+76,M. Bnei Reineh,0:3,H. Beer Sheva,2022/23,2022
+77,B. Jerusalem,1:4,Maccabi Haifa,2022/23,2022
+78,Bnei Sakhnin,1:1,FC Ashdod,2022/23,2022
+79,Maccabi Netanya,1:0,Kiryat Shmona,2022/23,2022
+80,H. Jerusalem,0:3,M. Tel Aviv,2022/23,2022
+81,Ness Ziona,3:3,M. Bnei Reineh,2022/23,2022
+82,H. Beer Sheva,3:0,Hapoel Hadera,2022/23,2022
+83,Hapoel Tel Aviv,2:1,B. Jerusalem,2022/23,2022
+84,Hapoel Haifa,0:1,Maccabi Haifa,2022/23,2022
+85,FC Ashdod,2:3,Maccabi Netanya,2022/23,2022
+86,Hapoel Hadera,0:0,Ness Ziona,2022/23,2022
+87,M. Tel Aviv,1:0,Hapoel Haifa,2022/23,2022
+88,M. Bnei Reineh,0:2,H. Jerusalem,2022/23,2022
+89,Kiryat Shmona,0:2,H. Beer Sheva,2022/23,2022
+90,Maccabi Haifa,5:2,Hapoel Tel Aviv,2022/23,2022
+91,B. Jerusalem,2:1,Bnei Sakhnin,2022/23,2022
+92,Hapoel Tel Aviv,3:3,Hapoel Haifa,2022/23,2022
+93,Hapoel Hadera,0:0,H. Jerusalem,2022/23,2022
+94,B. Jerusalem,6:3,Maccabi Netanya,2022/23,2022
+95,FC Ashdod,0:1,H. Beer Sheva,2022/23,2022
+96,Kiryat Shmona,3:3,Ness Ziona,2022/23,2022
+97,M. Bnei Reineh,0:2,M. Tel Aviv,2022/23,2022
+98,Maccabi Haifa,3:1,Bnei Sakhnin,2022/23,2022
+99,M. Tel Aviv,5:0,Hapoel Hadera,2022/23,2022
+100,H. Jerusalem,1:1,Kiryat Shmona,2022/23,2022
+101,Hapoel Haifa,0:0,M. Bnei Reineh,2022/23,2022
+102,Ness Ziona,2:0,FC Ashdod,2022/23,2022
+103,H. Beer Sheva,3:2,B. Jerusalem,2022/23,2022
+104,Bnei Sakhnin,1:1,Hapoel Tel Aviv,2022/23,2022
+105,Maccabi Netanya,0:2,Maccabi Haifa,2022/23,2022
+106,B. Jerusalem,3:2,Ness Ziona,2022/23,2022
+107,Hapoel Tel Aviv,1:1,Maccabi Netanya,2022/23,2022
+108,Bnei Sakhnin,1:2,Hapoel Haifa,2022/23,2022
+109,FC Ashdod,1:1,H. Jerusalem,2022/23,2022
+110,Kiryat Shmona,1:1,M. Tel Aviv,2022/23,2022
+111,Hapoel Hadera,2:2,M. Bnei Reineh,2022/23,2022
+112,Maccabi Haifa,2:0,H. Beer Sheva,2022/23,2022
+113,Maccabi Netanya,0:0,Bnei Sakhnin,2022/23,2022
+114,M. Tel Aviv,3:0,FC Ashdod,2022/23,2022
+115,Hapoel Haifa,3:0,Hapoel Hadera,2022/23,2022
+116,H. Jerusalem,1:1,B. Jerusalem,2022/23,2022
+117,M. Bnei Reineh,0:1,Kiryat Shmona,2022/23,2022
+118,Ness Ziona,0:2,Maccabi Haifa,2022/23,2022
+119,H. Beer Sheva,6:0,Hapoel Tel Aviv,2022/23,2022
+120,Hapoel Tel Aviv,1:1,Ness Ziona,2022/23,2022
+121,Kiryat Shmona,2:2,Hapoel Hadera,2022/23,2022
+122,FC Ashdod,3:0,M. Bnei Reineh,2022/23,2022
+123,Maccabi Netanya,1:0,Hapoel Haifa,2022/23,2022
+124,Maccabi Haifa,2:1,H. Jerusalem,2022/23,2022
+125,B. Jerusalem,2:2,M. Tel Aviv,2022/23,2022
+126,Bnei Sakhnin,0:1,H. Beer Sheva,2022/23,2022
+127,H. Jerusalem,0:0,Hapoel Tel Aviv,2022/23,2022
+128,Hapoel Haifa,1:0,Kiryat Shmona,2022/23,2022
+129,Hapoel Hadera,0:2,FC Ashdod,2022/23,2022
+130,Ness Ziona,0:0,Bnei Sakhnin,2022/23,2022
+131,M. Bnei Reineh,0:2,B. Jerusalem,2022/23,2022
+132,H. Beer Sheva,2:2,Maccabi Netanya,2022/23,2022
+133,M. Tel Aviv,3:0,Maccabi Haifa,2022/23,2022
+134,Maccabi Haifa,0:0,M. Bnei Reineh,2022/23,2022
+135,FC Ashdod,1:1,Kiryat Shmona,2022/23,2022
+136,Maccabi Netanya,3:0,Ness Ziona,2022/23,2022
+137,B. Jerusalem,0:2,Hapoel Hadera,2022/23,2022
+138,Hapoel Tel Aviv,0:0,M. Tel Aviv,2022/23,2022
+139,Hapoel Haifa,0:1,H. Beer Sheva,2022/23,2022
+140,Bnei Sakhnin,2:1,H. Jerusalem,2022/23,2022
+141,Ness Ziona,0:1,H. Beer Sheva,2022/23,2022
+142,M. Tel Aviv,1:1,Bnei Sakhnin,2022/23,2022
+143,Hapoel Haifa,1:1,FC Ashdod,2022/23,2022
+144,H. Jerusalem,0:2,Maccabi Netanya,2022/23,2022
+145,Kiryat Shmona,0:3,B. Jerusalem,2022/23,2022
+146,M. Bnei Reineh,1:1,Hapoel Tel Aviv,2022/23,2022
+147,Hapoel Hadera,1:1,Maccabi Haifa,2022/23,2022
+148,B. Jerusalem,2:1,FC Ashdod,2022/23,2022
+149,H. Beer Sheva,0:0,H. Jerusalem,2022/23,2022
+150,Ness Ziona,0:2,Hapoel Haifa,2022/23,2022
+151,Bnei Sakhnin,1:1,M. Bnei Reineh,2022/23,2022
+152,Maccabi Haifa,2:0,Kiryat Shmona,2022/23,2022
+153,Hapoel Tel Aviv,0:0,Hapoel Hadera,2022/23,2022
+154,Maccabi Netanya,2:1,M. Tel Aviv,2022/23,2022
+155,Kiryat Shmona,0:1,Hapoel Tel Aviv,2022/23,2022
+156,M. Bnei Reineh,1:2,Maccabi Netanya,2022/23,2022
+157,Hapoel Hadera,1:3,Bnei Sakhnin,2022/23,2022
+158,H. Jerusalem,1:0,Ness Ziona,2022/23,2022
+159,FC Ashdod,3:1,Maccabi Haifa,2022/23,2022
+160,Hapoel Haifa,0:0,B. Jerusalem,2022/23,2022
+161,M. Tel Aviv,1:0,H. Beer Sheva,2022/23,2022
+162,Hapoel Tel Aviv,1:2,FC Ashdod,2022/23,2022
+163,Ness Ziona,0:2,M. Tel Aviv,2022/23,2022
+164,Bnei Sakhnin,1:3,Kiryat Shmona,2022/23,2022
+165,Maccabi Netanya,1:0,Hapoel Hadera,2022/23,2022
+166,Maccabi Haifa,2:1,B. Jerusalem,2022/23,2022
+167,H. Jerusalem,2:2,Hapoel Haifa,2022/23,2022
+168,H. Beer Sheva,2:0,M. Bnei Reineh,2022/23,2022
+169,Kiryat Shmona,2:2,Maccabi Netanya,2022/23,2022
+170,Hapoel Hadera,0:3,H. Beer Sheva,2022/23,2022
+171,FC Ashdod,1:1,Bnei Sakhnin,2022/23,2022
+172,M. Bnei Reineh,3:2,Ness Ziona,2022/23,2022
+173,M. Tel Aviv,1:2,H. Jerusalem,2022/23,2022
+174,B. Jerusalem,1:3,Hapoel Tel Aviv,2022/23,2022
+175,Maccabi Haifa,4:1,Hapoel Haifa,2022/23,2022
+176,Hapoel Haifa,1:1,M. Tel Aviv,2022/23,2022
+177,H. Jerusalem,0:1,M. Bnei Reineh,2022/23,2022
+178,Ness Ziona,1:3,Hapoel Hadera,2022/23,2022
+179,Maccabi Netanya,0:2,FC Ashdod,2022/23,2022
+180,Bnei Sakhnin,2:0,B. Jerusalem,2022/23,2022
+181,H. Beer Sheva,2:1,Kiryat Shmona,2022/23,2022
+182,Hapoel Tel Aviv,0:1,Maccabi Haifa,2022/23,2022

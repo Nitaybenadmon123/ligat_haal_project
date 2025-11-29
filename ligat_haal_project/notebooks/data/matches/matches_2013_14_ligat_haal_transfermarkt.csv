@@ -1,0 +1,183 @@
+﻿round,home,score,away,season,season_year
+1,Hapoel Acre,0:2,M. Tel Aviv,2013/14,2013
+2,Ramat haSharon,0:2,Hapoel Haifa,2013/14,2013
+3,Hapoel Raanana,1:0,M. Petah Tikva,2013/14,2013
+4,Bnei Yehuda,1:0,FC Ashdod,2013/14,2013
+5,B. Jerusalem,0:2,H. Beer Sheva,2013/14,2013
+6,Hapoel Tel Aviv,0:0,Bnei Sakhnin,2013/14,2013
+7,Maccabi Haifa,3:1,Kiryat Shmona,2013/14,2013
+8,Bnei Sakhnin,1:0,Hapoel Acre,2013/14,2013
+9,Kiryat Shmona,4:1,Ramat haSharon,2013/14,2013
+10,Hapoel Haifa,1:1,Hapoel Raanana,2013/14,2013
+11,H. Beer Sheva,2:0,Hapoel Tel Aviv,2013/14,2013
+12,M. Petah Tikva,1:3,B. Jerusalem,2013/14,2013
+13,FC Ashdod,3:2,Maccabi Haifa,2013/14,2013
+14,M. Tel Aviv,1:0,Bnei Yehuda,2013/14,2013
+15,Hapoel Acre,1:2,H. Beer Sheva,2013/14,2013
+16,Bnei Yehuda,2:4,Bnei Sakhnin,2013/14,2013
+17,Kiryat Shmona,1:0,FC Ashdod,2013/14,2013
+18,Ramat haSharon,1:3,Hapoel Raanana,2013/14,2013
+19,B. Jerusalem,0:1,Hapoel Haifa,2013/14,2013
+20,Hapoel Tel Aviv,3:1,M. Petah Tikva,2013/14,2013
+21,Maccabi Haifa,0:3,M. Tel Aviv,2013/14,2013
+22,Bnei Sakhnin,0:0,Maccabi Haifa,2013/14,2013
+23,FC Ashdod,3:0,Ramat haSharon,2013/14,2013
+24,M. Petah Tikva,1:1,Hapoel Acre,2013/14,2013
+25,Hapoel Haifa,0:4,Hapoel Tel Aviv,2013/14,2013
+26,M. Tel Aviv,3:0,Kiryat Shmona,2013/14,2013
+27,Hapoel Raanana,2:2,B. Jerusalem,2013/14,2013
+28,H. Beer Sheva,2:1,Bnei Yehuda,2013/14,2013
+29,Hapoel Tel Aviv,0:0,Hapoel Raanana,2013/14,2013
+30,Hapoel Acre,2:1,Hapoel Haifa,2013/14,2013
+31,Kiryat Shmona,1:1,Bnei Sakhnin,2013/14,2013
+32,Ramat haSharon,0:2,B. Jerusalem,2013/14,2013
+33,Bnei Yehuda,2:4,M. Petah Tikva,2013/14,2013
+34,FC Ashdod,0:0,M. Tel Aviv,2013/14,2013
+35,Maccabi Haifa,0:0,H. Beer Sheva,2013/14,2013
+36,H. Beer Sheva,0:2,Kiryat Shmona,2013/14,2013
+37,Bnei Sakhnin,3:0,FC Ashdod,2013/14,2013
+38,Hapoel Haifa,2:1,Bnei Yehuda,2013/14,2013
+39,Hapoel Raanana,1:3,Hapoel Acre,2013/14,2013
+40,M. Petah Tikva,0:3,Maccabi Haifa,2013/14,2013
+41,M. Tel Aviv,1:0,Ramat haSharon,2013/14,2013
+42,B. Jerusalem,1:0,Hapoel Tel Aviv,2013/14,2013
+43,Ramat haSharon,0:5,Hapoel Tel Aviv,2013/14,2013
+44,FC Ashdod,2:2,H. Beer Sheva,2013/14,2013
+45,Kiryat Shmona,0:0,M. Petah Tikva,2013/14,2013
+46,Bnei Yehuda,0:0,Hapoel Raanana,2013/14,2013
+47,Hapoel Acre,0:0,B. Jerusalem,2013/14,2013
+48,Maccabi Haifa,0:1,Hapoel Haifa,2013/14,2013
+49,M. Tel Aviv,4:1,Bnei Sakhnin,2013/14,2013
+50,Hapoel Raanana,1:0,Maccabi Haifa,2013/14,2013
+51,Hapoel Haifa,2:0,Kiryat Shmona,2013/14,2013
+52,M. Petah Tikva,1:1,FC Ashdod,2013/14,2013
+53,Bnei Sakhnin,1:1,Ramat haSharon,2013/14,2013
+54,B. Jerusalem,2:1,Bnei Yehuda,2013/14,2013
+55,Hapoel Tel Aviv,2:0,Hapoel Acre,2013/14,2013
+56,H. Beer Sheva,3:2,M. Tel Aviv,2013/14,2013
+57,Ramat haSharon,1:1,Hapoel Acre,2013/14,2013
+58,FC Ashdod,1:0,Hapoel Haifa,2013/14,2013
+59,Bnei Sakhnin,0:4,H. Beer Sheva,2013/14,2013
+60,Kiryat Shmona,0:0,Hapoel Raanana,2013/14,2013
+61,Bnei Yehuda,2:2,Hapoel Tel Aviv,2013/14,2013
+62,M. Tel Aviv,2:2,M. Petah Tikva,2013/14,2013
+63,Maccabi Haifa,2:0,B. Jerusalem,2013/14,2013
+64,M. Petah Tikva,1:3,Bnei Sakhnin,2013/14,2013
+65,Hapoel Haifa,1:3,M. Tel Aviv,2013/14,2013
+66,Hapoel Acre,3:2,Bnei Yehuda,2013/14,2013
+67,Hapoel Raanana,3:0,FC Ashdod,2013/14,2013
+68,B. Jerusalem,1:4,Kiryat Shmona,2013/14,2013
+69,Hapoel Tel Aviv,2:4,Maccabi Haifa,2013/14,2013
+70,H. Beer Sheva,0:0,Ramat haSharon,2013/14,2013
+71,Bnei Sakhnin,2:0,Hapoel Haifa,2013/14,2013
+72,Ramat haSharon,1:0,Bnei Yehuda,2013/14,2013
+73,H. Beer Sheva,3:0,M. Petah Tikva,2013/14,2013
+74,Kiryat Shmona,2:2,Hapoel Tel Aviv,2013/14,2013
+75,FC Ashdod,1:0,B. Jerusalem,2013/14,2013
+76,Maccabi Haifa,2:1,Hapoel Acre,2013/14,2013
+77,M. Tel Aviv,3:1,Hapoel Raanana,2013/14,2013
+78,Hapoel Haifa,1:3,H. Beer Sheva,2013/14,2013
+79,Ramat haSharon,2:0,M. Petah Tikva,2013/14,2013
+80,Hapoel Acre,2:1,Kiryat Shmona,2013/14,2013
+81,Hapoel Raanana,0:1,Bnei Sakhnin,2013/14,2013
+82,Bnei Yehuda,0:2,Maccabi Haifa,2013/14,2013
+83,B. Jerusalem,1:2,M. Tel Aviv,2013/14,2013
+84,Hapoel Tel Aviv,2:1,FC Ashdod,2013/14,2013
+85,FC Ashdod,0:0,Hapoel Acre,2013/14,2013
+86,M. Petah Tikva,1:1,Hapoel Haifa,2013/14,2013
+87,H. Beer Sheva,0:0,Hapoel Raanana,2013/14,2013
+88,Maccabi Haifa,1:1,Ramat haSharon,2013/14,2013
+89,M. Tel Aviv,1:0,Hapoel Tel Aviv,2013/14,2013
+90,Kiryat Shmona,2:1,Bnei Yehuda,2013/14,2013
+91,Bnei Sakhnin,0:0,B. Jerusalem,2013/14,2013
+92,Hapoel Haifa,3:0,Ramat haSharon,2013/14,2013
+93,FC Ashdod,1:0,Bnei Yehuda,2013/14,2013
+94,M. Petah Tikva,1:0,Hapoel Raanana,2013/14,2013
+95,Bnei Sakhnin,4:0,Hapoel Tel Aviv,2013/14,2013
+96,M. Tel Aviv,5:0,Hapoel Acre,2013/14,2013
+97,Kiryat Shmona,2:1,Maccabi Haifa,2013/14,2013
+98,H. Beer Sheva,2:0,B. Jerusalem,2013/14,2013
+99,Hapoel Acre,0:2,Bnei Sakhnin,2013/14,2013
+100,Ramat haSharon,0:2,Kiryat Shmona,2013/14,2013
+101,Hapoel Raanana,0:2,Hapoel Haifa,2013/14,2013
+102,Maccabi Haifa,2:1,FC Ashdod,2013/14,2013
+103,Bnei Yehuda,0:2,M. Tel Aviv,2013/14,2013
+104,B. Jerusalem,1:0,M. Petah Tikva,2013/14,2013
+105,Hapoel Tel Aviv,1:3,H. Beer Sheva,2013/14,2013
+106,M. Petah Tikva,0:2,Hapoel Tel Aviv,2013/14,2013
+107,Bnei Sakhnin,0:1,Bnei Yehuda,2013/14,2013
+108,FC Ashdod,2:1,Kiryat Shmona,2013/14,2013
+109,Hapoel Raanana,1:2,Ramat haSharon,2013/14,2013
+110,H. Beer Sheva,1:1,Hapoel Acre,2013/14,2013
+111,Hapoel Haifa,2:2,B. Jerusalem,2013/14,2013
+112,M. Tel Aviv,3:1,Maccabi Haifa,2013/14,2013
+113,Maccabi Haifa,2:1,Bnei Sakhnin,2013/14,2013
+114,Bnei Yehuda,1:2,H. Beer Sheva,2013/14,2013
+115,Hapoel Acre,1:3,M. Petah Tikva,2013/14,2013
+116,Ramat haSharon,2:3,FC Ashdod,2013/14,2013
+117,B. Jerusalem,1:1,Hapoel Raanana,2013/14,2013
+118,Hapoel Tel Aviv,4:0,Hapoel Haifa,2013/14,2013
+119,Kiryat Shmona,3:1,M. Tel Aviv,2013/14,2013
+120,M. Tel Aviv,2:0,FC Ashdod,2013/14,2013
+121,Bnei Sakhnin,1:1,Kiryat Shmona,2013/14,2013
+122,Hapoel Haifa,0:0,Hapoel Acre,2013/14,2013
+123,M. Petah Tikva,2:2,Bnei Yehuda,2013/14,2013
+124,Hapoel Raanana,1:4,Hapoel Tel Aviv,2013/14,2013
+125,B. Jerusalem,0:1,Ramat haSharon,2013/14,2013
+126,H. Beer Sheva,3:1,Maccabi Haifa,2013/14,2013
+127,Kiryat Shmona,0:1,H. Beer Sheva,2013/14,2013
+128,FC Ashdod,0:0,Bnei Sakhnin,2013/14,2013
+129,Hapoel Acre,0:0,Hapoel Raanana,2013/14,2013
+130,Maccabi Haifa,1:0,M. Petah Tikva,2013/14,2013
+131,Bnei Yehuda,2:2,Hapoel Haifa,2013/14,2013
+132,Ramat haSharon,0:3,M. Tel Aviv,2013/14,2013
+133,Hapoel Tel Aviv,3:1,B. Jerusalem,2013/14,2013
+134,Hapoel Tel Aviv,3:0,Ramat haSharon,2013/14,2013
+135,M. Petah Tikva,3:3,Kiryat Shmona,2013/14,2013
+136,Hapoel Raanana,0:2,Bnei Yehuda,2013/14,2013
+137,H. Beer Sheva,2:0,FC Ashdod,2013/14,2013
+138,Hapoel Haifa,0:1,Maccabi Haifa,2013/14,2013
+139,Bnei Sakhnin,0:2,M. Tel Aviv,2013/14,2013
+140,B. Jerusalem,1:0,Hapoel Acre,2013/14,2013
+141,FC Ashdod,2:0,M. Petah Tikva,2013/14,2013
+142,Ramat haSharon,0:1,Bnei Sakhnin,2013/14,2013
+143,Kiryat Shmona,2:0,Hapoel Haifa,2013/14,2013
+144,Maccabi Haifa,3:1,Hapoel Raanana,2013/14,2013
+145,Bnei Yehuda,0:0,B. Jerusalem,2013/14,2013
+146,M. Tel Aviv,3:1,H. Beer Sheva,2013/14,2013
+147,Hapoel Acre,2:1,Hapoel Tel Aviv,2013/14,2013
+148,Hapoel Tel Aviv,2:2,Bnei Yehuda,2013/14,2013
+149,Hapoel Acre,4:3,Ramat haSharon,2013/14,2013
+150,Hapoel Haifa,1:1,FC Ashdod,2013/14,2013
+151,Hapoel Raanana,0:2,Kiryat Shmona,2013/14,2013
+152,M. Petah Tikva,0:2,M. Tel Aviv,2013/14,2013
+153,B. Jerusalem,1:0,Maccabi Haifa,2013/14,2013
+154,H. Beer Sheva,2:1,Bnei Sakhnin,2013/14,2013
+155,Ramat haSharon,0:4,H. Beer Sheva,2013/14,2013
+156,Bnei Sakhnin,0:2,M. Petah Tikva,2013/14,2013
+157,FC Ashdod,1:2,Hapoel Raanana,2013/14,2013
+158,Bnei Yehuda,1:0,Hapoel Acre,2013/14,2013
+159,Kiryat Shmona,1:0,B. Jerusalem,2013/14,2013
+160,M. Tel Aviv,2:2,Hapoel Haifa,2013/14,2013
+161,Maccabi Haifa,3:1,Hapoel Tel Aviv,2013/14,2013
+162,Hapoel Tel Aviv,1:1,Kiryat Shmona,2013/14,2013
+163,M. Petah Tikva,1:3,H. Beer Sheva,2013/14,2013
+164,Hapoel Acre,1:1,Maccabi Haifa,2013/14,2013
+165,Bnei Yehuda,0:1,Ramat haSharon,2013/14,2013
+166,B. Jerusalem,2:0,FC Ashdod,2013/14,2013
+167,Hapoel Raanana,0:2,M. Tel Aviv,2013/14,2013
+168,Hapoel Haifa,2:0,Bnei Sakhnin,2013/14,2013
+169,FC Ashdod,4:5,Hapoel Tel Aviv,2013/14,2013
+170,Kiryat Shmona,2:0,Hapoel Acre,2013/14,2013
+171,M. Petah Tikva,3:3,Ramat haSharon,2013/14,2013
+172,Bnei Sakhnin,2:0,Hapoel Raanana,2013/14,2013
+173,H. Beer Sheva,1:0,Hapoel Haifa,2013/14,2013
+174,Maccabi Haifa,2:2,Bnei Yehuda,2013/14,2013
+175,M. Tel Aviv,1:0,B. Jerusalem,2013/14,2013
+176,Hapoel Raanana,1:0,H. Beer Sheva,2013/14,2013
+177,Hapoel Haifa,0:1,M. Petah Tikva,2013/14,2013
+178,Hapoel Acre,1:1,FC Ashdod,2013/14,2013
+179,Bnei Yehuda,0:0,Kiryat Shmona,2013/14,2013
+180,B. Jerusalem,0:1,Bnei Sakhnin,2013/14,2013
+181,Ramat haSharon,1:2,Maccabi Haifa,2013/14,2013
+182,Hapoel Tel Aviv,2:3,M. Tel Aviv,2013/14,2013
