@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2023/24,2023,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2023/24,2023,championship,Maccabi Tel Aviv,Hapoel Be'er Sheva,3,0,3,H,3,0
+2023/24,2023,championship,Maccabi Tel Aviv,Hapoel Haifa,4,0,4,H,3,0
+2023/24,2023,championship,Maccabi Tel Aviv,Maccabi Bnei Reineh,2,0,2,H,3,0
+2023/24,2023,championship,Maccabi Tel Aviv,Bnei Sakhnin,2,0,2,H,3,0
+2023/24,2023,championship,Maccabi Haifa,Maccabi Tel Aviv,0,1,-1,A,0,3
+2023/24,2023,championship,Maccabi Haifa,Hapoel Be'er Sheva,4,1,3,H,3,0
+2023/24,2023,championship,Maccabi Haifa,Hapoel Haifa,0,2,-2,A,0,3
+2023/24,2023,championship,Maccabi Haifa,Maccabi Bnei Reineh,1,2,-1,A,0,3
+2023/24,2023,championship,Maccabi Haifa,Bnei Sakhnin,1,0,1,H,3,0
+2023/24,2023,championship,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2023/24,2023,championship,Hapoel Be'er Sheva,Maccabi Haifa,1,4,-3,A,0,3
+2023/24,2023,championship,Hapoel Be'er Sheva,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,championship,Hapoel Be'er Sheva,Maccabi Bnei Reineh,2,1,1,H,3,0
+2023/24,2023,championship,Hapoel Be'er Sheva,Bnei Sakhnin,2,1,1,H,3,0
+2023/24,2023,championship,Hapoel Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2023/24,2023,championship,Hapoel Haifa,Maccabi Haifa,0,2,-2,A,0,3
+2023/24,2023,championship,Hapoel Haifa,Hapoel Be'er Sheva,2,0,2,H,3,0
+2023/24,2023,championship,Hapoel Haifa,Maccabi Bnei Reineh,2,0,2,H,3,0
+2023/24,2023,championship,Hapoel Haifa,Bnei Sakhnin,1,2,-1,A,0,3
+2023/24,2023,championship,Maccabi Bnei Reineh,Maccabi Tel Aviv,2,3,-1,A,0,3
+2023/24,2023,championship,Maccabi Bnei Reineh,Maccabi Haifa,1,5,-4,A,0,3
+2023/24,2023,championship,Maccabi Bnei Reineh,Hapoel Be'er Sheva,1,0,1,H,3,0
+2023/24,2023,championship,Maccabi Bnei Reineh,Hapoel Haifa,0,1,-1,A,0,3
+2023/24,2023,championship,Maccabi Bnei Reineh,Bnei Sakhnin,2,2,0,D,1,1
+2023/24,2023,championship,Bnei Sakhnin,Maccabi Tel Aviv,1,1,0,D,1,1
+2023/24,2023,championship,Bnei Sakhnin,Maccabi Haifa,1,2,-1,A,0,3
+2023/24,2023,championship,Bnei Sakhnin,Hapoel Be'er Sheva,4,1,3,H,3,0
+2023/24,2023,championship,Bnei Sakhnin,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,championship,Bnei Sakhnin,Maccabi Bnei Reineh,0,2,-2,A,0,3

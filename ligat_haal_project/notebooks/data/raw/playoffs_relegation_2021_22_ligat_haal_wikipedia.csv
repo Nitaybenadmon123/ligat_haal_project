@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2021/22,2021,relegation,Ironi Kiryat Shmona,Hapoel Haifa,4,0,4,H,3,0
+2021/22,2021,relegation,Ironi Kiryat Shmona,Hapoel Jerusalem,2,1,1,H,3,0
+2021/22,2021,relegation,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,1,0,D,1,1
+2021/22,2021,relegation,Ironi Kiryat Shmona,Hapoel Nof HaGalil,2,0,2,H,3,0
+2021/22,2021,relegation,Hapoel Hadera,Ironi Kiryat Shmona,1,4,-3,A,0,3
+2021/22,2021,relegation,Hapoel Hadera,F.C. Ashdod,2,3,-1,A,0,3
+2021/22,2021,relegation,Hapoel Hadera,Beitar Jerusalem,1,2,-1,A,0,3
+2021/22,2021,relegation,Hapoel Hadera,Hapoel Jerusalem,3,1,2,H,3,0
+2021/22,2021,relegation,F.C. Ashdod,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2021/22,2021,relegation,F.C. Ashdod,Hapoel Jerusalem,0,1,-1,A,0,3
+2021/22,2021,relegation,F.C. Ashdod,Maccabi Petah Tikva,1,0,1,H,3,0
+2021/22,2021,relegation,F.C. Ashdod,Hapoel Nof HaGalil,2,0,2,H,3,0
+2021/22,2021,relegation,Beitar Jerusalem,Ironi Kiryat Shmona,3,3,0,D,1,1
+2021/22,2021,relegation,Beitar Jerusalem,F.C. Ashdod,1,0,1,H,3,0
+2021/22,2021,relegation,Beitar Jerusalem,Maccabi Petah Tikva,2,2,0,D,1,1
+2021/22,2021,relegation,Hapoel Haifa,Hapoel Hadera,1,0,1,H,3,0
+2021/22,2021,relegation,Hapoel Haifa,F.C. Ashdod,1,2,-1,A,0,3
+2021/22,2021,relegation,Hapoel Haifa,Beitar Jerusalem,1,1,0,D,1,1
+2021/22,2021,relegation,Hapoel Haifa,Hapoel Jerusalem,0,2,-2,A,0,3
+2021/22,2021,relegation,Hapoel Jerusalem,Beitar Jerusalem,0,1,-1,A,0,3
+2021/22,2021,relegation,Hapoel Jerusalem,Maccabi Petah Tikva,1,0,1,H,3,0
+2021/22,2021,relegation,Hapoel Jerusalem,Hapoel Nof HaGalil,0,0,0,D,1,1
+2021/22,2021,relegation,Maccabi Petah Tikva,Hapoel Hadera,4,3,1,H,3,0
+2021/22,2021,relegation,Maccabi Petah Tikva,Hapoel Haifa,0,0,0,D,1,1
+2021/22,2021,relegation,Maccabi Petah Tikva,Hapoel Nof HaGalil,0,4,-4,A,0,3
+2021/22,2021,relegation,Hapoel Nof HaGalil,Hapoel Hadera,0,2,-2,A,0,3
+2021/22,2021,relegation,Hapoel Nof HaGalil,Beitar Jerusalem,0,2,-2,A,0,3
+2021/22,2021,relegation,Hapoel Nof HaGalil,Hapoel Haifa,1,0,1,H,3,0

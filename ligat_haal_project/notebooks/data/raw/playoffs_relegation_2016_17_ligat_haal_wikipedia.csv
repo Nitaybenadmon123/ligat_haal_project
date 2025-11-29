@@ -1,29 +1,29 @@
 ﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2016/17,2016,relegation,F.C. Ashdod,HKS,0,0,0,D,1,1
-2016/17,2016,relegation,F.C. Ashdod,HRA,2,2,0,D,1,1
-2016/17,2016,relegation,F.C. Ashdod,HTA,2,0,2,H,3,0
-2016/17,2016,relegation,F.C. Ashdod,IKS,1,1,0,D,1,1
-2016/17,2016,relegation,Bnei Yehuda,ASH,2,1,1,H,3,0
-2016/17,2016,relegation,Bnei Yehuda,HKS,1,0,1,H,3,0
-2016/17,2016,relegation,Bnei Yehuda,IKS,0,2,-2,A,0,3
-2016/17,2016,relegation,Hapoel Ashkelon,ASH,0,0,0,D,1,1
-2016/17,2016,relegation,Hapoel Ashkelon,BnY,1,0,1,H,3,0
-2016/17,2016,relegation,Hapoel Ashkelon,IKS,2,1,1,H,3,0
-2016/17,2016,relegation,Hapoel Haifa,ASH,1,1,0,D,1,1
-2016/17,2016,relegation,Hapoel Haifa,BnY,1,1,0,D,1,1
-2016/17,2016,relegation,Hapoel Haifa,HAS,1,4,-3,A,0,3
-2016/17,2016,relegation,Hapoel Haifa,HTA,3,3,0,D,1,1
-2016/17,2016,relegation,Hapoel Kfar Saba,HAS,1,0,1,H,3,0
-2016/17,2016,relegation,Hapoel Kfar Saba,HHA,1,0,1,H,3,0
-2016/17,2016,relegation,Hapoel Kfar Saba,HRA,0,2,-2,A,0,3
-2016/17,2016,relegation,Hapoel Ra'anana,BnY,0,2,-2,A,0,3
-2016/17,2016,relegation,Hapoel Ra'anana,HAS,0,2,-2,A,0,3
-2016/17,2016,relegation,Hapoel Ra'anana,HHA,0,2,-2,A,0,3
-2016/17,2016,relegation,Hapoel Ra'anana,HTA,1,1,0,D,1,1
-2016/17,2016,relegation,Hapoel Tel Aviv,BnY,2,0,2,H,3,0
-2016/17,2016,relegation,Hapoel Tel Aviv,HAS,0,0,0,D,1,1
-2016/17,2016,relegation,Hapoel Tel Aviv,HKS,2,0,2,H,3,0
-2016/17,2016,relegation,Ironi Kiryat Shmona,HHA,0,2,-2,A,0,3
-2016/17,2016,relegation,Ironi Kiryat Shmona,HKS,1,4,-3,A,0,3
-2016/17,2016,relegation,Ironi Kiryat Shmona,HRA,2,3,-1,A,0,3
-2016/17,2016,relegation,Ironi Kiryat Shmona,HTA,2,3,-1,A,0,3
+2016/17,2016,relegation,F.C. Ashdod,Hapoel Kfar Saba,0,0,0,D,1,1
+2016/17,2016,relegation,F.C. Ashdod,Hapoel Ra'anana,2,2,0,D,1,1
+2016/17,2016,relegation,F.C. Ashdod,Hapoel Tel Aviv,2,0,2,H,3,0
+2016/17,2016,relegation,F.C. Ashdod,Ironi Kiryat Shmona,1,1,0,D,1,1
+2016/17,2016,relegation,Bnei Yehuda,F.C. Ashdod,2,1,1,H,3,0
+2016/17,2016,relegation,Bnei Yehuda,Hapoel Kfar Saba,1,0,1,H,3,0
+2016/17,2016,relegation,Bnei Yehuda,Ironi Kiryat Shmona,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ashkelon,F.C. Ashdod,0,0,0,D,1,1
+2016/17,2016,relegation,Hapoel Ashkelon,Bnei Yehuda,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Ashkelon,Ironi Kiryat Shmona,2,1,1,H,3,0
+2016/17,2016,relegation,Hapoel Haifa,F.C. Ashdod,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Haifa,Bnei Yehuda,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Haifa,Hapoel Ashkelon,1,4,-3,A,0,3
+2016/17,2016,relegation,Hapoel Haifa,Hapoel Tel Aviv,3,3,0,D,1,1
+2016/17,2016,relegation,Hapoel Kfar Saba,Hapoel Ashkelon,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Kfar Saba,Hapoel Haifa,1,0,1,H,3,0
+2016/17,2016,relegation,Hapoel Kfar Saba,Hapoel Ra'anana,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,Bnei Yehuda,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,Hapoel Ashkelon,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,Hapoel Haifa,0,2,-2,A,0,3
+2016/17,2016,relegation,Hapoel Ra'anana,Hapoel Tel Aviv,1,1,0,D,1,1
+2016/17,2016,relegation,Hapoel Tel Aviv,Bnei Yehuda,2,0,2,H,3,0
+2016/17,2016,relegation,Hapoel Tel Aviv,Hapoel Ashkelon,0,0,0,D,1,1
+2016/17,2016,relegation,Hapoel Tel Aviv,Hapoel Kfar Saba,2,0,2,H,3,0
+2016/17,2016,relegation,Ironi Kiryat Shmona,Hapoel Haifa,0,2,-2,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,Hapoel Kfar Saba,1,4,-3,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,Hapoel Ra'anana,2,3,-1,A,0,3
+2016/17,2016,relegation,Ironi Kiryat Shmona,Hapoel Tel Aviv,2,3,-1,A,0,3

@@ -1,0 +1,31 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2014/15,2014,championship,Beitar Jerusalem,Hapoel Be'er Sheva,1,1,0,D,1,1
+2014/15,2014,championship,Beitar Jerusalem,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2014/15,2014,championship,Beitar Jerusalem,Maccabi Haifa,1,1,0,D,1,1
+2014/15,2014,championship,Beitar Jerusalem,Maccabi Petah Tikva,0,0,0,D,1,1
+2014/15,2014,championship,Beitar Jerusalem,Maccabi Tel Aviv,3,0,3,H,3,0
+2014/15,2014,championship,Hapoel Be'er Sheva,Beitar Jerusalem,4,0,4,H,3,0
+2014/15,2014,championship,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,2,0,D,1,1
+2014/15,2014,championship,Hapoel Be'er Sheva,Maccabi Haifa,1,1,0,D,1,1
+2014/15,2014,championship,Hapoel Be'er Sheva,Maccabi Petah Tikva,3,0,3,H,3,0
+2014/15,2014,championship,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,championship,Ironi Kiryat Shmona,Beitar Jerusalem,1,2,-1,A,0,3
+2014/15,2014,championship,Ironi Kiryat Shmona,Hapoel Be'er Sheva,3,1,2,H,3,0
+2014/15,2014,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,0,1,H,3,0
+2014/15,2014,championship,Ironi Kiryat Shmona,Maccabi Petah Tikva,2,0,2,H,3,0
+2014/15,2014,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,0,0,0,D,1,1
+2014/15,2014,championship,Maccabi Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2014/15,2014,championship,Maccabi Haifa,Hapoel Be'er Sheva,4,0,4,H,3,0
+2014/15,2014,championship,Maccabi Haifa,Ironi Kiryat Shmona,4,1,3,H,3,0
+2014/15,2014,championship,Maccabi Haifa,Maccabi Petah Tikva,0,0,0,D,1,1
+2014/15,2014,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,championship,Maccabi Petah Tikva,Beitar Jerusalem,1,2,-1,A,0,3
+2014/15,2014,championship,Maccabi Petah Tikva,Hapoel Be'er Sheva,1,2,-1,A,0,3
+2014/15,2014,championship,Maccabi Petah Tikva,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2014/15,2014,championship,Maccabi Petah Tikva,Maccabi Haifa,1,0,1,H,3,0
+2014/15,2014,championship,Maccabi Petah Tikva,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,championship,Maccabi Tel Aviv,Beitar Jerusalem,4,1,3,H,3,0
+2014/15,2014,championship,Maccabi Tel Aviv,Hapoel Be'er Sheva,3,1,2,H,3,0
+2014/15,2014,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,1,1,H,3,0
+2014/15,2014,championship,Maccabi Tel Aviv,Maccabi Haifa,2,1,1,H,3,0
+2014/15,2014,championship,Maccabi Tel Aviv,Maccabi Petah Tikva,0,2,-2,A,0,3

@@ -1,0 +1,29 @@
+﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2011/12,2011,championship,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
+2011/12,2011,championship,Bnei Yehuda,Maccabi Netanya,1,0,1,H,3,0
+2011/12,2011,championship,Bnei Yehuda,Maccabi Tel Aviv,4,3,1,H,3,0
+2011/12,2011,championship,Bnei Sakhnin,Bnei Yehuda,0,3,-3,A,0,3
+2011/12,2011,championship,Bnei Sakhnin,F.C. Ashdod,1,2,-1,A,0,3
+2011/12,2011,championship,Bnei Sakhnin,Ironi Kiryat Shmona,5,0,5,H,3,0
+2011/12,2011,championship,Bnei Sakhnin,Maccabi Haifa,0,2,-2,A,0,3
+2011/12,2011,championship,F.C. Ashdod,Bnei Yehuda,2,1,1,H,3,0
+2011/12,2011,championship,F.C. Ashdod,Hapoel Tel Aviv,0,2,-2,A,0,3
+2011/12,2011,championship,F.C. Ashdod,Maccabi Netanya,0,2,-2,A,0,3
+2011/12,2011,championship,F.C. Ashdod,Maccabi Tel Aviv,1,1,0,D,1,1
+2011/12,2011,championship,Hapoel Tel Aviv,Bnei Yehuda,3,3,0,D,1,1
+2011/12,2011,championship,Hapoel Tel Aviv,Bnei Sakhnin,3,1,2,H,3,0
+2011/12,2011,championship,Hapoel Tel Aviv,Maccabi Netanya,1,3,-2,A,0,3
+2011/12,2011,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,0,D,1,1
+2011/12,2011,championship,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
+2011/12,2011,championship,Ironi Kiryat Shmona,F.C. Ashdod,1,0,1,H,3,0
+2011/12,2011,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,0,0,D,1,1
+2011/12,2011,championship,Ironi Kiryat Shmona,Maccabi Haifa,0,1,-1,A,0,3
+2011/12,2011,championship,Maccabi Haifa,F.C. Ashdod,3,0,3,H,3,0
+2011/12,2011,championship,Maccabi Haifa,Hapoel Tel Aviv,1,1,0,D,1,1
+2011/12,2011,championship,Maccabi Haifa,Maccabi Tel Aviv,2,1,1,H,3,0
+2011/12,2011,championship,Maccabi Netanya,Bnei Sakhnin,3,2,1,H,3,0
+2011/12,2011,championship,Maccabi Netanya,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2011/12,2011,championship,Maccabi Netanya,Maccabi Haifa,1,0,1,H,3,0
+2011/12,2011,championship,Maccabi Tel Aviv,Bnei Sakhnin,5,2,3,H,3,0
+2011/12,2011,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,2,1,H,3,0
+2011/12,2011,championship,Maccabi Tel Aviv,Maccabi Netanya,1,0,1,H,3,0
