@@ -1,0 +1,440 @@
+﻿season,round,leader,leader_points,leader_gd,leader_gf,first_place_changed,prev_leader,change_count
+2009/10,1,Bnei Yehuda,3,3,3,False,,0
+2009/10,2,Bnei Yehuda,6,5,5,False,Bnei Yehuda,0
+2009/10,3,Maccabi Haifa,9,5,8,True,Bnei Yehuda,1
+2009/10,4,Maccabi Haifa,12,6,10,False,Maccabi Haifa,1
+2009/10,5,Maccabi Haifa,15,8,12,False,Maccabi Haifa,1
+2009/10,6,Maccabi Haifa,18,10,15,False,Maccabi Haifa,1
+2009/10,7,Maccabi Haifa,21,11,17,False,Maccabi Haifa,1
+2009/10,8,Maccabi Haifa,24,13,19,False,Maccabi Haifa,1
+2009/10,9,Maccabi Haifa,27,14,20,False,Maccabi Haifa,1
+2009/10,10,Maccabi Haifa,30,17,24,False,Maccabi Haifa,1
+2009/10,11,Maccabi Haifa,30,16,24,False,Maccabi Haifa,1
+2009/10,12,Maccabi Haifa,33,17,25,False,Maccabi Haifa,1
+2009/10,13,Maccabi Haifa,36,21,29,False,Maccabi Haifa,1
+2009/10,14,Maccabi Haifa,39,23,31,False,Maccabi Haifa,1
+2009/10,15,Maccabi Haifa,42,24,32,False,Maccabi Haifa,1
+2009/10,16,Maccabi Haifa,45,27,35,False,Maccabi Haifa,1
+2009/10,17,Maccabi Haifa,48,30,38,False,Maccabi Haifa,1
+2009/10,18,Maccabi Haifa,51,35,43,False,Maccabi Haifa,1
+2009/10,19,Maccabi Haifa,52,35,43,False,Maccabi Haifa,1
+2009/10,20,Maccabi Haifa,55,36,44,False,Maccabi Haifa,1
+2009/10,21,Maccabi Haifa,58,39,48,False,Maccabi Haifa,1
+2009/10,22,Maccabi Haifa,61,42,51,False,Maccabi Haifa,1
+2009/10,23,Maccabi Haifa,61,41,51,False,Maccabi Haifa,1
+2009/10,24,Maccabi Haifa,64,42,52,False,Maccabi Haifa,1
+2009/10,25,Maccabi Haifa,67,47,57,False,Maccabi Haifa,1
+2009/10,26,Maccabi Haifa,70,48,58,False,Maccabi Haifa,1
+2009/10,27,Maccabi Haifa,70,47,59,False,Maccabi Haifa,1
+2009/10,28,Maccabi Haifa,73,50,62,False,Maccabi Haifa,1
+2009/10,29,Maccabi Haifa,76,52,64,False,Maccabi Haifa,1
+2009/10,30,Maccabi Haifa,77,52,64,False,Maccabi Haifa,1
+2010/11,1,Maccabi Netanya,3,3,4,False,,0
+2010/11,2,Hapoel Haifa,6,2,3,True,Maccabi Netanya,1
+2010/11,3,Hapoel Haifa,9,4,5,False,Hapoel Haifa,1
+2010/11,4,Kiryat Shmona,10,6,11,True,Hapoel Haifa,2
+2010/11,5,Kiryat Shmona,13,7,12,False,Kiryat Shmona,2
+2010/11,6,Kiryat Shmona,16,10,16,False,Kiryat Shmona,2
+2010/11,7,Kiryat Shmona,17,10,18,False,Kiryat Shmona,2
+2010/11,8,Maccabi Haifa,18,5,13,True,Kiryat Shmona,3
+2010/11,9,M. Tel Aviv,19,9,13,True,Maccabi Haifa,4
+2010/11,10,Kiryat Shmona,21,10,23,True,M. Tel Aviv,5
+2010/11,11,Kiryat Shmona,24,11,24,False,Kiryat Shmona,5
+2010/11,12,Kiryat Shmona,25,11,26,False,Kiryat Shmona,5
+2010/11,13,Maccabi Haifa,28,10,22,True,Kiryat Shmona,6
+2010/11,14,Maccabi Haifa,31,11,23,False,Maccabi Haifa,6
+2010/11,15,Maccabi Haifa,34,14,26,False,Maccabi Haifa,6
+2010/11,16,Maccabi Haifa,37,17,29,False,Maccabi Haifa,6
+2010/11,17,Maccabi Haifa,40,19,32,False,Maccabi Haifa,6
+2010/11,18,Hapoel Tel Aviv,41,27,44,True,Maccabi Haifa,7
+2010/11,19,Maccabi Haifa,44,20,35,True,Hapoel Tel Aviv,8
+2010/11,20,Hapoel Tel Aviv,45,28,47,True,Maccabi Haifa,9
+2010/11,21,Maccabi Haifa,48,21,36,True,Hapoel Tel Aviv,10
+2010/11,22,Maccabi Haifa,51,22,38,False,Maccabi Haifa,10
+2010/11,23,Maccabi Haifa,54,24,40,False,Maccabi Haifa,10
+2010/11,24,Hapoel Tel Aviv,55,36,57,True,Maccabi Haifa,11
+2010/11,25,Maccabi Haifa,57,22,44,True,Hapoel Tel Aviv,12
+2010/11,26,Maccabi Haifa,60,24,46,False,Maccabi Haifa,12
+2010/11,27,Maccabi Haifa,63,27,49,False,Maccabi Haifa,12
+2010/11,28,Maccabi Haifa,66,29,51,False,Maccabi Haifa,12
+2010/11,29,Maccabi Haifa,69,30,54,False,Maccabi Haifa,12
+2010/11,30,Maccabi Haifa,70,30,55,False,Maccabi Haifa,12
+2011/12,1,Hapoel Tel Aviv,3,3,4,False,,0
+2011/12,2,M. Tel Aviv,6,6,7,True,Hapoel Tel Aviv,1
+2011/12,3,M. Tel Aviv,9,8,9,False,M. Tel Aviv,1
+2011/12,4,M. Tel Aviv,12,10,11,False,M. Tel Aviv,1
+2011/12,5,Hapoel Tel Aviv,13,8,10,True,M. Tel Aviv,2
+2011/12,6,M. Tel Aviv,15,11,16,True,Hapoel Tel Aviv,3
+2011/12,7,M. Tel Aviv,16,11,17,False,M. Tel Aviv,3
+2011/12,8,Hapoel Tel Aviv,17,12,16,True,M. Tel Aviv,4
+2011/12,9,M. Tel Aviv,19,11,19,True,Hapoel Tel Aviv,5
+2011/12,10,Hapoel Tel Aviv,20,16,22,True,M. Tel Aviv,6
+2011/12,11,Hapoel Tel Aviv,23,17,23,False,Hapoel Tel Aviv,6
+2011/12,12,Hapoel Tel Aviv,24,17,23,False,Hapoel Tel Aviv,6
+2011/12,13,Hapoel Tel Aviv,27,19,26,False,Hapoel Tel Aviv,6
+2011/12,14,Hapoel Tel Aviv,30,22,29,False,Hapoel Tel Aviv,6
+2011/12,15,Kiryat Shmona,32,11,19,True,Hapoel Tel Aviv,7
+2011/12,16,Kiryat Shmona,35,12,20,False,Kiryat Shmona,7
+2011/12,17,Kiryat Shmona,38,13,21,False,Kiryat Shmona,7
+2011/12,18,Kiryat Shmona,41,15,23,False,Kiryat Shmona,7
+2011/12,19,Kiryat Shmona,42,15,23,False,Kiryat Shmona,7
+2011/12,20,Kiryat Shmona,45,17,25,False,Kiryat Shmona,7
+2011/12,21,Kiryat Shmona,48,18,28,False,Kiryat Shmona,7
+2011/12,22,Kiryat Shmona,51,22,32,False,Kiryat Shmona,7
+2011/12,23,Kiryat Shmona,52,22,33,False,Kiryat Shmona,7
+2011/12,24,Kiryat Shmona,55,23,34,False,Kiryat Shmona,7
+2011/12,25,Kiryat Shmona,56,23,35,False,Kiryat Shmona,7
+2011/12,26,Kiryat Shmona,59,25,37,False,Kiryat Shmona,7
+2011/12,27,Kiryat Shmona,62,26,38,False,Kiryat Shmona,7
+2011/12,28,Kiryat Shmona,62,25,38,False,Kiryat Shmona,7
+2011/12,29,Kiryat Shmona,65,27,40,False,Kiryat Shmona,7
+2011/12,30,Kiryat Shmona,66,27,42,False,Kiryat Shmona,7
+2012/13,1,FC Ashdod,3,2,2,False,,0
+2012/13,2,FC Ashdod,6,4,5,False,FC Ashdod,0
+2012/13,3,FC Ashdod,9,5,7,False,FC Ashdod,0
+2012/13,4,M. Tel Aviv,12,8,10,True,FC Ashdod,1
+2012/13,5,FC Ashdod,15,9,11,True,M. Tel Aviv,2
+2012/13,6,FC Ashdod,15,8,12,False,FC Ashdod,2
+2012/13,7,FC Ashdod,18,10,14,False,FC Ashdod,2
+2012/13,8,M. Tel Aviv,21,11,18,True,FC Ashdod,3
+2012/13,9,M. Tel Aviv,21,10,18,False,M. Tel Aviv,3
+2012/13,10,FC Ashdod,22,11,17,True,M. Tel Aviv,4
+2012/13,11,FC Ashdod,25,12,18,False,FC Ashdod,4
+2012/13,12,M. Tel Aviv,27,14,26,True,FC Ashdod,5
+2012/13,13,M. Tel Aviv,28,14,27,False,M. Tel Aviv,5
+2012/13,14,Hapoel Tel Aviv,29,12,22,True,M. Tel Aviv,6
+2012/13,15,M. Tel Aviv,31,14,29,True,Hapoel Tel Aviv,7
+2012/13,16,M. Tel Aviv,34,18,35,False,M. Tel Aviv,7
+2012/13,17,M. Tel Aviv,35,18,35,False,M. Tel Aviv,7
+2012/13,18,M. Tel Aviv,38,23,40,False,M. Tel Aviv,7
+2012/13,19,M. Tel Aviv,38,22,40,False,M. Tel Aviv,7
+2012/13,20,M. Tel Aviv,41,26,44,False,M. Tel Aviv,7
+2012/13,21,M. Tel Aviv,44,27,45,False,M. Tel Aviv,7
+2012/13,22,M. Tel Aviv,47,31,49,False,M. Tel Aviv,7
+2012/13,23,M. Tel Aviv,50,32,52,False,M. Tel Aviv,7
+2012/13,24,M. Tel Aviv,53,33,53,False,M. Tel Aviv,7
+2012/13,25,M. Tel Aviv,56,36,56,False,M. Tel Aviv,7
+2012/13,26,M. Tel Aviv,59,41,61,False,M. Tel Aviv,7
+2013/14,1,Maccabi Haifa,3,2,3,False,,0
+2013/14,2,H. Beer Sheva,6,4,4,True,Maccabi Haifa,1
+2013/14,3,M. Tel Aviv,9,6,6,True,H. Beer Sheva,2
+2013/14,4,M. Tel Aviv,12,9,9,False,M. Tel Aviv,2
+2013/14,5,M. Tel Aviv,13,9,9,False,M. Tel Aviv,2
+2013/14,6,M. Tel Aviv,16,10,10,False,M. Tel Aviv,2
+2013/14,7,M. Tel Aviv,19,13,14,False,M. Tel Aviv,2
+2013/14,8,M. Tel Aviv,19,12,16,False,M. Tel Aviv,2
+2013/14,9,M. Tel Aviv,20,12,18,False,M. Tel Aviv,2
+2013/14,10,M. Tel Aviv,23,14,21,False,M. Tel Aviv,2
+2013/14,11,M. Tel Aviv,26,16,24,False,M. Tel Aviv,2
+2013/14,12,M. Tel Aviv,29,17,26,False,M. Tel Aviv,2
+2013/14,13,M. Tel Aviv,32,18,27,False,M. Tel Aviv,2
+2013/14,14,M. Tel Aviv,35,23,32,False,M. Tel Aviv,2
+2013/14,15,M. Tel Aviv,38,25,34,False,M. Tel Aviv,2
+2013/14,16,M. Tel Aviv,41,27,37,False,M. Tel Aviv,2
+2013/14,17,M. Tel Aviv,41,25,38,False,M. Tel Aviv,2
+2013/14,18,M. Tel Aviv,44,27,40,False,M. Tel Aviv,2
+2013/14,19,M. Tel Aviv,47,30,43,False,M. Tel Aviv,2
+2013/14,20,M. Tel Aviv,50,32,45,False,M. Tel Aviv,2
+2013/14,21,M. Tel Aviv,53,34,48,False,M. Tel Aviv,2
+2013/14,22,M. Tel Aviv,56,36,50,False,M. Tel Aviv,2
+2013/14,23,M. Tel Aviv,57,36,52,False,M. Tel Aviv,2
+2013/14,24,M. Tel Aviv,60,38,54,False,M. Tel Aviv,2
+2013/14,25,M. Tel Aviv,63,39,55,False,M. Tel Aviv,2
+2013/14,26,M. Tel Aviv,66,40,58,False,M. Tel Aviv,2
+2014/15,1,Hapoel Raanana,3,4,4,False,,0
+2014/15,2,M. Tel Aviv,6,5,5,True,Hapoel Raanana,1
+2014/15,3,Kiryat Shmona,7,4,5,True,M. Tel Aviv,2
+2014/15,4,Kiryat Shmona,10,7,8,False,Kiryat Shmona,2
+2014/15,5,Kiryat Shmona,13,8,9,False,Kiryat Shmona,2
+2014/15,6,Kiryat Shmona,16,11,13,False,Kiryat Shmona,2
+2014/15,7,Kiryat Shmona,17,11,14,False,Kiryat Shmona,2
+2014/15,8,Kiryat Shmona,20,13,17,False,Kiryat Shmona,2
+2014/15,9,Kiryat Shmona,23,14,19,False,Kiryat Shmona,2
+2014/15,10,Kiryat Shmona,24,14,19,False,Kiryat Shmona,2
+2014/15,11,M. Tel Aviv,25,18,29,True,Kiryat Shmona,3
+2014/15,12,Kiryat Shmona,28,16,23,True,M. Tel Aviv,4
+2014/15,13,M. Tel Aviv,29,20,33,True,Kiryat Shmona,5
+2014/15,14,M. Tel Aviv,32,23,36,False,M. Tel Aviv,5
+2014/15,15,M. Tel Aviv,35,25,38,False,M. Tel Aviv,5
+2014/15,16,Kiryat Shmona,38,20,30,True,M. Tel Aviv,6
+2014/15,17,M. Tel Aviv,39,26,39,True,Kiryat Shmona,7
+2014/15,18,M. Tel Aviv,42,29,42,False,M. Tel Aviv,7
+2014/15,19,M. Tel Aviv,45,30,43,False,M. Tel Aviv,7
+2014/15,20,M. Tel Aviv,48,32,45,False,M. Tel Aviv,7
+2014/15,21,M. Tel Aviv,49,32,48,False,M. Tel Aviv,7
+2014/15,22,M. Tel Aviv,50,32,49,False,M. Tel Aviv,7
+2014/15,23,M. Tel Aviv,50,30,49,False,M. Tel Aviv,7
+2014/15,24,M. Tel Aviv,53,32,51,False,M. Tel Aviv,7
+2014/15,25,M. Tel Aviv,53,31,51,False,M. Tel Aviv,7
+2014/15,26,M. Tel Aviv,56,33,53,False,M. Tel Aviv,7
+2015/16,1,Bnei Yehuda,3,3,3,False,,0
+2015/16,2,M. Petah Tikva,6,4,4,True,Bnei Yehuda,1
+2015/16,3,M. Petah Tikva,9,6,7,False,M. Petah Tikva,1
+2015/16,4,M. Petah Tikva,12,7,8,False,M. Petah Tikva,1
+2015/16,5,M. Petah Tikva,12,6,8,False,M. Petah Tikva,1
+2015/16,6,M. Tel Aviv,13,8,13,True,M. Petah Tikva,2
+2015/16,7,M. Tel Aviv,16,9,15,False,M. Tel Aviv,2
+2015/16,8,H. Beer Sheva,16,8,17,True,M. Tel Aviv,3
+2015/16,9,H. Beer Sheva,19,10,19,False,H. Beer Sheva,3
+2015/16,10,H. Beer Sheva,22,11,20,False,H. Beer Sheva,3
+2015/16,11,M. Tel Aviv,25,12,23,True,H. Beer Sheva,4
+2015/16,12,M. Tel Aviv,28,16,27,False,M. Tel Aviv,4
+2015/16,13,M. Tel Aviv,29,16,27,False,M. Tel Aviv,4
+2015/16,14,M. Tel Aviv,32,18,29,False,M. Tel Aviv,4
+2015/16,15,H. Beer Sheva,35,17,28,True,M. Tel Aviv,5
+2015/16,16,H. Beer Sheva,38,19,30,False,H. Beer Sheva,5
+2015/16,17,H. Beer Sheva,39,19,31,False,H. Beer Sheva,5
+2015/16,18,H. Beer Sheva,42,22,34,False,H. Beer Sheva,5
+2015/16,19,H. Beer Sheva,45,23,35,False,H. Beer Sheva,5
+2015/16,20,H. Beer Sheva,48,24,37,False,H. Beer Sheva,5
+2015/16,21,H. Beer Sheva,51,25,38,False,H. Beer Sheva,5
+2015/16,22,H. Beer Sheva,54,27,40,False,H. Beer Sheva,5
+2015/16,23,H. Beer Sheva,57,28,42,False,H. Beer Sheva,5
+2015/16,24,H. Beer Sheva,60,30,44,False,H. Beer Sheva,5
+2015/16,25,H. Beer Sheva,63,31,46,False,H. Beer Sheva,5
+2015/16,26,H. Beer Sheva,64,31,48,False,H. Beer Sheva,5
+2016/17,1,M. Tel Aviv,3,2,3,False,,0
+2016/17,2,M. Tel Aviv,6,3,5,False,M. Tel Aviv,0
+2016/17,3,H. Beer Sheva,7,4,5,True,M. Tel Aviv,1
+2016/17,4,M. Tel Aviv,10,6,10,True,H. Beer Sheva,2
+2016/17,5,M. Tel Aviv,13,11,15,False,M. Tel Aviv,2
+2016/17,6,M. Tel Aviv,16,14,18,False,M. Tel Aviv,2
+2016/17,7,H. Beer Sheva,16,13,16,True,M. Tel Aviv,3
+2016/17,8,H. Beer Sheva,19,15,18,False,H. Beer Sheva,3
+2016/17,9,H. Beer Sheva,22,19,23,False,H. Beer Sheva,3
+2016/17,10,H. Beer Sheva,25,23,28,False,H. Beer Sheva,3
+2016/17,11,H. Beer Sheva,28,25,30,False,H. Beer Sheva,3
+2016/17,12,H. Beer Sheva,31,30,35,False,H. Beer Sheva,3
+2016/17,13,H. Beer Sheva,34,32,38,False,H. Beer Sheva,3
+2016/17,14,H. Beer Sheva,34,31,38,False,H. Beer Sheva,3
+2016/17,15,H. Beer Sheva,35,31,39,False,H. Beer Sheva,3
+2016/17,16,H. Beer Sheva,36,31,39,False,H. Beer Sheva,3
+2016/17,17,H. Beer Sheva,39,33,41,False,H. Beer Sheva,3
+2016/17,18,H. Beer Sheva,42,34,43,False,H. Beer Sheva,3
+2016/17,19,H. Beer Sheva,43,34,44,False,H. Beer Sheva,3
+2016/17,20,H. Beer Sheva,46,36,46,False,H. Beer Sheva,3
+2016/17,21,H. Beer Sheva,46,35,46,False,H. Beer Sheva,3
+2016/17,22,H. Beer Sheva,49,36,48,False,H. Beer Sheva,3
+2016/17,23,H. Beer Sheva,50,36,48,False,H. Beer Sheva,3
+2016/17,24,H. Beer Sheva,53,39,51,False,H. Beer Sheva,3
+2016/17,25,H. Beer Sheva,56,40,52,False,H. Beer Sheva,3
+2016/17,26,H. Beer Sheva,59,41,54,False,H. Beer Sheva,3
+2017/18,1,B. Jerusalem,3,3,3,False,,0
+2017/18,2,B. Jerusalem,6,6,7,False,B. Jerusalem,0
+2017/18,3,B. Jerusalem,9,7,9,False,B. Jerusalem,0
+2017/18,4,B. Jerusalem,10,7,12,False,B. Jerusalem,0
+2017/18,5,B. Jerusalem,11,7,13,False,B. Jerusalem,0
+2017/18,6,Hapoel Haifa,14,6,12,True,B. Jerusalem,1
+2017/18,7,Hapoel Haifa,17,10,16,False,Hapoel Haifa,1
+2017/18,8,Hapoel Haifa,20,11,17,False,Hapoel Haifa,1
+2017/18,9,Hapoel Haifa,23,13,19,False,Hapoel Haifa,1
+2017/18,10,Hapoel Haifa,23,11,19,False,Hapoel Haifa,1
+2017/18,11,Hapoel Haifa,24,11,21,False,Hapoel Haifa,1
+2017/18,12,Hapoel Haifa,27,12,22,False,Hapoel Haifa,1
+2017/18,13,H. Beer Sheva,30,13,26,True,Hapoel Haifa,2
+2017/18,14,H. Beer Sheva,30,12,26,False,H. Beer Sheva,2
+2017/18,15,H. Beer Sheva,33,14,28,False,H. Beer Sheva,2
+2017/18,16,H. Beer Sheva,36,15,29,False,H. Beer Sheva,2
+2017/18,17,H. Beer Sheva,37,15,29,False,H. Beer Sheva,2
+2017/18,18,H. Beer Sheva,38,15,30,False,H. Beer Sheva,2
+2017/18,19,M. Tel Aviv,41,16,35,True,H. Beer Sheva,3
+2017/18,20,H. Beer Sheva,44,18,34,True,M. Tel Aviv,4
+2017/18,21,M. Tel Aviv,45,17,36,True,H. Beer Sheva,5
+2017/18,22,M. Tel Aviv,48,19,38,False,M. Tel Aviv,5
+2017/18,23,H. Beer Sheva,50,22,39,True,M. Tel Aviv,6
+2017/18,24,M. Tel Aviv,51,22,42,True,H. Beer Sheva,7
+2017/18,25,H. Beer Sheva,54,23,41,True,M. Tel Aviv,8
+2017/18,26,H. Beer Sheva,57,25,43,False,H. Beer Sheva,8
+2018/19,1,Hapoel Haifa,3,5,5,False,,0
+2018/19,2,Hapoel Hadera,6,2,3,True,Hapoel Haifa,1
+2018/19,3,M. Tel Aviv,7,5,7,True,Hapoel Hadera,2
+2018/19,4,M. Tel Aviv,10,6,9,False,M. Tel Aviv,2
+2018/19,5,Hapoel Hadera,13,5,8,True,M. Tel Aviv,3
+2018/19,6,Hapoel Hadera,16,6,9,False,Hapoel Hadera,3
+2018/19,7,M. Tel Aviv,17,12,15,True,Hapoel Hadera,4
+2018/19,8,M. Tel Aviv,20,14,18,False,M. Tel Aviv,4
+2018/19,9,M. Tel Aviv,23,17,21,False,M. Tel Aviv,4
+2018/19,10,M. Tel Aviv,26,18,23,False,M. Tel Aviv,4
+2018/19,11,M. Tel Aviv,27,18,24,False,M. Tel Aviv,4
+2018/19,12,M. Tel Aviv,30,22,28,False,M. Tel Aviv,4
+2018/19,13,M. Tel Aviv,33,24,31,False,M. Tel Aviv,4
+2018/19,14,M. Tel Aviv,36,26,34,False,M. Tel Aviv,4
+2018/19,15,M. Tel Aviv,39,29,37,False,M. Tel Aviv,4
+2018/19,16,M. Tel Aviv,42,31,39,False,M. Tel Aviv,4
+2018/19,17,M. Tel Aviv,45,34,43,False,M. Tel Aviv,4
+2018/19,18,M. Tel Aviv,46,34,44,False,M. Tel Aviv,4
+2018/19,19,M. Tel Aviv,49,35,45,False,M. Tel Aviv,4
+2018/19,20,M. Tel Aviv,52,37,47,False,M. Tel Aviv,4
+2018/19,21,M. Tel Aviv,53,37,48,False,M. Tel Aviv,4
+2018/19,22,M. Tel Aviv,54,37,48,False,M. Tel Aviv,4
+2018/19,23,M. Tel Aviv,57,40,51,False,M. Tel Aviv,4
+2018/19,24,M. Tel Aviv,60,42,53,False,M. Tel Aviv,4
+2018/19,25,M. Tel Aviv,63,44,55,False,M. Tel Aviv,4
+2018/19,26,M. Tel Aviv,66,45,57,False,M. Tel Aviv,4
+2019/20,1,M. Tel Aviv,3,2,2,False,,0
+2019/20,2,H. Beer Sheva,4,3,3,True,M. Tel Aviv,1
+2019/20,3,Maccabi Haifa,7,3,6,True,H. Beer Sheva,2
+2019/20,4,M. Tel Aviv,10,4,4,True,Maccabi Haifa,3
+2019/20,5,M. Tel Aviv,13,8,8,False,M. Tel Aviv,3
+2019/20,6,H. Beer Sheva,14,10,12,True,M. Tel Aviv,4
+2019/20,7,H. Beer Sheva,17,11,14,False,H. Beer Sheva,4
+2019/20,8,M. Tel Aviv,20,11,11,True,H. Beer Sheva,5
+2019/20,9,M. Tel Aviv,23,13,13,False,M. Tel Aviv,5
+2019/20,10,M. Tel Aviv,26,16,16,False,M. Tel Aviv,5
+2019/20,11,M. Tel Aviv,29,17,17,False,M. Tel Aviv,5
+2019/20,12,M. Tel Aviv,32,20,20,False,M. Tel Aviv,5
+2019/20,13,M. Tel Aviv,33,20,20,False,M. Tel Aviv,5
+2019/20,14,M. Tel Aviv,34,20,21,False,M. Tel Aviv,5
+2019/20,15,M. Tel Aviv,37,23,24,False,M. Tel Aviv,5
+2019/20,16,M. Tel Aviv,40,27,28,False,M. Tel Aviv,5
+2019/20,17,M. Tel Aviv,43,28,32,False,M. Tel Aviv,5
+2019/20,18,M. Tel Aviv,44,28,32,False,M. Tel Aviv,5
+2019/20,19,M. Tel Aviv,47,31,35,False,M. Tel Aviv,5
+2019/20,20,M. Tel Aviv,50,33,37,False,M. Tel Aviv,5
+2019/20,21,M. Tel Aviv,51,33,38,False,M. Tel Aviv,5
+2019/20,22,M. Tel Aviv,54,34,40,False,M. Tel Aviv,5
+2019/20,23,M. Tel Aviv,55,34,41,False,M. Tel Aviv,5
+2019/20,24,M. Tel Aviv,58,37,44,False,M. Tel Aviv,5
+2019/20,25,M. Tel Aviv,61,40,47,False,M. Tel Aviv,5
+2019/20,26,M. Tel Aviv,64,41,48,False,M. Tel Aviv,5
+2020/21,1,Bnei Yehuda,3,3,3,False,,0
+2020/21,2,B. Jerusalem,6,5,5,True,Bnei Yehuda,1
+2020/21,3,Maccabi Haifa,9,6,8,True,B. Jerusalem,2
+2020/21,4,Maccabi Haifa,10,6,10,False,Maccabi Haifa,2
+2020/21,5,M. Petah Tikva,12,5,8,True,Maccabi Haifa,3
+2020/21,6,Maccabi Haifa,13,6,14,True,M. Petah Tikva,4
+2020/21,7,Kiryat Shmona,14,5,8,True,Maccabi Haifa,5
+2020/21,8,Maccabi Haifa,16,7,17,True,Kiryat Shmona,6
+2020/21,9,Maccabi Haifa,19,10,20,False,Maccabi Haifa,6
+2020/21,10,Maccabi Haifa,22,11,21,False,Maccabi Haifa,6
+2020/21,11,Maccabi Haifa,25,12,23,False,Maccabi Haifa,6
+2020/21,12,Maccabi Haifa,28,15,26,False,Maccabi Haifa,6
+2020/21,13,Maccabi Haifa,31,17,28,False,Maccabi Haifa,6
+2020/21,14,Maccabi Haifa,34,18,29,False,Maccabi Haifa,6
+2020/21,15,Maccabi Haifa,35,18,30,False,Maccabi Haifa,6
+2020/21,16,Maccabi Haifa,38,21,33,False,Maccabi Haifa,6
+2020/21,17,Maccabi Haifa,38,20,34,False,Maccabi Haifa,6
+2020/21,18,Maccabi Haifa,41,23,37,False,Maccabi Haifa,6
+2020/21,19,Maccabi Haifa,41,22,37,False,Maccabi Haifa,6
+2020/21,20,Maccabi Haifa,44,24,39,False,Maccabi Haifa,6
+2020/21,21,Maccabi Haifa,47,27,42,False,Maccabi Haifa,6
+2020/21,22,Maccabi Haifa,50,29,46,False,Maccabi Haifa,6
+2020/21,23,Maccabi Haifa,53,30,48,False,Maccabi Haifa,6
+2020/21,24,M. Tel Aviv,54,25,45,True,Maccabi Haifa,7
+2020/21,25,M. Tel Aviv,57,27,47,False,M. Tel Aviv,7
+2020/21,26,Maccabi Haifa,59,32,52,True,M. Tel Aviv,8
+2021/22,1,Bnei Sakhnin,3,2,3,False,,0
+2021/22,2,Hapoel Tel Aviv,6,3,4,True,Bnei Sakhnin,1
+2021/22,3,H. Nof HaGalil,7,4,5,True,Hapoel Tel Aviv,2
+2021/22,4,Hapoel Haifa,10,5,6,True,H. Nof HaGalil,3
+2021/22,5,H. Beer Sheva,11,5,8,True,Hapoel Haifa,4
+2021/22,6,H. Beer Sheva,14,6,9,False,H. Beer Sheva,4
+2021/22,7,H. Beer Sheva,17,8,12,False,H. Beer Sheva,4
+2021/22,8,H. Beer Sheva,18,8,13,False,H. Beer Sheva,4
+2021/22,9,H. Beer Sheva,19,8,14,False,H. Beer Sheva,4
+2021/22,10,H. Beer Sheva,22,9,16,False,H. Beer Sheva,4
+2021/22,11,H. Beer Sheva,25,10,18,False,H. Beer Sheva,4
+2021/22,12,H. Beer Sheva,28,11,19,False,H. Beer Sheva,4
+2021/22,13,H. Beer Sheva,31,13,21,False,H. Beer Sheva,4
+2021/22,14,H. Beer Sheva,34,15,24,False,H. Beer Sheva,4
+2021/22,15,H. Beer Sheva,37,16,26,False,H. Beer Sheva,4
+2021/22,16,H. Beer Sheva,40,19,29,False,H. Beer Sheva,4
+2021/22,17,Maccabi Haifa,41,33,46,True,H. Beer Sheva,5
+2021/22,18,Maccabi Haifa,44,34,48,False,Maccabi Haifa,5
+2021/22,19,Maccabi Haifa,45,34,49,False,Maccabi Haifa,5
+2021/22,20,Maccabi Haifa,46,34,50,False,Maccabi Haifa,5
+2021/22,21,Maccabi Haifa,49,40,56,False,Maccabi Haifa,5
+2021/22,22,Maccabi Haifa,49,39,57,False,Maccabi Haifa,5
+2021/22,23,Maccabi Haifa,52,41,59,False,Maccabi Haifa,5
+2021/22,24,Maccabi Haifa,55,42,60,False,Maccabi Haifa,5
+2021/22,25,Maccabi Haifa,56,42,61,False,Maccabi Haifa,5
+2021/22,26,Maccabi Haifa,59,43,62,False,Maccabi Haifa,5
+2022/23,1,M. Tel Aviv,3,5,5,False,,0
+2022/23,2,M. Tel Aviv,6,11,11,False,M. Tel Aviv,0
+2022/23,3,M. Tel Aviv,9,13,14,False,M. Tel Aviv,0
+2022/23,4,Maccabi Haifa,12,7,10,True,M. Tel Aviv,1
+2022/23,5,M. Tel Aviv,13,17,18,True,Maccabi Haifa,2
+2022/23,6,Maccabi Haifa,15,6,12,True,M. Tel Aviv,3
+2022/23,7,M. Tel Aviv,16,18,21,True,Maccabi Haifa,4
+2022/23,8,M. Tel Aviv,19,19,22,False,M. Tel Aviv,4
+2022/23,9,M. Tel Aviv,22,22,25,False,M. Tel Aviv,4
+2022/23,10,Maccabi Haifa,24,9,19,True,M. Tel Aviv,5
+2022/23,11,Maccabi Haifa,27,12,23,False,Maccabi Haifa,5
+2022/23,12,Maccabi Haifa,30,13,24,False,Maccabi Haifa,5
+2022/23,13,Maccabi Haifa,33,16,29,False,Maccabi Haifa,5
+2022/23,14,Maccabi Haifa,36,18,32,False,Maccabi Haifa,5
+2022/23,15,Maccabi Haifa,39,20,34,False,Maccabi Haifa,5
+2022/23,16,Maccabi Haifa,42,22,36,False,Maccabi Haifa,5
+2022/23,17,Maccabi Haifa,45,24,38,False,Maccabi Haifa,5
+2022/23,18,Maccabi Haifa,48,25,40,False,Maccabi Haifa,5
+2022/23,19,Maccabi Haifa,48,22,40,False,Maccabi Haifa,5
+2022/23,20,Maccabi Haifa,49,22,40,False,Maccabi Haifa,5
+2022/23,21,Maccabi Haifa,50,22,41,False,Maccabi Haifa,5
+2022/23,22,Maccabi Haifa,53,24,43,False,Maccabi Haifa,5
+2022/23,23,Maccabi Haifa,53,22,44,False,Maccabi Haifa,5
+2022/23,24,Maccabi Haifa,56,23,46,False,Maccabi Haifa,5
+2022/23,25,Maccabi Haifa,59,26,50,False,Maccabi Haifa,5
+2022/23,26,Maccabi Haifa,62,27,51,False,Maccabi Haifa,5
+2023/24,1,M. Tel Aviv,3,3,4,False,,0
+2023/24,2,M. Tel Aviv,6,6,7,False,M. Tel Aviv,0
+2023/24,3,M. Tel Aviv,7,6,8,False,M. Tel Aviv,0
+2023/24,4,M. Tel Aviv,10,11,13,False,M. Tel Aviv,0
+2023/24,5,M. Tel Aviv,13,13,15,False,M. Tel Aviv,0
+2023/24,6,M. Tel Aviv,16,14,17,False,M. Tel Aviv,0
+2023/24,7,M. Tel Aviv,16,13,17,False,M. Tel Aviv,0
+2023/24,8,M. Tel Aviv,19,14,20,False,M. Tel Aviv,0
+2023/24,9,M. Tel Aviv,22,15,22,False,M. Tel Aviv,0
+2023/24,10,M. Tel Aviv,25,16,23,False,M. Tel Aviv,0
+2023/24,11,M. Tel Aviv,28,17,25,False,M. Tel Aviv,0
+2023/24,12,M. Tel Aviv,31,18,26,False,M. Tel Aviv,0
+2023/24,13,M. Tel Aviv,34,19,27,False,M. Tel Aviv,0
+2023/24,14,M. Tel Aviv,37,22,31,False,M. Tel Aviv,0
+2023/24,15,M. Tel Aviv,38,22,32,False,M. Tel Aviv,0
+2023/24,16,M. Tel Aviv,39,22,34,False,M. Tel Aviv,0
+2023/24,17,M. Tel Aviv,42,24,38,False,M. Tel Aviv,0
+2023/24,18,Maccabi Haifa,43,29,42,True,M. Tel Aviv,1
+2023/24,19,M. Tel Aviv,46,25,40,True,Maccabi Haifa,2
+2023/24,20,Maccabi Haifa,46,30,45,True,M. Tel Aviv,3
+2023/24,21,Maccabi Haifa,49,32,47,False,Maccabi Haifa,3
+2023/24,22,Maccabi Haifa,50,32,48,False,Maccabi Haifa,3
+2023/24,23,Maccabi Haifa,53,37,53,False,Maccabi Haifa,3
+2023/24,24,Maccabi Haifa,56,38,54,False,Maccabi Haifa,3
+2023/24,25,M. Tel Aviv,59,33,52,True,Maccabi Haifa,4
+2023/24,26,M. Tel Aviv,62,35,55,False,M. Tel Aviv,4
+2024/25,1,Maccabi Haifa,3,4,4,False,,0
+2024/25,2,Maccabi Haifa,6,6,6,False,Maccabi Haifa,0
+2024/25,3,M. Tel Aviv,9,5,6,True,Maccabi Haifa,1
+2024/25,4,M. Tel Aviv,12,7,8,False,M. Tel Aviv,1
+2024/25,5,M. Tel Aviv,13,7,9,False,M. Tel Aviv,1
+2024/25,6,M. Tel Aviv,16,8,11,False,M. Tel Aviv,1
+2024/25,7,M. Tel Aviv,19,10,13,False,M. Tel Aviv,1
+2024/25,8,M. Tel Aviv,19,8,14,False,M. Tel Aviv,1
+2024/25,9,H. Beer Sheva,20,11,18,True,M. Tel Aviv,2
+2024/25,10,H. Beer Sheva,23,13,20,False,H. Beer Sheva,2
+2024/25,11,H. Beer Sheva,26,14,21,False,H. Beer Sheva,2
+2024/25,12,H. Beer Sheva,29,16,23,False,H. Beer Sheva,2
+2024/25,13,H. Beer Sheva,32,19,27,False,H. Beer Sheva,2
+2024/25,14,H. Beer Sheva,35,23,32,False,H. Beer Sheva,2
+2024/25,15,H. Beer Sheva,36,23,32,False,H. Beer Sheva,2
+2024/25,16,H. Beer Sheva,37,23,34,False,H. Beer Sheva,2
+2024/25,17,H. Beer Sheva,40,24,36,False,H. Beer Sheva,2
+2024/25,18,H. Beer Sheva,43,25,37,False,H. Beer Sheva,2
+2024/25,19,H. Beer Sheva,46,27,39,False,H. Beer Sheva,2
+2024/25,20,H. Beer Sheva,49,28,40,False,H. Beer Sheva,2
+2024/25,21,H. Beer Sheva,49,27,40,False,H. Beer Sheva,2
+2024/25,22,H. Beer Sheva,52,29,42,False,H. Beer Sheva,2
+2024/25,23,H. Beer Sheva,55,33,46,False,H. Beer Sheva,2
+2024/25,24,H. Beer Sheva,58,34,48,False,H. Beer Sheva,2
+2024/25,25,H. Beer Sheva,59,34,51,False,H. Beer Sheva,2
+2024/25,26,H. Beer Sheva,60,34,52,False,H. Beer Sheva,2
+2025/26,1,M. Tel Aviv,3,4,4,False,,0
+2025/26,2,H. Beer Sheva,6,9,11,True,M. Tel Aviv,1
+2025/26,3,H. Beer Sheva,9,13,16,False,H. Beer Sheva,1
+2025/26,4,H. Beer Sheva,12,15,19,False,H. Beer Sheva,1
+2025/26,5,H. Beer Sheva,15,16,20,False,H. Beer Sheva,1
+2025/26,6,H. Beer Sheva,18,17,22,False,H. Beer Sheva,1
+2025/26,7,H. Beer Sheva,18,16,22,False,H. Beer Sheva,1
+2025/26,8,H. Beer Sheva,21,17,23,False,H. Beer Sheva,1
+2025/26,9,H. Beer Sheva,24,18,24,False,H. Beer Sheva,1
+2025/26,10,H. Beer Sheva,28,19,30,False,H. Beer Sheva,1
+2025/26,11,H. Beer Sheva,28,19,30,False,H. Beer Sheva,1

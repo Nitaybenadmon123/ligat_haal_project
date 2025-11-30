@@ -1,0 +1,164 @@
+﻿season,round,leader,leader_points,leader_gd,leader_gf,first_place_changed,prev_leader,change_count
+2009/10,0,Maccabi Haifa,38,52,64,False,,0
+2009/10,1,Maccabi Haifa,39,52,65,False,Maccabi Haifa,0
+2009/10,2,Maccabi Haifa,39,52,65,False,Maccabi Haifa,0
+2009/10,3,Hapoel Tel Aviv,45,60,86,True,Maccabi Haifa,1
+2009/10,4,Hapoel Tel Aviv,48,61,87,False,Hapoel Tel Aviv,1
+2009/10,5,Hapoel Tel Aviv,48,61,87,False,Hapoel Tel Aviv,1
+2010/11,0,Maccabi Haifa,35,30,55,False,,0
+2010/11,1,Maccabi Haifa,36,30,56,False,Maccabi Haifa,0
+2010/11,2,Hapoel Tel Aviv,37,39,71,True,Maccabi Haifa,1
+2010/11,3,Maccabi Haifa,42,34,60,True,Hapoel Tel Aviv,2
+2010/11,4,Maccabi Haifa,42,33,61,False,Maccabi Haifa,2
+2010/11,5,Maccabi Haifa,45,35,63,False,Maccabi Haifa,2
+2011/12,0,Kiryat Shmona,66,27,42,False,,0
+2011/12,1,Kiryat Shmona,66,27,42,False,Kiryat Shmona,0
+2011/12,2,Kiryat Shmona,66,22,42,False,Kiryat Shmona,0
+2011/12,3,Kiryat Shmona,66,22,42,False,Kiryat Shmona,0
+2011/12,4,Kiryat Shmona,66,21,42,False,Kiryat Shmona,0
+2011/12,5,Kiryat Shmona,70,21,43,False,Kiryat Shmona,0
+2011/12,6,Kiryat Shmona,73,23,46,False,Kiryat Shmona,0
+2011/12,7,Kiryat Shmona,73,22,48,False,Kiryat Shmona,0
+2012/13,0,M. Tel Aviv,59,41,61,False,,0
+2012/13,1,M. Tel Aviv,59,41,61,False,M. Tel Aviv,0
+2012/13,2,M. Tel Aviv,60,41,63,False,M. Tel Aviv,0
+2012/13,3,M. Tel Aviv,60,41,63,False,M. Tel Aviv,0
+2012/13,4,M. Tel Aviv,63,43,67,False,M. Tel Aviv,0
+2012/13,5,M. Tel Aviv,66,45,70,False,M. Tel Aviv,0
+2012/13,6,M. Tel Aviv,66,45,70,False,M. Tel Aviv,0
+2012/13,7,M. Tel Aviv,69,47,72,False,M. Tel Aviv,0
+2012/13,8,M. Tel Aviv,69,47,72,False,M. Tel Aviv,0
+2012/13,9,M. Tel Aviv,73,46,76,False,M. Tel Aviv,0
+2012/13,10,M. Tel Aviv,80,48,78,False,M. Tel Aviv,0
+2013/14,0,M. Tel Aviv,66,40,58,False,,0
+2013/14,1,M. Tel Aviv,66,40,58,False,M. Tel Aviv,0
+2013/14,2,M. Tel Aviv,66,39,59,False,M. Tel Aviv,0
+2013/14,3,M. Tel Aviv,66,39,59,False,M. Tel Aviv,0
+2013/14,4,M. Tel Aviv,69,40,61,False,M. Tel Aviv,0
+2013/14,5,M. Tel Aviv,69,38,62,False,M. Tel Aviv,0
+2013/14,6,M. Tel Aviv,69,38,62,False,M. Tel Aviv,0
+2013/14,7,M. Tel Aviv,70,38,64,False,M. Tel Aviv,0
+2013/14,8,M. Tel Aviv,70,38,64,False,M. Tel Aviv,0
+2013/14,9,M. Tel Aviv,77,43,72,False,M. Tel Aviv,0
+2013/14,10,M. Tel Aviv,84,46,76,False,M. Tel Aviv,0
+2014/15,0,M. Tel Aviv,56,33,53,False,,0
+2014/15,1,M. Tel Aviv,56,33,53,False,M. Tel Aviv,0
+2014/15,2,M. Tel Aviv,56,30,53,False,M. Tel Aviv,0
+2014/15,3,H. Beer Sheva,58,30,58,True,M. Tel Aviv,1
+2014/15,4,H. Beer Sheva,59,28,60,False,H. Beer Sheva,1
+2014/15,5,Kiryat Shmona,61,18,50,True,H. Beer Sheva,2
+2014/15,6,Kiryat Shmona,61,15,51,False,Kiryat Shmona,2
+2014/15,7,Kiryat Shmona,61,15,51,False,Kiryat Shmona,2
+2014/15,8,Kiryat Shmona,64,16,52,False,Kiryat Shmona,2
+2014/15,9,M. Tel Aviv,66,35,63,True,Kiryat Shmona,3
+2014/15,10,M. Tel Aviv,72,35,67,False,M. Tel Aviv,3
+2015/16,0,H. Beer Sheva,64,31,48,False,,0
+2015/16,1,H. Beer Sheva,67,33,50,False,H. Beer Sheva,0
+2015/16,2,H. Beer Sheva,67,33,50,False,H. Beer Sheva,0
+2015/16,3,H. Beer Sheva,70,36,54,False,H. Beer Sheva,0
+2015/16,4,H. Beer Sheva,76,40,59,False,H. Beer Sheva,0
+2015/16,5,H. Beer Sheva,79,40,61,False,H. Beer Sheva,0
+2015/16,6,H. Beer Sheva,82,43,65,False,H. Beer Sheva,0
+2015/16,7,H. Beer Sheva,82,43,65,False,H. Beer Sheva,0
+2015/16,8,H. Beer Sheva,82,42,66,False,H. Beer Sheva,0
+2015/16,9,H. Beer Sheva,82,42,66,False,H. Beer Sheva,0
+2015/16,10,H. Beer Sheva,83,42,66,False,H. Beer Sheva,0
+2016/17,0,H. Beer Sheva,59,41,54,False,,0
+2016/17,1,H. Beer Sheva,60,41,55,False,H. Beer Sheva,0
+2016/17,2,H. Beer Sheva,60,41,55,False,H. Beer Sheva,0
+2016/17,3,H. Beer Sheva,63,43,58,False,H. Beer Sheva,0
+2016/17,4,H. Beer Sheva,69,47,62,False,H. Beer Sheva,0
+2016/17,5,H. Beer Sheva,76,52,68,False,H. Beer Sheva,0
+2016/17,6,H. Beer Sheva,79,53,69,False,H. Beer Sheva,0
+2016/17,7,H. Beer Sheva,79,53,69,False,H. Beer Sheva,0
+2016/17,8,H. Beer Sheva,82,54,71,False,H. Beer Sheva,0
+2016/17,9,H. Beer Sheva,82,54,71,False,H. Beer Sheva,0
+2016/17,10,H. Beer Sheva,85,55,73,False,H. Beer Sheva,0
+2017/18,0,H. Beer Sheva,57,25,43,False,,0
+2017/18,1,H. Beer Sheva,60,28,47,False,H. Beer Sheva,0
+2017/18,2,B. Jerusalem,65,30,71,True,H. Beer Sheva,1
+2017/18,3,B. Jerusalem,65,30,71,False,B. Jerusalem,1
+2017/18,4,H. Beer Sheva,67,31,52,True,B. Jerusalem,2
+2017/18,5,H. Beer Sheva,71,35,60,False,H. Beer Sheva,2
+2017/18,6,H. Beer Sheva,74,38,64,False,H. Beer Sheva,2
+2017/18,7,H. Beer Sheva,74,38,64,False,H. Beer Sheva,2
+2017/18,8,H. Beer Sheva,77,42,69,False,H. Beer Sheva,2
+2017/18,9,H. Beer Sheva,77,42,69,False,H. Beer Sheva,2
+2017/18,10,H. Beer Sheva,80,43,70,False,H. Beer Sheva,2
+2018/19,0,M. Tel Aviv,66,45,57,False,,0
+2018/19,1,M. Tel Aviv,66,45,57,False,M. Tel Aviv,0
+2018/19,2,M. Tel Aviv,69,47,59,False,M. Tel Aviv,0
+2018/19,3,M. Tel Aviv,69,47,59,False,M. Tel Aviv,0
+2018/19,4,M. Tel Aviv,72,48,60,False,M. Tel Aviv,0
+2018/19,5,M. Tel Aviv,75,52,64,False,M. Tel Aviv,0
+2018/19,6,M. Tel Aviv,75,52,64,False,M. Tel Aviv,0
+2018/19,7,M. Tel Aviv,76,52,65,False,M. Tel Aviv,0
+2018/19,8,M. Tel Aviv,76,52,65,False,M. Tel Aviv,0
+2018/19,9,M. Tel Aviv,82,56,73,False,M. Tel Aviv,0
+2018/19,10,M. Tel Aviv,89,60,77,False,M. Tel Aviv,0
+2019/20,0,M. Tel Aviv,64,41,48,False,,0
+2019/20,1,M. Tel Aviv,64,41,48,False,M. Tel Aviv,0
+2019/20,2,M. Tel Aviv,65,41,48,False,M. Tel Aviv,0
+2019/20,3,M. Tel Aviv,65,41,48,False,M. Tel Aviv,0
+2019/20,4,M. Tel Aviv,65,39,48,False,M. Tel Aviv,0
+2019/20,5,M. Tel Aviv,68,42,51,False,M. Tel Aviv,0
+2019/20,6,M. Tel Aviv,68,42,51,False,M. Tel Aviv,0
+2019/20,7,M. Tel Aviv,71,44,53,False,M. Tel Aviv,0
+2019/20,8,Maccabi Haifa,73,44,73,True,M. Tel Aviv,1
+2019/20,9,M. Tel Aviv,78,46,56,True,Maccabi Haifa,2
+2019/20,10,M. Tel Aviv,87,53,63,False,M. Tel Aviv,2
+2020/21,0,Maccabi Haifa,59,32,52,False,,0
+2020/21,1,Maccabi Haifa,66,35,58,False,Maccabi Haifa,0
+2020/21,2,Maccabi Haifa,71,39,65,False,Maccabi Haifa,0
+2020/21,3,Maccabi Haifa,71,39,65,False,Maccabi Haifa,0
+2020/21,4,Maccabi Haifa,74,42,68,False,Maccabi Haifa,0
+2020/21,5,Maccabi Haifa,74,42,68,False,Maccabi Haifa,0
+2020/21,6,Maccabi Haifa,75,42,69,False,Maccabi Haifa,0
+2020/21,7,Maccabi Haifa,78,43,71,False,Maccabi Haifa,0
+2020/21,8,Maccabi Haifa,78,43,71,False,Maccabi Haifa,0
+2020/21,9,Maccabi Haifa,79,43,72,False,Maccabi Haifa,0
+2020/21,10,Maccabi Haifa,79,43,72,False,Maccabi Haifa,0
+2021/22,0,Maccabi Haifa,59,43,62,False,,0
+2021/22,1,Maccabi Haifa,65,47,69,False,Maccabi Haifa,0
+2021/22,2,Maccabi Haifa,71,50,73,False,Maccabi Haifa,0
+2021/22,3,Maccabi Haifa,71,50,73,False,Maccabi Haifa,0
+2021/22,4,Maccabi Haifa,72,50,74,False,Maccabi Haifa,0
+2021/22,5,Maccabi Haifa,72,50,74,False,Maccabi Haifa,0
+2021/22,6,Maccabi Haifa,72,47,74,False,Maccabi Haifa,0
+2021/22,7,Maccabi Haifa,75,49,76,False,Maccabi Haifa,0
+2021/22,8,Maccabi Haifa,75,49,76,False,Maccabi Haifa,0
+2021/22,9,Maccabi Haifa,78,52,79,False,Maccabi Haifa,0
+2021/22,10,Maccabi Haifa,78,52,79,False,Maccabi Haifa,0
+2022/23,0,Maccabi Haifa,62,27,51,False,,0
+2022/23,1,Maccabi Haifa,71,35,60,False,Maccabi Haifa,0
+2022/23,2,Maccabi Haifa,77,38,67,False,Maccabi Haifa,0
+2022/23,3,Maccabi Haifa,77,38,67,False,Maccabi Haifa,0
+2022/23,4,Maccabi Haifa,78,38,68,False,Maccabi Haifa,0
+2022/23,5,Maccabi Haifa,78,38,68,False,Maccabi Haifa,0
+2022/23,6,Maccabi Haifa,78,37,69,False,Maccabi Haifa,0
+2022/23,7,Maccabi Haifa,81,41,74,False,Maccabi Haifa,0
+2022/23,8,Maccabi Haifa,81,41,74,False,Maccabi Haifa,0
+2022/23,9,Maccabi Haifa,84,42,76,False,Maccabi Haifa,0
+2022/23,10,Maccabi Haifa,84,42,76,False,Maccabi Haifa,0
+2023/24,0,M. Tel Aviv,62,35,55,False,,0
+2023/24,1,M. Tel Aviv,69,42,63,False,M. Tel Aviv,0
+2023/24,2,M. Tel Aviv,78,47,68,False,M. Tel Aviv,0
+2023/24,3,M. Tel Aviv,78,47,68,False,M. Tel Aviv,0
+2023/24,4,M. Tel Aviv,78,46,68,False,M. Tel Aviv,0
+2023/24,5,M. Tel Aviv,78,46,68,False,M. Tel Aviv,0
+2023/24,6,M. Tel Aviv,81,49,71,False,M. Tel Aviv,0
+2023/24,7,M. Tel Aviv,84,50,74,False,M. Tel Aviv,0
+2023/24,8,M. Tel Aviv,84,50,74,False,M. Tel Aviv,0
+2023/24,9,M. Tel Aviv,85,50,75,False,M. Tel Aviv,0
+2023/24,10,M. Tel Aviv,85,50,75,False,M. Tel Aviv,0
+2024/25,0,H. Beer Sheva,60,34,52,False,,0
+2024/25,1,M. Tel Aviv,62,34,63,True,H. Beer Sheva,1
+2024/25,2,M. Tel Aviv,71,42,73,False,M. Tel Aviv,1
+2024/25,3,M. Tel Aviv,71,42,73,False,M. Tel Aviv,1
+2024/25,4,H. Beer Sheva,76,47,71,True,M. Tel Aviv,2
+2024/25,5,H. Beer Sheva,76,47,71,False,H. Beer Sheva,2
+2024/25,6,H. Beer Sheva,77,47,72,False,H. Beer Sheva,2
+2024/25,7,H. Beer Sheva,77,47,72,False,H. Beer Sheva,2
+2024/25,8,H. Beer Sheva,80,48,74,False,H. Beer Sheva,2
+2024/25,9,M. Tel Aviv,80,50,86,True,H. Beer Sheva,3
+2024/25,10,M. Tel Aviv,80,50,86,False,M. Tel Aviv,3
