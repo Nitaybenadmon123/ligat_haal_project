@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2019/20,2019,36,relegation,Beitar Jerusalem,Maccabi Haifa,2,2,0,D,1,1
+2019/20,2019,36,relegation,Hapoel Tel Aviv,Hapoel Haifa,0,3,-3,A,0,3
+2019/20,2019,36,relegation,H. Beer Sheva,Maccabi Tel Aviv,2,0,2,H,3,0
+2019/20,2019,35,relegation,Beitar Jerusalem,Hapoel Tel Aviv,3,0,3,H,3,0
+2019/20,2019,35,relegation,H. Beer Sheva,Hapoel Haifa,3,1,2,H,3,0
+2019/20,2019,35,relegation,Maccabi Haifa,Maccabi Tel Aviv,0,1,-1,A,0,3
+2019/20,2019,34,relegation,Hapoel Haifa,Maccabi Haifa,1,4,-3,A,0,3
+2019/20,2019,34,relegation,Maccabi Tel Aviv,Beitar Jerusalem,1,0,1,H,3,0
+2019/20,2019,34,relegation,Hapoel Tel Aviv,H. Beer Sheva,1,0,1,H,3,0
+2019/20,2019,33,relegation,Hapoel Haifa,Beitar Jerusalem,0,0,0,D,1,1
+2019/20,2019,33,relegation,Maccabi Haifa,H. Beer Sheva,2,1,1,H,3,0
+2019/20,2019,33,relegation,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,3,H,3,0
+2019/20,2019,32,relegation,Hapoel Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2019/20,2019,32,relegation,Hapoel Tel Aviv,Maccabi Haifa,1,3,-2,A,0,3
+2019/20,2019,32,relegation,H. Beer Sheva,Beitar Jerusalem,2,2,0,D,1,1
+2019/20,2019,31,relegation,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,-2,A,0,3
+2019/20,2019,31,relegation,H. Beer Sheva,Maccabi Haifa,0,1,-1,A,0,3
+2019/20,2019,31,relegation,Beitar Jerusalem,Hapoel Haifa,1,1,0,D,1,1
+2019/20,2019,30,relegation,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,30,relegation,Hapoel Haifa,Hapoel Tel Aviv,4,0,4,H,3,0
+2019/20,2019,30,relegation,Maccabi Haifa,Beitar Jerusalem,0,0,0,D,1,1
+2019/20,2019,29,relegation,Beitar Jerusalem,Maccabi Tel Aviv,0,0,0,D,1,1
+2019/20,2019,29,relegation,Maccabi Haifa,Hapoel Haifa,2,2,0,D,1,1
+2019/20,2019,29,relegation,H. Beer Sheva,Hapoel Tel Aviv,0,0,0,D,1,1
+2019/20,2019,28,relegation,Hapoel Haifa,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,28,relegation,Maccabi Tel Aviv,Maccabi Haifa,2,0,2,H,3,0
+2019/20,2019,28,relegation,Hapoel Tel Aviv,Beitar Jerusalem,3,0,3,H,3,0
+2019/20,2019,27,relegation,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,27,relegation,Maccabi Haifa,Hapoel Tel Aviv,1,2,-1,A,0,3
+2019/20,2019,27,relegation,Maccabi Tel Aviv,Hapoel Haifa,2,0,2,H,3,0

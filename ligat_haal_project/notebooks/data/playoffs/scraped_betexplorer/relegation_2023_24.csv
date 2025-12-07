@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2023/24,2023,36,relegation,Maccabi Haifa,Hapoel Haifa,0,2,-2,A,0,3
+2023/24,2023,36,relegation,Maccabi Tel Aviv,Maccabi Bnei Raina,2,0,2,H,3,0
+2023/24,2023,36,relegation,Sakhnin,H. Beer Sheva,4,1,3,H,3,0
+2023/24,2023,35,relegation,Hapoel Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2023/24,2023,35,relegation,H. Beer Sheva,Maccabi Haifa,1,4,-3,A,0,3
+2023/24,2023,35,relegation,Maccabi Bnei Raina,Sakhnin,2,2,0,D,1,1
+2023/24,2023,34,relegation,Maccabi Bnei Raina,Hapoel Haifa,0,1,-1,A,0,3
+2023/24,2023,34,relegation,Maccabi Tel Aviv,H. Beer Sheva,3,0,3,H,3,0
+2023/24,2023,34,relegation,Sakhnin,Maccabi Haifa,1,2,-1,A,0,3
+2023/24,2023,33,relegation,Maccabi Haifa,Maccabi Tel Aviv,0,1,-1,A,0,3
+2023/24,2023,33,relegation,Hapoel Haifa,Sakhnin,1,2,-1,A,0,3
+2023/24,2023,33,relegation,H. Beer Sheva,Maccabi Bnei Raina,2,1,1,H,3,0
+2023/24,2023,32,relegation,Sakhnin,Maccabi Tel Aviv,1,1,0,D,1,1
+2023/24,2023,32,relegation,Hapoel Haifa,H. Beer Sheva,2,0,2,H,3,0
+2023/24,2023,32,relegation,Maccabi Bnei Raina,Maccabi Haifa,1,5,-4,A,0,3
+2023/24,2023,31,relegation,Hapoel Haifa,Maccabi Haifa,0,2,-2,A,0,3
+2023/24,2023,31,relegation,H. Beer Sheva,Sakhnin,2,1,1,H,3,0
+2023/24,2023,31,relegation,Maccabi Bnei Raina,Maccabi Tel Aviv,2,3,-1,A,0,3
+2023/24,2023,30,relegation,Maccabi Haifa,H. Beer Sheva,4,1,3,H,3,0
+2023/24,2023,30,relegation,Maccabi Tel Aviv,Hapoel Haifa,4,0,4,H,3,0
+2023/24,2023,30,relegation,Sakhnin,Maccabi Bnei Raina,0,2,-2,A,0,3
+2023/24,2023,29,relegation,H. Beer Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2023/24,2023,29,relegation,Hapoel Haifa,Maccabi Bnei Raina,2,0,2,H,3,0
+2023/24,2023,29,relegation,Maccabi Haifa,Sakhnin,1,0,1,H,3,0
+2023/24,2023,28,relegation,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2023/24,2023,28,relegation,Maccabi Bnei Raina,H. Beer Sheva,1,0,1,H,3,0
+2023/24,2023,28,relegation,Sakhnin,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,27,relegation,Maccabi Haifa,Maccabi Bnei Raina,1,2,-1,A,0,3
+2023/24,2023,27,relegation,H. Beer Sheva,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,27,relegation,Maccabi Tel Aviv,Sakhnin,2,0,2,H,3,0

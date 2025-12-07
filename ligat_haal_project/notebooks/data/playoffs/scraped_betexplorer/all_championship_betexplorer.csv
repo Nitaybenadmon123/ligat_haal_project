@@ -1,0 +1,449 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2009/10,2009,5,championship,Beitar Jerusalem,Hapoel Tel Aviv,1,2,-1,A,0,3
+2009/10,2009,5,championship,Maccabi Tel Aviv,SC Ashdod,2,0,2,H,3,0
+2009/10,2009,5,championship,Bnei Yehuda,Maccabi Haifa,1,1,0,D,1,1
+2009/10,2009,4,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,0,D,1,1
+2009/10,2009,4,championship,Maccabi Haifa,Beitar Jerusalem,2,1,1,H,3,0
+2009/10,2009,4,championship,SC Ashdod,Bnei Yehuda,2,3,-1,A,0,3
+2009/10,2009,3,championship,Maccabi Tel Aviv,Maccabi Haifa,0,2,-2,A,0,3
+2009/10,2009,3,championship,Beitar Jerusalem,Bnei Yehuda,0,2,-2,A,0,3
+2009/10,2009,3,championship,Hapoel Tel Aviv,SC Ashdod,4,0,4,H,3,0
+2009/10,2009,2,championship,Maccabi Haifa,Hapoel Tel Aviv,0,1,-1,A,0,3
+2009/10,2009,2,championship,SC Ashdod,Beitar Jerusalem,1,2,-1,A,0,3
+2009/10,2009,2,championship,Bnei Yehuda,Maccabi Tel Aviv,0,0,0,D,1,1
+2009/10,2009,1,championship,Hapoel Tel Aviv,Bnei Yehuda,1,0,1,H,3,0
+2009/10,2009,1,championship,Maccabi Haifa,SC Ashdod,3,1,2,H,3,0
+2009/10,2009,1,championship,Maccabi Tel Aviv,Beitar Jerusalem,3,0,3,H,3,0
+2010/11,2010,35,championship,Maccabi Tel Aviv,Netanya,4,1,3,H,3,0
+2010/11,2010,35,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,2,1,1,H,3,0
+2010/11,2010,35,championship,Bnei Yehuda,Maccabi Haifa,1,1,0,D,1,1
+2010/11,2010,34,championship,Maccabi Haifa,Ironi Kiryat Shmona,2,0,2,H,3,0
+2010/11,2010,34,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,2,2,0,D,1,1
+2010/11,2010,34,championship,Netanya,Bnei Yehuda,0,4,-4,A,0,3
+2010/11,2010,33,championship,Hapoel Tel Aviv,Netanya,2,2,0,D,1,1
+2010/11,2010,33,championship,Maccabi Tel Aviv,Maccabi Haifa,0,2,-2,A,0,3
+2010/11,2010,33,championship,Ironi Kiryat Shmona,Bnei Yehuda,1,2,-1,A,0,3
+2010/11,2010,32,championship,Maccabi Haifa,Hapoel Tel Aviv,2,0,2,H,3,0
+2010/11,2010,32,championship,Netanya,Ironi Kiryat Shmona,3,3,0,D,1,1
+2010/11,2010,32,championship,Bnei Yehuda,Maccabi Tel Aviv,1,3,-2,A,0,3
+2010/11,2010,31,championship,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2010/11,2010,31,championship,Maccabi Haifa,Netanya,1,2,-1,A,0,3
+2010/11,2010,31,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,2,H,3,0
+2011/12,2011,37,championship,Maccabi Haifa,Hapoel Tel Aviv,1,1,0,D,1,1
+2011/12,2011,37,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,2,1,H,3,0
+2011/12,2011,37,championship,Netanya,Sakhnin,3,2,1,H,3,0
+2011/12,2011,37,championship,SC Ashdod,Bnei Yehuda,2,1,1,H,3,0
+2011/12,2011,36,championship,Ironi Kiryat Shmona,Maccabi Haifa,0,1,-1,A,0,3
+2011/12,2011,36,championship,Bnei Yehuda,Maccabi Tel Aviv,4,3,1,H,3,0
+2011/12,2011,36,championship,Hapoel Tel Aviv,Netanya,1,3,-2,A,0,3
+2011/12,2011,36,championship,Sakhnin,SC Ashdod,1,2,-1,A,0,3
+2011/12,2011,35,championship,Maccabi Haifa,Maccabi Tel Aviv,2,1,1,H,3,0
+2011/12,2011,35,championship,Netanya,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2011/12,2011,35,championship,Sakhnin,Bnei Yehuda,0,3,-3,A,0,3
+2011/12,2011,35,championship,SC Ashdod,Hapoel Tel Aviv,0,2,-2,A,0,3
+2011/12,2011,34,championship,Maccabi Tel Aviv,Netanya,1,0,1,H,3,0
+2011/12,2011,34,championship,Hapoel Tel Aviv,Sakhnin,3,1,2,H,3,0
+2011/12,2011,34,championship,Ironi Kiryat Shmona,SC Ashdod,1,0,1,H,3,0
+2011/12,2011,34,championship,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
+2011/12,2011,33,championship,Hapoel Tel Aviv,Bnei Yehuda,3,3,0,D,1,1
+2011/12,2011,33,championship,Netanya,Maccabi Haifa,1,0,1,H,3,0
+2011/12,2011,33,championship,Sakhnin,Ironi Kiryat Shmona,5,0,5,H,3,0
+2011/12,2011,33,championship,SC Ashdod,Maccabi Tel Aviv,1,1,0,D,1,1
+2011/12,2011,32,championship,Maccabi Haifa,SC Ashdod,3,0,3,H,3,0
+2011/12,2011,32,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,0,0,D,1,1
+2011/12,2011,32,championship,Maccabi Tel Aviv,Sakhnin,5,2,3,H,3,0
+2011/12,2011,32,championship,Bnei Yehuda,Netanya,1,0,1,H,3,0
+2011/12,2011,31,championship,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
+2011/12,2011,31,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,0,D,1,1
+2011/12,2011,31,championship,Sakhnin,Maccabi Haifa,0,2,-2,A,0,3
+2011/12,2011,31,championship,SC Ashdod,Netanya,0,2,-2,A,0,3
+2012/13,2012,36,championship,Maccabi Tel Aviv,Bnei Yehuda,0,3,-3,A,0,3
+2012/13,2012,36,championship,Maccabi Haifa,Hapoel Tel Aviv,3,2,1,H,3,0
+2012/13,2012,36,championship,Ironi Ramat HaSharon,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2012/13,2012,35,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,2,4,-2,A,0,3
+2012/13,2012,35,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,2,-1,A,0,3
+2012/13,2012,35,championship,Bnei Yehuda,Ironi Ramat HaSharon,2,1,1,H,3,0
+2012/13,2012,34,championship,Bnei Yehuda,Hapoel Tel Aviv,0,1,-1,A,0,3
+2012/13,2012,34,championship,Ironi Ramat HaSharon,Maccabi Haifa,2,1,1,H,3,0
+2012/13,2012,34,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,0,1,H,3,0
+2012/13,2012,33,championship,Maccabi Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2012/13,2012,33,championship,Hapoel Tel Aviv,Ironi Ramat HaSharon,2,0,2,H,3,0
+2012/13,2012,33,championship,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
+2012/13,2012,32,championship,Ironi Ramat HaSharon,Maccabi Tel Aviv,0,2,-2,A,0,3
+2012/13,2012,32,championship,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
+2012/13,2012,32,championship,Hapoel Tel Aviv,Ironi Kiryat Shmona,1,4,-3,A,0,3
+2012/13,2012,31,championship,Hapoel Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
+2012/13,2012,31,championship,Ironi Kiryat Shmona,Ironi Ramat HaSharon,1,0,1,H,3,0
+2012/13,2012,31,championship,Bnei Yehuda,Maccabi Tel Aviv,2,2,0,D,1,1
+2012/13,2012,30,championship,Maccabi Haifa,Ironi Kiryat Shmona,3,2,1,H,3,0
+2012/13,2012,30,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,2,0,2,H,3,0
+2012/13,2012,30,championship,Ironi Ramat HaSharon,Bnei Yehuda,0,3,-3,A,0,3
+2012/13,2012,29,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,3,-2,A,0,3
+2012/13,2012,29,championship,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2012/13,2012,29,championship,Maccabi Haifa,Ironi Ramat HaSharon,6,0,6,H,3,0
+2012/13,2012,28,championship,Maccabi Tel Aviv,Maccabi Haifa,0,0,0,D,1,1
+2012/13,2012,28,championship,Ironi Ramat HaSharon,Hapoel Tel Aviv,0,1,-1,A,0,3
+2012/13,2012,28,championship,Bnei Yehuda,Ironi Kiryat Shmona,1,1,0,D,1,1
+2012/13,2012,27,championship,Maccabi Haifa,Bnei Yehuda,1,0,1,H,3,0
+2012/13,2012,27,championship,Maccabi Tel Aviv,Ironi Ramat HaSharon,1,0,1,H,3,0
+2012/13,2012,27,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,-1,A,0,3
+2013/14,2013,36,championship,Hapoel Tel Aviv,Ironi Kiryat Shmona,4,2,2,H,3,0
+2013/14,2013,36,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2013/14,2013,36,championship,Maccabi Tel Aviv,Sakhnin,4,1,3,H,3,0
+2013/14,2013,35,championship,Maccabi Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2013/14,2013,35,championship,Ironi Kiryat Shmona,H. Beer Sheva,3,0,3,H,3,0
+2013/14,2013,35,championship,Sakhnin,Hapoel Tel Aviv,1,3,-2,A,0,3
+2013/14,2013,34,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,2,H,3,0
+2013/14,2013,34,championship,Hapoel Tel Aviv,H. Beer Sheva,1,2,-1,A,0,3
+2013/14,2013,34,championship,Sakhnin,Maccabi Haifa,0,2,-2,A,0,3
+2013/14,2013,33,championship,H. Beer Sheva,Maccabi Tel Aviv,1,2,-1,A,0,3
+2013/14,2013,33,championship,Maccabi Haifa,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,33,championship,Ironi Kiryat Shmona,Sakhnin,2,0,2,H,3,0
+2013/14,2013,32,championship,Maccabi Haifa,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2013/14,2013,32,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,3,1,2,H,3,0
+2013/14,2013,32,championship,Sakhnin,H. Beer Sheva,0,0,0,D,1,1
+2013/14,2013,31,championship,Sakhnin,Maccabi Tel Aviv,2,1,1,H,3,0
+2013/14,2013,31,championship,Maccabi Haifa,H. Beer Sheva,2,1,1,H,3,0
+2013/14,2013,31,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,30,championship,Maccabi Tel Aviv,Maccabi Haifa,1,0,1,H,3,0
+2013/14,2013,30,championship,Hapoel Tel Aviv,Sakhnin,3,0,3,H,3,0
+2013/14,2013,30,championship,H. Beer Sheva,Ironi Kiryat Shmona,0,2,-2,A,0,3
+2013/14,2013,29,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,2,0,D,1,1
+2013/14,2013,29,championship,H. Beer Sheva,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,29,championship,Maccabi Haifa,Sakhnin,1,2,-1,A,0,3
+2013/14,2013,28,championship,Maccabi Tel Aviv,H. Beer Sheva,2,0,2,H,3,0
+2013/14,2013,28,championship,Hapoel Tel Aviv,Maccabi Haifa,4,0,4,H,3,0
+2013/14,2013,28,championship,Sakhnin,Ironi Kiryat Shmona,1,4,-3,A,0,3
+2013/14,2013,27,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,0,0,0,D,1,1
+2013/14,2013,27,championship,H. Beer Sheva,Sakhnin,2,0,2,H,3,0
+2013/14,2013,27,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,0,1,H,3,0
+2014/15,2014,36,championship,Maccabi Tel Aviv,Maccabi Petah Tikva,0,2,-2,A,0,3
+2014/15,2014,36,championship,H. Beer Sheva,Beitar Jerusalem,4,0,4,H,3,0
+2014/15,2014,36,championship,Maccabi Haifa,Ironi Kiryat Shmona,4,1,3,H,3,0
+2014/15,2014,35,championship,Beitar Jerusalem,Maccabi Tel Aviv,3,0,3,H,3,0
+2014/15,2014,35,championship,Maccabi Petah Tikva,Maccabi Haifa,1,0,1,H,3,0
+2014/15,2014,35,championship,Ironi Kiryat Shmona,H. Beer Sheva,3,1,2,H,3,0
+2014/15,2014,34,championship,Maccabi Petah Tikva,Beitar Jerusalem,1,2,-1,A,0,3
+2014/15,2014,34,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,1,1,H,3,0
+2014/15,2014,34,championship,Maccabi Haifa,H. Beer Sheva,4,0,4,H,3,0
+2014/15,2014,33,championship,H. Beer Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,33,championship,Beitar Jerusalem,Maccabi Haifa,1,1,0,D,1,1
+2014/15,2014,33,championship,Ironi Kiryat Shmona,Maccabi Petah Tikva,2,0,2,H,3,0
+2014/15,2014,32,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,32,championship,Maccabi Petah Tikva,H. Beer Sheva,1,2,-1,A,0,3
+2014/15,2014,32,championship,Beitar Jerusalem,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2014/15,2014,31,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,0,1,H,3,0
+2014/15,2014,31,championship,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
+2014/15,2014,31,championship,Maccabi Petah Tikva,Maccabi Tel Aviv,1,1,0,D,1,1
+2014/15,2014,30,championship,Maccabi Haifa,Maccabi Petah Tikva,0,0,0,D,1,1
+2014/15,2014,30,championship,H. Beer Sheva,Ironi Kiryat Shmona,2,2,0,D,1,1
+2014/15,2014,30,championship,Maccabi Tel Aviv,Beitar Jerusalem,4,1,3,H,3,0
+2014/15,2014,29,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,0,0,0,D,1,1
+2014/15,2014,29,championship,Beitar Jerusalem,Maccabi Petah Tikva,0,0,0,D,1,1
+2014/15,2014,29,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2014/15,2014,28,championship,Maccabi Petah Tikva,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2014/15,2014,28,championship,Maccabi Tel Aviv,H. Beer Sheva,3,1,2,H,3,0
+2014/15,2014,28,championship,Maccabi Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2014/15,2014,27,championship,Maccabi Tel Aviv,Maccabi Haifa,2,1,1,H,3,0
+2014/15,2014,27,championship,Ironi Kiryat Shmona,Beitar Jerusalem,1,2,-1,A,0,3
+2014/15,2014,27,championship,H. Beer Sheva,Maccabi Petah Tikva,3,0,3,H,3,0
+2015/16,2015,36,championship,H. Beer Sheva,Sakhnin,3,1,2,H,3,0
+2015/16,2015,36,championship,H. Raanana,Beitar Jerusalem,1,2,-1,A,0,3
+2015/16,2015,36,championship,Maccabi Tel Aviv,Maccabi Haifa,6,0,6,H,3,0
+2015/16,2015,35,championship,Beitar Jerusalem,Maccabi Tel Aviv,0,2,-2,A,0,3
+2015/16,2015,35,championship,Maccabi Haifa,H. Beer Sheva,2,1,1,H,3,0
+2015/16,2015,35,championship,Sakhnin,H. Raanana,1,1,0,D,1,1
+2015/16,2015,34,championship,H. Beer Sheva,Beitar Jerusalem,2,0,2,H,3,0
+2015/16,2015,34,championship,H. Raanana,Maccabi Tel Aviv,1,1,0,D,1,1
+2015/16,2015,34,championship,Sakhnin,Maccabi Haifa,0,1,-1,A,0,3
+2015/16,2015,33,championship,Maccabi Tel Aviv,H. Beer Sheva,0,0,0,D,1,1
+2015/16,2015,33,championship,Beitar Jerusalem,Sakhnin,0,3,-3,A,0,3
+2015/16,2015,33,championship,Maccabi Haifa,H. Raanana,2,0,2,H,3,0
+2015/16,2015,32,championship,H. Raanana,H. Beer Sheva,1,4,-3,A,0,3
+2015/16,2015,32,championship,Sakhnin,Maccabi Tel Aviv,0,0,0,D,1,1
+2015/16,2015,32,championship,Maccabi Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2015/16,2015,31,championship,Beitar Jerusalem,H. Raanana,1,0,1,H,3,0
+2015/16,2015,31,championship,Maccabi Haifa,Maccabi Tel Aviv,0,0,0,D,1,1
+2015/16,2015,31,championship,Sakhnin,H. Beer Sheva,1,4,-3,A,0,3
+2015/16,2015,30,championship,Maccabi Tel Aviv,Beitar Jerusalem,3,2,1,H,3,0
+2015/16,2015,30,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2015/16,2015,30,championship,H. Raanana,Sakhnin,2,3,-1,A,0,3
+2015/16,2015,29,championship,Beitar Jerusalem,H. Beer Sheva,0,2,-2,A,0,3
+2015/16,2015,29,championship,Maccabi Tel Aviv,H. Raanana,3,0,3,H,3,0
+2015/16,2015,29,championship,Maccabi Haifa,Sakhnin,3,3,0,D,1,1
+2015/16,2015,28,championship,H. Beer Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2015/16,2015,28,championship,H. Raanana,Maccabi Haifa,3,0,3,H,3,0
+2015/16,2015,28,championship,Sakhnin,Beitar Jerusalem,2,0,2,H,3,0
+2015/16,2015,27,championship,Beitar Jerusalem,Maccabi Haifa,3,2,1,H,3,0
+2015/16,2015,27,championship,H. Beer Sheva,H. Raanana,0,0,0,D,1,1
+2015/16,2015,27,championship,Maccabi Tel Aviv,Sakhnin,1,0,1,H,3,0
+2016/17,2016,36,championship,H. Beer Sheva,Sakhnin,2,0,2,H,3,0
+2016/17,2016,36,championship,Maccabi Haifa,Maccabi Petah Tikva,0,0,0,D,1,1
+2016/17,2016,36,championship,Maccabi Tel Aviv,Beitar Jerusalem,0,2,-2,A,0,3
+2016/17,2016,35,championship,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
+2016/17,2016,35,championship,Maccabi Petah Tikva,Maccabi Tel Aviv,2,1,1,H,3,0
+2016/17,2016,35,championship,Sakhnin,Maccabi Haifa,1,0,1,H,3,0
+2016/17,2016,34,championship,H. Beer Sheva,Maccabi Petah Tikva,1,1,0,D,1,1
+2016/17,2016,34,championship,Maccabi Haifa,Maccabi Tel Aviv,0,2,-2,A,0,3
+2016/17,2016,34,championship,Sakhnin,Beitar Jerusalem,1,5,-4,A,0,3
+2016/17,2016,33,championship,Beitar Jerusalem,Maccabi Haifa,2,0,2,H,3,0
+2016/17,2016,33,championship,Maccabi Petah Tikva,Sakhnin,1,0,1,H,3,0
+2016/17,2016,33,championship,Maccabi Tel Aviv,H. Beer Sheva,1,2,-1,A,0,3
+2016/17,2016,32,championship,Beitar Jerusalem,Maccabi Petah Tikva,2,1,1,H,3,0
+2016/17,2016,32,championship,Maccabi Haifa,H. Beer Sheva,0,1,-1,A,0,3
+2016/17,2016,32,championship,Sakhnin,Maccabi Tel Aviv,1,3,-2,A,0,3
+2016/17,2016,31,championship,Beitar Jerusalem,Maccabi Tel Aviv,1,1,0,D,1,1
+2016/17,2016,31,championship,Maccabi Petah Tikva,Maccabi Haifa,0,1,-1,A,0,3
+2016/17,2016,31,championship,Sakhnin,H. Beer Sheva,1,3,-2,A,0,3
+2016/17,2016,30,championship,H. Beer Sheva,Beitar Jerusalem,2,0,2,H,3,0
+2016/17,2016,30,championship,Maccabi Haifa,Sakhnin,0,1,-1,A,0,3
+2016/17,2016,30,championship,Maccabi Tel Aviv,Maccabi Petah Tikva,2,0,2,H,3,0
+2016/17,2016,29,championship,Maccabi Petah Tikva,H. Beer Sheva,1,2,-1,A,0,3
+2016/17,2016,29,championship,Maccabi Tel Aviv,Maccabi Haifa,3,0,3,H,3,0
+2016/17,2016,29,championship,Beitar Jerusalem,Sakhnin,3,0,3,H,3,0
+2016/17,2016,28,championship,Sakhnin,Maccabi Petah Tikva,1,0,1,H,3,0
+2016/17,2016,28,championship,H. Beer Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2016/17,2016,28,championship,Maccabi Haifa,Beitar Jerusalem,3,2,1,H,3,0
+2016/17,2016,27,championship,H. Beer Sheva,Maccabi Haifa,4,0,4,H,3,0
+2016/17,2016,27,championship,Maccabi Petah Tikva,Beitar Jerusalem,0,1,-1,A,0,3
+2016/17,2016,27,championship,Maccabi Tel Aviv,Sakhnin,3,0,3,H,3,0
+2017/18,2017,36,championship,Beitar Jerusalem,Hapoel Haifa,1,1,0,D,1,1
+2017/18,2017,36,championship,H. Beer Sheva,Netanya,6,1,5,H,3,0
+2017/18,2017,36,championship,Bnei Yehuda,Maccabi Tel Aviv,0,2,-2,A,0,3
+2017/18,2017,35,championship,Netanya,Bnei Yehuda,0,5,-5,A,0,3
+2017/18,2017,35,championship,Hapoel Haifa,H. Beer Sheva,1,4,-3,A,0,3
+2017/18,2017,35,championship,Maccabi Tel Aviv,Beitar Jerusalem,3,1,2,H,3,0
+2017/18,2017,34,championship,H. Beer Sheva,Maccabi Tel Aviv,0,1,-1,A,0,3
+2017/18,2017,34,championship,Netanya,Hapoel Haifa,2,1,1,H,3,0
+2017/18,2017,34,championship,Bnei Yehuda,Beitar Jerusalem,3,3,0,D,1,1
+2017/18,2017,33,championship,Maccabi Tel Aviv,Netanya,2,0,2,H,3,0
+2017/18,2017,33,championship,Beitar Jerusalem,H. Beer Sheva,1,4,-3,A,0,3
+2017/18,2017,33,championship,Hapoel Haifa,Bnei Yehuda,2,1,1,H,3,0
+2017/18,2017,32,championship,Netanya,Beitar Jerusalem,4,1,3,H,3,0
+2017/18,2017,32,championship,Hapoel Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2017/18,2017,32,championship,Bnei Yehuda,H. Beer Sheva,1,1,0,D,1,1
+2017/18,2017,31,championship,Hapoel Haifa,Beitar Jerusalem,0,1,-1,A,0,3
+2017/18,2017,31,championship,Netanya,H. Beer Sheva,1,5,-4,A,0,3
+2017/18,2017,31,championship,Maccabi Tel Aviv,Bnei Yehuda,2,0,2,H,3,0
+2017/18,2017,30,championship,Beitar Jerusalem,Maccabi Tel Aviv,3,2,1,H,3,0
+2017/18,2017,30,championship,H. Beer Sheva,Hapoel Haifa,2,2,0,D,1,1
+2017/18,2017,30,championship,Bnei Yehuda,Netanya,1,3,-2,A,0,3
+2017/18,2017,29,championship,Maccabi Tel Aviv,H. Beer Sheva,0,1,-1,A,0,3
+2017/18,2017,29,championship,Beitar Jerusalem,Bnei Yehuda,1,1,0,D,1,1
+2017/18,2017,29,championship,Hapoel Haifa,Netanya,1,1,0,D,1,1
+2017/18,2017,28,championship,H. Beer Sheva,Beitar Jerusalem,3,1,2,H,3,0
+2017/18,2017,28,championship,Bnei Yehuda,Hapoel Haifa,3,0,3,H,3,0
+2017/18,2017,28,championship,Netanya,Maccabi Tel Aviv,4,1,3,H,3,0
+2017/18,2017,27,championship,H. Beer Sheva,Bnei Yehuda,1,0,1,H,3,0
+2017/18,2017,27,championship,Maccabi Tel Aviv,Hapoel Haifa,1,2,-1,A,0,3
+2017/18,2017,27,championship,Beitar Jerusalem,Netanya,2,0,2,H,3,0
+2018/19,2018,36,championship,H. Beer Sheva,Maccabi Tel Aviv,0,4,-4,A,0,3
+2018/19,2018,36,championship,Netanya,Maccabi Haifa,1,2,-1,A,0,3
+2018/19,2018,36,championship,Bnei Yehuda,Hapoel Hadera,1,2,-1,A,0,3
+2018/19,2018,35,championship,H. Beer Sheva,Hapoel Hadera,1,0,1,H,3,0
+2018/19,2018,35,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2018/19,2018,35,championship,Netanya,Bnei Yehuda,0,2,-2,A,0,3
+2018/19,2018,34,championship,Hapoel Hadera,Maccabi Haifa,2,0,2,H,3,0
+2018/19,2018,34,championship,Maccabi Tel Aviv,Netanya,3,0,3,H,3,0
+2018/19,2018,34,championship,Bnei Yehuda,H. Beer Sheva,2,3,-1,A,0,3
+2018/19,2018,33,championship,Maccabi Haifa,H. Beer Sheva,3,1,2,H,3,0
+2018/19,2018,33,championship,Maccabi Tel Aviv,Bnei Yehuda,2,3,-1,A,0,3
+2018/19,2018,33,championship,Hapoel Hadera,Netanya,1,2,-1,A,0,3
+2018/19,2018,32,championship,Bnei Yehuda,Maccabi Haifa,2,2,0,D,1,1
+2018/19,2018,32,championship,H. Beer Sheva,Netanya,0,2,-2,A,0,3
+2018/19,2018,32,championship,Hapoel Hadera,Maccabi Tel Aviv,0,1,-1,A,0,3
+2018/19,2018,31,championship,Netanya,Hapoel Hadera,3,2,1,H,3,0
+2018/19,2018,31,championship,Bnei Yehuda,Maccabi Tel Aviv,0,2,-2,A,0,3
+2018/19,2018,31,championship,H. Beer Sheva,Maccabi Haifa,0,1,-1,A,0,3
+2018/19,2018,30,championship,Maccabi Tel Aviv,H. Beer Sheva,0,0,0,D,1,1
+2018/19,2018,30,championship,Hapoel Hadera,Bnei Yehuda,2,3,-1,A,0,3
+2018/19,2018,30,championship,Maccabi Haifa,Netanya,2,1,1,H,3,0
+2018/19,2018,29,championship,Netanya,Maccabi Tel Aviv,1,4,-3,A,0,3
+2018/19,2018,29,championship,H. Beer Sheva,Bnei Yehuda,2,1,1,H,3,0
+2018/19,2018,29,championship,Maccabi Haifa,Hapoel Hadera,1,3,-2,A,0,3
+2018/19,2018,28,championship,Hapoel Hadera,H. Beer Sheva,1,4,-3,A,0,3
+2018/19,2018,28,championship,Maccabi Tel Aviv,Maccabi Haifa,1,0,1,H,3,0
+2018/19,2018,28,championship,Bnei Yehuda,Netanya,1,1,0,D,1,1
+2018/19,2018,27,championship,Netanya,H. Beer Sheva,0,1,-1,A,0,3
+2018/19,2018,27,championship,Maccabi Haifa,Bnei Yehuda,0,2,-2,A,0,3
+2018/19,2018,27,championship,Maccabi Tel Aviv,Hapoel Hadera,2,0,2,H,3,0
+2019/20,2019,36,championship,Beitar Jerusalem,Maccabi Haifa,2,2,0,D,1,1
+2019/20,2019,36,championship,Hapoel Tel Aviv,Hapoel Haifa,0,3,-3,A,0,3
+2019/20,2019,36,championship,H. Beer Sheva,Maccabi Tel Aviv,2,0,2,H,3,0
+2019/20,2019,35,championship,Beitar Jerusalem,Hapoel Tel Aviv,3,0,3,H,3,0
+2019/20,2019,35,championship,H. Beer Sheva,Hapoel Haifa,3,1,2,H,3,0
+2019/20,2019,35,championship,Maccabi Haifa,Maccabi Tel Aviv,0,1,-1,A,0,3
+2019/20,2019,34,championship,Hapoel Haifa,Maccabi Haifa,1,4,-3,A,0,3
+2019/20,2019,34,championship,Maccabi Tel Aviv,Beitar Jerusalem,1,0,1,H,3,0
+2019/20,2019,34,championship,Hapoel Tel Aviv,H. Beer Sheva,1,0,1,H,3,0
+2019/20,2019,33,championship,Hapoel Haifa,Beitar Jerusalem,0,0,0,D,1,1
+2019/20,2019,33,championship,Maccabi Haifa,H. Beer Sheva,2,1,1,H,3,0
+2019/20,2019,33,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,3,H,3,0
+2019/20,2019,32,championship,Hapoel Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2019/20,2019,32,championship,Hapoel Tel Aviv,Maccabi Haifa,1,3,-2,A,0,3
+2019/20,2019,32,championship,H. Beer Sheva,Beitar Jerusalem,2,2,0,D,1,1
+2019/20,2019,31,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,-2,A,0,3
+2019/20,2019,31,championship,H. Beer Sheva,Maccabi Haifa,0,1,-1,A,0,3
+2019/20,2019,31,championship,Beitar Jerusalem,Hapoel Haifa,1,1,0,D,1,1
+2019/20,2019,30,championship,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,30,championship,Hapoel Haifa,Hapoel Tel Aviv,4,0,4,H,3,0
+2019/20,2019,30,championship,Maccabi Haifa,Beitar Jerusalem,0,0,0,D,1,1
+2019/20,2019,29,championship,Beitar Jerusalem,Maccabi Tel Aviv,0,0,0,D,1,1
+2019/20,2019,29,championship,Maccabi Haifa,Hapoel Haifa,2,2,0,D,1,1
+2019/20,2019,29,championship,H. Beer Sheva,Hapoel Tel Aviv,0,0,0,D,1,1
+2019/20,2019,28,championship,Hapoel Haifa,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,28,championship,Maccabi Tel Aviv,Maccabi Haifa,2,0,2,H,3,0
+2019/20,2019,28,championship,Hapoel Tel Aviv,Beitar Jerusalem,3,0,3,H,3,0
+2019/20,2019,27,championship,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
+2019/20,2019,27,championship,Maccabi Haifa,Hapoel Tel Aviv,1,2,-1,A,0,3
+2019/20,2019,27,championship,Maccabi Tel Aviv,Hapoel Haifa,2,0,2,H,3,0
+2020/21,2020,36,championship,Maccabi Haifa,H. Beer Sheva,3,2,1,H,3,0
+2020/21,2020,36,championship,Maccabi Petah Tikva,SC Ashdod,1,3,-2,A,0,3
+2020/21,2020,36,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,2,0,D,1,1
+2020/21,2020,35,championship,H. Beer Sheva,Maccabi Petah Tikva,2,0,2,H,3,0
+2020/21,2020,35,championship,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
+2020/21,2020,35,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,1,0,D,1,1
+2020/21,2020,34,championship,H. Beer Sheva,Ironi Kiryat Shmona,3,2,1,H,3,0
+2020/21,2020,34,championship,Maccabi Haifa,SC Ashdod,2,0,2,H,3,0
+2020/21,2020,34,championship,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,-3,A,0,3
+2020/21,2020,33,championship,SC Ashdod,H. Beer Sheva,2,2,0,D,1,1
+2020/21,2020,33,championship,Maccabi Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
+2020/21,2020,33,championship,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,2,-1,A,0,3
+2020/21,2020,32,championship,H. Beer Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2020/21,2020,32,championship,Maccabi Petah Tikva,Maccabi Haifa,1,2,-1,A,0,3
+2020/21,2020,32,championship,Ironi Kiryat Shmona,SC Ashdod,1,1,0,D,1,1
+2020/21,2020,31,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2020/21,2020,31,championship,SC Ashdod,Maccabi Petah Tikva,0,0,0,D,1,1
+2020/21,2020,31,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,0,2,H,3,0
+2020/21,2020,30,championship,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
+2020/21,2020,30,championship,Maccabi Haifa,Ironi Kiryat Shmona,4,0,4,H,3,0
+2020/21,2020,30,championship,Maccabi Petah Tikva,H. Beer Sheva,0,0,0,D,1,1
+2020/21,2020,29,championship,SC Ashdod,Maccabi Haifa,0,3,-3,A,0,3
+2020/21,2020,29,championship,Maccabi Tel Aviv,Maccabi Petah Tikva,3,1,2,H,3,0
+2020/21,2020,29,championship,Ironi Kiryat Shmona,H. Beer Sheva,1,1,0,D,1,1
+2020/21,2020,28,championship,H. Beer Sheva,SC Ashdod,1,2,-1,A,0,3
+2020/21,2020,28,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2020/21,2020,28,championship,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
+2020/21,2020,27,championship,Maccabi Haifa,Maccabi Petah Tikva,1,1,0,D,1,1
+2020/21,2020,27,championship,Maccabi Tel Aviv,H. Beer Sheva,2,1,1,H,3,0
+2020/21,2020,27,championship,SC Ashdod,Ironi Kiryat Shmona,1,1,0,D,1,1
+2021/22,2021,10,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,-2,A,0,3
+2021/22,2021,10,championship,H. Beer Sheva,Sakhnin,3,1,2,H,3,0
+2021/22,2021,10,championship,Maccabi Haifa,Netanya,4,0,4,H,3,0
+2021/22,2021,9,championship,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
+2021/22,2021,9,championship,Netanya,Hapoel Tel Aviv,0,0,0,D,1,1
+2021/22,2021,9,championship,Sakhnin,Maccabi Haifa,0,3,-3,A,0,3
+2021/22,2021,8,championship,Hapoel Tel Aviv,H. Beer Sheva,2,1,1,H,3,0
+2021/22,2021,8,championship,Maccabi Haifa,Maccabi Tel Aviv,1,3,-2,A,0,3
+2021/22,2021,8,championship,Netanya,Sakhnin,3,0,3,H,3,0
+2021/22,2021,7,championship,H. Beer Sheva,Maccabi Haifa,1,0,1,H,3,0
+2021/22,2021,7,championship,Maccabi Tel Aviv,Netanya,2,1,1,H,3,0
+2021/22,2021,7,championship,Sakhnin,Hapoel Tel Aviv,0,0,0,D,1,1
+2021/22,2021,6,championship,Hapoel Tel Aviv,Maccabi Haifa,0,2,-2,A,0,3
+2021/22,2021,6,championship,Netanya,H. Beer Sheva,3,0,3,H,3,0
+2021/22,2021,6,championship,Sakhnin,Maccabi Tel Aviv,1,0,1,H,3,0
+2021/22,2021,5,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,5,0,5,H,3,0
+2021/22,2021,5,championship,Sakhnin,H. Beer Sheva,1,1,0,D,1,1
+2021/22,2021,5,championship,Netanya,Maccabi Haifa,3,0,3,H,3,0
+2021/22,2021,4,championship,Hapoel Tel Aviv,Netanya,2,0,2,H,3,0
+2021/22,2021,4,championship,H. Beer Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2021/22,2021,4,championship,Maccabi Haifa,Sakhnin,1,0,1,H,3,0
+2021/22,2021,3,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2021/22,2021,3,championship,H. Beer Sheva,Hapoel Tel Aviv,2,2,0,D,1,1
+2021/22,2021,3,championship,Sakhnin,Netanya,1,1,0,D,1,1
+2021/22,2021,2,championship,Maccabi Haifa,H. Beer Sheva,2,0,2,H,3,0
+2021/22,2021,2,championship,Hapoel Tel Aviv,Sakhnin,2,1,1,H,3,0
+2021/22,2021,2,championship,Netanya,Maccabi Tel Aviv,1,1,0,D,1,1
+2021/22,2021,1,championship,H. Beer Sheva,Netanya,4,1,3,H,3,0
+2021/22,2021,1,championship,Maccabi Haifa,Hapoel Tel Aviv,3,0,3,H,3,0
+2021/22,2021,1,championship,Maccabi Tel Aviv,Sakhnin,0,0,0,D,1,1
+2022/23,2022,36,championship,H. Beer Sheva,Netanya,2,0,2,H,3,0
+2022/23,2022,36,championship,Maccabi Haifa,Hapoel Jerusalem,5,0,5,H,3,0
+2022/23,2022,36,championship,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,35,championship,Maccabi Tel Aviv,H. Beer Sheva,3,0,3,H,3,0
+2022/23,2022,35,championship,Netanya,Maccabi Haifa,1,5,-4,A,0,3
+2022/23,2022,35,championship,Hapoel Jerusalem,SC Ashdod,0,1,-1,A,0,3
+2022/23,2022,34,championship,Maccabi Haifa,Maccabi Tel Aviv,3,1,2,H,3,0
+2022/23,2022,34,championship,SC Ashdod,H. Beer Sheva,0,1,-1,A,0,3
+2022/23,2022,34,championship,Hapoel Jerusalem,Netanya,1,4,-3,A,0,3
+2022/23,2022,33,championship,H. Beer Sheva,Maccabi Haifa,2,1,1,H,3,0
+2022/23,2022,33,championship,Maccabi Tel Aviv,Hapoel Jerusalem,2,1,1,H,3,0
+2022/23,2022,33,championship,Netanya,SC Ashdod,2,0,2,H,3,0
+2022/23,2022,32,championship,SC Ashdod,Maccabi Haifa,1,2,-1,A,0,3
+2022/23,2022,32,championship,Hapoel Jerusalem,H. Beer Sheva,1,2,-1,A,0,3
+2022/23,2022,32,championship,Netanya,Maccabi Tel Aviv,0,0,0,D,1,1
+2022/23,2022,31,championship,Netanya,H. Beer Sheva,1,1,0,D,1,1
+2022/23,2022,31,championship,Hapoel Jerusalem,Maccabi Haifa,2,1,1,H,3,0
+2022/23,2022,31,championship,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
+2022/23,2022,30,championship,H. Beer Sheva,Maccabi Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,30,championship,Maccabi Haifa,Netanya,4,1,3,H,3,0
+2022/23,2022,30,championship,SC Ashdod,Hapoel Jerusalem,0,1,-1,A,0,3
+2022/23,2022,29,championship,H. Beer Sheva,SC Ashdod,3,1,2,H,3,0
+2022/23,2022,29,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2022/23,2022,29,championship,Netanya,Hapoel Jerusalem,0,2,-2,A,0,3
+2022/23,2022,28,championship,Hapoel Jerusalem,Maccabi Tel Aviv,0,2,-2,A,0,3
+2022/23,2022,28,championship,Maccabi Haifa,H. Beer Sheva,1,0,1,H,3,0
+2022/23,2022,28,championship,SC Ashdod,Netanya,3,2,1,H,3,0
+2022/23,2022,27,championship,H. Beer Sheva,Hapoel Jerusalem,1,0,1,H,3,0
+2022/23,2022,27,championship,Maccabi Haifa,SC Ashdod,2,1,1,H,3,0
+2022/23,2022,27,championship,Maccabi Tel Aviv,Netanya,2,0,2,H,3,0
+2023/24,2023,36,championship,Maccabi Haifa,Hapoel Haifa,0,2,-2,A,0,3
+2023/24,2023,36,championship,Maccabi Tel Aviv,Maccabi Bnei Raina,2,0,2,H,3,0
+2023/24,2023,36,championship,Sakhnin,H. Beer Sheva,4,1,3,H,3,0
+2023/24,2023,35,championship,Hapoel Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2023/24,2023,35,championship,H. Beer Sheva,Maccabi Haifa,1,4,-3,A,0,3
+2023/24,2023,35,championship,Maccabi Bnei Raina,Sakhnin,2,2,0,D,1,1
+2023/24,2023,34,championship,Maccabi Bnei Raina,Hapoel Haifa,0,1,-1,A,0,3
+2023/24,2023,34,championship,Maccabi Tel Aviv,H. Beer Sheva,3,0,3,H,3,0
+2023/24,2023,34,championship,Sakhnin,Maccabi Haifa,1,2,-1,A,0,3
+2023/24,2023,33,championship,Maccabi Haifa,Maccabi Tel Aviv,0,1,-1,A,0,3
+2023/24,2023,33,championship,Hapoel Haifa,Sakhnin,1,2,-1,A,0,3
+2023/24,2023,33,championship,H. Beer Sheva,Maccabi Bnei Raina,2,1,1,H,3,0
+2023/24,2023,32,championship,Sakhnin,Maccabi Tel Aviv,1,1,0,D,1,1
+2023/24,2023,32,championship,Hapoel Haifa,H. Beer Sheva,2,0,2,H,3,0
+2023/24,2023,32,championship,Maccabi Bnei Raina,Maccabi Haifa,1,5,-4,A,0,3
+2023/24,2023,31,championship,Hapoel Haifa,Maccabi Haifa,0,2,-2,A,0,3
+2023/24,2023,31,championship,H. Beer Sheva,Sakhnin,2,1,1,H,3,0
+2023/24,2023,31,championship,Maccabi Bnei Raina,Maccabi Tel Aviv,2,3,-1,A,0,3
+2023/24,2023,30,championship,Maccabi Haifa,H. Beer Sheva,4,1,3,H,3,0
+2023/24,2023,30,championship,Maccabi Tel Aviv,Hapoel Haifa,4,0,4,H,3,0
+2023/24,2023,30,championship,Sakhnin,Maccabi Bnei Raina,0,2,-2,A,0,3
+2023/24,2023,29,championship,H. Beer Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2023/24,2023,29,championship,Hapoel Haifa,Maccabi Bnei Raina,2,0,2,H,3,0
+2023/24,2023,29,championship,Maccabi Haifa,Sakhnin,1,0,1,H,3,0
+2023/24,2023,28,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2023/24,2023,28,championship,Maccabi Bnei Raina,H. Beer Sheva,1,0,1,H,3,0
+2023/24,2023,28,championship,Sakhnin,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,27,championship,Maccabi Haifa,Maccabi Bnei Raina,1,2,-1,A,0,3
+2023/24,2023,27,championship,H. Beer Sheva,Hapoel Haifa,2,1,1,H,3,0
+2023/24,2023,27,championship,Maccabi Tel Aviv,Sakhnin,2,0,2,H,3,0
+2024/25,2024,36,championship,H. Beer Sheva,Hapoel Haifa,5,0,5,H,3,0
+2024/25,2024,36,championship,Maccabi Tel Aviv,Beitar Jerusalem,5,0,5,H,3,0
+2024/25,2024,36,championship,Netanya,Maccabi Haifa,2,3,-1,A,0,3
+2024/25,2024,35,championship,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
+2024/25,2024,35,championship,Maccabi Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
+2024/25,2024,35,championship,Hapoel Haifa,Netanya,1,1,0,D,1,1
+2024/25,2024,34,championship,H. Beer Sheva,Maccabi Haifa,4,1,3,H,3,0
+2024/25,2024,34,championship,Netanya,Maccabi Tel Aviv,1,6,-5,A,0,3
+2024/25,2024,34,championship,Hapoel Haifa,Beitar Jerusalem,1,0,1,H,3,0
+2024/25,2024,33,championship,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
+2024/25,2024,33,championship,Beitar Jerusalem,Netanya,0,3,-3,A,0,3
+2024/25,2024,33,championship,Maccabi Haifa,Hapoel Haifa,1,5,-4,A,0,3
+2024/25,2024,32,championship,Beitar Jerusalem,Maccabi Haifa,1,2,-1,A,0,3
+2024/25,2024,32,championship,Netanya,H. Beer Sheva,2,1,1,H,3,0
+2024/25,2024,32,championship,Hapoel Haifa,Maccabi Tel Aviv,1,3,-2,A,0,3
+2024/25,2024,31,championship,Beitar Jerusalem,Maccabi Tel Aviv,3,1,2,H,3,0
+2024/25,2024,31,championship,Maccabi Haifa,Netanya,1,0,1,H,3,0
+2024/25,2024,31,championship,Hapoel Haifa,H. Beer Sheva,1,2,-1,A,0,3
+2024/25,2024,30,championship,H. Beer Sheva,Beitar Jerusalem,3,1,2,H,3,0
+2024/25,2024,30,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2024/25,2024,30,championship,Netanya,Hapoel Haifa,2,2,0,D,1,1
+2024/25,2024,29,championship,Maccabi Haifa,H. Beer Sheva,0,3,-3,A,0,3
+2024/25,2024,29,championship,Beitar Jerusalem,Hapoel Haifa,0,1,-1,A,0,3
+2024/25,2024,29,championship,Maccabi Tel Aviv,Netanya,4,1,3,H,3,0
+2024/25,2024,28,championship,H. Beer Sheva,Maccabi Tel Aviv,1,3,-2,A,0,3
+2024/25,2024,28,championship,Netanya,Beitar Jerusalem,0,1,-1,A,0,3
+2024/25,2024,28,championship,Hapoel Haifa,Maccabi Haifa,0,2,-2,A,0,3
+2024/25,2024,27,championship,Maccabi Haifa,Beitar Jerusalem,3,3,0,D,1,1
+2024/25,2024,27,championship,H. Beer Sheva,Netanya,2,0,2,H,3,0
+2024/25,2024,27,championship,Maccabi Tel Aviv,Hapoel Haifa,3,0,3,H,3,0

@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2020/21,2020,36,championship,Maccabi Haifa,H. Beer Sheva,3,2,1,H,3,0
+2020/21,2020,36,championship,Maccabi Petah Tikva,SC Ashdod,1,3,-2,A,0,3
+2020/21,2020,36,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,2,0,D,1,1
+2020/21,2020,35,championship,H. Beer Sheva,Maccabi Petah Tikva,2,0,2,H,3,0
+2020/21,2020,35,championship,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
+2020/21,2020,35,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,1,0,D,1,1
+2020/21,2020,34,championship,H. Beer Sheva,Ironi Kiryat Shmona,3,2,1,H,3,0
+2020/21,2020,34,championship,Maccabi Haifa,SC Ashdod,2,0,2,H,3,0
+2020/21,2020,34,championship,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,-3,A,0,3
+2020/21,2020,33,championship,SC Ashdod,H. Beer Sheva,2,2,0,D,1,1
+2020/21,2020,33,championship,Maccabi Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
+2020/21,2020,33,championship,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,2,-1,A,0,3
+2020/21,2020,32,championship,H. Beer Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
+2020/21,2020,32,championship,Maccabi Petah Tikva,Maccabi Haifa,1,2,-1,A,0,3
+2020/21,2020,32,championship,Ironi Kiryat Shmona,SC Ashdod,1,1,0,D,1,1
+2020/21,2020,31,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2020/21,2020,31,championship,SC Ashdod,Maccabi Petah Tikva,0,0,0,D,1,1
+2020/21,2020,31,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,0,2,H,3,0
+2020/21,2020,30,championship,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
+2020/21,2020,30,championship,Maccabi Haifa,Ironi Kiryat Shmona,4,0,4,H,3,0
+2020/21,2020,30,championship,Maccabi Petah Tikva,H. Beer Sheva,0,0,0,D,1,1
+2020/21,2020,29,championship,SC Ashdod,Maccabi Haifa,0,3,-3,A,0,3
+2020/21,2020,29,championship,Maccabi Tel Aviv,Maccabi Petah Tikva,3,1,2,H,3,0
+2020/21,2020,29,championship,Ironi Kiryat Shmona,H. Beer Sheva,1,1,0,D,1,1
+2020/21,2020,28,championship,H. Beer Sheva,SC Ashdod,1,2,-1,A,0,3
+2020/21,2020,28,championship,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
+2020/21,2020,28,championship,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
+2020/21,2020,27,championship,Maccabi Haifa,Maccabi Petah Tikva,1,1,0,D,1,1
+2020/21,2020,27,championship,Maccabi Tel Aviv,H. Beer Sheva,2,1,1,H,3,0
+2020/21,2020,27,championship,SC Ashdod,Ironi Kiryat Shmona,1,1,0,D,1,1

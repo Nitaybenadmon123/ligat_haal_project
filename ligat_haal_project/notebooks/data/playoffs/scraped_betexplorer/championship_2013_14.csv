@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2013/14,2013,36,championship,Hapoel Tel Aviv,Ironi Kiryat Shmona,4,2,2,H,3,0
+2013/14,2013,36,championship,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
+2013/14,2013,36,championship,Maccabi Tel Aviv,Sakhnin,4,1,3,H,3,0
+2013/14,2013,35,championship,Maccabi Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2013/14,2013,35,championship,Ironi Kiryat Shmona,H. Beer Sheva,3,0,3,H,3,0
+2013/14,2013,35,championship,Sakhnin,Hapoel Tel Aviv,1,3,-2,A,0,3
+2013/14,2013,34,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,2,H,3,0
+2013/14,2013,34,championship,Hapoel Tel Aviv,H. Beer Sheva,1,2,-1,A,0,3
+2013/14,2013,34,championship,Sakhnin,Maccabi Haifa,0,2,-2,A,0,3
+2013/14,2013,33,championship,H. Beer Sheva,Maccabi Tel Aviv,1,2,-1,A,0,3
+2013/14,2013,33,championship,Maccabi Haifa,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,33,championship,Ironi Kiryat Shmona,Sakhnin,2,0,2,H,3,0
+2013/14,2013,32,championship,Maccabi Haifa,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2013/14,2013,32,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,3,1,2,H,3,0
+2013/14,2013,32,championship,Sakhnin,H. Beer Sheva,0,0,0,D,1,1
+2013/14,2013,31,championship,Sakhnin,Maccabi Tel Aviv,2,1,1,H,3,0
+2013/14,2013,31,championship,Maccabi Haifa,H. Beer Sheva,2,1,1,H,3,0
+2013/14,2013,31,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,30,championship,Maccabi Tel Aviv,Maccabi Haifa,1,0,1,H,3,0
+2013/14,2013,30,championship,Hapoel Tel Aviv,Sakhnin,3,0,3,H,3,0
+2013/14,2013,30,championship,H. Beer Sheva,Ironi Kiryat Shmona,0,2,-2,A,0,3
+2013/14,2013,29,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,2,0,D,1,1
+2013/14,2013,29,championship,H. Beer Sheva,Hapoel Tel Aviv,1,1,0,D,1,1
+2013/14,2013,29,championship,Maccabi Haifa,Sakhnin,1,2,-1,A,0,3
+2013/14,2013,28,championship,Maccabi Tel Aviv,H. Beer Sheva,2,0,2,H,3,0
+2013/14,2013,28,championship,Hapoel Tel Aviv,Maccabi Haifa,4,0,4,H,3,0
+2013/14,2013,28,championship,Sakhnin,Ironi Kiryat Shmona,1,4,-3,A,0,3
+2013/14,2013,27,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,0,0,0,D,1,1
+2013/14,2013,27,championship,H. Beer Sheva,Sakhnin,2,0,2,H,3,0
+2013/14,2013,27,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,0,1,H,3,0

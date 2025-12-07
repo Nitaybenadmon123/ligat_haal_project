@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2021/22,2021,10,relegation,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,-2,A,0,3
+2021/22,2021,10,relegation,H. Beer Sheva,Sakhnin,3,1,2,H,3,0
+2021/22,2021,10,relegation,Maccabi Haifa,Netanya,4,0,4,H,3,0
+2021/22,2021,9,relegation,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
+2021/22,2021,9,relegation,Netanya,Hapoel Tel Aviv,0,0,0,D,1,1
+2021/22,2021,9,relegation,Sakhnin,Maccabi Haifa,0,3,-3,A,0,3
+2021/22,2021,8,relegation,Hapoel Tel Aviv,H. Beer Sheva,2,1,1,H,3,0
+2021/22,2021,8,relegation,Maccabi Haifa,Maccabi Tel Aviv,1,3,-2,A,0,3
+2021/22,2021,8,relegation,Netanya,Sakhnin,3,0,3,H,3,0
+2021/22,2021,7,relegation,H. Beer Sheva,Maccabi Haifa,1,0,1,H,3,0
+2021/22,2021,7,relegation,Maccabi Tel Aviv,Netanya,2,1,1,H,3,0
+2021/22,2021,7,relegation,Sakhnin,Hapoel Tel Aviv,0,0,0,D,1,1
+2021/22,2021,6,relegation,Hapoel Tel Aviv,Maccabi Haifa,0,2,-2,A,0,3
+2021/22,2021,6,relegation,Netanya,H. Beer Sheva,3,0,3,H,3,0
+2021/22,2021,6,relegation,Sakhnin,Maccabi Tel Aviv,1,0,1,H,3,0
+2021/22,2021,5,relegation,Maccabi Tel Aviv,Hapoel Tel Aviv,5,0,5,H,3,0
+2021/22,2021,5,relegation,Sakhnin,H. Beer Sheva,1,1,0,D,1,1
+2021/22,2021,5,relegation,Netanya,Maccabi Haifa,3,0,3,H,3,0
+2021/22,2021,4,relegation,Hapoel Tel Aviv,Netanya,2,0,2,H,3,0
+2021/22,2021,4,relegation,H. Beer Sheva,Maccabi Tel Aviv,1,0,1,H,3,0
+2021/22,2021,4,relegation,Maccabi Haifa,Sakhnin,1,0,1,H,3,0
+2021/22,2021,3,relegation,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2021/22,2021,3,relegation,H. Beer Sheva,Hapoel Tel Aviv,2,2,0,D,1,1
+2021/22,2021,3,relegation,Sakhnin,Netanya,1,1,0,D,1,1
+2021/22,2021,2,relegation,Maccabi Haifa,H. Beer Sheva,2,0,2,H,3,0
+2021/22,2021,2,relegation,Hapoel Tel Aviv,Sakhnin,2,1,1,H,3,0
+2021/22,2021,2,relegation,Netanya,Maccabi Tel Aviv,1,1,0,D,1,1
+2021/22,2021,1,relegation,H. Beer Sheva,Netanya,4,1,3,H,3,0
+2021/22,2021,1,relegation,Maccabi Haifa,Hapoel Tel Aviv,3,0,3,H,3,0
+2021/22,2021,1,relegation,Maccabi Tel Aviv,Sakhnin,0,0,0,D,1,1

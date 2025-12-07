@@ -1,0 +1,16 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2010/11,2010,35,relegation,Maccabi Tel Aviv,Netanya,4,1,3,H,3,0
+2010/11,2010,35,relegation,Ironi Kiryat Shmona,Hapoel Tel Aviv,2,1,1,H,3,0
+2010/11,2010,35,relegation,Bnei Yehuda,Maccabi Haifa,1,1,0,D,1,1
+2010/11,2010,34,relegation,Maccabi Haifa,Ironi Kiryat Shmona,2,0,2,H,3,0
+2010/11,2010,34,relegation,Hapoel Tel Aviv,Maccabi Tel Aviv,2,2,0,D,1,1
+2010/11,2010,34,relegation,Netanya,Bnei Yehuda,0,4,-4,A,0,3
+2010/11,2010,33,relegation,Hapoel Tel Aviv,Netanya,2,2,0,D,1,1
+2010/11,2010,33,relegation,Maccabi Tel Aviv,Maccabi Haifa,0,2,-2,A,0,3
+2010/11,2010,33,relegation,Ironi Kiryat Shmona,Bnei Yehuda,1,2,-1,A,0,3
+2010/11,2010,32,relegation,Maccabi Haifa,Hapoel Tel Aviv,2,0,2,H,3,0
+2010/11,2010,32,relegation,Netanya,Ironi Kiryat Shmona,3,3,0,D,1,1
+2010/11,2010,32,relegation,Bnei Yehuda,Maccabi Tel Aviv,1,3,-2,A,0,3
+2010/11,2010,31,relegation,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2010/11,2010,31,relegation,Maccabi Haifa,Netanya,1,2,-1,A,0,3
+2010/11,2010,31,relegation,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,2,H,3,0

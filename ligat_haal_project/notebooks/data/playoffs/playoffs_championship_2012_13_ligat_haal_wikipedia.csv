@@ -1,31 +1,31 @@
-﻿season,season_year,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2012/13,2012,championship,Bnei Yehuda,Hapoel Tel Aviv,0,1,-1,A,0,3
-2012/13,2012,championship,Bnei Yehuda,Ironi Kiryat Shmona,1,1,0,D,1,1
-2012/13,2012,championship,Bnei Yehuda,Ironi Ramat HaSharon,2,1,1,H,3,0
-2012/13,2012,championship,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
-2012/13,2012,championship,Bnei Yehuda,Maccabi Tel Aviv,2,2,0,D,1,1
-2012/13,2012,championship,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
-2012/13,2012,championship,Hapoel Tel Aviv,Ironi Kiryat Shmona,1,4,-3,A,0,3
-2012/13,2012,championship,Hapoel Tel Aviv,Ironi Ramat HaSharon,2,0,2,H,3,0
-2012/13,2012,championship,Hapoel Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
-2012/13,2012,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,2,4,-2,A,0,3
-2012/13,2012,championship,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
-2012/13,2012,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,-1,A,0,3
-2012/13,2012,championship,Ironi Kiryat Shmona,Ironi Ramat HaSharon,1,0,1,H,3,0
-2012/13,2012,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,2,-1,A,0,3
-2012/13,2012,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,3,-2,A,0,3
-2012/13,2012,championship,Ironi Ramat HaSharon,Bnei Yehuda,0,3,-3,A,0,3
-2012/13,2012,championship,Ironi Ramat HaSharon,Hapoel Tel Aviv,0,1,-1,A,0,3
-2012/13,2012,championship,Ironi Ramat HaSharon,Ironi Kiryat Shmona,0,1,-1,A,0,3
-2012/13,2012,championship,Ironi Ramat HaSharon,Maccabi Haifa,2,1,1,H,3,0
-2012/13,2012,championship,Ironi Ramat HaSharon,Maccabi Tel Aviv,0,2,-2,A,0,3
-2012/13,2012,championship,Maccabi Haifa,Bnei Yehuda,1,0,1,H,3,0
-2012/13,2012,championship,Maccabi Haifa,Hapoel Tel Aviv,3,2,1,H,3,0
-2012/13,2012,championship,Maccabi Haifa,Ironi Kiryat Shmona,3,2,1,H,3,0
-2012/13,2012,championship,Maccabi Haifa,Ironi Ramat HaSharon,6,0,6,H,3,0
-2012/13,2012,championship,Maccabi Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
-2012/13,2012,championship,Maccabi Tel Aviv,Bnei Yehuda,0,3,-3,A,0,3
-2012/13,2012,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,2,0,2,H,3,0
-2012/13,2012,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,0,1,H,3,0
-2012/13,2012,championship,Maccabi Tel Aviv,Ironi Ramat HaSharon,1,0,1,H,3,0
-2012/13,2012,championship,Maccabi Tel Aviv,Maccabi Haifa,0,0,0,D,1,1
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2012/13,2012,34.0,championship,Bnei Yehuda,Hapoel Tel Aviv,0,1,-1,A,0,3
+2012/13,2012,28.0,championship,Bnei Yehuda,Ironi Kiryat Shmona,1,1,0,D,1,1
+2012/13,2012,35.0,championship,Bnei Yehuda,Ironi Ramat HaSharon,2,1,1,H,3,0
+2012/13,2012,32.0,championship,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
+2012/13,2012,31.0,championship,Bnei Yehuda,Maccabi Tel Aviv,2,2,0,D,1,1
+2012/13,2012,29.0,championship,Hapoel Tel Aviv,Bnei Yehuda,2,1,1,H,3,0
+2012/13,2012,32.0,championship,Hapoel Tel Aviv,Ironi Kiryat Shmona,1,4,-3,A,0,3
+2012/13,2012,33.0,championship,Hapoel Tel Aviv,Ironi Ramat HaSharon,2,0,2,H,3,0
+2012/13,2012,31.0,championship,Hapoel Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
+2012/13,2012,35.0,championship,Hapoel Tel Aviv,Maccabi Tel Aviv,2,4,-2,A,0,3
+2012/13,2012,33.0,championship,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
+2012/13,2012,,championship,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,0,1,H,3,0
+2012/13,2012,31.0,championship,Ironi Kiryat Shmona,Ironi Ramat HaSharon,1,0,1,H,3,0
+2012/13,2012,35.0,championship,Ironi Kiryat Shmona,Maccabi Haifa,1,2,-1,A,0,3
+2012/13,2012,29.0,championship,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,3,-2,A,0,3
+2012/13,2012,30.0,championship,Ironi Ramat HaSharon,Bnei Yehuda,0,3,-3,A,0,3
+2012/13,2012,28.0,championship,Ironi Ramat HaSharon,Hapoel Tel Aviv,0,1,-1,A,0,3
+2012/13,2012,36.0,championship,Ironi Ramat HaSharon,Ironi Kiryat Shmona,0,1,-1,A,0,3
+2012/13,2012,34.0,championship,Ironi Ramat HaSharon,Maccabi Haifa,2,1,1,H,3,0
+2012/13,2012,32.0,championship,Ironi Ramat HaSharon,Maccabi Tel Aviv,0,2,-2,A,0,3
+2012/13,2012,27.0,championship,Maccabi Haifa,Bnei Yehuda,1,0,1,H,3,0
+2012/13,2012,36.0,championship,Maccabi Haifa,Hapoel Tel Aviv,3,2,1,H,3,0
+2012/13,2012,30.0,championship,Maccabi Haifa,Ironi Kiryat Shmona,3,2,1,H,3,0
+2012/13,2012,29.0,championship,Maccabi Haifa,Ironi Ramat HaSharon,6,0,6,H,3,0
+2012/13,2012,33.0,championship,Maccabi Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
+2012/13,2012,36.0,championship,Maccabi Tel Aviv,Bnei Yehuda,0,3,-3,A,0,3
+2012/13,2012,30.0,championship,Maccabi Tel Aviv,Hapoel Tel Aviv,2,0,2,H,3,0
+2012/13,2012,34.0,championship,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,0,1,H,3,0
+2012/13,2012,27.0,championship,Maccabi Tel Aviv,Ironi Ramat HaSharon,1,0,1,H,3,0
+2012/13,2012,28.0,championship,Maccabi Tel Aviv,Maccabi Haifa,0,0,0,D,1,1

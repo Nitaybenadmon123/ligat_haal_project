@@ -1,0 +1,20 @@
+﻿season,leadership_changes,distinct_leaders,first_leader,last_leader,same_leader
+2006/07,5,4,H. Kfar Saba,B. Jerusalem,False
+2007/08,0,1,B. Jerusalem,B. Jerusalem,True
+2008/09,8,3,Maccabi Haifa,Maccabi Haifa,True
+2009/10,1,2,Bnei Yehuda,Maccabi Haifa,False
+2010/11,12,6,Maccabi Netanya,Maccabi Haifa,False
+2011/12,3,4,Maccabi Haifa,Kiryat Shmona,False
+2012/13,7,3,FC Ashdod,M. Tel Aviv,False
+2013/14,2,3,Maccabi Haifa,M. Tel Aviv,False
+2014/15,3,3,Hapoel Raanana,M. Tel Aviv,False
+2015/16,5,4,Bnei Yehuda,H. Beer Sheva,False
+2016/17,3,2,M. Tel Aviv,H. Beer Sheva,False
+2017/18,8,4,B. Jerusalem,H. Beer Sheva,False
+2018/19,4,3,Hapoel Haifa,M. Tel Aviv,False
+2019/20,5,3,M. Tel Aviv,M. Tel Aviv,True
+2020/21,8,6,Bnei Yehuda,Maccabi Haifa,False
+2021/22,5,6,Bnei Sakhnin,Maccabi Haifa,False
+2022/23,5,2,M. Tel Aviv,Maccabi Haifa,False
+2023/24,2,2,M. Tel Aviv,M. Tel Aviv,True
+2024/25,2,3,M. Bnei Reineh,H. Beer Sheva,False
