@@ -1,0 +1,401 @@
+﻿season,round,leader_points,num_contenders,contender_teams
+2006/07,7,16,7,"B. Jerusalem, Maccabi Netanya, FC Ashdod, H. Kfar Saba, Hapoel Tel Aviv, Maccabi Haifa, M. Petah Tikva"
+2006/07,8,17,8,"B. Jerusalem, Hapoel Tel Aviv, Maccabi Netanya, M. Petah Tikva, FC Ashdod, Maccabi Haifa, M. Tel Aviv, H. Kfar Saba"
+2006/07,9,17,8,"Hapoel Tel Aviv, B. Jerusalem, M. Petah Tikva, FC Ashdod, Maccabi Haifa, M. Tel Aviv, Maccabi Netanya, H. Kfar Saba"
+2006/07,10,20,8,"B. Jerusalem, M. Petah Tikva, FC Ashdod, Hapoel Tel Aviv, Maccabi Netanya, Maccabi Haifa, M. Tel Aviv, H. Kfar Saba"
+2006/07,11,23,6,"B. Jerusalem, M. Petah Tikva, FC Ashdod, M. Tel Aviv, Hapoel Tel Aviv, Maccabi Haifa"
+2006/07,12,24,6,"B. Jerusalem, FC Ashdod, M. Petah Tikva, Hapoel Tel Aviv, Maccabi Haifa, M. Tel Aviv"
+2006/07,13,25,6,"B. Jerusalem, FC Ashdod, M. Petah Tikva, Hapoel Tel Aviv, Maccabi Haifa, M. Tel Aviv"
+2006/07,14,28,5,"B. Jerusalem, FC Ashdod, Hapoel Tel Aviv, M. Petah Tikva, Maccabi Haifa"
+2006/07,16,32,5,"B. Jerusalem, FC Ashdod, Hapoel Tel Aviv, M. Petah Tikva, Maccabi Haifa"
+2006/07,17,32,6,"B. Jerusalem, Hapoel Tel Aviv, FC Ashdod, M. Petah Tikva, Maccabi Haifa, M. Tel Aviv"
+2006/07,18,35,3,"B. Jerusalem, Hapoel Tel Aviv, FC Ashdod"
+2006/07,19,38,2,"B. Jerusalem, Hapoel Tel Aviv"
+2006/07,20,39,3,"B. Jerusalem, Hapoel Tel Aviv, M. Tel Aviv"
+2006/07,21,42,2,"B. Jerusalem, Hapoel Tel Aviv"
+2006/07,22,43,3,"B. Jerusalem, Hapoel Tel Aviv, M. Tel Aviv"
+2006/07,23,44,3,"B. Jerusalem, Hapoel Tel Aviv, M. Tel Aviv"
+2006/07,24,47,3,"B. Jerusalem, Hapoel Tel Aviv, M. Tel Aviv"
+2006/07,25,50,3,"B. Jerusalem, Hapoel Tel Aviv, M. Tel Aviv"
+2006/07,26,53,1,B. Jerusalem
+2006/07,27,56,1,B. Jerusalem
+2006/07,28,57,1,B. Jerusalem
+2006/07,29,58,1,B. Jerusalem
+2006/07,30,61,1,B. Jerusalem
+2006/07,31,64,1,B. Jerusalem
+2006/07,33,67,1,B. Jerusalem
+2007/08,7,19,3,"B. Jerusalem, Maccabi Netanya, Bnei Sakhnin"
+2007/08,8,20,4,"B. Jerusalem, Maccabi Netanya, M. Petah Tikva, Bnei Sakhnin"
+2007/08,9,21,4,"B. Jerusalem, Bnei Sakhnin, Maccabi Netanya, M. Petah Tikva"
+2007/08,10,24,3,"B. Jerusalem, M. Petah Tikva, Bnei Sakhnin"
+2007/08,11,27,3,"B. Jerusalem, M. Petah Tikva, Bnei Sakhnin"
+2007/08,12,30,1,B. Jerusalem
+2007/08,13,33,1,B. Jerusalem
+2007/08,14,34,1,B. Jerusalem
+2007/08,15,34,2,"B. Jerusalem, Maccabi Netanya"
+2007/08,16,37,1,B. Jerusalem
+2007/08,17,40,1,B. Jerusalem
+2007/08,18,41,2,"B. Jerusalem, Maccabi Netanya"
+2007/08,19,44,1,B. Jerusalem
+2007/08,20,47,1,B. Jerusalem
+2007/08,21,50,1,B. Jerusalem
+2007/08,22,51,1,B. Jerusalem
+2007/08,23,54,1,B. Jerusalem
+2007/08,24,57,1,B. Jerusalem
+2007/08,25,60,1,B. Jerusalem
+2007/08,26,61,1,B. Jerusalem
+2007/08,27,61,1,B. Jerusalem
+2007/08,28,64,1,B. Jerusalem
+2007/08,29,64,1,B. Jerusalem
+2007/08,30,64,1,B. Jerusalem
+2007/08,31,67,1,B. Jerusalem
+2007/08,32,67,1,B. Jerusalem
+2007/08,33,67,1,B. Jerusalem
+2008/09,7,17,3,"Maccabi Haifa, Maccabi Netanya, M. Petah Tikva"
+2008/09,8,20,3,"Maccabi Haifa, Maccabi Netanya, M. Petah Tikva"
+2008/09,9,21,3,"Maccabi Netanya, Maccabi Haifa, M. Petah Tikva"
+2008/09,10,21,3,"Maccabi Haifa, Maccabi Netanya, M. Petah Tikva"
+2008/09,11,24,2,"Maccabi Haifa, Maccabi Netanya"
+2008/09,12,27,2,"Maccabi Haifa, Maccabi Netanya"
+2008/09,13,28,2,"Maccabi Haifa, Maccabi Netanya"
+2008/09,14,31,2,"Maccabi Haifa, Maccabi Netanya"
+2008/09,15,32,2,"Maccabi Haifa, Maccabi Netanya"
+2008/09,16,32,3,"Maccabi Haifa, Maccabi Netanya, Hapoel Tel Aviv"
+2008/09,17,35,3,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya"
+2008/09,18,36,3,"Maccabi Haifa, Maccabi Netanya, Hapoel Tel Aviv"
+2008/09,19,39,3,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya"
+2008/09,20,39,3,"Maccabi Haifa, Maccabi Netanya, Hapoel Tel Aviv"
+2008/09,21,39,4,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya, B. Jerusalem"
+2008/09,22,42,4,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya, B. Jerusalem"
+2008/09,23,45,4,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya, B. Jerusalem"
+2008/09,24,46,3,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya"
+2008/09,25,49,3,"Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya"
+2008/09,26,52,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2008/09,27,53,2,"Hapoel Tel Aviv, Maccabi Haifa"
+2008/09,28,56,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2008/09,29,57,2,"Hapoel Tel Aviv, Maccabi Haifa"
+2008/09,30,60,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2008/09,31,63,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2008/09,32,66,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2008/09,33,67,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2009/10,7,21,1,Maccabi Haifa
+2009/10,8,24,1,Maccabi Haifa
+2009/10,9,27,1,Maccabi Haifa
+2009/10,10,30,1,Maccabi Haifa
+2009/10,11,30,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2009/10,12,33,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2009/10,13,36,1,Maccabi Haifa
+2009/10,14,39,1,Maccabi Haifa
+2009/10,15,42,1,Maccabi Haifa
+2009/10,16,45,1,Maccabi Haifa
+2009/10,17,48,1,Maccabi Haifa
+2009/10,18,51,1,Maccabi Haifa
+2009/10,19,52,1,Maccabi Haifa
+2009/10,20,55,1,Maccabi Haifa
+2009/10,21,58,1,Maccabi Haifa
+2009/10,22,61,1,Maccabi Haifa
+2009/10,23,61,1,Maccabi Haifa
+2009/10,24,64,1,Maccabi Haifa
+2009/10,25,67,1,Maccabi Haifa
+2009/10,26,70,1,Maccabi Haifa
+2009/10,27,70,1,Maccabi Haifa
+2009/10,28,73,1,Maccabi Haifa
+2009/10,29,76,1,Maccabi Haifa
+2009/10,30,77,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,7,17,5,"Kiryat Shmona, M. Tel Aviv, Maccabi Haifa, Hapoel Tel Aviv, Maccabi Netanya"
+2010/11,8,18,7,"Maccabi Haifa, Kiryat Shmona, M. Tel Aviv, Hapoel Tel Aviv, Maccabi Netanya, M. Petah Tikva, Hapoel Acre"
+2010/11,9,19,9,"M. Tel Aviv, Hapoel Tel Aviv, Kiryat Shmona, Maccabi Haifa, Hapoel Acre, Maccabi Netanya, Hapoel Haifa, FC Ashdod, M. Petah Tikva"
+2010/11,10,21,8,"Kiryat Shmona, Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv, Hapoel Acre, M. Petah Tikva, Maccabi Netanya, Hapoel Haifa"
+2010/11,11,24,5,"Kiryat Shmona, Hapoel Tel Aviv, Maccabi Haifa, Hapoel Acre, M. Tel Aviv"
+2010/11,12,25,6,"Kiryat Shmona, Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv, Hapoel Acre, H. Beer Sheva"
+2010/11,13,28,4,"Maccabi Haifa, Hapoel Tel Aviv, Kiryat Shmona, M. Tel Aviv"
+2010/11,14,31,4,"Maccabi Haifa, Hapoel Tel Aviv, Kiryat Shmona, M. Tel Aviv"
+2010/11,15,34,3,"Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv"
+2010/11,16,37,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,17,40,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,18,41,3,"Hapoel Tel Aviv, Maccabi Haifa, M. Tel Aviv"
+2010/11,19,44,3,"Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv"
+2010/11,20,45,3,"Hapoel Tel Aviv, Maccabi Haifa, M. Tel Aviv"
+2010/11,21,48,3,"Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv"
+2010/11,22,51,3,"Maccabi Haifa, Hapoel Tel Aviv, M. Tel Aviv"
+2010/11,23,54,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,24,55,2,"Hapoel Tel Aviv, Maccabi Haifa"
+2010/11,25,57,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,26,60,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,27,63,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,28,66,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2010/11,29,69,1,Maccabi Haifa
+2010/11,30,70,2,"Maccabi Haifa, Hapoel Tel Aviv"
+2011/12,7,16,10,"M. Tel Aviv, Bnei Yehuda, Maccabi Netanya, Maccabi Haifa, Hapoel Tel Aviv, Bnei Sakhnin, M. Petah Tikva, Hapoel Acre, Kiryat Shmona, FC Ashdod"
+2011/12,8,16,10,"M. Tel Aviv, Hapoel Tel Aviv, Bnei Yehuda, Maccabi Netanya, Kiryat Shmona, Maccabi Haifa, Bnei Sakhnin, Hapoel Acre, FC Ashdod, M. Petah Tikva"
+2011/12,9,19,8,"M. Tel Aviv, Maccabi Netanya, Kiryat Shmona, Bnei Sakhnin, Hapoel Tel Aviv, Hapoel Acre, FC Ashdod, Bnei Yehuda"
+2011/12,10,20,10,"M. Tel Aviv, Kiryat Shmona, Maccabi Netanya, Hapoel Tel Aviv, Hapoel Acre, Maccabi Haifa, Bnei Sakhnin, FC Ashdod, Bnei Yehuda, Ramat haSharon"
+2011/12,11,20,10,"Hapoel Tel Aviv, M. Tel Aviv, Kiryat Shmona, Hapoel Acre, FC Ashdod, Maccabi Netanya, Maccabi Haifa, Bnei Yehuda, Ramat haSharon, Bnei Sakhnin"
+2011/12,12,23,9,"Kiryat Shmona, Hapoel Tel Aviv, Hapoel Acre, Maccabi Netanya, FC Ashdod, M. Tel Aviv, Maccabi Haifa, Bnei Sakhnin, Ramat haSharon"
+2011/12,13,26,8,"Kiryat Shmona, Hapoel Tel Aviv, FC Ashdod, Maccabi Haifa, Maccabi Netanya, Hapoel Acre, M. Tel Aviv, Ramat haSharon"
+2011/12,14,29,4,"Kiryat Shmona, Hapoel Tel Aviv, FC Ashdod, Ramat haSharon"
+2011/12,15,32,3,"Kiryat Shmona, FC Ashdod, Hapoel Tel Aviv"
+2011/12,16,35,2,"Kiryat Shmona, FC Ashdod"
+2011/12,17,38,2,"Kiryat Shmona, FC Ashdod"
+2011/12,18,41,2,"Kiryat Shmona, FC Ashdod"
+2011/12,19,42,2,"Kiryat Shmona, FC Ashdod"
+2011/12,20,45,2,"Kiryat Shmona, FC Ashdod"
+2011/12,21,48,1,Kiryat Shmona
+2011/12,22,51,1,Kiryat Shmona
+2011/12,23,52,1,Kiryat Shmona
+2011/12,24,55,1,Kiryat Shmona
+2011/12,25,56,1,Kiryat Shmona
+2011/12,26,59,1,Kiryat Shmona
+2011/12,27,62,1,Kiryat Shmona
+2011/12,28,62,1,Kiryat Shmona
+2011/12,29,65,1,Kiryat Shmona
+2012/13,7,18,3,"FC Ashdod, M. Tel Aviv, Hapoel Tel Aviv"
+2012/13,8,21,3,"M. Tel Aviv, FC Ashdod, Hapoel Tel Aviv"
+2012/13,9,21,3,"M. Tel Aviv, FC Ashdod, Hapoel Tel Aviv"
+2012/13,10,22,4,"FC Ashdod, M. Tel Aviv, Hapoel Tel Aviv, Bnei Yehuda"
+2012/13,11,25,3,"FC Ashdod, Hapoel Tel Aviv, M. Tel Aviv"
+2012/13,12,27,3,"M. Tel Aviv, Hapoel Tel Aviv, FC Ashdod"
+2012/13,13,28,3,"M. Tel Aviv, Hapoel Tel Aviv, FC Ashdod"
+2012/13,14,29,3,"Hapoel Tel Aviv, M. Tel Aviv, FC Ashdod"
+2012/13,15,31,3,"M. Tel Aviv, Hapoel Tel Aviv, FC Ashdod"
+2012/13,16,34,2,"M. Tel Aviv, Hapoel Tel Aviv"
+2012/13,17,35,2,"M. Tel Aviv, Hapoel Tel Aviv"
+2012/13,18,38,2,"M. Tel Aviv, Hapoel Tel Aviv"
+2012/13,19,38,3,"M. Tel Aviv, Hapoel Tel Aviv, Maccabi Haifa"
+2012/13,20,41,3,"M. Tel Aviv, Maccabi Haifa, Hapoel Tel Aviv"
+2012/13,21,44,1,M. Tel Aviv
+2012/13,23,50,1,M. Tel Aviv
+2012/13,24,53,1,M. Tel Aviv
+2012/13,25,56,1,M. Tel Aviv
+2012/13,26,59,1,M. Tel Aviv
+2013/14,7,19,3,"M. Tel Aviv, H. Beer Sheva, Hapoel Haifa"
+2013/14,8,19,7,"M. Tel Aviv, H. Beer Sheva, Hapoel Haifa, Hapoel Tel Aviv, B. Jerusalem, Bnei Sakhnin, Hapoel Raanana"
+2013/14,9,20,6,"M. Tel Aviv, H. Beer Sheva, Hapoel Haifa, Hapoel Tel Aviv, Hapoel Raanana, B. Jerusalem"
+2013/14,10,23,3,"M. Tel Aviv, H. Beer Sheva, Hapoel Raanana"
+2013/14,11,26,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,12,29,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,13,32,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,14,35,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,15,38,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,16,41,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,17,41,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,18,44,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,19,47,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,20,50,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,21,53,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,22,56,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,23,57,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,24,60,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,25,63,2,"M. Tel Aviv, H. Beer Sheva"
+2013/14,26,66,1,M. Tel Aviv
+2014/15,7,17,4,"Kiryat Shmona, H. Beer Sheva, M. Tel Aviv, B. Jerusalem"
+2014/15,8,20,3,"Kiryat Shmona, H. Beer Sheva, M. Tel Aviv"
+2014/15,9,23,3,"Kiryat Shmona, H. Beer Sheva, M. Tel Aviv"
+2014/15,10,24,3,"Kiryat Shmona, H. Beer Sheva, M. Tel Aviv"
+2014/15,11,25,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,12,28,3,"Kiryat Shmona, H. Beer Sheva, M. Tel Aviv"
+2014/15,13,29,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,14,32,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,15,35,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,16,38,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,17,38,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,18,41,3,"Kiryat Shmona, M. Tel Aviv, H. Beer Sheva"
+2014/15,19,43,2,"M. Tel Aviv, Kiryat Shmona"
+2014/15,20,46,2,"M. Tel Aviv, Kiryat Shmona"
+2014/15,21,47,2,"M. Tel Aviv, Kiryat Shmona"
+2014/15,23,48,3,"M. Tel Aviv, Kiryat Shmona, H. Beer Sheva"
+2014/15,24,51,3,"M. Tel Aviv, Kiryat Shmona, H. Beer Sheva"
+2014/15,25,51,3,"M. Tel Aviv, Kiryat Shmona, H. Beer Sheva"
+2014/15,26,54,2,"M. Tel Aviv, H. Beer Sheva"
+2015/16,7,16,6,"M. Tel Aviv, H. Beer Sheva, Kiryat Shmona, M. Petah Tikva, Hapoel Raanana, Bnei Sakhnin"
+2015/16,8,16,8,"H. Beer Sheva, M. Tel Aviv, Hapoel Raanana, Kiryat Shmona, B. Jerusalem, M. Petah Tikva, Bnei Sakhnin, Bnei Yehuda"
+2015/16,9,19,7,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem, Kiryat Shmona, Hapoel Raanana, M. Petah Tikva, Bnei Yehuda"
+2015/16,10,22,3,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem"
+2015/16,11,25,3,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem"
+2015/16,12,28,2,"M. Tel Aviv, H. Beer Sheva"
+2015/16,13,29,3,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem"
+2015/16,14,32,2,"M. Tel Aviv, H. Beer Sheva"
+2015/16,15,35,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,16,38,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,17,39,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,18,42,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,19,45,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,20,48,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,21,51,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,22,54,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,23,57,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,24,60,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,25,63,2,"H. Beer Sheva, M. Tel Aviv"
+2015/16,26,64,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,7,16,5,"H. Beer Sheva, M. Tel Aviv, M. Petah Tikva, Maccabi Haifa, B. Jerusalem"
+2016/17,8,19,4,"H. Beer Sheva, M. Petah Tikva, M. Tel Aviv, Maccabi Haifa"
+2016/17,9,22,4,"H. Beer Sheva, M. Petah Tikva, M. Tel Aviv, Maccabi Haifa"
+2016/17,10,25,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, M. Petah Tikva"
+2016/17,11,28,1,H. Beer Sheva
+2016/17,12,31,1,H. Beer Sheva
+2016/17,13,34,1,H. Beer Sheva
+2016/17,14,34,1,H. Beer Sheva
+2016/17,15,35,1,H. Beer Sheva
+2016/17,16,36,1,H. Beer Sheva
+2016/17,17,39,1,H. Beer Sheva
+2016/17,18,42,1,H. Beer Sheva
+2016/17,19,43,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,20,46,1,H. Beer Sheva
+2016/17,21,46,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,22,49,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,23,50,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,24,53,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,25,56,2,"H. Beer Sheva, M. Tel Aviv"
+2016/17,26,59,2,"H. Beer Sheva, M. Tel Aviv"
+2017/18,7,17,7,"Hapoel Haifa, B. Jerusalem, H. Beer Sheva, M. Tel Aviv, Maccabi Netanya, Maccabi Haifa, Bnei Sakhnin"
+2017/18,8,20,5,"Hapoel Haifa, B. Jerusalem, H. Beer Sheva, Maccabi Netanya, M. Tel Aviv"
+2017/18,9,23,4,"Hapoel Haifa, B. Jerusalem, H. Beer Sheva, M. Tel Aviv"
+2017/18,10,23,5,"Hapoel Haifa, H. Beer Sheva, B. Jerusalem, M. Tel Aviv, Maccabi Netanya"
+2017/18,11,24,5,"Hapoel Haifa, H. Beer Sheva, B. Jerusalem, M. Tel Aviv, Maccabi Netanya"
+2017/18,12,27,4,"Hapoel Haifa, H. Beer Sheva, B. Jerusalem, M. Tel Aviv"
+2017/18,13,30,3,"H. Beer Sheva, Hapoel Haifa, B. Jerusalem"
+2017/18,15,33,4,"H. Beer Sheva, Hapoel Haifa, B. Jerusalem, M. Tel Aviv"
+2017/18,16,36,4,"H. Beer Sheva, Hapoel Haifa, B. Jerusalem, M. Tel Aviv"
+2017/18,18,38,4,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem, Hapoel Haifa"
+2017/18,19,41,4,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem, Hapoel Haifa"
+2017/18,20,44,4,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem, Hapoel Haifa"
+2017/18,21,45,4,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem, Hapoel Haifa"
+2017/18,22,48,4,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem, Hapoel Haifa"
+2017/18,23,50,4,"H. Beer Sheva, B. Jerusalem, M. Tel Aviv, Hapoel Haifa"
+2017/18,24,51,4,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem, Hapoel Haifa"
+2017/18,25,54,4,"H. Beer Sheva, B. Jerusalem, M. Tel Aviv, Hapoel Haifa"
+2017/18,26,57,4,"H. Beer Sheva, B. Jerusalem, M. Tel Aviv, Hapoel Haifa"
+2018/19,7,17,2,"M. Tel Aviv, Hapoel Hadera"
+2018/19,8,20,2,"M. Tel Aviv, Hapoel Hadera"
+2018/19,9,23,2,"M. Tel Aviv, Hapoel Hadera"
+2018/19,10,26,1,M. Tel Aviv
+2018/19,11,27,1,M. Tel Aviv
+2018/19,12,30,1,M. Tel Aviv
+2018/19,13,33,1,M. Tel Aviv
+2018/19,14,36,1,M. Tel Aviv
+2018/19,15,39,1,M. Tel Aviv
+2018/19,16,42,1,M. Tel Aviv
+2018/19,17,45,1,M. Tel Aviv
+2018/19,18,46,1,M. Tel Aviv
+2018/19,19,49,1,M. Tel Aviv
+2018/19,20,52,1,M. Tel Aviv
+2018/19,21,53,1,M. Tel Aviv
+2018/19,22,54,1,M. Tel Aviv
+2018/19,23,57,1,M. Tel Aviv
+2018/19,24,60,1,M. Tel Aviv
+2018/19,25,63,1,M. Tel Aviv
+2018/19,26,66,1,M. Tel Aviv
+2019/20,7,17,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, Hapoel Hadera"
+2019/20,8,20,3,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva"
+2019/20,9,23,3,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva"
+2019/20,10,26,3,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva"
+2019/20,11,29,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,12,32,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,13,33,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,14,34,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,15,37,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,16,40,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,17,43,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,18,44,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,19,47,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,20,50,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,21,51,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,22,54,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,23,55,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,24,58,2,"M. Tel Aviv, Maccabi Haifa"
+2019/20,26,64,2,"M. Tel Aviv, Maccabi Haifa"
+2020/21,7,14,10,"Kiryat Shmona, Maccabi Haifa, M. Petah Tikva, FC Ashdod, Maccabi Netanya, B. Jerusalem, M. Tel Aviv, Bnei Yehuda, Hapoel Haifa, H. Kfar Saba"
+2020/21,8,16,10,"Maccabi Haifa, M. Petah Tikva, Kiryat Shmona, M. Tel Aviv, Bnei Yehuda, Maccabi Netanya, FC Ashdod, B. Jerusalem, Hapoel Haifa, H. Kfar Saba"
+2020/21,9,19,7,"Maccabi Haifa, M. Petah Tikva, FC Ashdod, Kiryat Shmona, Maccabi Netanya, M. Tel Aviv, Bnei Yehuda"
+2020/21,10,22,5,"Maccabi Haifa, M. Petah Tikva, FC Ashdod, Maccabi Netanya, M. Tel Aviv"
+2020/21,11,25,3,"Maccabi Haifa, FC Ashdod, M. Petah Tikva"
+2020/21,12,28,2,"Maccabi Haifa, M. Petah Tikva"
+2020/21,13,31,1,Maccabi Haifa
+2020/21,14,34,1,Maccabi Haifa
+2020/21,15,35,1,Maccabi Haifa
+2020/21,16,38,1,Maccabi Haifa
+2020/21,17,38,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,18,41,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,19,41,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,20,44,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,21,47,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,22,50,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,23,53,2,"Maccabi Haifa, M. Tel Aviv"
+2020/21,24,54,2,"M. Tel Aviv, Maccabi Haifa"
+2020/21,25,57,2,"M. Tel Aviv, Maccabi Haifa"
+2020/21,26,59,2,"Maccabi Haifa, M. Tel Aviv"
+2021/22,7,17,5,"H. Beer Sheva, Hapoel Tel Aviv, Maccabi Haifa, Hapoel Haifa, Hapoel Hadera"
+2021/22,8,18,5,"H. Beer Sheva, Hapoel Haifa, Maccabi Haifa, Hapoel Tel Aviv, Hapoel Hadera"
+2021/22,9,19,5,"H. Beer Sheva, Maccabi Haifa, Hapoel Haifa, Hapoel Tel Aviv, Hapoel Hadera"
+2021/22,11,25,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,12,28,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,13,31,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,14,34,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,15,37,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,16,40,2,"H. Beer Sheva, Maccabi Haifa"
+2021/22,17,41,2,"Maccabi Haifa, H. Beer Sheva"
+2021/22,18,44,2,"Maccabi Haifa, H. Beer Sheva"
+2021/22,21,49,2,"Maccabi Haifa, H. Beer Sheva"
+2021/22,22,49,2,"Maccabi Haifa, H. Beer Sheva"
+2021/22,24,55,2,"Maccabi Haifa, H. Beer Sheva"
+2021/22,25,56,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2021/22,26,59,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2022/23,7,16,7,"M. Tel Aviv, Maccabi Haifa, H. Jerusalem, H. Beer Sheva, Bnei Sakhnin, FC Ashdod, Hapoel Hadera"
+2022/23,8,19,6,"M. Tel Aviv, Maccabi Haifa, H. Jerusalem, H. Beer Sheva, FC Ashdod, Bnei Sakhnin"
+2022/23,9,22,4,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva, H. Jerusalem"
+2022/23,10,24,4,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva, H. Jerusalem"
+2022/23,11,27,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,12,30,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,13,33,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,14,36,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,15,39,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,16,42,2,"Maccabi Haifa, M. Tel Aviv"
+2022/23,18,48,1,Maccabi Haifa
+2022/23,19,48,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2022/23,20,49,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2022/23,21,50,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2022/23,22,53,2,"Maccabi Haifa, H. Beer Sheva"
+2022/23,23,53,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2022/23,24,56,3,"Maccabi Haifa, H. Beer Sheva, M. Tel Aviv"
+2022/23,25,59,2,"Maccabi Haifa, H. Beer Sheva"
+2022/23,26,62,2,"Maccabi Haifa, H. Beer Sheva"
+2023/24,7,16,5,"M. Tel Aviv, Maccabi Haifa, Hapoel Haifa, M. Bnei Reineh, M. Petah Tikva"
+2023/24,8,19,4,"M. Tel Aviv, Hapoel Haifa, M. Bnei Reineh, Maccabi Haifa"
+2023/24,9,22,4,"M. Tel Aviv, Maccabi Haifa, Hapoel Haifa, M. Bnei Reineh"
+2023/24,10,25,3,"M. Tel Aviv, Maccabi Haifa, M. Bnei Reineh"
+2023/24,11,28,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,12,31,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,13,34,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,14,37,1,M. Tel Aviv
+2023/24,15,38,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,16,39,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,17,42,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,18,43,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,19,46,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,20,46,3,"M. Tel Aviv, Maccabi Haifa, Hapoel Haifa"
+2023/24,21,47,3,"Maccabi Haifa, M. Tel Aviv, H. Beer Sheva"
+2023/24,22,50,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,23,53,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,24,56,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,25,59,2,"M. Tel Aviv, Maccabi Haifa"
+2023/24,26,62,1,M. Tel Aviv
+2024/25,7,19,3,"M. Tel Aviv, H. Beer Sheva, M. Bnei Reineh"
+2024/25,8,19,6,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva, B. Jerusalem, Hapoel Haifa, M. Bnei Reineh"
+2024/25,9,19,7,"M. Tel Aviv, Maccabi Haifa, H. Beer Sheva, B. Jerusalem, M. Bnei Reineh, Hapoel Haifa, Bnei Sakhnin"
+2024/25,10,22,5,"M. Tel Aviv, H. Beer Sheva, B. Jerusalem, Maccabi Haifa, M. Bnei Reineh"
+2024/25,11,25,4,"M. Tel Aviv, H. Beer Sheva, Maccabi Haifa, B. Jerusalem"
+2024/25,12,27,4,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem, Maccabi Haifa"
+2024/25,13,30,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, B. Jerusalem"
+2024/25,14,33,3,"H. Beer Sheva, M. Tel Aviv, B. Jerusalem"
+2024/25,15,34,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, B. Jerusalem"
+2024/25,16,35,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, B. Jerusalem"
+2024/25,17,38,4,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa, B. Jerusalem"
+2024/25,18,41,3,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa"
+2024/25,19,44,3,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa"
+2024/25,20,47,2,"H. Beer Sheva, M. Tel Aviv"
+2024/25,21,47,3,"H. Beer Sheva, M. Tel Aviv, Maccabi Haifa"
+2024/25,22,50,2,"H. Beer Sheva, M. Tel Aviv"
+2024/25,23,53,2,"H. Beer Sheva, M. Tel Aviv"
+2024/25,24,56,2,"H. Beer Sheva, M. Tel Aviv"
+2024/25,25,57,2,"H. Beer Sheva, M. Tel Aviv"
+2024/25,26,58,2,"H. Beer Sheva, M. Tel Aviv"
