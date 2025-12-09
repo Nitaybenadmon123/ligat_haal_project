@@ -1,31 +1,29 @@
 season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2024/25,2024,36,relegation,H. Beer Sheva,Hapoel Haifa,5,0,5,H,3,0
-2024/25,2024,36,relegation,Maccabi Tel Aviv,Beitar Jerusalem,5,0,5,H,3,0
-2024/25,2024,36,relegation,Netanya,Maccabi Haifa,2,3,-1,A,0,3
-2024/25,2024,35,relegation,Beitar Jerusalem,H. Beer Sheva,1,1,0,D,1,1
-2024/25,2024,35,relegation,Maccabi Haifa,Maccabi Tel Aviv,0,3,-3,A,0,3
-2024/25,2024,35,relegation,Hapoel Haifa,Netanya,1,1,0,D,1,1
-2024/25,2024,34,relegation,H. Beer Sheva,Maccabi Haifa,4,1,3,H,3,0
-2024/25,2024,34,relegation,Netanya,Maccabi Tel Aviv,1,6,-5,A,0,3
-2024/25,2024,34,relegation,Hapoel Haifa,Beitar Jerusalem,1,0,1,H,3,0
-2024/25,2024,33,relegation,Maccabi Tel Aviv,H. Beer Sheva,1,1,0,D,1,1
-2024/25,2024,33,relegation,Beitar Jerusalem,Netanya,0,3,-3,A,0,3
-2024/25,2024,33,relegation,Maccabi Haifa,Hapoel Haifa,1,5,-4,A,0,3
-2024/25,2024,32,relegation,Beitar Jerusalem,Maccabi Haifa,1,2,-1,A,0,3
-2024/25,2024,32,relegation,Netanya,H. Beer Sheva,2,1,1,H,3,0
-2024/25,2024,32,relegation,Hapoel Haifa,Maccabi Tel Aviv,1,3,-2,A,0,3
-2024/25,2024,31,relegation,Beitar Jerusalem,Maccabi Tel Aviv,3,1,2,H,3,0
-2024/25,2024,31,relegation,Maccabi Haifa,Netanya,1,0,1,H,3,0
-2024/25,2024,31,relegation,Hapoel Haifa,H. Beer Sheva,1,2,-1,A,0,3
-2024/25,2024,30,relegation,H. Beer Sheva,Beitar Jerusalem,3,1,2,H,3,0
-2024/25,2024,30,relegation,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
-2024/25,2024,30,relegation,Netanya,Hapoel Haifa,2,2,0,D,1,1
-2024/25,2024,29,relegation,Maccabi Haifa,H. Beer Sheva,0,3,-3,A,0,3
-2024/25,2024,29,relegation,Beitar Jerusalem,Hapoel Haifa,0,1,-1,A,0,3
-2024/25,2024,29,relegation,Maccabi Tel Aviv,Netanya,4,1,3,H,3,0
-2024/25,2024,28,relegation,H. Beer Sheva,Maccabi Tel Aviv,1,3,-2,A,0,3
-2024/25,2024,28,relegation,Netanya,Beitar Jerusalem,0,1,-1,A,0,3
-2024/25,2024,28,relegation,Hapoel Haifa,Maccabi Haifa,0,2,-2,A,0,3
-2024/25,2024,27,relegation,Maccabi Haifa,Beitar Jerusalem,3,3,0,D,1,1
-2024/25,2024,27,relegation,H. Beer Sheva,Netanya,2,0,2,H,3,0
-2024/25,2024,27,relegation,Maccabi Tel Aviv,Hapoel Haifa,3,0,3,H,3,0
+2024/25,2024,33,relegation,Hapoel Hadera,Hapoel Jerusalem,2,4,-2,A,0,3
+2024/25,2024,33,relegation,Ironi Tiberias,Maccabi Petah Tikva,0,0,0,D,1,1
+2024/25,2024,33,relegation,Sakhnin,Maccabi Bnei Raina,0,1,-1,A,0,3
+2024/25,2024,33,relegation,SC Ashdod,Ironi Kiryat Shmona,4,2,2,H,3,0
+2024/25,2024,32,relegation,Hapoel Jerusalem,Ironi Tiberias,3,1,2,H,3,0
+2024/25,2024,32,relegation,Maccabi Bnei Raina,Hapoel Hadera,1,2,-1,A,0,3
+2024/25,2024,32,relegation,Maccabi Petah Tikva,SC Ashdod,1,1,0,D,1,1
+2024/25,2024,32,relegation,Ironi Kiryat Shmona,Sakhnin,0,1,-1,A,0,3
+2024/25,2024,31,relegation,Hapoel Hadera,Ironi Kiryat Shmona,1,0,1,H,3,0
+2024/25,2024,31,relegation,Hapoel Jerusalem,Maccabi Petah Tikva,0,0,0,D,1,1
+2024/25,2024,31,relegation,Ironi Tiberias,Maccabi Bnei Raina,2,1,1,H,3,0
+2024/25,2024,31,relegation,Sakhnin,SC Ashdod,0,0,0,D,1,1
+2024/25,2024,30,relegation,Maccabi Bnei Raina,Hapoel Jerusalem,2,1,1,H,3,0
+2024/25,2024,30,relegation,Maccabi Petah Tikva,Sakhnin,1,2,-1,A,0,3
+2024/25,2024,30,relegation,SC Ashdod,Hapoel Hadera,4,1,3,H,3,0
+2024/25,2024,30,relegation,Ironi Kiryat Shmona,Ironi Tiberias,0,2,-2,A,0,3
+2024/25,2024,29,relegation,Hapoel Hadera,Sakhnin,0,1,-1,A,0,3
+2024/25,2024,29,relegation,Ironi Tiberias,SC Ashdod,1,2,-1,A,0,3
+2024/25,2024,29,relegation,Hapoel Jerusalem,Ironi Kiryat Shmona,2,0,2,H,3,0
+2024/25,2024,29,relegation,Maccabi Bnei Raina,Maccabi Petah Tikva,0,2,-2,A,0,3
+2024/25,2024,28,relegation,Maccabi Petah Tikva,Hapoel Hadera,4,1,3,H,3,0
+2024/25,2024,28,relegation,Sakhnin,Ironi Tiberias,2,1,1,H,3,0
+2024/25,2024,28,relegation,SC Ashdod,Hapoel Jerusalem,1,1,0,D,1,1
+2024/25,2024,28,relegation,Ironi Kiryat Shmona,Maccabi Bnei Raina,0,3,-3,A,0,3
+2024/25,2024,27,relegation,Maccabi Bnei Raina,SC Ashdod,1,1,0,D,1,1
+2024/25,2024,27,relegation,Hapoel Jerusalem,Sakhnin,4,1,3,H,3,0
+2024/25,2024,27,relegation,Ironi Tiberias,Hapoel Hadera,1,1,0,D,1,1
+2024/25,2024,27,relegation,Ironi Kiryat Shmona,Maccabi Petah Tikva,2,1,1,H,3,0

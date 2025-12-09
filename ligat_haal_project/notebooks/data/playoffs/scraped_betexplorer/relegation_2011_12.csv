@@ -1,29 +1,29 @@
 season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2011/12,2011,37,relegation,Maccabi Haifa,Hapoel Tel Aviv,1,1,0,D,1,1
-2011/12,2011,37,relegation,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,2,1,H,3,0
-2011/12,2011,37,relegation,Netanya,Sakhnin,3,2,1,H,3,0
-2011/12,2011,37,relegation,SC Ashdod,Bnei Yehuda,2,1,1,H,3,0
-2011/12,2011,36,relegation,Ironi Kiryat Shmona,Maccabi Haifa,0,1,-1,A,0,3
-2011/12,2011,36,relegation,Bnei Yehuda,Maccabi Tel Aviv,4,3,1,H,3,0
-2011/12,2011,36,relegation,Hapoel Tel Aviv,Netanya,1,3,-2,A,0,3
-2011/12,2011,36,relegation,Sakhnin,SC Ashdod,1,2,-1,A,0,3
-2011/12,2011,35,relegation,Maccabi Haifa,Maccabi Tel Aviv,2,1,1,H,3,0
-2011/12,2011,35,relegation,Netanya,Ironi Kiryat Shmona,1,3,-2,A,0,3
-2011/12,2011,35,relegation,Sakhnin,Bnei Yehuda,0,3,-3,A,0,3
-2011/12,2011,35,relegation,SC Ashdod,Hapoel Tel Aviv,0,2,-2,A,0,3
-2011/12,2011,34,relegation,Maccabi Tel Aviv,Netanya,1,0,1,H,3,0
-2011/12,2011,34,relegation,Hapoel Tel Aviv,Sakhnin,3,1,2,H,3,0
-2011/12,2011,34,relegation,Ironi Kiryat Shmona,SC Ashdod,1,0,1,H,3,0
-2011/12,2011,34,relegation,Bnei Yehuda,Maccabi Haifa,2,1,1,H,3,0
-2011/12,2011,33,relegation,Hapoel Tel Aviv,Bnei Yehuda,3,3,0,D,1,1
-2011/12,2011,33,relegation,Netanya,Maccabi Haifa,1,0,1,H,3,0
-2011/12,2011,33,relegation,Sakhnin,Ironi Kiryat Shmona,5,0,5,H,3,0
-2011/12,2011,33,relegation,SC Ashdod,Maccabi Tel Aviv,1,1,0,D,1,1
-2011/12,2011,32,relegation,Maccabi Haifa,SC Ashdod,3,0,3,H,3,0
-2011/12,2011,32,relegation,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,0,0,D,1,1
-2011/12,2011,32,relegation,Maccabi Tel Aviv,Sakhnin,5,2,3,H,3,0
-2011/12,2011,32,relegation,Bnei Yehuda,Netanya,1,0,1,H,3,0
-2011/12,2011,31,relegation,Ironi Kiryat Shmona,Bnei Yehuda,0,1,-1,A,0,3
-2011/12,2011,31,relegation,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,0,D,1,1
-2011/12,2011,31,relegation,Sakhnin,Maccabi Haifa,0,2,-2,A,0,3
-2011/12,2011,31,relegation,SC Ashdod,Netanya,0,2,-2,A,0,3
+2011/12,2011,37,relegation,Hapoel Haifa,Hapoel Petah Tikva,2,1,1,H,3,0
+2011/12,2011,37,relegation,H. Beer Sheva,Beitar Jerusalem,3,1,2,H,3,0
+2011/12,2011,37,relegation,H. Ironi Rishon,H. Akko,1,2,-1,A,0,3
+2011/12,2011,37,relegation,Maccabi Petah Tikva,Ironi Ramat HaSharon,0,0,0,D,1,1
+2011/12,2011,36,relegation,Beitar Jerusalem,Hapoel Haifa,0,0,0,D,1,1
+2011/12,2011,36,relegation,H. Akko,Maccabi Petah Tikva,1,2,-1,A,0,3
+2011/12,2011,36,relegation,Hapoel Petah Tikva,H. Ironi Rishon,2,0,2,H,3,0
+2011/12,2011,36,relegation,Ironi Ramat HaSharon,H. Beer Sheva,0,0,0,D,1,1
+2011/12,2011,35,relegation,Beitar Jerusalem,Hapoel Petah Tikva,2,0,2,H,3,0
+2011/12,2011,35,relegation,Hapoel Haifa,Ironi Ramat HaSharon,1,1,0,D,1,1
+2011/12,2011,35,relegation,H. Beer Sheva,H. Akko,1,3,-2,A,0,3
+2011/12,2011,35,relegation,Maccabi Petah Tikva,H. Ironi Rishon,2,1,1,H,3,0
+2011/12,2011,34,relegation,Ironi Ramat HaSharon,Beitar Jerusalem,0,1,-1,A,0,3
+2011/12,2011,34,relegation,H. Akko,Hapoel Haifa,0,0,0,D,1,1
+2011/12,2011,34,relegation,Hapoel Petah Tikva,Maccabi Petah Tikva,0,1,-1,A,0,3
+2011/12,2011,34,relegation,H. Ironi Rishon,H. Beer Sheva,0,1,-1,A,0,3
+2011/12,2011,33,relegation,H. Beer Sheva,Maccabi Petah Tikva,1,0,1,H,3,0
+2011/12,2011,33,relegation,Beitar Jerusalem,H. Akko,1,0,1,H,3,0
+2011/12,2011,33,relegation,Hapoel Haifa,H. Ironi Rishon,2,0,2,H,3,0
+2011/12,2011,33,relegation,Ironi Ramat HaSharon,Hapoel Petah Tikva,2,1,1,H,3,0
+2011/12,2011,32,relegation,H. Akko,Ironi Ramat HaSharon,2,0,2,H,3,0
+2011/12,2011,32,relegation,Hapoel Petah Tikva,H. Beer Sheva,1,1,0,D,1,1
+2011/12,2011,32,relegation,H. Ironi Rishon,Beitar Jerusalem,1,2,-1,A,0,3
+2011/12,2011,32,relegation,Maccabi Petah Tikva,Hapoel Haifa,2,1,1,H,3,0
+2011/12,2011,31,relegation,Beitar Jerusalem,Maccabi Petah Tikva,3,1,2,H,3,0
+2011/12,2011,31,relegation,H. Akko,Hapoel Petah Tikva,2,3,-1,A,0,3
+2011/12,2011,31,relegation,Hapoel Haifa,H. Beer Sheva,2,1,1,H,3,0
+2011/12,2011,31,relegation,Ironi Ramat HaSharon,H. Ironi Rishon,5,2,3,H,3,0

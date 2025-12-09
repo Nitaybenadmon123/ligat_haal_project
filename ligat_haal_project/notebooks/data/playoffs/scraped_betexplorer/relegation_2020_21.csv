@@ -1,31 +1,29 @@
 season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2020/21,2020,36,relegation,Maccabi Haifa,H. Beer Sheva,3,2,1,H,3,0
-2020/21,2020,36,relegation,Maccabi Petah Tikva,SC Ashdod,1,3,-2,A,0,3
-2020/21,2020,36,relegation,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,2,0,D,1,1
-2020/21,2020,35,relegation,H. Beer Sheva,Maccabi Petah Tikva,2,0,2,H,3,0
-2020/21,2020,35,relegation,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
-2020/21,2020,35,relegation,Ironi Kiryat Shmona,Maccabi Haifa,1,1,0,D,1,1
-2020/21,2020,34,relegation,H. Beer Sheva,Ironi Kiryat Shmona,3,2,1,H,3,0
-2020/21,2020,34,relegation,Maccabi Haifa,SC Ashdod,2,0,2,H,3,0
-2020/21,2020,34,relegation,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,-3,A,0,3
-2020/21,2020,33,relegation,SC Ashdod,H. Beer Sheva,2,2,0,D,1,1
-2020/21,2020,33,relegation,Maccabi Tel Aviv,Maccabi Haifa,2,2,0,D,1,1
-2020/21,2020,33,relegation,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,2,-1,A,0,3
-2020/21,2020,32,relegation,H. Beer Sheva,Maccabi Tel Aviv,1,1,0,D,1,1
-2020/21,2020,32,relegation,Maccabi Petah Tikva,Maccabi Haifa,1,2,-1,A,0,3
-2020/21,2020,32,relegation,Ironi Kiryat Shmona,SC Ashdod,1,1,0,D,1,1
-2020/21,2020,31,relegation,H. Beer Sheva,Maccabi Haifa,1,1,0,D,1,1
-2020/21,2020,31,relegation,SC Ashdod,Maccabi Petah Tikva,0,0,0,D,1,1
-2020/21,2020,31,relegation,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,0,2,H,3,0
-2020/21,2020,30,relegation,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
-2020/21,2020,30,relegation,Maccabi Haifa,Ironi Kiryat Shmona,4,0,4,H,3,0
-2020/21,2020,30,relegation,Maccabi Petah Tikva,H. Beer Sheva,0,0,0,D,1,1
-2020/21,2020,29,relegation,SC Ashdod,Maccabi Haifa,0,3,-3,A,0,3
-2020/21,2020,29,relegation,Maccabi Tel Aviv,Maccabi Petah Tikva,3,1,2,H,3,0
-2020/21,2020,29,relegation,Ironi Kiryat Shmona,H. Beer Sheva,1,1,0,D,1,1
-2020/21,2020,28,relegation,H. Beer Sheva,SC Ashdod,1,2,-1,A,0,3
-2020/21,2020,28,relegation,Maccabi Haifa,Maccabi Tel Aviv,1,1,0,D,1,1
-2020/21,2020,28,relegation,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
-2020/21,2020,27,relegation,Maccabi Haifa,Maccabi Petah Tikva,1,1,0,D,1,1
-2020/21,2020,27,relegation,Maccabi Tel Aviv,H. Beer Sheva,2,1,1,H,3,0
-2020/21,2020,27,relegation,SC Ashdod,Ironi Kiryat Shmona,1,1,0,D,1,1
+2020/21,2020,33,relegation,Sakhnin,Hapoel Tel Aviv,2,3,-1,A,0,3
+2020/21,2020,33,relegation,Hapoel Kfar Saba,Bnei Yehuda,1,2,-1,A,0,3
+2020/21,2020,33,relegation,Netanya,Hapoel Haifa,2,0,2,H,3,0
+2020/21,2020,33,relegation,Beitar Jerusalem,Hapoel Hadera,0,3,-3,A,0,3
+2020/21,2020,32,relegation,Hapoel Hadera,Netanya,2,2,0,D,1,1
+2020/21,2020,32,relegation,Beitar Jerusalem,Sakhnin,3,1,2,H,3,0
+2020/21,2020,32,relegation,Hapoel Haifa,Hapoel Kfar Saba,3,2,1,H,3,0
+2020/21,2020,32,relegation,Bnei Yehuda,Hapoel Tel Aviv,1,0,1,H,3,0
+2020/21,2020,31,relegation,Hapoel Haifa,Beitar Jerusalem,3,1,2,H,3,0
+2020/21,2020,31,relegation,Hapoel Tel Aviv,Hapoel Kfar Saba,2,2,0,D,1,1
+2020/21,2020,31,relegation,Hapoel Hadera,Sakhnin,1,0,1,H,3,0
+2020/21,2020,31,relegation,Bnei Yehuda,Netanya,1,2,-1,A,0,3
+2020/21,2020,30,relegation,Bnei Yehuda,Hapoel Hadera,2,3,-1,A,0,3
+2020/21,2020,30,relegation,Hapoel Haifa,Sakhnin,1,0,1,H,3,0
+2020/21,2020,30,relegation,Hapoel Kfar Saba,Netanya,0,1,-1,A,0,3
+2020/21,2020,30,relegation,Hapoel Tel Aviv,Beitar Jerusalem,0,0,0,D,1,1
+2020/21,2020,29,relegation,Beitar Jerusalem,Bnei Yehuda,2,2,0,D,1,1
+2020/21,2020,29,relegation,Hapoel Hadera,Hapoel Haifa,3,0,3,H,3,0
+2020/21,2020,29,relegation,Netanya,Hapoel Tel Aviv,0,1,-1,A,0,3
+2020/21,2020,29,relegation,Sakhnin,Hapoel Kfar Saba,3,0,3,H,3,0
+2020/21,2020,28,relegation,Hapoel Kfar Saba,Hapoel Hadera,1,2,-1,A,0,3
+2020/21,2020,28,relegation,Hapoel Tel Aviv,Hapoel Haifa,0,2,-2,A,0,3
+2020/21,2020,28,relegation,Netanya,Beitar Jerusalem,1,0,1,H,3,0
+2020/21,2020,28,relegation,Sakhnin,Bnei Yehuda,1,1,0,D,1,1
+2020/21,2020,27,relegation,Beitar Jerusalem,Hapoel Kfar Saba,3,1,2,H,3,0
+2020/21,2020,27,relegation,Hapoel Haifa,Bnei Yehuda,1,3,-2,A,0,3
+2020/21,2020,27,relegation,Netanya,Sakhnin,0,0,0,D,1,1
+2020/21,2020,27,relegation,Hapoel Hadera,Hapoel Tel Aviv,0,1,-1,A,0,3

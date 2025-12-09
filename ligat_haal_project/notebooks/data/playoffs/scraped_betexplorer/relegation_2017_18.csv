@@ -1,31 +1,29 @@
 season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2017/18,2017,36,relegation,Beitar Jerusalem,Hapoel Haifa,1,1,0,D,1,1
-2017/18,2017,36,relegation,H. Beer Sheva,Netanya,6,1,5,H,3,0
-2017/18,2017,36,relegation,Bnei Yehuda,Maccabi Tel Aviv,0,2,-2,A,0,3
-2017/18,2017,35,relegation,Netanya,Bnei Yehuda,0,5,-5,A,0,3
-2017/18,2017,35,relegation,Hapoel Haifa,H. Beer Sheva,1,4,-3,A,0,3
-2017/18,2017,35,relegation,Maccabi Tel Aviv,Beitar Jerusalem,3,1,2,H,3,0
-2017/18,2017,34,relegation,H. Beer Sheva,Maccabi Tel Aviv,0,1,-1,A,0,3
-2017/18,2017,34,relegation,Netanya,Hapoel Haifa,2,1,1,H,3,0
-2017/18,2017,34,relegation,Bnei Yehuda,Beitar Jerusalem,3,3,0,D,1,1
-2017/18,2017,33,relegation,Maccabi Tel Aviv,Netanya,2,0,2,H,3,0
-2017/18,2017,33,relegation,Beitar Jerusalem,H. Beer Sheva,1,4,-3,A,0,3
-2017/18,2017,33,relegation,Hapoel Haifa,Bnei Yehuda,2,1,1,H,3,0
-2017/18,2017,32,relegation,Netanya,Beitar Jerusalem,4,1,3,H,3,0
-2017/18,2017,32,relegation,Hapoel Haifa,Maccabi Tel Aviv,2,2,0,D,1,1
-2017/18,2017,32,relegation,Bnei Yehuda,H. Beer Sheva,1,1,0,D,1,1
-2017/18,2017,31,relegation,Hapoel Haifa,Beitar Jerusalem,0,1,-1,A,0,3
-2017/18,2017,31,relegation,Netanya,H. Beer Sheva,1,5,-4,A,0,3
-2017/18,2017,31,relegation,Maccabi Tel Aviv,Bnei Yehuda,2,0,2,H,3,0
-2017/18,2017,30,relegation,Beitar Jerusalem,Maccabi Tel Aviv,3,2,1,H,3,0
-2017/18,2017,30,relegation,H. Beer Sheva,Hapoel Haifa,2,2,0,D,1,1
-2017/18,2017,30,relegation,Bnei Yehuda,Netanya,1,3,-2,A,0,3
-2017/18,2017,29,relegation,Maccabi Tel Aviv,H. Beer Sheva,0,1,-1,A,0,3
-2017/18,2017,29,relegation,Beitar Jerusalem,Bnei Yehuda,1,1,0,D,1,1
-2017/18,2017,29,relegation,Hapoel Haifa,Netanya,1,1,0,D,1,1
-2017/18,2017,28,relegation,H. Beer Sheva,Beitar Jerusalem,3,1,2,H,3,0
-2017/18,2017,28,relegation,Bnei Yehuda,Hapoel Haifa,3,0,3,H,3,0
-2017/18,2017,28,relegation,Netanya,Maccabi Tel Aviv,4,1,3,H,3,0
-2017/18,2017,27,relegation,H. Beer Sheva,Bnei Yehuda,1,0,1,H,3,0
-2017/18,2017,27,relegation,Maccabi Tel Aviv,Hapoel Haifa,1,2,-1,A,0,3
-2017/18,2017,27,relegation,Beitar Jerusalem,Netanya,2,0,2,H,3,0
+2017/18,2017,33,relegation,Ashkelon,Maccabi Petah Tikva,0,2,-2,A,0,3
+2017/18,2017,33,relegation,H. Akko,Sakhnin,1,2,-1,A,0,3
+2017/18,2017,33,relegation,Maccabi Haifa,H. Raanana,2,0,2,H,3,0
+2017/18,2017,33,relegation,SC Ashdod,Ironi Kiryat Shmona,1,2,-1,A,0,3
+2017/18,2017,32,relegation,H. Raanana,Ashkelon,4,0,4,H,3,0
+2017/18,2017,32,relegation,Maccabi Petah Tikva,SC Ashdod,2,1,1,H,3,0
+2017/18,2017,32,relegation,Sakhnin,Maccabi Haifa,1,1,0,D,1,1
+2017/18,2017,32,relegation,Ironi Kiryat Shmona,H. Akko,4,0,4,H,3,0
+2017/18,2017,31,relegation,SC Ashdod,Ashkelon,1,0,1,H,3,0
+2017/18,2017,31,relegation,H. Akko,Maccabi Petah Tikva,2,1,1,H,3,0
+2017/18,2017,31,relegation,Maccabi Haifa,Ironi Kiryat Shmona,1,2,-1,A,0,3
+2017/18,2017,31,relegation,Sakhnin,H. Raanana,1,3,-2,A,0,3
+2017/18,2017,30,relegation,H. Raanana,SC Ashdod,1,0,1,H,3,0
+2017/18,2017,30,relegation,Ashkelon,H. Akko,0,2,-2,A,0,3
+2017/18,2017,30,relegation,Maccabi Petah Tikva,Maccabi Haifa,0,1,-1,A,0,3
+2017/18,2017,30,relegation,Ironi Kiryat Shmona,Sakhnin,2,0,2,H,3,0
+2017/18,2017,29,relegation,Sakhnin,Maccabi Petah Tikva,2,2,0,D,1,1
+2017/18,2017,29,relegation,H. Akko,SC Ashdod,1,1,0,D,1,1
+2017/18,2017,29,relegation,Maccabi Haifa,Ashkelon,2,1,1,H,3,0
+2017/18,2017,29,relegation,Ironi Kiryat Shmona,H. Raanana,0,1,-1,A,0,3
+2017/18,2017,28,relegation,Ashkelon,Sakhnin,2,0,2,H,3,0
+2017/18,2017,28,relegation,H. Raanana,H. Akko,1,1,0,D,1,1
+2017/18,2017,28,relegation,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,2,H,3,0
+2017/18,2017,28,relegation,SC Ashdod,Maccabi Haifa,2,1,1,H,3,0
+2017/18,2017,27,relegation,Maccabi Petah Tikva,H. Raanana,1,3,-2,A,0,3
+2017/18,2017,27,relegation,Maccabi Haifa,H. Akko,4,0,4,H,3,0
+2017/18,2017,27,relegation,Sakhnin,SC Ashdod,2,1,1,H,3,0
+2017/18,2017,27,relegation,Ironi Kiryat Shmona,Ashkelon,1,1,0,D,1,1

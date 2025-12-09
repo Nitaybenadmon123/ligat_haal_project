@@ -1,31 +1,29 @@
 season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
-2022/23,2022,36,relegation,H. Beer Sheva,Netanya,2,0,2,H,3,0
-2022/23,2022,36,relegation,Maccabi Haifa,Hapoel Jerusalem,5,0,5,H,3,0
-2022/23,2022,36,relegation,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
-2022/23,2022,35,relegation,Maccabi Tel Aviv,H. Beer Sheva,3,0,3,H,3,0
-2022/23,2022,35,relegation,Netanya,Maccabi Haifa,1,5,-4,A,0,3
-2022/23,2022,35,relegation,Hapoel Jerusalem,SC Ashdod,0,1,-1,A,0,3
-2022/23,2022,34,relegation,Maccabi Haifa,Maccabi Tel Aviv,3,1,2,H,3,0
-2022/23,2022,34,relegation,SC Ashdod,H. Beer Sheva,0,1,-1,A,0,3
-2022/23,2022,34,relegation,Hapoel Jerusalem,Netanya,1,4,-3,A,0,3
-2022/23,2022,33,relegation,H. Beer Sheva,Maccabi Haifa,2,1,1,H,3,0
-2022/23,2022,33,relegation,Maccabi Tel Aviv,Hapoel Jerusalem,2,1,1,H,3,0
-2022/23,2022,33,relegation,Netanya,SC Ashdod,2,0,2,H,3,0
-2022/23,2022,32,relegation,SC Ashdod,Maccabi Haifa,1,2,-1,A,0,3
-2022/23,2022,32,relegation,Hapoel Jerusalem,H. Beer Sheva,1,2,-1,A,0,3
-2022/23,2022,32,relegation,Netanya,Maccabi Tel Aviv,0,0,0,D,1,1
-2022/23,2022,31,relegation,Netanya,H. Beer Sheva,1,1,0,D,1,1
-2022/23,2022,31,relegation,Hapoel Jerusalem,Maccabi Haifa,2,1,1,H,3,0
-2022/23,2022,31,relegation,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
-2022/23,2022,30,relegation,H. Beer Sheva,Maccabi Tel Aviv,1,2,-1,A,0,3
-2022/23,2022,30,relegation,Maccabi Haifa,Netanya,4,1,3,H,3,0
-2022/23,2022,30,relegation,SC Ashdod,Hapoel Jerusalem,0,1,-1,A,0,3
-2022/23,2022,29,relegation,H. Beer Sheva,SC Ashdod,3,1,2,H,3,0
-2022/23,2022,29,relegation,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
-2022/23,2022,29,relegation,Netanya,Hapoel Jerusalem,0,2,-2,A,0,3
-2022/23,2022,28,relegation,Hapoel Jerusalem,Maccabi Tel Aviv,0,2,-2,A,0,3
-2022/23,2022,28,relegation,Maccabi Haifa,H. Beer Sheva,1,0,1,H,3,0
-2022/23,2022,28,relegation,SC Ashdod,Netanya,3,2,1,H,3,0
-2022/23,2022,27,relegation,H. Beer Sheva,Hapoel Jerusalem,1,0,1,H,3,0
-2022/23,2022,27,relegation,Maccabi Haifa,SC Ashdod,2,1,1,H,3,0
-2022/23,2022,27,relegation,Maccabi Tel Aviv,Netanya,2,0,2,H,3,0
+2022/23,2022,33,relegation,Hapoel Hadera,Hapoel Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,33,relegation,Maccabi Bnei Raina,Hapoel Haifa,0,4,-4,A,0,3
+2022/23,2022,33,relegation,Nes Tziona,Sakhnin,1,1,0,D,1,1
+2022/23,2022,33,relegation,Ironi Kiryat Shmona,Beitar Jerusalem,3,2,1,H,3,0
+2022/23,2022,32,relegation,Beitar Jerusalem,Maccabi Bnei Raina,0,1,-1,A,0,3
+2022/23,2022,32,relegation,Hapoel Haifa,Nes Tziona,0,1,-1,A,0,3
+2022/23,2022,32,relegation,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,2,0,D,1,1
+2022/23,2022,32,relegation,Sakhnin,Hapoel Hadera,2,3,-1,A,0,3
+2022/23,2022,31,relegation,Hapoel Hadera,Hapoel Haifa,1,2,-1,A,0,3
+2022/23,2022,31,relegation,Sakhnin,Hapoel Tel Aviv,0,1,-1,A,0,3
+2022/23,2022,31,relegation,Maccabi Bnei Raina,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2022/23,2022,31,relegation,Nes Tziona,Beitar Jerusalem,1,3,-2,A,0,3
+2022/23,2022,30,relegation,Beitar Jerusalem,Hapoel Hadera,2,1,1,H,3,0
+2022/23,2022,30,relegation,Hapoel Haifa,Sakhnin,2,2,0,D,1,1
+2022/23,2022,30,relegation,Hapoel Tel Aviv,Maccabi Bnei Raina,1,2,-1,A,0,3
+2022/23,2022,30,relegation,Ironi Kiryat Shmona,Nes Tziona,1,1,0,D,1,1
+2022/23,2022,29,relegation,Sakhnin,Beitar Jerusalem,4,3,1,H,3,0
+2022/23,2022,29,relegation,Hapoel Hadera,Ironi Kiryat Shmona,1,1,0,D,1,1
+2022/23,2022,29,relegation,Hapoel Haifa,Hapoel Tel Aviv,1,0,1,H,3,0
+2022/23,2022,29,relegation,Nes Tziona,Maccabi Bnei Raina,1,2,-1,A,0,3
+2022/23,2022,28,relegation,Beitar Jerusalem,Hapoel Haifa,2,0,2,H,3,0
+2022/23,2022,28,relegation,Maccabi Bnei Raina,Hapoel Hadera,1,1,0,D,1,1
+2022/23,2022,28,relegation,Ironi Kiryat Shmona,Sakhnin,2,2,0,D,1,1
+2022/23,2022,28,relegation,Hapoel Tel Aviv,Nes Tziona,2,1,1,H,3,0
+2022/23,2022,27,relegation,Hapoel Haifa,Ironi Kiryat Shmona,1,1,0,D,1,1
+2022/23,2022,27,relegation,Sakhnin,Maccabi Bnei Raina,2,2,0,D,1,1
+2022/23,2022,27,relegation,Beitar Jerusalem,Hapoel Tel Aviv,2,1,1,H,3,0
+2022/23,2022,27,relegation,Hapoel Hadera,Nes Tziona,1,2,-1,A,0,3

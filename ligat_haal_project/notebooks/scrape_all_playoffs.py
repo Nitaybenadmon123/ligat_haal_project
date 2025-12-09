@@ -38,6 +38,73 @@ def normalize_team_name(name):
     name = name.strip()
     return TEAM_NAME_MAP.get(name, name)
 
+def find_playoff_stages(driver, base_url):
+    """
+    מוצא את ה-stage IDs של הפלייאופים בעמוד
+    
+    Returns:
+        dict: {'championship': stage_id, 'relegation': stage_id}
+    """
+    stages = {}
+    
+    try:
+        # גש לדף הראשי של העונה
+        driver.get(base_url)
+        time.sleep(2)
+        
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        
+        # חפש את הלינקים לפלייאופים בתפריט
+        # בדף העונה יש לחצנים/לינקים לקבוצות השונות
+        links = soup.find_all('a', href=True)
+        
+        for link in links:
+            href = link.get('href', '')
+            text = link.text.strip().lower()
+            
+            # זיהוי פלייאוף עליון
+            if 'championship' in text or 'top' in text or 'עליון' in text:
+                if 'stage=' in href:
+                    stage_match = re.search(r'stage=([^&]+)', href)
+                    if stage_match:
+                        stages['championship'] = stage_match.group(1)
+                        print(f"   ✓ נמצא פלייאוף עליון: stage={stages['championship']}")
+            
+            # זיהוי פלייאוף תחתון
+            elif 'relegation' in text or 'bottom' in text or 'תחתון' in text:
+                if 'stage=' in href:
+                    stage_match = re.search(r'stage=([^&]+)', href)
+                    if stage_match:
+                        stages['relegation'] = stage_match.group(1)
+                        print(f"   ✓ נמצא פלייאוף תחתון: stage={stages['relegation']}")
+        
+        # אם לא נמצא דרך הלינקים, נסה למצוא בדרך אחרת
+        # לפעמים זה בתפריט dropdown
+        if not stages:
+            select_elements = soup.find_all('select')
+            for select in select_elements:
+                options = select.find_all('option')
+                for option in options:
+                    value = option.get('value', '')
+                    text = option.text.strip().lower()
+                    
+                    if 'championship' in text or 'top' in text:
+                        if 'stage=' in value:
+                            stage_match = re.search(r'stage=([^&]+)', value)
+                            if stage_match:
+                                stages['championship'] = stage_match.group(1)
+                    
+                    elif 'relegation' in text or 'bottom' in text:
+                        if 'stage=' in value:
+                            stage_match = re.search(r'stage=([^&]+)', value)
+                            if stage_match:
+                                stages['relegation'] = stage_match.group(1)
+    
+    except Exception as e:
+        print(f"   ⚠️ שגיאה בחיפוש stage IDs: {e}")
+    
+    return stages
+
 def scrape_season_playoffs(season_year, season_format="2012-2013"):
     """
     חילוץ נתוני פלייאוף לעונה ספציפית
@@ -49,7 +116,8 @@ def scrape_season_playoffs(season_year, season_format="2012-2013"):
     Returns:
         dict with 'championship' and 'relegation' DataFrames
     """
-    url = f"https://www.betexplorer.com/football/israel/ligat-ha-al-{season_format}/results/"
+    base_url = f"https://www.betexplorer.com/football/israel/ligat-ha-al-{season_format}/"
+    results_url = base_url + "results/"
     
     print(f"\n{'='*70}")
     print(f"מחלץ עונה {season_format}")
@@ -69,27 +137,37 @@ def scrape_season_playoffs(season_year, season_format="2012-2013"):
     try:
         driver = webdriver.Chrome(options=chrome_options)
         
-        # חילוץ פלייאוף עליון (Championship)
-        print("\n📊 מחלץ פלייאוף עליון...")
-        champ_url = url + "?stage=fkMHNw24"
-        driver.get(champ_url)
-        time.sleep(3)
+        # מצא את ה-stage IDs של הפלייאופים
+        print("\n🔍 מחפש stage IDs...")
+        stages = find_playoff_stages(driver, base_url)
         
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        championship_matches = extract_matches_from_page(soup, season_year, 'championship')
-        results['championship'] = championship_matches
-        print(f"   נמצאו {len(championship_matches)} משחקים בפלייאוף עליון")
+        if not stages.get('championship') and not stages.get('relegation'):
+            print("   ⚠️ לא נמצאו stage IDs, ננסה עם ברירת מחדל...")
+            stages = {'championship': 'fkMHNw24', 'relegation': 'ndqjLGnm'}
+        
+        # חילוץ פלייאוף עליון (Championship)
+        if stages.get('championship'):
+            print(f"\n📊 מחלץ פלייאוף עליון (stage={stages['championship']})...")
+            champ_url = results_url + f"?stage={stages['championship']}"
+            driver.get(champ_url)
+            time.sleep(3)
+            
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+            championship_matches = extract_matches_from_page(soup, season_year, 'championship')
+            results['championship'] = championship_matches
+            print(f"   נמצאו {len(championship_matches)} משחקים בפלייאוף עליון")
         
         # חילוץ פלייאוף תחתון (Relegation)
-        print("\n📊 מחלץ פלייאוף תחתון...")
-        rel_url = url + "?stage=ndqjLGnm"
-        driver.get(rel_url)
-        time.sleep(3)
-        
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
-        relegation_matches = extract_matches_from_page(soup, season_year, 'relegation')
-        results['relegation'] = relegation_matches
-        print(f"   נמצאו {len(relegation_matches)} משחקים בפלייאוף תחתון")
+        if stages.get('relegation'):
+            print(f"\n📊 מחלץ פלייאוף תחתון (stage={stages['relegation']})...")
+            rel_url = results_url + f"?stage={stages['relegation']}"
+            driver.get(rel_url)
+            time.sleep(3)
+            
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+            relegation_matches = extract_matches_from_page(soup, season_year, 'relegation')
+            results['relegation'] = relegation_matches
+            print(f"   נמצאו {len(relegation_matches)} משחקים בפלייאוף תחתון")
         
     except Exception as e:
         print(f"❌ שגיאה בעונה {season_format}: {e}")
