@@ -1,0 +1,20 @@
+﻿season,rounds,avg_gap,final_gap,max_gap,min_gap,tight_rounds,tight_pct,dominant_rounds,dominant_pct,leadership_changes,distinct_leaders,first_leader,last_leader,change_percentage,structure,num_teams,playoff_format
+2006/07,33,4.03,10,13,0,18,54.5,5,15.2,5,4,H. Kfar Saba,B. Jerusalem,15.151515151515152,12 teams (No Playoff),12,No Playoff
+2007/08,33,7.94,9,16,0,9,27.3,10,30.3,0,1,B. Jerusalem,B. Jerusalem,0.0,12 teams (No Playoff),12,No Playoff
+2008/09,33,2.06,6,6,0,24,72.7,0,0.0,8,3,Maccabi Haifa,Maccabi Haifa,24.242424242424242,12 teams (No Playoff),12,No Playoff
+2009/10,30,7.57,6,12,0,5,16.7,8,26.7,1,2,Bnei Yehuda,Maccabi Haifa,3.3333333333333335,16 teams (Playoff w/ Reduction),16,Playoff Split Points
+2010/11,30,1.73,5,7,0,26,86.7,0,0.0,12,6,Maccabi Netanya,Maccabi Haifa,40.0,16 teams (Playoff w/ Reduction),16,Playoff Split Points
+2011/12,30,6.33,17,17,0,13,43.3,9,30.0,3,4,Maccabi Haifa,Kiryat Shmona,10.0,16 teams (Playoff w/ Reduction),16,Playoff Split Points
+2012/13,26,3.0,10,10,0,18,69.2,2,7.7,7,3,FC Ashdod,M. Tel Aviv,26.923076923076923,14 teams (Playoff Full Points),14,Playoff Full Points
+2013/14,26,2.96,7,7,0,15,57.7,0,0.0,2,3,Maccabi Haifa,M. Tel Aviv,7.6923076923076925,14 teams (Playoff Full Points),14,Playoff Full Points
+2014/15,26,2.23,5,5,0,20,76.9,0,0.0,3,3,Hapoel Raanana,M. Tel Aviv,11.538461538461538,14 teams (Playoff Full Points),14,Playoff Full Points
+2015/16,26,2.04,3,5,0,21,80.8,0,0.0,5,4,Bnei Yehuda,H. Beer Sheva,19.230769230769234,14 teams (Playoff Full Points),14,Playoff Full Points
+2016/17,26,4.69,3,10,0,12,46.2,2,7.7,3,2,M. Tel Aviv,H. Beer Sheva,11.538461538461538,14 teams (Playoff Full Points),14,Playoff Full Points
+2017/18,26,0.96,1,3,0,26,100.0,0,0.0,8,4,B. Jerusalem,H. Beer Sheva,30.76923076923077,14 teams (Playoff Full Points),14,Playoff Full Points
+2018/19,26,10.77,22,22,0,8,30.8,14,53.8,4,3,Hapoel Haifa,M. Tel Aviv,15.384615384615385,14 teams (Playoff Full Points),14,Playoff Full Points
+2019/20,26,3.27,6,6,0,15,57.7,0,0.0,5,3,M. Tel Aviv,M. Tel Aviv,19.230769230769234,14 teams (Playoff Full Points),14,Playoff Full Points
+2020/21,26,2.85,1,8,0,18,69.2,0,0.0,8,6,Bnei Yehuda,Maccabi Haifa,30.76923076923077,14 teams (Playoff Full Points),14,Playoff Full Points
+2021/22,26,2.19,4,6,0,21,80.8,0,0.0,5,6,Bnei Sakhnin,Maccabi Haifa,19.230769230769234,14 teams (Playoff Full Points),14,Playoff Full Points
+2022/23,26,3.04,4,7,0,11,42.3,0,0.0,5,2,M. Tel Aviv,Maccabi Haifa,19.230769230769234,14 teams (Playoff Full Points),14,Playoff Full Points
+2023/24,26,3.19,7,8,0,14,53.8,0,0.0,2,2,M. Tel Aviv,M. Tel Aviv,7.6923076923076925,14 teams (Playoff Full Points),14,Playoff Full Points
+2024/25,26,2.15,1,5,0,22,84.6,0,0.0,2,3,M. Bnei Reineh,H. Beer Sheva,7.6923076923076925,14 teams (Playoff Full Points),14,Playoff Full Points

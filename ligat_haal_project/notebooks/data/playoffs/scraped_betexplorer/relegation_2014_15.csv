@@ -1,0 +1,29 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2014/15,2014,33,relegation,H. Akko,Sakhnin,1,0,1,H,3,0
+2014/15,2014,33,relegation,Hapoel Haifa,Netanya,0,0,0,D,1,1
+2014/15,2014,33,relegation,Hapoel Petah Tikva,H. Raanana,4,2,2,H,3,0
+2014/15,2014,33,relegation,Hapoel Tel Aviv,SC Ashdod,1,0,1,H,3,0
+2014/15,2014,32,relegation,Netanya,H. Akko,1,2,-1,A,0,3
+2014/15,2014,32,relegation,H. Raanana,Hapoel Haifa,1,2,-1,A,0,3
+2014/15,2014,32,relegation,Sakhnin,Hapoel Tel Aviv,2,0,2,H,3,0
+2014/15,2014,32,relegation,SC Ashdod,Hapoel Petah Tikva,2,4,-2,A,0,3
+2014/15,2014,31,relegation,H. Akko,H. Raanana,2,0,2,H,3,0
+2014/15,2014,31,relegation,Hapoel Haifa,Hapoel Petah Tikva,3,2,1,H,3,0
+2014/15,2014,31,relegation,Hapoel Tel Aviv,Netanya,2,1,1,H,3,0
+2014/15,2014,31,relegation,Sakhnin,SC Ashdod,1,1,0,D,1,1
+2014/15,2014,30,relegation,Hapoel Petah Tikva,H. Akko,0,2,-2,A,0,3
+2014/15,2014,30,relegation,H. Raanana,Hapoel Tel Aviv,2,2,0,D,1,1
+2014/15,2014,30,relegation,Netanya,Sakhnin,2,3,-1,A,0,3
+2014/15,2014,30,relegation,SC Ashdod,Hapoel Haifa,0,0,0,D,1,1
+2014/15,2014,29,relegation,H. Akko,Hapoel Haifa,1,0,1,H,3,0
+2014/15,2014,29,relegation,Hapoel Tel Aviv,Hapoel Petah Tikva,1,2,-1,A,0,3
+2014/15,2014,29,relegation,Netanya,SC Ashdod,0,0,0,D,1,1
+2014/15,2014,29,relegation,Sakhnin,H. Raanana,1,1,0,D,1,1
+2014/15,2014,28,relegation,Hapoel Haifa,Hapoel Tel Aviv,0,1,-1,A,0,3
+2014/15,2014,28,relegation,Hapoel Petah Tikva,Sakhnin,2,3,-1,A,0,3
+2014/15,2014,28,relegation,H. Raanana,Netanya,1,2,-1,A,0,3
+2014/15,2014,28,relegation,SC Ashdod,H. Akko,0,0,0,D,1,1
+2014/15,2014,27,relegation,Hapoel Tel Aviv,H. Akko,2,0,2,H,3,0
+2014/15,2014,27,relegation,H. Raanana,SC Ashdod,4,0,4,H,3,0
+2014/15,2014,27,relegation,Netanya,Hapoel Petah Tikva,3,1,2,H,3,0
+2014/15,2014,27,relegation,Sakhnin,Hapoel Haifa,1,0,1,H,3,0

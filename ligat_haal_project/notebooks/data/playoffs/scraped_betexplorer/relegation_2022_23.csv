@@ -1,0 +1,29 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2022/23,2022,33,relegation,Hapoel Hadera,Hapoel Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,33,relegation,Maccabi Bnei Raina,Hapoel Haifa,0,4,-4,A,0,3
+2022/23,2022,33,relegation,Nes Tziona,Sakhnin,1,1,0,D,1,1
+2022/23,2022,33,relegation,Ironi Kiryat Shmona,Beitar Jerusalem,3,2,1,H,3,0
+2022/23,2022,32,relegation,Beitar Jerusalem,Maccabi Bnei Raina,0,1,-1,A,0,3
+2022/23,2022,32,relegation,Hapoel Haifa,Nes Tziona,0,1,-1,A,0,3
+2022/23,2022,32,relegation,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,2,0,D,1,1
+2022/23,2022,32,relegation,Sakhnin,Hapoel Hadera,2,3,-1,A,0,3
+2022/23,2022,31,relegation,Hapoel Hadera,Hapoel Haifa,1,2,-1,A,0,3
+2022/23,2022,31,relegation,Sakhnin,Hapoel Tel Aviv,0,1,-1,A,0,3
+2022/23,2022,31,relegation,Maccabi Bnei Raina,Ironi Kiryat Shmona,1,3,-2,A,0,3
+2022/23,2022,31,relegation,Nes Tziona,Beitar Jerusalem,1,3,-2,A,0,3
+2022/23,2022,30,relegation,Beitar Jerusalem,Hapoel Hadera,2,1,1,H,3,0
+2022/23,2022,30,relegation,Hapoel Haifa,Sakhnin,2,2,0,D,1,1
+2022/23,2022,30,relegation,Hapoel Tel Aviv,Maccabi Bnei Raina,1,2,-1,A,0,3
+2022/23,2022,30,relegation,Ironi Kiryat Shmona,Nes Tziona,1,1,0,D,1,1
+2022/23,2022,29,relegation,Sakhnin,Beitar Jerusalem,4,3,1,H,3,0
+2022/23,2022,29,relegation,Hapoel Hadera,Ironi Kiryat Shmona,1,1,0,D,1,1
+2022/23,2022,29,relegation,Hapoel Haifa,Hapoel Tel Aviv,1,0,1,H,3,0
+2022/23,2022,29,relegation,Nes Tziona,Maccabi Bnei Raina,1,2,-1,A,0,3
+2022/23,2022,28,relegation,Beitar Jerusalem,Hapoel Haifa,2,0,2,H,3,0
+2022/23,2022,28,relegation,Maccabi Bnei Raina,Hapoel Hadera,1,1,0,D,1,1
+2022/23,2022,28,relegation,Ironi Kiryat Shmona,Sakhnin,2,2,0,D,1,1
+2022/23,2022,28,relegation,Hapoel Tel Aviv,Nes Tziona,2,1,1,H,3,0
+2022/23,2022,27,relegation,Hapoel Haifa,Ironi Kiryat Shmona,1,1,0,D,1,1
+2022/23,2022,27,relegation,Sakhnin,Maccabi Bnei Raina,2,2,0,D,1,1
+2022/23,2022,27,relegation,Beitar Jerusalem,Hapoel Tel Aviv,2,1,1,H,3,0
+2022/23,2022,27,relegation,Hapoel Hadera,Nes Tziona,1,2,-1,A,0,3

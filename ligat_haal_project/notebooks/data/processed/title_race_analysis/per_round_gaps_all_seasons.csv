@@ -1,0 +1,528 @@
+﻿season,round,leader,leader_points,second,second_points,gap
+2006/07,1,H. Kfar Saba,3,Maccabi Netanya,3,0
+2006/07,2,H. Kfar Saba,6,B. Jerusalem,6,0
+2006/07,3,B. Jerusalem,9,H. Kfar Saba,6,3
+2006/07,4,B. Jerusalem,10,Maccabi Haifa,9,1
+2006/07,5,M. Petah Tikva,10,B. Jerusalem,10,0
+2006/07,6,B. Jerusalem,13,FC Ashdod,12,1
+2006/07,7,B. Jerusalem,16,Maccabi Netanya,12,4
+2006/07,8,B. Jerusalem,17,Hapoel Tel Aviv,14,3
+2006/07,9,Hapoel Tel Aviv,17,B. Jerusalem,17,0
+2006/07,10,B. Jerusalem,20,M. Petah Tikva,19,1
+2006/07,11,B. Jerusalem,23,M. Petah Tikva,22,1
+2006/07,12,B. Jerusalem,24,FC Ashdod,24,0
+2006/07,13,B. Jerusalem,25,FC Ashdod,25,0
+2006/07,14,B. Jerusalem,28,FC Ashdod,28,0
+2006/07,15,B. Jerusalem,31,FC Ashdod,29,2
+2006/07,16,B. Jerusalem,32,FC Ashdod,30,2
+2006/07,17,B. Jerusalem,32,Hapoel Tel Aviv,30,2
+2006/07,18,B. Jerusalem,35,Hapoel Tel Aviv,31,4
+2006/07,19,B. Jerusalem,38,Hapoel Tel Aviv,32,6
+2006/07,20,B. Jerusalem,39,Hapoel Tel Aviv,33,6
+2006/07,21,B. Jerusalem,42,Hapoel Tel Aviv,36,6
+2006/07,22,B. Jerusalem,43,Hapoel Tel Aviv,39,4
+2006/07,23,B. Jerusalem,44,Hapoel Tel Aviv,42,2
+2006/07,24,B. Jerusalem,47,Hapoel Tel Aviv,45,2
+2006/07,25,B. Jerusalem,50,Hapoel Tel Aviv,45,5
+2006/07,26,B. Jerusalem,53,Hapoel Tel Aviv,46,7
+2006/07,27,B. Jerusalem,56,M. Tel Aviv,47,9
+2006/07,28,B. Jerusalem,57,M. Tel Aviv,48,9
+2006/07,29,B. Jerusalem,58,M. Tel Aviv,48,10
+2006/07,30,B. Jerusalem,61,M. Tel Aviv,51,10
+2006/07,31,B. Jerusalem,64,M. Tel Aviv,54,10
+2006/07,32,B. Jerusalem,67,M. Tel Aviv,54,13
+2006/07,33,B. Jerusalem,67,Maccabi Netanya,57,10
+2007/08,1,B. Jerusalem,3,Kiryat Shmona,3,0
+2007/08,2,B. Jerusalem,6,Kiryat Shmona,4,2
+2007/08,3,B. Jerusalem,9,Kiryat Shmona,7,2
+2007/08,4,B. Jerusalem,10,M. Petah Tikva,9,1
+2007/08,5,B. Jerusalem,13,Maccabi Netanya,10,3
+2007/08,6,B. Jerusalem,16,Maccabi Netanya,13,3
+2007/08,7,B. Jerusalem,19,Maccabi Netanya,16,3
+2007/08,8,B. Jerusalem,20,Maccabi Netanya,17,3
+2007/08,9,B. Jerusalem,21,Bnei Sakhnin,18,3
+2007/08,10,B. Jerusalem,24,M. Petah Tikva,19,5
+2007/08,11,B. Jerusalem,27,M. Petah Tikva,22,5
+2007/08,12,B. Jerusalem,30,Maccabi Netanya,23,7
+2007/08,13,B. Jerusalem,33,Maccabi Netanya,24,9
+2007/08,14,B. Jerusalem,34,Maccabi Netanya,25,9
+2007/08,15,B. Jerusalem,34,Maccabi Netanya,28,6
+2007/08,16,B. Jerusalem,37,Maccabi Haifa,30,7
+2007/08,17,B. Jerusalem,40,Maccabi Netanya,32,8
+2007/08,18,B. Jerusalem,41,Maccabi Netanya,35,6
+2007/08,19,B. Jerusalem,44,Maccabi Netanya,36,8
+2007/08,20,B. Jerusalem,47,Maccabi Netanya,39,8
+2007/08,21,B. Jerusalem,50,Maccabi Netanya,39,11
+2007/08,22,B. Jerusalem,51,Maccabi Netanya,40,11
+2007/08,23,B. Jerusalem,54,Maccabi Netanya,41,13
+2007/08,24,B. Jerusalem,57,Maccabi Netanya,41,16
+2007/08,25,B. Jerusalem,60,Maccabi Netanya,44,16
+2007/08,26,B. Jerusalem,61,Maccabi Netanya,45,16
+2007/08,27,B. Jerusalem,61,Maccabi Netanya,46,15
+2007/08,28,B. Jerusalem,64,Maccabi Netanya,49,15
+2007/08,29,B. Jerusalem,64,Maccabi Netanya,52,12
+2007/08,30,B. Jerusalem,64,Maccabi Netanya,55,9
+2007/08,31,B. Jerusalem,67,Maccabi Netanya,55,12
+2007/08,32,B. Jerusalem,67,Maccabi Netanya,58,9
+2007/08,33,B. Jerusalem,67,Maccabi Netanya,58,9
+2008/09,1,Maccabi Haifa,3,M. Tel Aviv,3,0
+2008/09,2,Maccabi Netanya,4,Maccabi Haifa,4,0
+2008/09,3,Maccabi Netanya,7,Maccabi Haifa,7,0
+2008/09,4,Maccabi Netanya,10,Maccabi Haifa,8,2
+2008/09,5,Maccabi Netanya,13,Maccabi Haifa,11,2
+2008/09,6,Maccabi Haifa,14,Maccabi Netanya,14,0
+2008/09,7,Maccabi Haifa,17,Maccabi Netanya,17,0
+2008/09,8,Maccabi Haifa,20,Maccabi Netanya,18,2
+2008/09,9,Maccabi Netanya,21,Maccabi Haifa,20,1
+2008/09,10,Maccabi Haifa,21,Maccabi Netanya,21,0
+2008/09,11,Maccabi Haifa,24,Maccabi Netanya,24,0
+2008/09,12,Maccabi Haifa,27,Maccabi Netanya,25,2
+2008/09,13,Maccabi Haifa,28,Maccabi Netanya,26,2
+2008/09,14,Maccabi Haifa,31,Maccabi Netanya,27,4
+2008/09,15,Maccabi Haifa,32,Maccabi Netanya,28,4
+2008/09,16,Maccabi Haifa,32,Maccabi Netanya,31,1
+2008/09,17,Maccabi Haifa,35,Hapoel Tel Aviv,31,4
+2008/09,18,Maccabi Haifa,36,Maccabi Netanya,32,4
+2008/09,19,Maccabi Haifa,39,Hapoel Tel Aviv,34,5
+2008/09,20,Maccabi Haifa,39,Maccabi Netanya,36,3
+2008/09,21,Maccabi Haifa,39,Hapoel Tel Aviv,38,1
+2008/09,22,Maccabi Haifa,42,Hapoel Tel Aviv,41,1
+2008/09,23,Maccabi Haifa,45,Hapoel Tel Aviv,41,4
+2008/09,24,Maccabi Haifa,46,Hapoel Tel Aviv,44,2
+2008/09,25,Maccabi Haifa,49,Hapoel Tel Aviv,47,2
+2008/09,26,Maccabi Haifa,52,Hapoel Tel Aviv,50,2
+2008/09,27,Hapoel Tel Aviv,53,Maccabi Haifa,53,0
+2008/09,28,Maccabi Haifa,56,Hapoel Tel Aviv,54,2
+2008/09,29,Hapoel Tel Aviv,57,Maccabi Haifa,57,0
+2008/09,30,Maccabi Haifa,60,Hapoel Tel Aviv,58,2
+2008/09,31,Maccabi Haifa,63,Hapoel Tel Aviv,58,5
+2008/09,32,Maccabi Haifa,66,Hapoel Tel Aviv,61,5
+2008/09,33,Maccabi Haifa,67,Hapoel Tel Aviv,61,6
+2009/10,1,Bnei Yehuda,3,M. Tel Aviv,3,0
+2009/10,2,Bnei Yehuda,6,M. Tel Aviv,6,0
+2009/10,3,Maccabi Haifa,9,Bnei Yehuda,7,2
+2009/10,4,Maccabi Haifa,12,Bnei Yehuda,10,2
+2009/10,5,Maccabi Haifa,15,Hapoel Haifa,12,3
+2009/10,6,Maccabi Haifa,18,Hapoel Haifa,12,6
+2009/10,7,Maccabi Haifa,21,M. Tel Aviv,14,7
+2009/10,8,Maccabi Haifa,24,Hapoel Tel Aviv,15,9
+2009/10,9,Maccabi Haifa,27,Hapoel Tel Aviv,18,9
+2009/10,10,Maccabi Haifa,30,Hapoel Tel Aviv,21,9
+2009/10,11,Maccabi Haifa,30,Hapoel Tel Aviv,24,6
+2009/10,12,Maccabi Haifa,33,Hapoel Tel Aviv,27,6
+2009/10,13,Maccabi Haifa,36,Hapoel Tel Aviv,28,8
+2009/10,14,Maccabi Haifa,39,Hapoel Tel Aviv,31,8
+2009/10,15,Maccabi Haifa,42,Hapoel Tel Aviv,34,8
+2009/10,16,Maccabi Haifa,45,Hapoel Tel Aviv,37,8
+2009/10,17,Maccabi Haifa,48,Hapoel Tel Aviv,38,10
+2009/10,18,Maccabi Haifa,51,Hapoel Tel Aviv,41,10
+2009/10,19,Maccabi Haifa,52,Hapoel Tel Aviv,42,10
+2009/10,20,Maccabi Haifa,55,Hapoel Tel Aviv,43,12
+2009/10,21,Maccabi Haifa,58,Hapoel Tel Aviv,46,12
+2009/10,22,Maccabi Haifa,61,Hapoel Tel Aviv,49,12
+2009/10,23,Maccabi Haifa,61,Hapoel Tel Aviv,52,9
+2009/10,24,Maccabi Haifa,64,Hapoel Tel Aviv,55,9
+2009/10,25,Maccabi Haifa,67,Hapoel Tel Aviv,56,11
+2009/10,26,Maccabi Haifa,70,Hapoel Tel Aviv,59,11
+2009/10,27,Maccabi Haifa,70,Hapoel Tel Aviv,62,8
+2009/10,28,Maccabi Haifa,73,Hapoel Tel Aviv,65,8
+2009/10,29,Maccabi Haifa,76,Hapoel Tel Aviv,68,8
+2009/10,30,Maccabi Haifa,77,Hapoel Tel Aviv,71,6
+2010/11,1,Maccabi Netanya,3,H. Ashkelon,3,0
+2010/11,2,Hapoel Haifa,6,Maccabi Haifa,6,0
+2010/11,3,Hapoel Haifa,9,Maccabi Netanya,7,2
+2010/11,4,Kiryat Shmona,10,Maccabi Haifa,10,0
+2010/11,5,Kiryat Shmona,13,M. Tel Aviv,12,1
+2010/11,6,Kiryat Shmona,16,Maccabi Haifa,14,2
+2010/11,7,Kiryat Shmona,17,M. Tel Aviv,15,2
+2010/11,8,Maccabi Haifa,18,Kiryat Shmona,17,1
+2010/11,9,M. Tel Aviv,19,Hapoel Tel Aviv,19,0
+2010/11,10,Kiryat Shmona,21,Maccabi Haifa,21,0
+2010/11,11,Kiryat Shmona,24,Hapoel Tel Aviv,23,1
+2010/11,12,Kiryat Shmona,25,Maccabi Haifa,25,0
+2010/11,13,Maccabi Haifa,28,Hapoel Tel Aviv,26,2
+2010/11,14,Maccabi Haifa,31,Hapoel Tel Aviv,29,2
+2010/11,15,Maccabi Haifa,34,Hapoel Tel Aviv,32,2
+2010/11,16,Maccabi Haifa,37,Hapoel Tel Aviv,35,2
+2010/11,17,Maccabi Haifa,40,Hapoel Tel Aviv,38,2
+2010/11,18,Hapoel Tel Aviv,41,Maccabi Haifa,41,0
+2010/11,19,Maccabi Haifa,44,Hapoel Tel Aviv,42,2
+2010/11,20,Hapoel Tel Aviv,45,Maccabi Haifa,45,0
+2010/11,21,Maccabi Haifa,48,Hapoel Tel Aviv,46,2
+2010/11,22,Maccabi Haifa,51,Hapoel Tel Aviv,49,2
+2010/11,23,Maccabi Haifa,54,Hapoel Tel Aviv,52,2
+2010/11,24,Hapoel Tel Aviv,55,Maccabi Haifa,54,1
+2010/11,25,Maccabi Haifa,57,Hapoel Tel Aviv,55,2
+2010/11,26,Maccabi Haifa,60,Hapoel Tel Aviv,58,2
+2010/11,27,Maccabi Haifa,63,Hapoel Tel Aviv,59,4
+2010/11,28,Maccabi Haifa,66,Hapoel Tel Aviv,62,4
+2010/11,29,Maccabi Haifa,69,Hapoel Tel Aviv,62,7
+2010/11,30,Maccabi Haifa,70,Hapoel Tel Aviv,65,5
+2011/12,1,Maccabi Haifa,3,H Rishon leZion,3,0
+2011/12,2,M. Tel Aviv,6,H Rishon leZion,6,0
+2011/12,3,M. Tel Aviv,9,Hapoel Acre,6,3
+2011/12,4,M. Tel Aviv,12,Hapoel Tel Aviv,7,5
+2011/12,5,M. Tel Aviv,12,Hapoel Tel Aviv,10,2
+2011/12,6,M. Tel Aviv,15,Hapoel Tel Aviv,11,4
+2011/12,7,M. Tel Aviv,16,Bnei Yehuda,13,3
+2011/12,8,M. Tel Aviv,16,Hapoel Tel Aviv,14,2
+2011/12,9,M. Tel Aviv,19,Maccabi Netanya,17,2
+2011/12,10,M. Tel Aviv,20,Kiryat Shmona,19,1
+2011/12,11,Hapoel Tel Aviv,20,M. Tel Aviv,20,0
+2011/12,12,Kiryat Shmona,23,Hapoel Tel Aviv,21,2
+2011/12,13,Kiryat Shmona,26,Hapoel Tel Aviv,24,2
+2011/12,14,Kiryat Shmona,29,Hapoel Tel Aviv,27,2
+2011/12,15,Kiryat Shmona,32,FC Ashdod,30,2
+2011/12,16,Kiryat Shmona,35,FC Ashdod,31,4
+2011/12,17,Kiryat Shmona,38,FC Ashdod,34,4
+2011/12,18,Kiryat Shmona,41,FC Ashdod,35,6
+2011/12,19,Kiryat Shmona,42,FC Ashdod,36,6
+2011/12,20,Kiryat Shmona,45,FC Ashdod,39,6
+2011/12,21,Kiryat Shmona,48,FC Ashdod,40,8
+2011/12,22,Kiryat Shmona,51,FC Ashdod,40,11
+2011/12,23,Kiryat Shmona,52,FC Ashdod,41,11
+2011/12,24,Kiryat Shmona,55,FC Ashdod,42,13
+2011/12,25,Kiryat Shmona,56,FC Ashdod,45,11
+2011/12,26,Kiryat Shmona,59,FC Ashdod,45,14
+2011/12,27,Kiryat Shmona,62,FC Ashdod,46,16
+2011/12,28,Kiryat Shmona,62,FC Ashdod,46,16
+2011/12,29,Kiryat Shmona,65,Hapoel Tel Aviv,48,17
+2011/12,30,Kiryat Shmona,66,Hapoel Tel Aviv,49,17
+2012/13,1,FC Ashdod,3,Kiryat Shmona,3,0
+2012/13,2,FC Ashdod,6,Kiryat Shmona,6,0
+2012/13,3,FC Ashdod,9,Hapoel Tel Aviv,9,0
+2012/13,4,M. Tel Aviv,12,FC Ashdod,12,0
+2012/13,5,FC Ashdod,15,M. Tel Aviv,12,3
+2012/13,6,FC Ashdod,15,M. Tel Aviv,15,0
+2012/13,7,FC Ashdod,18,M. Tel Aviv,18,0
+2012/13,8,M. Tel Aviv,21,FC Ashdod,19,2
+2012/13,9,M. Tel Aviv,21,FC Ashdod,19,2
+2012/13,10,FC Ashdod,22,M. Tel Aviv,21,1
+2012/13,11,FC Ashdod,25,Hapoel Tel Aviv,24,1
+2012/13,12,M. Tel Aviv,27,Hapoel Tel Aviv,27,0
+2012/13,13,M. Tel Aviv,28,Hapoel Tel Aviv,28,0
+2012/13,14,Hapoel Tel Aviv,29,M. Tel Aviv,28,1
+2012/13,15,M. Tel Aviv,31,Hapoel Tel Aviv,30,1
+2012/13,16,M. Tel Aviv,34,Hapoel Tel Aviv,30,4
+2012/13,17,M. Tel Aviv,35,Hapoel Tel Aviv,33,2
+2012/13,18,M. Tel Aviv,38,Hapoel Tel Aviv,36,2
+2012/13,19,M. Tel Aviv,38,Hapoel Tel Aviv,36,2
+2012/13,20,M. Tel Aviv,41,Maccabi Haifa,36,5
+2012/13,21,M. Tel Aviv,44,Maccabi Haifa,36,8
+2012/13,22,M. Tel Aviv,47,Maccabi Haifa,39,8
+2012/13,23,M. Tel Aviv,50,Maccabi Haifa,42,8
+2012/13,24,M. Tel Aviv,53,Maccabi Haifa,45,8
+2012/13,25,M. Tel Aviv,56,Maccabi Haifa,46,10
+2012/13,26,M. Tel Aviv,59,Maccabi Haifa,49,10
+2013/14,1,Maccabi Haifa,3,H. Beer Sheva,3,0
+2013/14,2,H. Beer Sheva,6,M. Tel Aviv,6,0
+2013/14,3,M. Tel Aviv,9,H. Beer Sheva,9,0
+2013/14,4,M. Tel Aviv,12,H. Beer Sheva,12,0
+2013/14,5,M. Tel Aviv,13,H. Beer Sheva,13,0
+2013/14,6,M. Tel Aviv,16,H. Beer Sheva,13,3
+2013/14,7,M. Tel Aviv,19,H. Beer Sheva,14,5
+2013/14,8,M. Tel Aviv,19,H. Beer Sheva,17,2
+2013/14,9,M. Tel Aviv,20,H. Beer Sheva,20,0
+2013/14,10,M. Tel Aviv,23,H. Beer Sheva,21,2
+2013/14,11,M. Tel Aviv,26,H. Beer Sheva,24,2
+2013/14,12,M. Tel Aviv,29,H. Beer Sheva,27,2
+2013/14,13,M. Tel Aviv,32,H. Beer Sheva,28,4
+2013/14,14,M. Tel Aviv,35,H. Beer Sheva,31,4
+2013/14,15,M. Tel Aviv,38,H. Beer Sheva,34,4
+2013/14,16,M. Tel Aviv,41,H. Beer Sheva,35,6
+2013/14,17,M. Tel Aviv,41,H. Beer Sheva,38,3
+2013/14,18,M. Tel Aviv,44,H. Beer Sheva,41,3
+2013/14,19,M. Tel Aviv,47,H. Beer Sheva,44,3
+2013/14,20,M. Tel Aviv,50,H. Beer Sheva,47,3
+2013/14,21,M. Tel Aviv,53,H. Beer Sheva,47,6
+2013/14,22,M. Tel Aviv,56,H. Beer Sheva,50,6
+2013/14,23,M. Tel Aviv,57,H. Beer Sheva,53,4
+2013/14,24,M. Tel Aviv,60,H. Beer Sheva,56,4
+2013/14,25,M. Tel Aviv,63,H. Beer Sheva,59,4
+2013/14,26,M. Tel Aviv,66,H. Beer Sheva,59,7
+2014/15,1,Hapoel Raanana,3,Maccabi Haifa,3,0
+2014/15,2,M. Tel Aviv,4,Kiryat Shmona,4,0
+2014/15,3,Kiryat Shmona,7,H. Beer Sheva,7,0
+2014/15,4,Kiryat Shmona,10,H. Beer Sheva,8,2
+2014/15,5,Kiryat Shmona,13,H. Beer Sheva,11,2
+2014/15,6,Kiryat Shmona,16,H. Beer Sheva,14,2
+2014/15,7,Kiryat Shmona,17,H. Beer Sheva,15,2
+2014/15,8,Kiryat Shmona,20,H. Beer Sheva,18,2
+2014/15,9,Kiryat Shmona,23,H. Beer Sheva,18,5
+2014/15,10,Kiryat Shmona,24,H. Beer Sheva,21,3
+2014/15,11,Kiryat Shmona,25,M. Tel Aviv,23,2
+2014/15,12,Kiryat Shmona,28,H. Beer Sheva,25,3
+2014/15,13,Kiryat Shmona,29,M. Tel Aviv,27,2
+2014/15,14,Kiryat Shmona,32,M. Tel Aviv,30,2
+2014/15,15,Kiryat Shmona,35,M. Tel Aviv,33,2
+2014/15,16,Kiryat Shmona,38,M. Tel Aviv,34,4
+2014/15,17,Kiryat Shmona,38,M. Tel Aviv,37,1
+2014/15,18,Kiryat Shmona,41,M. Tel Aviv,40,1
+2014/15,19,M. Tel Aviv,43,Kiryat Shmona,42,1
+2014/15,20,M. Tel Aviv,46,Kiryat Shmona,42,4
+2014/15,21,M. Tel Aviv,47,Kiryat Shmona,45,2
+2014/15,22,M. Tel Aviv,48,Kiryat Shmona,46,2
+2014/15,23,M. Tel Aviv,48,Kiryat Shmona,47,1
+2014/15,24,M. Tel Aviv,51,Kiryat Shmona,47,4
+2014/15,25,M. Tel Aviv,51,Kiryat Shmona,47,4
+2014/15,26,M. Tel Aviv,54,H. Beer Sheva,49,5
+2015/16,1,Bnei Yehuda,3,H. Beer Sheva,3,0
+2015/16,2,M. Petah Tikva,6,M. Tel Aviv,6,0
+2015/16,3,M. Petah Tikva,9,M. Tel Aviv,7,2
+2015/16,4,M. Petah Tikva,12,H. Beer Sheva,7,5
+2015/16,5,M. Petah Tikva,12,M. Tel Aviv,10,2
+2015/16,6,M. Tel Aviv,13,M. Petah Tikva,12,1
+2015/16,7,M. Tel Aviv,16,H. Beer Sheva,13,3
+2015/16,8,H. Beer Sheva,16,M. Tel Aviv,16,0
+2015/16,9,H. Beer Sheva,19,M. Tel Aviv,19,0
+2015/16,10,H. Beer Sheva,22,M. Tel Aviv,22,0
+2015/16,11,M. Tel Aviv,25,H. Beer Sheva,23,2
+2015/16,12,M. Tel Aviv,28,H. Beer Sheva,26,2
+2015/16,13,M. Tel Aviv,29,H. Beer Sheva,29,0
+2015/16,14,M. Tel Aviv,32,H. Beer Sheva,32,0
+2015/16,15,H. Beer Sheva,35,M. Tel Aviv,32,3
+2015/16,16,H. Beer Sheva,38,M. Tel Aviv,35,3
+2015/16,17,H. Beer Sheva,39,M. Tel Aviv,38,1
+2015/16,18,H. Beer Sheva,42,M. Tel Aviv,41,1
+2015/16,19,H. Beer Sheva,45,M. Tel Aviv,44,1
+2015/16,20,H. Beer Sheva,48,M. Tel Aviv,47,1
+2015/16,21,H. Beer Sheva,51,M. Tel Aviv,48,3
+2015/16,22,H. Beer Sheva,54,M. Tel Aviv,49,5
+2015/16,23,H. Beer Sheva,57,M. Tel Aviv,52,5
+2015/16,24,H. Beer Sheva,60,M. Tel Aviv,55,5
+2015/16,25,H. Beer Sheva,63,M. Tel Aviv,58,5
+2015/16,26,H. Beer Sheva,64,M. Tel Aviv,61,3
+2016/17,1,M. Tel Aviv,3,H. Ashkelon,3,0
+2016/17,2,M. Tel Aviv,6,H. Ashkelon,4,2
+2016/17,3,H. Beer Sheva,7,M. Tel Aviv,7,0
+2016/17,4,M. Tel Aviv,10,M. Petah Tikva,10,0
+2016/17,5,M. Tel Aviv,13,M. Petah Tikva,11,2
+2016/17,6,M. Tel Aviv,16,H. Beer Sheva,13,3
+2016/17,7,H. Beer Sheva,16,M. Tel Aviv,16,0
+2016/17,8,H. Beer Sheva,19,M. Petah Tikva,17,2
+2016/17,9,H. Beer Sheva,22,M. Petah Tikva,18,4
+2016/17,10,H. Beer Sheva,25,M. Tel Aviv,20,5
+2016/17,11,H. Beer Sheva,28,M. Tel Aviv,20,8
+2016/17,12,H. Beer Sheva,31,M. Tel Aviv,21,10
+2016/17,13,H. Beer Sheva,34,M. Tel Aviv,24,10
+2016/17,14,H. Beer Sheva,34,M. Tel Aviv,25,9
+2016/17,15,H. Beer Sheva,35,M. Tel Aviv,28,7
+2016/17,16,H. Beer Sheva,36,M. Tel Aviv,28,8
+2016/17,17,H. Beer Sheva,39,M. Tel Aviv,31,8
+2016/17,18,H. Beer Sheva,42,M. Tel Aviv,34,8
+2016/17,19,H. Beer Sheva,43,M. Tel Aviv,37,6
+2016/17,20,H. Beer Sheva,46,M. Tel Aviv,38,8
+2016/17,21,H. Beer Sheva,46,M. Tel Aviv,41,5
+2016/17,22,H. Beer Sheva,49,M. Tel Aviv,44,5
+2016/17,23,H. Beer Sheva,50,M. Tel Aviv,47,3
+2016/17,24,H. Beer Sheva,53,M. Tel Aviv,50,3
+2016/17,25,H. Beer Sheva,56,M. Tel Aviv,53,3
+2016/17,26,H. Beer Sheva,59,M. Tel Aviv,56,3
+2017/18,1,B. Jerusalem,3,Hapoel Haifa,3,0
+2017/18,2,B. Jerusalem,6,Hapoel Haifa,6,0
+2017/18,3,B. Jerusalem,9,Hapoel Haifa,9,0
+2017/18,4,B. Jerusalem,10,Hapoel Haifa,10,0
+2017/18,5,B. Jerusalem,11,Hapoel Haifa,11,0
+2017/18,6,Hapoel Haifa,14,Maccabi Netanya,11,3
+2017/18,7,Hapoel Haifa,17,B. Jerusalem,14,3
+2017/18,8,Hapoel Haifa,20,B. Jerusalem,17,3
+2017/18,9,Hapoel Haifa,23,B. Jerusalem,20,3
+2017/18,10,Hapoel Haifa,23,H. Beer Sheva,23,0
+2017/18,11,Hapoel Haifa,24,H. Beer Sheva,24,0
+2017/18,12,Hapoel Haifa,27,H. Beer Sheva,27,0
+2017/18,13,H. Beer Sheva,30,Hapoel Haifa,28,2
+2017/18,14,H. Beer Sheva,30,Hapoel Haifa,29,1
+2017/18,15,H. Beer Sheva,33,Hapoel Haifa,32,1
+2017/18,16,H. Beer Sheva,36,Hapoel Haifa,35,1
+2017/18,17,H. Beer Sheva,37,B. Jerusalem,36,1
+2017/18,18,H. Beer Sheva,38,M. Tel Aviv,38,0
+2017/18,19,M. Tel Aviv,41,H. Beer Sheva,41,0
+2017/18,20,H. Beer Sheva,44,M. Tel Aviv,42,2
+2017/18,21,M. Tel Aviv,45,H. Beer Sheva,44,1
+2017/18,22,M. Tel Aviv,48,H. Beer Sheva,47,1
+2017/18,23,H. Beer Sheva,50,B. Jerusalem,49,1
+2017/18,24,M. Tel Aviv,51,H. Beer Sheva,51,0
+2017/18,25,H. Beer Sheva,54,B. Jerusalem,53,1
+2017/18,26,H. Beer Sheva,57,B. Jerusalem,56,1
+2018/19,1,Hapoel Haifa,3,M. Petah Tikva,3,0
+2018/19,2,Hapoel Hadera,6,M. Petah Tikva,4,2
+2018/19,3,M. Tel Aviv,7,Hapoel Hadera,7,0
+2018/19,4,M. Tel Aviv,10,Hapoel Hadera,10,0
+2018/19,5,Hapoel Hadera,13,M. Tel Aviv,11,2
+2018/19,6,Hapoel Hadera,16,M. Tel Aviv,14,2
+2018/19,7,M. Tel Aviv,17,Hapoel Hadera,16,1
+2018/19,8,M. Tel Aviv,20,Hapoel Hadera,19,1
+2018/19,9,M. Tel Aviv,23,Hapoel Hadera,19,4
+2018/19,10,M. Tel Aviv,26,Bnei Yehuda,19,7
+2018/19,11,M. Tel Aviv,27,Hapoel Hadera,20,7
+2018/19,12,M. Tel Aviv,30,Bnei Yehuda,22,8
+2018/19,13,M. Tel Aviv,33,Bnei Yehuda,22,11
+2018/19,14,M. Tel Aviv,36,Bnei Yehuda,25,11
+2018/19,15,M. Tel Aviv,39,Bnei Yehuda,26,13
+2018/19,16,M. Tel Aviv,42,Bnei Yehuda,26,16
+2018/19,17,M. Tel Aviv,45,Bnei Yehuda,29,16
+2018/19,18,M. Tel Aviv,46,Bnei Yehuda,30,16
+2018/19,19,M. Tel Aviv,49,Bnei Yehuda,31,18
+2018/19,20,M. Tel Aviv,52,Bnei Yehuda,31,21
+2018/19,21,M. Tel Aviv,53,Maccabi Haifa,33,20
+2018/19,22,M. Tel Aviv,54,Bnei Yehuda,34,20
+2018/19,23,M. Tel Aviv,57,Bnei Yehuda,37,20
+2018/19,24,M. Tel Aviv,60,Maccabi Netanya,39,21
+2018/19,25,M. Tel Aviv,63,Maccabi Netanya,42,21
+2018/19,26,M. Tel Aviv,66,Maccabi Haifa,44,22
+2019/20,1,M. Tel Aviv,3,Maccabi Haifa,3,0
+2019/20,2,H. Beer Sheva,4,Maccabi Netanya,4,0
+2019/20,3,Maccabi Haifa,7,M. Tel Aviv,7,0
+2019/20,4,M. Tel Aviv,10,H. Beer Sheva,8,2
+2019/20,5,M. Tel Aviv,13,H. Beer Sheva,11,2
+2019/20,6,H. Beer Sheva,14,M. Tel Aviv,14,0
+2019/20,7,H. Beer Sheva,17,M. Tel Aviv,17,0
+2019/20,8,M. Tel Aviv,20,Maccabi Haifa,17,3
+2019/20,9,M. Tel Aviv,23,Maccabi Haifa,20,3
+2019/20,10,M. Tel Aviv,26,Maccabi Haifa,23,3
+2019/20,11,M. Tel Aviv,29,Maccabi Haifa,26,3
+2019/20,12,M. Tel Aviv,32,Maccabi Haifa,27,5
+2019/20,13,M. Tel Aviv,33,Maccabi Haifa,30,3
+2019/20,14,M. Tel Aviv,34,Maccabi Haifa,31,3
+2019/20,15,M. Tel Aviv,37,Maccabi Haifa,34,3
+2019/20,16,M. Tel Aviv,40,Maccabi Haifa,37,3
+2019/20,17,M. Tel Aviv,43,Maccabi Haifa,37,6
+2019/20,18,M. Tel Aviv,44,Maccabi Haifa,40,4
+2019/20,19,M. Tel Aviv,47,Maccabi Haifa,43,4
+2019/20,20,M. Tel Aviv,50,Maccabi Haifa,46,4
+2019/20,21,M. Tel Aviv,51,Maccabi Haifa,46,5
+2019/20,22,M. Tel Aviv,54,Maccabi Haifa,49,5
+2019/20,23,M. Tel Aviv,55,Maccabi Haifa,49,6
+2019/20,24,M. Tel Aviv,58,Maccabi Haifa,52,6
+2019/20,25,M. Tel Aviv,61,Maccabi Haifa,55,6
+2019/20,26,M. Tel Aviv,64,Maccabi Haifa,58,6
+2020/21,1,Bnei Yehuda,3,Kiryat Shmona,3,0
+2020/21,2,B. Jerusalem,6,Maccabi Haifa,6,0
+2020/21,3,Maccabi Haifa,9,B. Jerusalem,9,0
+2020/21,4,Maccabi Haifa,10,B. Jerusalem,10,0
+2020/21,5,M. Petah Tikva,12,Maccabi Haifa,10,2
+2020/21,6,Maccabi Haifa,13,M. Petah Tikva,12,1
+2020/21,7,Kiryat Shmona,14,Maccabi Haifa,13,1
+2020/21,8,Maccabi Haifa,16,M. Petah Tikva,16,0
+2020/21,9,Maccabi Haifa,19,M. Petah Tikva,19,0
+2020/21,10,Maccabi Haifa,22,M. Petah Tikva,19,3
+2020/21,11,Maccabi Haifa,25,FC Ashdod,19,6
+2020/21,12,Maccabi Haifa,28,M. Petah Tikva,22,6
+2020/21,13,Maccabi Haifa,31,M. Tel Aviv,23,8
+2020/21,14,Maccabi Haifa,34,M. Tel Aviv,26,8
+2020/21,15,Maccabi Haifa,35,M. Tel Aviv,27,8
+2020/21,16,Maccabi Haifa,38,M. Tel Aviv,30,8
+2020/21,17,Maccabi Haifa,38,M. Tel Aviv,33,5
+2020/21,18,Maccabi Haifa,41,M. Tel Aviv,36,5
+2020/21,19,Maccabi Haifa,41,M. Tel Aviv,39,2
+2020/21,20,Maccabi Haifa,44,M. Tel Aviv,42,2
+2020/21,21,Maccabi Haifa,47,M. Tel Aviv,45,2
+2020/21,22,Maccabi Haifa,50,M. Tel Aviv,48,2
+2020/21,23,Maccabi Haifa,53,M. Tel Aviv,51,2
+2020/21,24,M. Tel Aviv,54,Maccabi Haifa,53,1
+2020/21,25,M. Tel Aviv,57,Maccabi Haifa,56,1
+2020/21,26,Maccabi Haifa,59,M. Tel Aviv,58,1
+2021/22,1,Bnei Sakhnin,3,H. Beer Sheva,3,0
+2021/22,2,Hapoel Tel Aviv,6,H. Beer Sheva,4,2
+2021/22,3,H. Nof HaGalil,7,Hapoel Tel Aviv,7,0
+2021/22,4,Hapoel Haifa,10,H. Beer Sheva,8,2
+2021/22,5,H. Beer Sheva,11,Hapoel Haifa,10,1
+2021/22,6,H. Beer Sheva,14,Hapoel Haifa,13,1
+2021/22,7,H. Beer Sheva,17,Hapoel Tel Aviv,14,3
+2021/22,8,H. Beer Sheva,18,Hapoel Haifa,16,2
+2021/22,9,H. Beer Sheva,19,Maccabi Haifa,17,2
+2021/22,10,H. Beer Sheva,22,Maccabi Haifa,20,2
+2021/22,11,H. Beer Sheva,25,Maccabi Haifa,23,2
+2021/22,12,H. Beer Sheva,28,Maccabi Haifa,26,2
+2021/22,13,H. Beer Sheva,31,Maccabi Haifa,29,2
+2021/22,14,H. Beer Sheva,34,Maccabi Haifa,32,2
+2021/22,15,H. Beer Sheva,37,Maccabi Haifa,35,2
+2021/22,16,H. Beer Sheva,40,Maccabi Haifa,38,2
+2021/22,17,Maccabi Haifa,41,H. Beer Sheva,40,1
+2021/22,18,Maccabi Haifa,44,H. Beer Sheva,40,4
+2021/22,19,Maccabi Haifa,45,H. Beer Sheva,43,2
+2021/22,20,Maccabi Haifa,46,H. Beer Sheva,46,0
+2021/22,21,Maccabi Haifa,49,H. Beer Sheva,46,3
+2021/22,22,Maccabi Haifa,49,H. Beer Sheva,47,2
+2021/22,23,Maccabi Haifa,52,H. Beer Sheva,48,4
+2021/22,24,Maccabi Haifa,55,H. Beer Sheva,49,6
+2021/22,25,Maccabi Haifa,56,H. Beer Sheva,52,4
+2021/22,26,Maccabi Haifa,59,H. Beer Sheva,55,4
+2022/23,1,M. Tel Aviv,3,Maccabi Netanya,3,0
+2022/23,2,M. Tel Aviv,6,Maccabi Haifa,6,0
+2022/23,3,M. Tel Aviv,9,Maccabi Haifa,9,0
+2022/23,4,Maccabi Haifa,12,M. Tel Aviv,10,2
+2022/23,5,M. Tel Aviv,13,Maccabi Haifa,12,1
+2022/23,6,Maccabi Haifa,15,H. Jerusalem,14,1
+2022/23,7,M. Tel Aviv,16,Maccabi Haifa,15,1
+2022/23,8,M. Tel Aviv,19,Maccabi Haifa,18,1
+2022/23,9,M. Tel Aviv,22,Maccabi Haifa,21,1
+2022/23,10,Maccabi Haifa,24,M. Tel Aviv,22,2
+2022/23,11,Maccabi Haifa,27,M. Tel Aviv,23,4
+2022/23,12,Maccabi Haifa,30,M. Tel Aviv,26,4
+2022/23,13,Maccabi Haifa,33,M. Tel Aviv,29,4
+2022/23,14,Maccabi Haifa,36,M. Tel Aviv,32,4
+2022/23,15,Maccabi Haifa,39,M. Tel Aviv,35,4
+2022/23,16,Maccabi Haifa,42,M. Tel Aviv,36,6
+2022/23,17,Maccabi Haifa,45,M. Tel Aviv,39,6
+2022/23,18,Maccabi Haifa,48,H. Beer Sheva,41,7
+2022/23,19,Maccabi Haifa,48,M. Tel Aviv,43,5
+2022/23,20,Maccabi Haifa,49,H. Beer Sheva,45,4
+2022/23,21,Maccabi Haifa,50,H. Beer Sheva,48,2
+2022/23,22,Maccabi Haifa,53,H. Beer Sheva,49,4
+2022/23,23,Maccabi Haifa,53,H. Beer Sheva,49,4
+2022/23,24,Maccabi Haifa,56,H. Beer Sheva,52,4
+2022/23,25,Maccabi Haifa,59,H. Beer Sheva,55,4
+2022/23,26,Maccabi Haifa,62,H. Beer Sheva,58,4
+2023/24,1,M. Tel Aviv,3,H. Beer Sheva,3,0
+2023/24,2,M. Tel Aviv,6,H. Beer Sheva,4,2
+2023/24,3,M. Tel Aviv,7,Hapoel Haifa,7,0
+2023/24,4,M. Tel Aviv,10,Hapoel Haifa,10,0
+2023/24,5,M. Tel Aviv,13,Hapoel Haifa,10,3
+2023/24,6,M. Tel Aviv,16,Hapoel Haifa,13,3
+2023/24,7,M. Tel Aviv,16,Maccabi Haifa,14,2
+2023/24,8,M. Tel Aviv,19,Hapoel Haifa,17,2
+2023/24,9,M. Tel Aviv,22,Maccabi Haifa,18,4
+2023/24,10,M. Tel Aviv,25,Maccabi Haifa,21,4
+2023/24,11,M. Tel Aviv,28,Maccabi Haifa,24,4
+2023/24,12,M. Tel Aviv,31,Maccabi Haifa,27,4
+2023/24,13,M. Tel Aviv,34,Maccabi Haifa,28,6
+2023/24,14,M. Tel Aviv,37,Maccabi Haifa,29,8
+2023/24,15,M. Tel Aviv,38,Maccabi Haifa,32,6
+2023/24,16,M. Tel Aviv,39,Maccabi Haifa,35,4
+2023/24,17,M. Tel Aviv,42,Maccabi Haifa,38,4
+2023/24,18,M. Tel Aviv,43,Maccabi Haifa,41,2
+2023/24,19,M. Tel Aviv,46,Maccabi Haifa,41,5
+2023/24,20,M. Tel Aviv,46,Maccabi Haifa,44,2
+2023/24,21,Maccabi Haifa,47,M. Tel Aviv,47,0
+2023/24,22,M. Tel Aviv,50,Maccabi Haifa,48,2
+2023/24,23,M. Tel Aviv,53,Maccabi Haifa,51,2
+2023/24,24,M. Tel Aviv,56,Maccabi Haifa,54,2
+2023/24,25,M. Tel Aviv,59,Maccabi Haifa,54,5
+2023/24,26,M. Tel Aviv,62,Maccabi Haifa,55,7
+2024/25,1,M. Bnei Reineh,3,M. Tel Aviv,3,0
+2024/25,2,M. Tel Aviv,6,M. Bnei Reineh,6,0
+2024/25,3,M. Tel Aviv,9,M. Bnei Reineh,7,2
+2024/25,4,M. Tel Aviv,12,M. Bnei Reineh,10,2
+2024/25,5,M. Tel Aviv,13,B. Jerusalem,11,2
+2024/25,6,M. Tel Aviv,16,Maccabi Haifa,12,4
+2024/25,7,M. Tel Aviv,19,H. Beer Sheva,14,5
+2024/25,8,M. Tel Aviv,19,Maccabi Haifa,15,4
+2024/25,9,M. Tel Aviv,19,Maccabi Haifa,18,1
+2024/25,10,M. Tel Aviv,22,H. Beer Sheva,21,1
+2024/25,11,M. Tel Aviv,25,H. Beer Sheva,24,1
+2024/25,12,H. Beer Sheva,27,M. Tel Aviv,26,1
+2024/25,13,H. Beer Sheva,30,M. Tel Aviv,27,3
+2024/25,14,H. Beer Sheva,33,M. Tel Aviv,30,3
+2024/25,15,H. Beer Sheva,34,M. Tel Aviv,33,1
+2024/25,16,H. Beer Sheva,35,M. Tel Aviv,34,1
+2024/25,17,H. Beer Sheva,38,M. Tel Aviv,37,1
+2024/25,18,H. Beer Sheva,41,M. Tel Aviv,38,3
+2024/25,19,H. Beer Sheva,44,M. Tel Aviv,41,3
+2024/25,20,H. Beer Sheva,47,M. Tel Aviv,44,3
+2024/25,21,H. Beer Sheva,47,M. Tel Aviv,45,2
+2024/25,22,H. Beer Sheva,50,M. Tel Aviv,48,2
+2024/25,23,H. Beer Sheva,53,M. Tel Aviv,51,2
+2024/25,24,H. Beer Sheva,56,M. Tel Aviv,51,5
+2024/25,25,H. Beer Sheva,57,M. Tel Aviv,54,3
+2024/25,26,H. Beer Sheva,58,M. Tel Aviv,57,1

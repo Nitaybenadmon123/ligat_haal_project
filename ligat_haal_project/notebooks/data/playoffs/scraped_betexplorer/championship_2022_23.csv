@@ -1,0 +1,31 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2022/23,2022,36,championship,H. Beer Sheva,Netanya,2,0,2,H,3,0
+2022/23,2022,36,championship,Maccabi Haifa,Hapoel Jerusalem,5,0,5,H,3,0
+2022/23,2022,36,championship,SC Ashdod,Maccabi Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,35,championship,Maccabi Tel Aviv,H. Beer Sheva,3,0,3,H,3,0
+2022/23,2022,35,championship,Netanya,Maccabi Haifa,1,5,-4,A,0,3
+2022/23,2022,35,championship,Hapoel Jerusalem,SC Ashdod,0,1,-1,A,0,3
+2022/23,2022,34,championship,Maccabi Haifa,Maccabi Tel Aviv,3,1,2,H,3,0
+2022/23,2022,34,championship,SC Ashdod,H. Beer Sheva,0,1,-1,A,0,3
+2022/23,2022,34,championship,Hapoel Jerusalem,Netanya,1,4,-3,A,0,3
+2022/23,2022,33,championship,H. Beer Sheva,Maccabi Haifa,2,1,1,H,3,0
+2022/23,2022,33,championship,Maccabi Tel Aviv,Hapoel Jerusalem,2,1,1,H,3,0
+2022/23,2022,33,championship,Netanya,SC Ashdod,2,0,2,H,3,0
+2022/23,2022,32,championship,SC Ashdod,Maccabi Haifa,1,2,-1,A,0,3
+2022/23,2022,32,championship,Hapoel Jerusalem,H. Beer Sheva,1,2,-1,A,0,3
+2022/23,2022,32,championship,Netanya,Maccabi Tel Aviv,0,0,0,D,1,1
+2022/23,2022,31,championship,Netanya,H. Beer Sheva,1,1,0,D,1,1
+2022/23,2022,31,championship,Hapoel Jerusalem,Maccabi Haifa,2,1,1,H,3,0
+2022/23,2022,31,championship,Maccabi Tel Aviv,SC Ashdod,1,1,0,D,1,1
+2022/23,2022,30,championship,H. Beer Sheva,Maccabi Tel Aviv,1,2,-1,A,0,3
+2022/23,2022,30,championship,Maccabi Haifa,Netanya,4,1,3,H,3,0
+2022/23,2022,30,championship,SC Ashdod,Hapoel Jerusalem,0,1,-1,A,0,3
+2022/23,2022,29,championship,H. Beer Sheva,SC Ashdod,3,1,2,H,3,0
+2022/23,2022,29,championship,Maccabi Tel Aviv,Maccabi Haifa,1,1,0,D,1,1
+2022/23,2022,29,championship,Netanya,Hapoel Jerusalem,0,2,-2,A,0,3
+2022/23,2022,28,championship,Hapoel Jerusalem,Maccabi Tel Aviv,0,2,-2,A,0,3
+2022/23,2022,28,championship,Maccabi Haifa,H. Beer Sheva,1,0,1,H,3,0
+2022/23,2022,28,championship,SC Ashdod,Netanya,3,2,1,H,3,0
+2022/23,2022,27,championship,H. Beer Sheva,Hapoel Jerusalem,1,0,1,H,3,0
+2022/23,2022,27,championship,Maccabi Haifa,SC Ashdod,2,1,1,H,3,0
+2022/23,2022,27,championship,Maccabi Tel Aviv,Netanya,2,0,2,H,3,0

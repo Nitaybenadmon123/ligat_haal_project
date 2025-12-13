@@ -1,0 +1,29 @@
+season,season_year,round,playoff_type,home_team,away_team,home_goals,away_goals,goal_diff,result,home_points,away_points
+2023/24,2023,33,relegation,Beitar Jerusalem,Maccabi Petah Tikva,1,1,0,D,1,1
+2023/24,2023,33,relegation,Hapoel Petah Tikva,Netanya,1,3,-2,A,0,3
+2023/24,2023,33,relegation,Hapoel Hadera,Hapoel Tel Aviv,0,1,-1,A,0,3
+2023/24,2023,33,relegation,SC Ashdod,Hapoel Jerusalem,3,1,2,H,3,0
+2023/24,2023,32,relegation,Hapoel Jerusalem,Beitar Jerusalem,3,0,3,H,3,0
+2023/24,2023,32,relegation,Hapoel Tel Aviv,SC Ashdod,0,2,-2,A,0,3
+2023/24,2023,32,relegation,Maccabi Petah Tikva,Hapoel Petah Tikva,4,1,3,H,3,0
+2023/24,2023,32,relegation,Netanya,Hapoel Hadera,1,2,-1,A,0,3
+2023/24,2023,31,relegation,Beitar Jerusalem,SC Ashdod,0,0,0,D,1,1
+2023/24,2023,31,relegation,Hapoel Hadera,Maccabi Petah Tikva,0,4,-4,A,0,3
+2023/24,2023,31,relegation,Hapoel Petah Tikva,Hapoel Jerusalem,1,0,1,H,3,0
+2023/24,2023,31,relegation,Netanya,Hapoel Tel Aviv,0,1,-1,A,0,3
+2023/24,2023,30,relegation,Hapoel Jerusalem,Hapoel Hadera,2,1,1,H,3,0
+2023/24,2023,30,relegation,Hapoel Tel Aviv,Beitar Jerusalem,1,5,-4,A,0,3
+2023/24,2023,30,relegation,Maccabi Petah Tikva,Netanya,0,2,-2,A,0,3
+2023/24,2023,30,relegation,SC Ashdod,Hapoel Petah Tikva,1,0,1,H,3,0
+2023/24,2023,29,relegation,Hapoel Hadera,SC Ashdod,2,2,0,D,1,1
+2023/24,2023,29,relegation,Hapoel Petah Tikva,Beitar Jerusalem,0,2,-2,A,0,3
+2023/24,2023,29,relegation,Maccabi Petah Tikva,Hapoel Tel Aviv,4,2,2,H,3,0
+2023/24,2023,29,relegation,Netanya,Hapoel Jerusalem,1,0,1,H,3,0
+2023/24,2023,28,relegation,Hapoel Jerusalem,Maccabi Petah Tikva,2,0,2,H,3,0
+2023/24,2023,28,relegation,SC Ashdod,Netanya,0,0,0,D,1,1
+2023/24,2023,28,relegation,Beitar Jerusalem,Hapoel Hadera,0,1,-1,A,0,3
+2023/24,2023,28,relegation,Hapoel Tel Aviv,Hapoel Petah Tikva,1,1,0,D,1,1
+2023/24,2023,27,relegation,Hapoel Jerusalem,Hapoel Tel Aviv,2,0,2,H,3,0
+2023/24,2023,27,relegation,Netanya,Beitar Jerusalem,0,3,-3,A,0,3
+2023/24,2023,27,relegation,Hapoel Hadera,Hapoel Petah Tikva,1,1,0,D,1,1
+2023/24,2023,27,relegation,Maccabi Petah Tikva,SC Ashdod,0,1,-1,A,0,3
