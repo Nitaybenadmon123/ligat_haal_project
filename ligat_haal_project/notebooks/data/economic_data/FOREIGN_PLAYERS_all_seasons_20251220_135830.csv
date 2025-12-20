@@ -1,0 +1,830 @@
+﻿season,season_year,player_name,position,nationality,club,market_value_millions
+2006/07,2006,,Unknown,Brazil,Maccabi Haifa,0.0
+2006/07,2006,,Unknown,Ghana,Hapoel Kfar Saba,0.0
+2006/07,2006,,Unknown,Nigeria,Maccabi Petah Tikva,0.0
+2006/07,2006,,Unknown,Croatia,Maccabi Tel Aviv,0.0
+2006/07,2006,,Unknown,DR Congo,Hakoah Amidar Ramat Gan,0.0
+2006/07,2006,,Unknown,Cote d'Ivoire,FC Ashdod,0.0
+2006/07,2006,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2006/07,2006,,Unknown,Senegal,Hapoel Petah Tikva,0.0
+2006/07,2006,,Unknown,Romania,Maccabi Netanya,0.0
+2006/07,2006,,Unknown,Argentina,Hapoel Tel Aviv,0.0
+2006/07,2006,,Unknown,France,Maccabi Herzliya,0.0
+2006/07,2006,,Unknown,Chile,Beitar Jerusalem,0.0
+2006/07,2006,,Unknown,Cameroon,Maccabi Petah Tikva,0.0
+2006/07,2006,,Unknown,Rwanda,Hapoel Petah Tikva,0.0
+2006/07,2006,,Unknown,Uruguay,FC Ashdod,0.0
+2006/07,2006,,Unknown,United States,Maccabi Herzliya,0.0
+2006/07,2006,,Unknown,Spain,Maccabi Herzliya,0.0
+2006/07,2006,,Unknown,The Gambia,Hapoel Petah Tikva,0.0
+2006/07,2006,,Unknown,Russia,Maccabi Petah Tikva,0.0
+2006/07,2006,,Unknown,Germany,Hakoah Amidar Ramat Gan,0.0
+2006/07,2006,,Unknown,Costa Rica,Maccabi Netanya,0.0
+2006/07,2006,,Unknown,Bosnia-Herzegovina,Hapoel Tel Aviv,0.0
+2006/07,2006,,Unknown,Australia,Maccabi Herzliya,0.0
+2007/08,2007,,Unknown,Brazil,Hapoel Tel Aviv,0.0
+2007/08,2007,,Unknown,Nigeria,Bnei Yehuda Tel Aviv,0.0
+2007/08,2007,,Unknown,Ghana,Hapoel Kfar Saba,0.0
+2007/08,2007,,Unknown,DR Congo,Ihud Bnei Sakhnin,0.0
+2007/08,2007,,Unknown,Cameroon,Ironi Kiryat Shmona,0.0
+2007/08,2007,,Unknown,Croatia,Beitar Jerusalem,0.0
+2007/08,2007,,Unknown,Argentina,Maccabi Haifa,0.0
+2007/08,2007,,Unknown,France,Maccabi Tel Aviv,0.0
+2007/08,2007,,Unknown,Cote d'Ivoire,Ironi Kiryat Shmona,0.0
+2007/08,2007,,Unknown,Chile,Beitar Jerusalem,0.0
+2007/08,2007,,Unknown,Bulgaria,Hapoel Tel Aviv,0.0
+2007/08,2007,,Unknown,Romania,Ihud Bnei Sakhnin,0.0
+2007/08,2007,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2007/08,2007,,Unknown,Uruguay,FC Ashdod,0.0
+2007/08,2007,,Unknown,South Africa,Maccabi Haifa,0.0
+2007/08,2007,,Unknown,Costa Rica,Maccabi Netanya,0.0
+2007/08,2007,,Unknown,Belgium,Maccabi Herzliya,0.0
+2007/08,2007,,Unknown,Colombia,Ihud Bnei Sakhnin,0.0
+2007/08,2007,,Unknown,Slovenia,Maccabi Herzliya,0.0
+2007/08,2007,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2007/08,2007,,Unknown,Bosnia-Herzegovina,Bnei Yehuda Tel Aviv,0.0
+2007/08,2007,,Unknown,Equatorial Guinea,Maccabi Netanya,0.0
+2007/08,2007,,Unknown,England,Maccabi Herzliya,0.0
+2007/08,2007,,Unknown,United States,Ihud Bnei Sakhnin,0.0
+2007/08,2007,,Unknown,Gabon,Ironi Kiryat Shmona,0.0
+2007/08,2007,,Unknown,Türkiye,Hapoel Tel Aviv,0.0
+2007/08,2007,,Unknown,Georgia,Maccabi Petah Tikva,0.0
+2007/08,2007,,Unknown,Slovakia,Maccabi Netanya,0.0
+2007/08,2007,,Unknown,Switzerland,Maccabi Petah Tikva,0.0
+2007/08,2007,,Unknown,Russia,Maccabi Petah Tikva,0.0
+2007/08,2007,,Unknown,Rwanda,Maccabi Herzliya,0.0
+2007/08,2007,,Unknown,Poland,2 Clubs,0.0
+2007/08,2007,,Unknown,Peru,Beitar Jerusalem,0.0
+2007/08,2007,,Unknown,Armenia,Ihud Bnei Sakhnin,0.0
+2008/09,2008,,Unknown,Ghana,Hapoel Tel Aviv,0.0
+2008/09,2008,,Unknown,Nigeria,Bnei Yehuda Tel Aviv,0.0
+2008/09,2008,,Unknown,Brazil,Maccabi Haifa,0.0
+2008/09,2008,,Unknown,Bulgaria,FC Ashdod,0.0
+2008/09,2008,,Unknown,Argentina,Beitar Jerusalem,0.0
+2008/09,2008,,Unknown,South Africa,Maccabi Netanya,0.0
+2008/09,2008,,Unknown,Colombia,Maccabi Haifa,0.0
+2008/09,2008,,Unknown,Cameroon,Hakoah Amidar Ramat Gan,0.0
+2008/09,2008,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2008/09,2008,,Unknown,DR Congo,Ihud Bnei Sakhnin,0.0
+2008/09,2008,,Unknown,Peru,Hapoel Petah Tikva,0.0
+2008/09,2008,,Unknown,France,Maccabi Petah Tikva,0.0
+2008/09,2008,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2008/09,2008,,Unknown,United States,Maccabi Haifa,0.0
+2008/09,2008,,Unknown,Panama,Maccabi Netanya,0.0
+2008/09,2008,,Unknown,Croatia,Beitar Jerusalem,0.0
+2008/09,2008,,Unknown,The Gambia,Hakoah Amidar Ramat Gan,0.0
+2008/09,2008,,Unknown,Poland,FC Ashdod,0.0
+2008/09,2008,,Unknown,Burkina Faso,Hapoel Petah Tikva,0.0
+2008/09,2008,,Unknown,Chile,Beitar Jerusalem,0.0
+2008/09,2008,,Unknown,Costa Rica,Maccabi Netanya,0.0
+2008/09,2008,,Unknown,Uruguay,FC Ashdod,0.0
+2008/09,2008,,Unknown,Czech Republic,FC Ashdod,0.0
+2008/09,2008,,Unknown,Trinidad and Tobago,Maccabi Tel Aviv,0.0
+2008/09,2008,,Unknown,Equatorial Guinea,Maccabi Netanya,0.0
+2008/09,2008,,Unknown,Slovenia,Maccabi Petah Tikva,0.0
+2008/09,2008,,Unknown,Zambia,Maccabi Tel Aviv,0.0
+2008/09,2008,,Unknown,Russia,Maccabi Petah Tikva,0.0
+2008/09,2008,,Unknown,Cote d'Ivoire,Maccabi Netanya,0.0
+2008/09,2008,,Unknown,Paraguay,FC Ashdod,0.0
+2008/09,2008,,Unknown,Gabon,Ironi Kiryat Shmona,0.0
+2008/09,2008,,Unknown,Armenia,Maccabi Tel Aviv,0.0
+2008/09,2008,,Unknown,North Macedonia,Maccabi Petah Tikva,0.0
+2008/09,2008,,Unknown,Lithuania,Ihud Bnei Sakhnin,0.0
+2008/09,2008,,Unknown,Liberia,Maccabi Tel Aviv,0.0
+2008/09,2008,,Unknown,Bolivia,Ironi Kiryat Shmona,0.0
+2008/09,2008,,Unknown,Kazakhstan,Hapoel Petah Tikva,0.0
+2008/09,2008,,Unknown,Guinea-Bissau,Ihud Bnei Sakhnin,0.0
+2008/09,2008,,Unknown,Bosnia-Herzegovina,FC Ashdod,0.0
+2009/10,2009,,Unknown,Brazil,Hapoel Tel Aviv,0.0
+2009/10,2009,,Unknown,Ghana,Hapoel Petah Tikva,0.0
+2009/10,2009,,Unknown,Nigeria,Hapoel Ramat Gan,0.0
+2009/10,2009,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2009/10,2009,,Unknown,Argentina,Bnei Yehuda Tel Aviv,0.0
+2009/10,2009,,Unknown,Croatia,Hapoel Beer Sheva,0.0
+2009/10,2009,,Unknown,Cameroon,FC Ashdod,0.0
+2009/10,2009,,Unknown,Georgia,Maccabi Haifa,0.0
+2009/10,2009,,Unknown,Togo,Ihud Bnei Sakhnin,0.0
+2009/10,2009,,Unknown,Peru,Beitar Jerusalem,0.0
+2009/10,2009,,Unknown,Liberia,Hapoel Petah Tikva,0.0
+2009/10,2009,,Unknown,United States,Hapoel Haifa,0.0
+2009/10,2009,,Unknown,DR Congo,Ihud Bnei Sakhnin,0.0
+2009/10,2009,,Unknown,France,Hapoel Raanana,0.0
+2009/10,2009,,Unknown,Slovenia,Maccabi Tel Aviv,0.0
+2009/10,2009,,Unknown,Russia,Maccabi Petah Tikva,0.0
+2009/10,2009,,Unknown,Portugal,Maccabi Haifa,0.0
+2009/10,2009,,Unknown,South Africa,Maccabi Netanya,0.0
+2009/10,2009,,Unknown,Uruguay,FC Ashdod,0.0
+2009/10,2009,,Unknown,Colombia,Bnei Yehuda Tel Aviv,0.0
+2009/10,2009,,Unknown,North Macedonia,Maccabi Petah Tikva,0.0
+2009/10,2009,,Unknown,Lithuania,Hapoel Raanana,0.0
+2009/10,2009,,Unknown,Cote d'Ivoire,Hapoel Ramat Gan,0.0
+2009/10,2009,,Unknown,Bulgaria,FC Ashdod,0.0
+2009/10,2009,,Unknown,Netherlands,Hapoel Tel Aviv,0.0
+2009/10,2009,,Unknown,Montenegro,Ihud Bnei Sakhnin,0.0
+2009/10,2009,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2009/10,2009,,Unknown,Czech Republic,2 Clubs,0.0
+2009/10,2009,,Unknown,Trinidad and Tobago,Ihud Bnei Sakhnin,0.0
+2009/10,2009,,Unknown,Zambia,Maccabi Tel Aviv,0.0
+2009/10,2009,,Unknown,Kazakhstan,2 Clubs,0.0
+2009/10,2009,,Unknown,Bosnia-Herzegovina,FC Ashdod,0.0
+2009/10,2009,,Unknown,Bolivia,Maccabi Tel Aviv,0.0
+2009/10,2009,,Unknown,Armenia,Maccabi Tel Aviv,0.0
+2010/11,2010,,Unknown,Ghana,Hapoel Ironi Ashkelon,0.0
+2010/11,2010,,Unknown,Bulgaria,Hapoel Ramat Gan,0.0
+2010/11,2010,,Unknown,Argentina,Hapoel Ramat Gan,0.0
+2010/11,2010,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2010/11,2010,,Unknown,Serbia,Hapoel Haifa,0.0
+2010/11,2010,,Unknown,Nigeria,Bnei Yehuda Tel Aviv,0.0
+2010/11,2010,,Unknown,Brazil,Hapoel Beer Sheva,0.0
+2010/11,2010,,Unknown,Croatia,Hapoel Haifa,0.0
+2010/11,2010,,Unknown,France,Maccabi Petah Tikva,0.0
+2010/11,2010,,Unknown,Georgia,Maccabi Haifa,0.0
+2010/11,2010,,Unknown,Slovenia,Ihud Bnei Sakhnin,0.0
+2010/11,2010,,Unknown,Portugal,Hapoel Beer Sheva,0.0
+2010/11,2010,,Unknown,Uruguay,2 Clubs,0.0
+2010/11,2010,,Unknown,United States,Ironi Kiryat Shmona,0.0
+2010/11,2010,,Unknown,DR Congo,Hapoel Haifa,0.0
+2010/11,2010,,Unknown,Cameroon,FC Ashdod,0.0
+2010/11,2010,,Unknown,Colombia,Maccabi Haifa,0.0
+2010/11,2010,,Unknown,Ukraine,Maccabi Netanya,0.0
+2010/11,2010,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2010/11,2010,,Unknown,Togo,Hapoel Acre,0.0
+2010/11,2010,,Unknown,Bosnia-Herzegovina,Maccabi Tel Aviv,0.0
+2010/11,2010,,Unknown,South Africa,Hapoel Tel Aviv,0.0
+2010/11,2010,,Unknown,Mali,Maccabi Tel Aviv,0.0
+2010/11,2010,,Unknown,Montenegro,Maccabi Tel Aviv,0.0
+2010/11,2010,,Unknown,Spain,Hapoel Ramat Gan,0.0
+2010/11,2010,,Unknown,Hongkong,Ironi Kiryat Shmona,0.0
+2010/11,2010,,Unknown,Slovakia,Hapoel Tel Aviv,0.0
+2010/11,2010,,Unknown,Switzerland,Hapoel Petah Tikva,0.0
+2010/11,2010,,Unknown,Zambia,Ironi Kiryat Shmona,0.0
+2010/11,2010,,Unknown,Russia,Maccabi Petah Tikva,0.0
+2010/11,2010,,Unknown,Romania,Ihud Bnei Sakhnin,0.0
+2010/11,2010,,Unknown,Peru,Hapoel Petah Tikva,0.0
+2010/11,2010,,Unknown,North Macedonia,Ironi Kiryat Shmona,0.0
+2010/11,2010,,Unknown,Kyrgyzstan,Hapoel Petah Tikva,0.0
+2010/11,2010,,Unknown,Haiti,FC Ashdod,0.0
+2010/11,2010,,Unknown,Cote d'Ivoire,2 Clubs,0.0
+2010/11,2010,,Unknown,Chile,Beitar Jerusalem,0.0
+2010/11,2010,,Unknown,Bolivia,Maccabi Netanya,0.0
+2010/11,2010,,Unknown,Belgium,FC Ashdod,0.0
+2010/11,2010,,Unknown,Azerbaijan,Bnei Yehuda Tel Aviv,0.0
+2010/11,2010,,Unknown,Armenia,2 Clubs,0.0
+2011/12,2011,,Unknown,Serbia,Ironi Kiryat Shmona,0.0
+2011/12,2011,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2011/12,2011,,Unknown,Croatia,Hapoel Haifa,0.0
+2011/12,2011,,Unknown,Brazil,Hapoel Rishon leZion,0.0
+2011/12,2011,,Unknown,Nigeria,Hapoel Petah Tikva,0.0
+2011/12,2011,,Unknown,Ghana,Hapoel Petah Tikva,0.0
+2011/12,2011,,Unknown,France,Beitar Jerusalem,0.0
+2011/12,2011,,Unknown,Argentina,Bnei Yehuda Tel Aviv,0.0
+2011/12,2011,,Unknown,Montenegro,Hapoel Haifa,0.0
+2011/12,2011,,Unknown,Bosnia-Herzegovina,Hapoel Rishon leZion,0.0
+2011/12,2011,,Unknown,Cameroon,Hapoel Petah Tikva,0.0
+2011/12,2011,,Unknown,Ukraine,Beitar Jerusalem,0.0
+2011/12,2011,,Unknown,DR Congo,FC Ashdod,0.0
+2011/12,2011,,Unknown,Slovenia,Hapoel Haifa,0.0
+2011/12,2011,,Unknown,Zambia,FC Ashdod,0.0
+2011/12,2011,,Unknown,United States,Ironi Kiryat Shmona,0.0
+2011/12,2011,,Unknown,South Africa,Bnei Yehuda Tel Aviv,0.0
+2011/12,2011,,Unknown,Moldova,Hapoel Rishon leZion,0.0
+2011/12,2011,,Unknown,Bulgaria,Ihud Bnei Sakhnin,0.0
+2011/12,2011,,Unknown,Colombia,Hapoel Beer Sheva,0.0
+2011/12,2011,,Unknown,Georgia,Maccabi Haifa,0.0
+2011/12,2011,,Unknown,Armenia,Hapoel Tel Aviv,0.0
+2011/12,2011,,Unknown,Azerbaijan,Bnei Yehuda Tel Aviv,0.0
+2011/12,2011,,Unknown,Belgium,Ihud Bnei Sakhnin,0.0
+2011/12,2011,,Unknown,Cote d'Ivoire,Hapoel Rishon leZion,0.0
+2011/12,2011,,Unknown,Hungary,Hapoel Rishon leZion,0.0
+2011/12,2011,,Unknown,Ecuador,Maccabi Haifa,0.0
+2011/12,2011,,Unknown,Suriname,Maccabi Netanya,0.0
+2011/12,2011,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2011/12,2011,,Unknown,Slovakia,Hapoel Tel Aviv,0.0
+2011/12,2011,,Unknown,Senegal,Maccabi Tel Aviv,0.0
+2011/12,2011,,Unknown,Switzerland,Hapoel Petah Tikva,0.0
+2011/12,2011,,Unknown,Liberia,Hapoel Haifa,0.0
+2011/12,2011,,Unknown,Portugal,Hapoel Beer Sheva,0.0
+2011/12,2011,,Unknown,Poland,Hapoel Beer Sheva,0.0
+2012/13,2012,,Unknown,Serbia,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Nigeria,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2012/13,2012,,Unknown,Brazil,Hapoel Beer Sheva,0.0
+2012/13,2012,,Unknown,Argentina,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Ghana,2 Clubs,0.0
+2012/13,2012,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2012/13,2012,,Unknown,Montenegro,Hapoel Haifa,0.0
+2012/13,2012,,Unknown,Croatia,Beitar Jerusalem,0.0
+2012/13,2012,,Unknown,Russia,Hapoel Ramat Gan,0.0
+2012/13,2012,,Unknown,DR Congo,Hapoel Ramat haSharon,0.0
+2012/13,2012,,Unknown,France,Ihud Bnei Sakhnin,0.0
+2012/13,2012,,Unknown,United States,Ironi Kiryat Shmona,0.0
+2012/13,2012,,Unknown,Bosnia-Herzegovina,Hapoel Beer Sheva,0.0
+2012/13,2012,,Unknown,Hungary,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Slovenia,FC Ashdod,0.0
+2012/13,2012,,Unknown,Portugal,Maccabi Netanya,0.0
+2012/13,2012,,Unknown,North Macedonia,Ironi Kiryat Shmona,0.0
+2012/13,2012,,Unknown,Bulgaria,FC Ashdod,0.0
+2012/13,2012,,Unknown,Togo,Ihud Bnei Sakhnin,0.0
+2012/13,2012,,Unknown,Suriname,2 Clubs,0.0
+2012/13,2012,,Unknown,South Africa,Maccabi Haifa,0.0
+2012/13,2012,,Unknown,Ukraine,Maccabi Haifa,0.0
+2012/13,2012,,Unknown,Central African Republic,Hapoel Ramat Gan,0.0
+2012/13,2012,,Unknown,Wales,Maccabi Tel Aviv,0.0
+2012/13,2012,,Unknown,Armenia,Hapoel Tel Aviv,0.0
+2012/13,2012,,Unknown,Switzerland,Hapoel Haifa,0.0
+2012/13,2012,,Unknown,Sweden,Maccabi Tel Aviv,0.0
+2012/13,2012,,Unknown,Zambia,Hapoel Beer Sheva,0.0
+2012/13,2012,,Unknown,Romania,Hapoel Ramat Gan,0.0
+2012/13,2012,,Unknown,Azerbaijan,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Mali,Hapoel Ramat Gan,0.0
+2012/13,2012,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2012/13,2012,,Unknown,Congo,Hapoel Ramat Gan,0.0
+2012/13,2012,,Unknown,Kenya,Hapoel Beer Sheva,0.0
+2012/13,2012,,Unknown,Canada,Maccabi Tel Aviv,0.0
+2012/13,2012,,Unknown,Italy,Maccabi Netanya,0.0
+2012/13,2012,,Unknown,Finland,Ironi Kiryat Shmona,0.0
+2012/13,2012,,Unknown,Cote d'Ivoire,Maccabi Tel Aviv,0.0
+2012/13,2012,,Unknown,Cameroon,Hapoel Tel Aviv,0.0
+2012/13,2012,,Unknown,Belgium,Ihud Bnei Sakhnin,0.0
+2013/14,2013,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2013/14,2013,,Unknown,Spain,Ihud Bnei Sakhnin,0.0
+2013/14,2013,,Unknown,Brazil,Ironi Kiryat Shmona,0.0
+2013/14,2013,,Unknown,Nigeria,Bnei Yehuda Tel Aviv,0.0
+2013/14,2013,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2013/14,2013,,Unknown,Argentina,Maccabi Petah Tikva,0.0
+2013/14,2013,,Unknown,Bosnia-Herzegovina,Hapoel Ramat haSharon,0.0
+2013/14,2013,,Unknown,Croatia,Maccabi Petah Tikva,0.0
+2013/14,2013,,Unknown,Montenegro,Hapoel Haifa,0.0
+2013/14,2013,,Unknown,Lithuania,Hapoel Haifa,0.0
+2013/14,2013,,Unknown,Zambia,Hapoel Raanana,0.0
+2013/14,2013,,Unknown,Hungary,Bnei Yehuda Tel Aviv,0.0
+2013/14,2013,,Unknown,Slovenia,Hapoel Tel Aviv,0.0
+2013/14,2013,,Unknown,United States,Hapoel Ramat haSharon,0.0
+2013/14,2013,,Unknown,Senegal,Hapoel Raanana,0.0
+2013/14,2013,,Unknown,DR Congo,FC Ashdod,0.0
+2013/14,2013,,Unknown,Netherlands,Hapoel Beer Sheva,0.0
+2013/14,2013,,Unknown,North Macedonia,Hapoel Tel Aviv,0.0
+2013/14,2013,,Unknown,Azerbaijan,Bnei Yehuda Tel Aviv,0.0
+2013/14,2013,,Unknown,England,Bnei Yehuda Tel Aviv,0.0
+2013/14,2013,,Unknown,Martinique,Maccabi Tel Aviv,0.0
+2013/14,2013,,Unknown,Albania,Hapoel Acre,0.0
+2013/14,2013,,Unknown,Venezuela,Beitar Jerusalem,0.0
+2013/14,2013,,Unknown,Gibraltar,Bnei Yehuda Tel Aviv,0.0
+2013/14,2013,,Unknown,Ukraine,Maccabi Haifa,0.0
+2013/14,2013,,Unknown,South Africa,Maccabi Haifa,0.0
+2013/14,2013,,Unknown,Sierra Leone,Beitar Jerusalem,0.0
+2013/14,2013,,Unknown,Sweden,Maccabi Tel Aviv,0.0
+2013/14,2013,,Unknown,Central African Republic,Ironi Kiryat Shmona,0.0
+2013/14,2013,,Unknown,France,Hapoel Acre,0.0
+2013/14,2013,,Unknown,Finland,Maccabi Petah Tikva,0.0
+2013/14,2013,,Unknown,Cote d'Ivoire,Maccabi Petah Tikva,0.0
+2013/14,2013,,Unknown,Belgium,Hapoel Beer Sheva,0.0
+2013/14,2013,,Unknown,Ethiopia,Hapoel Ramat haSharon,0.0
+2014/15,2014,,Unknown,Nigeria,Hapoel Beer Sheva,0.0
+2014/15,2014,,Unknown,Brazil,Hapoel Beer Sheva,0.0
+2014/15,2014,,Unknown,Serbia,Maccabi Haifa,0.0
+2014/15,2014,,Unknown,Spain,2 Clubs,0.0
+2014/15,2014,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2014/15,2014,,Unknown,Romania,Hapoel Beer Sheva,0.0
+2014/15,2014,,Unknown,Croatia,Hapoel Petah Tikva,0.0
+2014/15,2014,,Unknown,Zambia,Ironi Kiryat Shmona,0.0
+2014/15,2014,,Unknown,Lithuania,Hapoel Haifa,0.0
+2014/15,2014,,Unknown,Cameroon,Maccabi Haifa,0.0
+2014/15,2014,,Unknown,Bulgaria,Maccabi Petah Tikva,0.0
+2014/15,2014,,Unknown,Bosnia-Herzegovina,Hapoel Acre,0.0
+2014/15,2014,,Unknown,United States,Maccabi Petah Tikva,0.0
+2014/15,2014,,Unknown,Czech Republic,Hapoel Haifa,0.0
+2014/15,2014,,Unknown,Suriname,Ironi Kiryat Shmona,0.0
+2014/15,2014,,Unknown,Slovenia,Ihud Bnei Sakhnin,0.0
+2014/15,2014,,Unknown,Sierra Leone,Maccabi Haifa,0.0
+2014/15,2014,,Unknown,Senegal,Hapoel Raanana,0.0
+2014/15,2014,,Unknown,DR Congo,FC Ashdod,0.0
+2014/15,2014,,Unknown,Sweden,Maccabi Tel Aviv,0.0
+2014/15,2014,,Unknown,Montenegro,2 Clubs,0.0
+2014/15,2014,,Unknown,Netherlands,Hapoel Tel Aviv,0.0
+2014/15,2014,,Unknown,Central African Republic,Ironi Kiryat Shmona,0.0
+2014/15,2014,,Unknown,Albania,2 Clubs,0.0
+2014/15,2014,,Unknown,Canada,Hapoel Haifa,0.0
+2014/15,2014,,Unknown,Guinea-Bissau,Hapoel Tel Aviv,0.0
+2014/15,2014,,Unknown,Guinea,Hapoel Petah Tikva,0.0
+2014/15,2014,,Unknown,Greece,2 Clubs,0.0
+2014/15,2014,,Unknown,Ghana,Hapoel Haifa,0.0
+2014/15,2014,,Unknown,France,Hapoel Haifa,0.0
+2014/15,2014,,Unknown,Belgium,Maccabi Petah Tikva,0.0
+2014/15,2014,,Unknown,Azerbaijan,Hapoel Raanana,0.0
+2014/15,2014,,Unknown,Armenia,Hapoel Tel Aviv,0.0
+2014/15,2014,,Unknown,Argentina,2 Clubs,0.0
+2015/16,2015,,Unknown,Brazil,Beitar Jerusalem,0.0
+2015/16,2015,,Unknown,Nigeria,Hapoel Beer Sheva,0.0
+2015/16,2015,,Unknown,Spain,Hapoel Kfar Saba,0.0
+2015/16,2015,,Unknown,Serbia,Beitar Jerusalem,0.0
+2015/16,2015,,Unknown,Palestine,Maccabi Haifa,0.0
+2015/16,2015,,Unknown,Romania,Hapoel Beer Sheva,0.0
+2015/16,2015,,Unknown,Croatia,Hapoel Kfar Saba,0.0
+2015/16,2015,,Unknown,Montenegro,Hapoel Acre,0.0
+2015/16,2015,,Unknown,Lithuania,Hapoel Haifa,0.0
+2015/16,2015,,Unknown,Bosnia-Herzegovina,Hapoel Acre,0.0
+2015/16,2015,,Unknown,The Gambia,2 Clubs,0.0
+2015/16,2015,,Unknown,Greece,Hapoel Tel Aviv,0.0
+2015/16,2015,,Unknown,Azerbaijan,Bnei Yehuda Tel Aviv,0.0
+2015/16,2015,,Unknown,Netherlands,Maccabi Haifa,0.0
+2015/16,2015,,Unknown,Portugal,Hapoel Haifa,0.0
+2015/16,2015,,Unknown,Belgium,Maccabi Petah Tikva,0.0
+2015/16,2015,,Unknown,Zambia,Hapoel Raanana,0.0
+2015/16,2015,,Unknown,Argentina,Bnei Yehuda Tel Aviv,0.0
+2015/16,2015,,Unknown,Burkina Faso,2 Clubs,0.0
+2015/16,2015,,Unknown,Australia,Beitar Jerusalem,0.0
+2015/16,2015,,Unknown,Ukraine,Maccabi Netanya,0.0
+2015/16,2015,,Unknown,Czech Republic,Hapoel Haifa,0.0
+2015/16,2015,,Unknown,Belarus,Hapoel Haifa,0.0
+2015/16,2015,,Unknown,Slovenia,Hapoel Raanana,0.0
+2015/16,2015,,Unknown,Senegal,Hapoel Raanana,0.0
+2015/16,2015,,Unknown,Sweden,Maccabi Petah Tikva,0.0
+2015/16,2015,,Unknown,Central African Republic,Ironi Kiryat Shmona,0.0
+2015/16,2015,,Unknown,Poland,Maccabi Haifa,0.0
+2015/16,2015,,Unknown,Bolivia,Ironi Kiryat Shmona,0.0
+2015/16,2015,,Unknown,Albania,Hapoel Raanana,0.0
+2015/16,2015,,Unknown,Congo,Hapoel Kfar Saba,0.0
+2015/16,2015,,Unknown,France,Maccabi Petah Tikva,0.0
+2015/16,2015,,Unknown,Cote d'Ivoire,Bnei Yehuda Tel Aviv,0.0
+2016/17,2016,,Unknown,Brazil,Beitar Jerusalem,0.0
+2016/17,2016,,Unknown,Croatia,FC Ashdod,0.0
+2016/17,2016,,Unknown,Serbia,Hapoel Kfar Saba,0.0
+2016/17,2016,,Unknown,Nigeria,Hapoel Ironi Ashkelon,0.0
+2016/17,2016,,Unknown,Spain,Ihud Bnei Sakhnin,0.0
+2016/17,2016,,Unknown,Zambia,Hapoel Raanana,0.0
+2016/17,2016,,Unknown,Argentina,2 Clubs,0.0
+2016/17,2016,,Unknown,Portugal,Hapoel Haifa,0.0
+2016/17,2016,,Unknown,Belarus,Hapoel Raanana,0.0
+2016/17,2016,,Unknown,Romania,Maccabi Petah Tikva,0.0
+2016/17,2016,,Unknown,Russia,FC Ashdod,0.0
+2016/17,2016,,Unknown,Netherlands,Hapoel Haifa,0.0
+2016/17,2016,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2016/17,2016,,Unknown,Iceland,Maccabi Tel Aviv,0.0
+2016/17,2016,,Unknown,Cote d'Ivoire,Ironi Kiryat Shmona,0.0
+2016/17,2016,,Unknown,Montenegro,Hapoel Tel Aviv,0.0
+2016/17,2016,,Unknown,Azerbaijan,Hapoel Raanana,0.0
+2016/17,2016,,Unknown,Palestine,2 Clubs,0.0
+2016/17,2016,,Unknown,Slovenia,Hapoel Raanana,0.0
+2016/17,2016,,Unknown,Kosovo,Maccabi Haifa,0.0
+2016/17,2016,,Unknown,South Africa,Hapoel Raanana,0.0
+2016/17,2016,,Unknown,Chad,2 Clubs,0.0
+2016/17,2016,,Unknown,Czech Republic,Maccabi Haifa,0.0
+2016/17,2016,,Unknown,Ukraine,Hapoel Ironi Ashkelon,0.0
+2016/17,2016,,Unknown,Hungary,Hapoel Beer Sheva,0.0
+2016/17,2016,,Unknown,Uruguay,Maccabi Haifa,0.0
+2016/17,2016,,Unknown,United Arab Emirates,FC Ashdod,0.0
+2016/17,2016,,Unknown,Martinique,Beitar Jerusalem,0.0
+2016/17,2016,,Unknown,Angola,2 Clubs,0.0
+2016/17,2016,,Unknown,Slovakia,Beitar Jerusalem,0.0
+2016/17,2016,,Unknown,Central African Republic,Hapoel Ironi Ashkelon,0.0
+2016/17,2016,,Unknown,Austria,FC Ashdod,0.0
+2016/17,2016,,Unknown,Norway,Maccabi Haifa,0.0
+2016/17,2016,,Unknown,Congo,Hapoel Kfar Saba,0.0
+2016/17,2016,,Unknown,Jamaica,Hapoel Tel Aviv,0.0
+2016/17,2016,,Unknown,Guinea,Beitar Jerusalem,0.0
+2016/17,2016,,Unknown,The Gambia,Bnei Yehuda Tel Aviv,0.0
+2016/17,2016,,Unknown,France,Bnei Yehuda Tel Aviv,0.0
+2016/17,2016,,Unknown,Estonia,FC Ashdod,0.0
+2016/17,2016,,Unknown,Germany,Beitar Jerusalem,0.0
+2016/17,2016,,Unknown,Burkina Faso,Hapoel Ironi Ashkelon,0.0
+2016/17,2016,,Unknown,Bosnia-Herzegovina,Maccabi Tel Aviv,0.0
+2016/17,2016,,Unknown,Australia,Maccabi Haifa,0.0
+2017/18,2017,,Unknown,Brazil,Beitar Jerusalem,0.0
+2017/18,2017,,Unknown,Nigeria,Hapoel Acre,0.0
+2017/18,2017,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,Croatia,Hapoel Ironi Ashkelon,0.0
+2017/18,2017,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2017/18,2017,,Unknown,Spain,Ironi Kiryat Shmona,0.0
+2017/18,2017,,Unknown,Guinea,Hapoel Raanana,0.0
+2017/18,2017,,Unknown,France,2 Clubs,0.0
+2017/18,2017,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2017/18,2017,,Unknown,Slovakia,Beitar Jerusalem,0.0
+2017/18,2017,,Unknown,Cote d'Ivoire,Ironi Kiryat Shmona,0.0
+2017/18,2017,,Unknown,Czech Republic,Maccabi Petah Tikva,0.0
+2017/18,2017,,Unknown,Romania,Hapoel Haifa,0.0
+2017/18,2017,,Unknown,Zambia,Hapoel Raanana,0.0
+2017/18,2017,,Unknown,Belgium,Hapoel Acre,0.0
+2017/18,2017,,Unknown,Greece,Maccabi Haifa,0.0
+2017/18,2017,,Unknown,Azerbaijan,Hapoel Raanana,0.0
+2017/18,2017,,Unknown,Germany,Maccabi Netanya,0.0
+2017/18,2017,,Unknown,Bulgaria,FC Ashdod,0.0
+2017/18,2017,,Unknown,Montenegro,Hapoel Raanana,0.0
+2017/18,2017,,Unknown,Martinique,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,United States,Maccabi Netanya,0.0
+2017/18,2017,,Unknown,Hungary,Hapoel Beer Sheva,0.0
+2017/18,2017,,Unknown,Australia,Maccabi Haifa,0.0
+2017/18,2017,,Unknown,Togo,Maccabi Netanya,0.0
+2017/18,2017,,Unknown,Suriname,Ironi Kiryat Shmona,0.0
+2017/18,2017,,Unknown,Barbados,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,Belarus,2 Clubs,0.0
+2017/18,2017,,Unknown,Sweden,Hapoel Haifa,0.0
+2017/18,2017,,Unknown,Cameroon,Maccabi Haifa,0.0
+2017/18,2017,,Unknown,Russia,Hapoel Beer Sheva,0.0
+2017/18,2017,,Unknown,Central African Republic,Hapoel Ironi Ashkelon,0.0
+2017/18,2017,,Unknown,Portugal,Ironi Kiryat Shmona,0.0
+2017/18,2017,,Unknown,Niger,Maccabi Netanya,0.0
+2017/18,2017,,Unknown,Netherlands,Maccabi Haifa,0.0
+2017/18,2017,,Unknown,Moldova,Hapoel Haifa,0.0
+2017/18,2017,,Unknown,North Macedonia,Hapoel Haifa,0.0
+2017/18,2017,,Unknown,Argentina,Maccabi Netanya,0.0
+2017/18,2017,,Unknown,Congo,Bnei Yehuda Tel Aviv,0.0
+2017/18,2017,,Unknown,Italy,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,Iceland,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,Bolivia,Hapoel Raanana,0.0
+2017/18,2017,,Unknown,Georgia,Hapoel Ironi Ashkelon,0.0
+2017/18,2017,,Unknown,Bosnia-Herzegovina,Maccabi Tel Aviv,0.0
+2017/18,2017,,Unknown,Denmark,Beitar Jerusalem,0.0
+2018/19,2018,,Unknown,Brazil,Hapoel Hadera,0.0
+2018/19,2018,,Unknown,Nigeria,Maccabi Tel Aviv,0.0
+2018/19,2018,,Unknown,France,2 Clubs,0.0
+2018/19,2018,,Unknown,Lithuania,Hapoel Haifa,0.0
+2018/19,2018,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2018/19,2018,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2018/19,2018,,Unknown,Ghana,FC Ashdod,0.0
+2018/19,2018,,Unknown,Croatia,Hapoel Raanana,0.0
+2018/19,2018,,Unknown,Cote d'Ivoire,Bnei Yehuda Tel Aviv,0.0
+2018/19,2018,,Unknown,Guinea,Ironi Kiryat Shmona,0.0
+2018/19,2018,,Unknown,United States,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,Cameroon,Maccabi Haifa,0.0
+2018/19,2018,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2018/19,2018,,Unknown,Albania,Ironi Kiryat Shmona,0.0
+2018/19,2018,,Unknown,Portugal,Beitar Jerusalem,0.0
+2018/19,2018,,Unknown,Romania,Hapoel Haifa,0.0
+2018/19,2018,,Unknown,Niger,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,Netherlands,Maccabi Haifa,0.0
+2018/19,2018,,Unknown,Czech Republic,Maccabi Petah Tikva,0.0
+2018/19,2018,,Unknown,Slovakia,2 Clubs,0.0
+2018/19,2018,,Unknown,Ukraine,Ihud Bnei Sakhnin,0.0
+2018/19,2018,,Unknown,Montenegro,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,Türkiye,Maccabi Haifa,0.0
+2018/19,2018,,Unknown,Trinidad and Tobago,Ironi Kiryat Shmona,0.0
+2018/19,2018,,Unknown,Hungary,Hapoel Beer Sheva,0.0
+2018/19,2018,,Unknown,Uruguay,Hapoel Raanana,0.0
+2018/19,2018,,Unknown,Togo,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,DR Congo,Maccabi Petah Tikva,0.0
+2018/19,2018,,Unknown,Suriname,2 Clubs,0.0
+2018/19,2018,,Unknown,Kosovo,Ihud Bnei Sakhnin,0.0
+2018/19,2018,,Unknown,Guadeloupe,2 Clubs,0.0
+2018/19,2018,,Unknown,Guatemala,Beitar Jerusalem,0.0
+2018/19,2018,,Unknown,Argentina,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,Australia,Maccabi Haifa,0.0
+2018/19,2018,,Unknown,Azerbaijan,Hapoel Tel Aviv,0.0
+2018/19,2018,,Unknown,Belgium,Hapoel Tel Aviv,0.0
+2018/19,2018,,Unknown,Burkina Faso,FC Ashdod,0.0
+2018/19,2018,,Unknown,Chile,Maccabi Haifa,0.0
+2018/19,2018,,Unknown,Germany,Maccabi Netanya,0.0
+2018/19,2018,,Unknown,Greece,Hapoel Haifa,0.0
+2018/19,2018,,Unknown,Senegal,Maccabi Petah Tikva,0.0
+2018/19,2018,,Unknown,Iceland,Maccabi Tel Aviv,0.0
+2018/19,2018,,Unknown,Congo,Bnei Yehuda Tel Aviv,0.0
+2018/19,2018,,Unknown,North Macedonia,Hapoel Haifa,0.0
+2018/19,2018,,Unknown,Moldova,Hapoel Haifa,0.0
+2018/19,2018,,Unknown,Panama,Maccabi Petah Tikva,0.0
+2018/19,2018,,Unknown,Central African Republic,Maccabi Petah Tikva,0.0
+2018/19,2018,,Unknown,Zambia,2 Clubs,0.0
+2018/19,2018,,Unknown,Sweden,Hapoel Haifa,0.0
+2019/20,2019,,Unknown,Ghana,Hapoel Raanana,0.0
+2019/20,2019,,Unknown,Nigeria,Hapoel Hadera,0.0
+2019/20,2019,,Unknown,Brazil,Maccabi Tel Aviv,0.0
+2019/20,2019,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2019/20,2019,,Unknown,Portugal,Maccabi Tel Aviv,0.0
+2019/20,2019,,Unknown,Serbia,Bnei Yehuda Tel Aviv,0.0
+2019/20,2019,,Unknown,Suriname,Maccabi Haifa,0.0
+2019/20,2019,,Unknown,Lithuania,Bnei Yehuda Tel Aviv,0.0
+2019/20,2019,,Unknown,Cote d'Ivoire,Bnei Yehuda Tel Aviv,0.0
+2019/20,2019,,Unknown,United States,Maccabi Haifa,0.0
+2019/20,2019,,Unknown,Guinea,Beitar Jerusalem,0.0
+2019/20,2019,,Unknown,Niger,Beitar Jerusalem,0.0
+2019/20,2019,,Unknown,Uganda,FC Ashdod,0.0
+2019/20,2019,,Unknown,Costa Rica,2 Clubs,0.0
+2019/20,2019,,Unknown,Argentina,Sekzia Ness Ziona,0.0
+2019/20,2019,,Unknown,Australia,Maccabi Haifa,0.0
+2019/20,2019,,Unknown,Albania,Sekzia Ness Ziona,0.0
+2019/20,2019,,Unknown,Belgium,Hapoel Tel Aviv,0.0
+2019/20,2019,,Unknown,Cameroon,Maccabi Haifa,0.0
+2019/20,2019,,Unknown,Palestine,Hapoel Kfar Saba,0.0
+2019/20,2019,,Unknown,Germany,Maccabi Netanya,0.0
+2019/20,2019,,Unknown,France,Hapoel Haifa,0.0
+2019/20,2019,,Unknown,Uruguay,Hapoel Tel Aviv,0.0
+2019/20,2019,,Unknown,Hungary,Hapoel Kfar Saba,0.0
+2019/20,2019,,Unknown,Kosovo,Bnei Yehuda Tel Aviv,0.0
+2019/20,2019,,Unknown,England,Hapoel Hadera,0.0
+2019/20,2019,,Unknown,Trinidad and Tobago,Beitar Jerusalem,0.0
+2019/20,2019,,Unknown,Togo,Hapoel Hadera,0.0
+2019/20,2019,,Unknown,Guadeloupe,Beitar Jerusalem,0.0
+2019/20,2019,,Unknown,Curacao,Hapoel Raanana,0.0
+2019/20,2019,,Unknown,Montenegro,Maccabi Netanya,0.0
+2019/20,2019,,Unknown,South Africa,Bnei Yehuda Tel Aviv,0.0
+2019/20,2019,,Unknown,Slovakia,2 Clubs,0.0
+2019/20,2019,,Unknown,Senegal,Hapoel Kfar Saba,0.0
+2019/20,2019,,Unknown,Netherlands,Hapoel Beer Sheva,0.0
+2019/20,2019,,Unknown,Moldova,Ironi Kiryat Shmona,0.0
+2019/20,2019,,Unknown,North Macedonia,Hapoel Tel Aviv,0.0
+2019/20,2019,,Unknown,Congo,Sekzia Ness Ziona,0.0
+2019/20,2019,,Unknown,Colombia,Hapoel Raanana,0.0
+2019/20,2019,,Unknown,Jamaica,Ironi Kiryat Shmona,0.0
+2019/20,2019,,Unknown,Ireland,Ironi Kiryat Shmona,0.0
+2019/20,2019,,Unknown,Guyana,Hapoel Haifa,0.0
+2019/20,2019,,Unknown,Guinea-Bissau,Hapoel Haifa,0.0
+2019/20,2019,,Unknown,Greece,Maccabi Tel Aviv,0.0
+2019/20,2019,,Unknown,The Gambia,Sekzia Ness Ziona,0.0
+2019/20,2019,,Unknown,Denmark,Sekzia Ness Ziona,0.0
+2019/20,2019,,Unknown,Bosnia-Herzegovina,Hapoel Haifa,0.0
+2019/20,2019,,Unknown,Barbados,Maccabi Tel Aviv,0.0
+2020/21,2020,,Unknown,Brazil,Maccabi Tel Aviv,0.0
+2020/21,2020,,Unknown,Nigeria,Hapoel Hadera,0.0
+2020/21,2020,,Unknown,Ghana,FC Ashdod,0.0
+2020/21,2020,,Unknown,Serbia,Maccabi Haifa,0.0
+2020/21,2020,,Unknown,Cote d'Ivoire,Hapoel Hadera,0.0
+2020/21,2020,,Unknown,Portugal,Hapoel Beer Sheva,0.0
+2020/21,2020,,Unknown,Panama,2 Clubs,0.0
+2020/21,2020,,Unknown,Suriname,Maccabi Haifa,0.0
+2020/21,2020,,Unknown,Argentina,Hapoel Beer Sheva,0.0
+2020/21,2020,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2020/21,2020,,Unknown,Uganda,Hapoel Kfar Saba,0.0
+2020/21,2020,,Unknown,Lithuania,Ironi Kiryat Shmona,0.0
+2020/21,2020,,Unknown,Colombia,Hapoel Beer Sheva,0.0
+2020/21,2020,,Unknown,Cameroon,Hapoel Hadera,0.0
+2020/21,2020,,Unknown,Palestine,Ihud Bnei Sakhnin,0.0
+2020/21,2020,,Unknown,Guinea,Beitar Jerusalem,0.0
+2020/21,2020,,Unknown,Guyana,Ihud Bnei Sakhnin,0.0
+2020/21,2020,,Unknown,Jamaica,Maccabi Netanya,0.0
+2020/21,2020,,Unknown,United States,2 Clubs,0.0
+2020/21,2020,,Unknown,Netherlands,Maccabi Netanya,0.0
+2020/21,2020,,Unknown,Niger,Beitar Jerusalem,0.0
+2020/21,2020,,Unknown,Montenegro,Bnei Yehuda Tel Aviv,0.0
+2020/21,2020,,Unknown,Bosnia-Herzegovina,Maccabi Petah Tikva,0.0
+2020/21,2020,,Unknown,Ukraine,Maccabi Petah Tikva,0.0
+2020/21,2020,,Unknown,England,Hapoel Kfar Saba,0.0
+2020/21,2020,,Unknown,South Africa,Hapoel Tel Aviv,0.0
+2020/21,2020,,Unknown,Kosovo,Hapoel Kfar Saba,0.0
+2020/21,2020,,Unknown,Zambia,Maccabi Netanya,0.0
+2020/21,2020,,Unknown,Paraguay,Beitar Jerusalem,0.0
+2020/21,2020,,Unknown,Austria,Ihud Bnei Sakhnin,0.0
+2020/21,2020,,Unknown,Norway,Maccabi Netanya,0.0
+2020/21,2020,,Unknown,Mali,FC Ashdod,0.0
+2020/21,2020,,Unknown,Georgia,Hapoel Tel Aviv,0.0
+2020/21,2020,,Unknown,The Gambia,2 Clubs,0.0
+2020/21,2020,,Unknown,France,Hapoel Kfar Saba,0.0
+2020/21,2020,,Unknown,Chile,Bnei Yehuda Tel Aviv,0.0
+2020/21,2020,,Unknown,Bulgaria,Hapoel Kfar Saba,0.0
+2020/21,2020,,Unknown,Barbados,Maccabi Tel Aviv,0.0
+2020/21,2020,,Unknown,Australia,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Nigeria,Maccabi Petah Tikva,0.0
+2021/22,2021,,Unknown,Brazil,2 Clubs,0.0
+2021/22,2021,,Unknown,Ghana,Beitar Jerusalem,0.0
+2021/22,2021,,Unknown,Cote d'Ivoire,Hapoel Hadera,0.0
+2021/22,2021,,Unknown,Serbia,Maccabi Netanya,0.0
+2021/22,2021,,Unknown,Portugal,Maccabi Tel Aviv,0.0
+2021/22,2021,,Unknown,Argentina,Hapoel Beer Sheva,0.0
+2021/22,2021,,Unknown,Cameroon,Maccabi Netanya,0.0
+2021/22,2021,,Unknown,Spain,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Suriname,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Guinea,Ihud Bnei Sakhnin,0.0
+2021/22,2021,,Unknown,Uganda,Hapoel Nof HaGalil,0.0
+2021/22,2021,,Unknown,United States,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Slovakia,Maccabi Petah Tikva,0.0
+2021/22,2021,,Unknown,Lithuania,Ironi Kiryat Shmona,0.0
+2021/22,2021,,Unknown,Montenegro,2 Clubs,0.0
+2021/22,2021,,Unknown,Palestine,FC Ashdod,0.0
+2021/22,2021,,Unknown,Croatia,Ihud Bnei Sakhnin,0.0
+2021/22,2021,,Unknown,Bulgaria,Hapoel Hadera,0.0
+2021/22,2021,,Unknown,Australia,Hapoel Beer Sheva,0.0
+2021/22,2021,,Unknown,Venezuela,Beitar Jerusalem,0.0
+2021/22,2021,,Unknown,Curacao,Maccabi Tel Aviv,0.0
+2021/22,2021,,Unknown,Czech Republic,Hapoel Jerusalem,0.0
+2021/22,2021,,Unknown,South Africa,Hapoel Tel Aviv,0.0
+2021/22,2021,,Unknown,Slovenia,Hapoel Haifa,0.0
+2021/22,2021,,Unknown,Guadeloupe,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Zambia,Maccabi Petah Tikva,0.0
+2021/22,2021,,Unknown,Romania,Ironi Kiryat Shmona,0.0
+2021/22,2021,,Unknown,Paraguay,Beitar Jerusalem,0.0
+2021/22,2021,,Unknown,Panama,2 Clubs,0.0
+2021/22,2021,,Unknown,Niger,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,New Zealand,Hapoel Nof HaGalil,0.0
+2021/22,2021,,Unknown,Moldova,Maccabi Petah Tikva,0.0
+2021/22,2021,,Unknown,Liberia,Hapoel Nof HaGalil,0.0
+2021/22,2021,,Unknown,Congo,Maccabi Haifa,0.0
+2021/22,2021,,Unknown,Colombia,Hapoel Beer Sheva,0.0
+2021/22,2021,,Unknown,Jamaica,Hapoel Nof HaGalil,0.0
+2021/22,2021,,Unknown,Italy,Hapoel Beer Sheva,0.0
+2021/22,2021,,Unknown,Guyana,Ironi Kiryat Shmona,0.0
+2021/22,2021,,Unknown,Greece,FC Ashdod,0.0
+2021/22,2021,,Unknown,The Gambia,Hapoel Haifa,0.0
+2021/22,2021,,Unknown,France,Hapoel Haifa,0.0
+2021/22,2021,,Unknown,Bosnia-Herzegovina,Maccabi Petah Tikva,0.0
+2021/22,2021,,Unknown,Azerbaijan,FC Ashdod,0.0
+2022/23,2022,,Unknown,Cote d'Ivoire,Hapoel Jerusalem,0.0
+2022/23,2022,,Unknown,Ghana,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,Brazil,Sekzia Ness Ziona,0.0
+2022/23,2022,,Unknown,Nigeria,Sekzia Ness Ziona,0.0
+2022/23,2022,,Unknown,Portugal,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Russia,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Serbia,Maccabi Netanya,0.0
+2022/23,2022,,Unknown,Croatia,Ihud Bnei Sakhnin,0.0
+2022/23,2022,,Unknown,Romania,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Sweden,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Colombia,Beitar Jerusalem,0.0
+2022/23,2022,,Unknown,France,FC Ashdod,0.0
+2022/23,2022,,Unknown,Suriname,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Lithuania,Ironi Kiryat Shmona,0.0
+2022/23,2022,,Unknown,Netherlands,Maccabi Tel Aviv,0.0
+2022/23,2022,,Unknown,Moldova,Beitar Jerusalem,0.0
+2022/23,2022,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2022/23,2022,,Unknown,Slovenia,Hapoel Tel Aviv,0.0
+2022/23,2022,,Unknown,Curacao,Hapoel Tel Aviv,0.0
+2022/23,2022,,Unknown,Ukraine,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,DR Congo,Hapoel Jerusalem,0.0
+2022/23,2022,,Unknown,Montenegro,Hapoel Haifa,0.0
+2022/23,2022,,Unknown,Argentina,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Germany,Maccabi Netanya,0.0
+2022/23,2022,,Unknown,Cameroon,Maccabi Netanya,0.0
+2022/23,2022,,Unknown,Guinea,Hapoel Tel Aviv,0.0
+2022/23,2022,,Unknown,Belarus,Ironi Kiryat Shmona,0.0
+2022/23,2022,,Unknown,Belgium,Hapoel Hadera,0.0
+2022/23,2022,,Unknown,Bulgaria,Maccabi Netanya,0.0
+2022/23,2022,,Unknown,Italy,Ihud Bnei Sakhnin,0.0
+2022/23,2022,,Unknown,Haiti,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Uganda,FC Ashdod,0.0
+2022/23,2022,,Unknown,Georgia,Sekzia Ness Ziona,0.0
+2022/23,2022,,Unknown,Hungary,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,Venezuela,Beitar Jerusalem,0.0
+2022/23,2022,,Unknown,United States,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Cyprus,Hapoel Haifa,0.0
+2022/23,2022,,Unknown,Palestine,2 Clubs,0.0
+2022/23,2022,,Unknown,Kosovo,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Guadeloupe,2 Clubs,0.0
+2022/23,2022,,Unknown,Australia,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Czech Republic,Hapoel Jerusalem,0.0
+2022/23,2022,,Unknown,Malta,Ironi Kiryat Shmona,0.0
+2022/23,2022,,Unknown,Sierra Leone,Hapoel Haifa,0.0
+2022/23,2022,,Unknown,Senegal,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Guinea-Bissau,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,Congo,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Poland,Hapoel Beer Sheva,0.0
+2022/23,2022,,Unknown,Panama,Beitar Jerusalem,0.0
+2022/23,2022,,Unknown,Austria,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,Liberia,Hapoel Haifa,0.0
+2022/23,2022,,Unknown,Niger,Maccabi Haifa,0.0
+2022/23,2022,,Unknown,Madagascar,Maccabi Bnei Reineh,0.0
+2022/23,2022,,Unknown,New Zealand,Hapoel Tel Aviv,0.0
+2023/24,2023,,Unknown,Nigeria,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Ghana,FC Ashdod,0.0
+2023/24,2023,,Unknown,Cote d'Ivoire,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,France,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Argentina,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Netherlands,Maccabi Tel Aviv,0.0
+2023/24,2023,,Unknown,Palestine,Maccabi Bnei Reineh,0.0
+2023/24,2023,,Unknown,Portugal,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,Cameroon,Maccabi Netanya,0.0
+2023/24,2023,,Unknown,Angola,Hapoel Jerusalem,0.0
+2023/24,2023,,Unknown,Belgium,Hapoel Hadera,0.0
+2023/24,2023,,Unknown,United States,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Congo,Hapoel Tel Aviv,0.0
+2023/24,2023,,Unknown,Russia,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,Romania,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Sweden,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Senegal,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Panama,Maccabi Tel Aviv,0.0
+2023/24,2023,,Unknown,Slovenia,Hapoel Tel Aviv,0.0
+2023/24,2023,,Unknown,Spain,Maccabi Tel Aviv,0.0
+2023/24,2023,,Unknown,Uganda,FC Ashdod,0.0
+2023/24,2023,,Unknown,Cyprus,Ihud Bnei Sakhnin,0.0
+2023/24,2023,,Unknown,Colombia,2 Clubs,0.0
+2023/24,2023,,Unknown,DR Congo,FC Ashdod,0.0
+2023/24,2023,,Unknown,Haiti,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Guinea-Bissau,Maccabi Bnei Reineh,0.0
+2023/24,2023,,Unknown,Serbia,Maccabi Bnei Reineh,0.0
+2023/24,2023,,Unknown,Guatemala,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Montenegro,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,Georgia,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,The Gambia,Hapoel Tel Aviv,0.0
+2023/24,2023,,Unknown,Belarus,Hapoel Haifa,0.0
+2023/24,2023,,Unknown,Benin,Hapoel Haifa,0.0
+2023/24,2023,,Unknown,Brazil,FC Ashdod,0.0
+2023/24,2023,,Unknown,Germany,Maccabi Netanya,0.0
+2023/24,2023,,Unknown,Croatia,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Costa Rica,Beitar Jerusalem,0.0
+2023/24,2023,,Unknown,Bulgaria,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Curacao,Ihud Bnei Sakhnin,0.0
+2023/24,2023,,Unknown,Ukraine,Maccabi Netanya,0.0
+2023/24,2023,,Unknown,Hungary,Maccabi Bnei Reineh,0.0
+2023/24,2023,,Unknown,Guadeloupe,Maccabi Tel Aviv,0.0
+2023/24,2023,,Unknown,Venezuela,Maccabi Bnei Reineh,0.0
+2023/24,2023,,Unknown,England,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Scotland,FC Ashdod,0.0
+2023/24,2023,,Unknown,Czech Republic,Hapoel Jerusalem,0.0
+2023/24,2023,,Unknown,Suriname,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Poland,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Austria,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Niger,Maccabi Haifa,0.0
+2023/24,2023,,Unknown,Mali,Maccabi Petah Tikva,0.0
+2023/24,2023,,Unknown,Lithuania,Hapoel Tel Aviv,0.0
+2023/24,2023,,Unknown,Liberia,Hapoel Haifa,0.0
+2023/24,2023,,Unknown,Kazakhstan,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Italy,Maccabi Petah Tikva,0.0
+2023/24,2023,,Unknown,Greece,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Gabon,Hapoel Beer Sheva,0.0
+2023/24,2023,,Unknown,Ecuador,Hapoel Petah Tikva,0.0
+2023/24,2023,,Unknown,Bolivia,Maccabi Bnei Reineh,0.0
+2024/25,2024,,Unknown,Ghana,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Nigeria,Hapoel Hadera,0.0
+2024/25,2024,,Unknown,Cameroon,FC Ashdod,0.0
+2024/25,2024,,Unknown,Argentina,Maccabi Petah Tikva,0.0
+2024/25,2024,,Unknown,Brazil,Ironi Tiberias,0.0
+2024/25,2024,,Unknown,Cote d'Ivoire,Hapoel Jerusalem,0.0
+2024/25,2024,,Unknown,Senegal,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Portugal,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Netherlands,Maccabi Tel Aviv,0.0
+2024/25,2024,,Unknown,Ukraine,Ironi Tiberias,0.0
+2024/25,2024,,Unknown,Congo,Maccabi Bnei Reineh,0.0
+2024/25,2024,,Unknown,Guinea-Bissau,Maccabi Bnei Reineh,0.0
+2024/25,2024,,Unknown,Serbia,Maccabi Tel Aviv,0.0
+2024/25,2024,,Unknown,Palestine,Maccabi Bnei Reineh,0.0
+2024/25,2024,,Unknown,DR Congo,Ironi Tiberias,0.0
+2024/25,2024,,Unknown,Romania,Hapoel Hadera,0.0
+2024/25,2024,,Unknown,Belgium,Ihud Bnei Sakhnin,0.0
+2024/25,2024,,Unknown,Panama,Ironi Kiryat Shmona,0.0
+2024/25,2024,,Unknown,Bulgaria,Hapoel Beer Sheva,0.0
+2024/25,2024,,Unknown,Mali,Maccabi Tel Aviv,0.0
+2024/25,2024,,Unknown,Madagascar,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Cape Verde,Maccabi Netanya,0.0
+2024/25,2024,,Unknown,Colombia,Hapoel Hadera,0.0
+2024/25,2024,,Unknown,United States,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Guinea,Ironi Kiryat Shmona,0.0
+2024/25,2024,,Unknown,Croatia,Maccabi Bnei Reineh,0.0
+2024/25,2024,,Unknown,Georgia,Hapoel Hadera,0.0
+2024/25,2024,,Unknown,Cyprus,Ihud Bnei Sakhnin,0.0
+2024/25,2024,,Unknown,France,Hapoel Hadera,0.0
+2024/25,2024,,Unknown,Venezuela,Maccabi Netanya,0.0
+2024/25,2024,,Unknown,New Caledonia,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Uganda,FC Ashdod,0.0
+2024/25,2024,,Unknown,Czech Republic,Ironi Tiberias,0.0
+2024/25,2024,,Unknown,Guadeloupe,Ihud Bnei Sakhnin,0.0
+2024/25,2024,,Unknown,South Africa,Maccabi Petah Tikva,0.0
+2024/25,2024,,Unknown,Spain,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Slovenia,Maccabi Petah Tikva,0.0
+2024/25,2024,,Unknown,Curacao,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Zambia,Hapoel Beer Sheva,0.0
+2024/25,2024,,Unknown,Russia,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Poland,FC Ashdod,0.0
+2024/25,2024,,Unknown,Niger,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Moldova,Maccabi Petah Tikva,0.0
+2024/25,2024,,Unknown,North Macedonia,Hapoel Jerusalem,0.0
+2024/25,2024,,Unknown,Jamaica,Hapoel Haifa,0.0
+2024/25,2024,,Unknown,Haiti,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,The Gambia,Ironi Tiberias,0.0
+2024/25,2024,,Unknown,Dominican Republic,FC Ashdod,0.0
+2024/25,2024,,Unknown,Germany,Maccabi Haifa,0.0
+2024/25,2024,,Unknown,Costa Rica,Beitar Jerusalem,0.0
+2024/25,2024,,Unknown,Burkina Faso,Hapoel Haifa,0.0
+2024/25,2024,,Unknown,Bosnia-Herzegovina,Maccabi Petah Tikva,0.0
+2024/25,2024,,Unknown,Belarus,Hapoel Haifa,0.0
+2025/26,2025,,Unknown,Nigeria,Maccabi Haifa,1.0
+2025/26,2025,,Unknown,Brazil,Maccabi Haifa,1.4
+2025/26,2025,,Unknown,Cote d'Ivoire,Hapoel Jerusalem,1.6
+2025/26,2025,,Unknown,Serbia,Maccabi Tel Aviv,3.5
+2025/26,2025,,Unknown,Guinea-Bissau,Maccabi Bnei Reineh,0.45
+2025/26,2025,,Unknown,Ghana,FC Ashdod,0.5
+2025/26,2025,,Unknown,Portugal,Hapoel Tel Aviv,0.8
+2025/26,2025,,Unknown,Senegal,Maccabi Haifa,0.5
+2025/26,2025,,Unknown,Cape Verde,Maccabi Tel Aviv,1.2
+2025/26,2025,,Unknown,Zambia,Hapoel Beer Sheva,3.0
+2025/26,2025,,Unknown,Palestine,Maccabi Bnei Reineh,0.25
+2025/26,2025,,Unknown,Congo,Hapoel Tel Aviv,0.55
+2025/26,2025,,Unknown,Ukraine,Maccabi Haifa,2.5
+2025/26,2025,,Unknown,Cameroon,Hapoel Beer Sheva,0.65
+2025/26,2025,,Unknown,Belgium,Maccabi Haifa,2.5
+2025/26,2025,,Unknown,Romania,Maccabi Bnei Reineh,0.5
+2025/26,2025,,Unknown,United States,Maccabi Netanya,0.6
+2025/26,2025,,Unknown,Georgia,Maccabi Netanya,0.5
+2025/26,2025,,Unknown,Guinea,Maccabi Tel Aviv,1.8
+2025/26,2025,,Unknown,Bulgaria,Hapoel Tel Aviv,1.5
+2025/26,2025,,Unknown,Jamaica,Maccabi Haifa,1.0
+2025/26,2025,,Unknown,Poland,Maccabi Tel Aviv,0.5
+2025/26,2025,,Unknown,Colombia,Beitar Jerusalem,0.3
+2025/26,2025,,Unknown,Czech Republic,Ironi Tiberias,0.5
+2025/26,2025,,Unknown,Kosovo,Hapoel Jerusalem,0.25
+2025/26,2025,,Unknown,DR Congo,FC Ashdod,0.65
+2025/26,2025,,Unknown,Uganda,FC Ashdod,0.4
+2025/26,2025,,Unknown,Argentina,FC Ashdod,0.5
+2025/26,2025,,Unknown,Guadeloupe,FC Ashdod,0.175
+2025/26,2025,,Unknown,Panama,Ironi Kiryat Shmona,0.75
+2025/26,2025,,Unknown,Peru,Ironi Kiryat Shmona,0.275
+2025/26,2025,,Unknown,Moldova,Maccabi Tel Aviv,1.5
+2025/26,2025,,Unknown,Madagascar,Ihud Bnei Sakhnin,0.075
+2025/26,2025,,Unknown,Armenia,Ihud Bnei Sakhnin,0.5
+2025/26,2025,,Unknown,Croatia,Ihud Bnei Sakhnin,0.2
+2025/26,2025,,Unknown,Cyprus,Hapoel Tel Aviv,1.2
+2025/26,2025,,Unknown,Mali,Maccabi Tel Aviv,1.2
+2025/26,2025,,Unknown,Russia,Beitar Jerusalem,0.8
+2025/26,2025,,Unknown,Netherlands,Maccabi Tel Aviv,1.4
+2025/26,2025,,Unknown,Venezuela,Maccabi Tel Aviv,1.5
+2025/26,2025,,Unknown,Hungary,Hapoel Petah Tikva,0.5
+2025/26,2025,,Unknown,France,Maccabi Haifa,0.8
+2025/26,2025,,Unknown,Sweden,Hapoel Haifa,0.075
+2025/26,2025,,Unknown,Curacao,Maccabi Haifa,0.75
+2025/26,2025,,Unknown,Niger,Maccabi Haifa,1.6
+2025/26,2025,,Unknown,Spain,Maccabi Haifa,1.2
+2025/26,2025,,Unknown,Burkina Faso,Hapoel Haifa,0.3
