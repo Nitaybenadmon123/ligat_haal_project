@@ -1,0 +1,141 @@
+season,playoff_round,leader,is_change
+2009/10,1,Maccabi Haifa,False
+2009/10,2,Hapoel Tel Aviv,True
+2009/10,3,Hapoel Tel Aviv,False
+2009/10,4,Maccabi Haifa,True
+2009/10,5,Hapoel Tel Aviv,True
+2010/11,1,Hapoel Tel Aviv,True
+2010/11,2,Maccabi Haifa,True
+2010/11,3,Maccabi Haifa,False
+2010/11,4,Maccabi Haifa,False
+2010/11,5,Maccabi Haifa,False
+2012/13,1,M. Tel Aviv,False
+2012/13,2,M. Tel Aviv,False
+2012/13,3,M. Tel Aviv,False
+2012/13,4,M. Tel Aviv,False
+2012/13,5,M. Tel Aviv,False
+2012/13,6,M. Tel Aviv,False
+2012/13,7,M. Tel Aviv,False
+2012/13,8,M. Tel Aviv,False
+2012/13,9,M. Tel Aviv,False
+2012/13,10,M. Tel Aviv,False
+2013/14,1,M. Tel Aviv,False
+2013/14,2,M. Tel Aviv,False
+2013/14,3,M. Tel Aviv,False
+2013/14,4,M. Tel Aviv,False
+2013/14,5,M. Tel Aviv,False
+2013/14,6,M. Tel Aviv,False
+2013/14,7,M. Tel Aviv,False
+2013/14,8,M. Tel Aviv,False
+2013/14,9,M. Tel Aviv,False
+2013/14,10,M. Tel Aviv,False
+2014/15,1,M. Tel Aviv,False
+2014/15,2,M. Tel Aviv,False
+2014/15,3,M. Tel Aviv,False
+2014/15,4,M. Tel Aviv,False
+2014/15,5,M. Tel Aviv,False
+2014/15,6,M. Tel Aviv,False
+2014/15,7,M. Tel Aviv,False
+2014/15,8,M. Tel Aviv,False
+2014/15,9,M. Tel Aviv,False
+2014/15,10,M. Tel Aviv,False
+2015/16,1,H. Beer Sheva,False
+2015/16,2,H. Beer Sheva,False
+2015/16,3,H. Beer Sheva,False
+2015/16,4,M. Tel Aviv,True
+2015/16,5,H. Beer Sheva,True
+2015/16,6,H. Beer Sheva,False
+2015/16,7,H. Beer Sheva,False
+2015/16,8,H. Beer Sheva,False
+2015/16,9,H. Beer Sheva,False
+2015/16,10,H. Beer Sheva,False
+2016/17,1,H. Beer Sheva,False
+2016/17,2,H. Beer Sheva,False
+2016/17,3,H. Beer Sheva,False
+2016/17,4,H. Beer Sheva,False
+2016/17,5,H. Beer Sheva,False
+2016/17,6,H. Beer Sheva,False
+2016/17,7,H. Beer Sheva,False
+2016/17,8,H. Beer Sheva,False
+2016/17,9,H. Beer Sheva,False
+2016/17,10,H. Beer Sheva,False
+2017/18,1,H. Beer Sheva,False
+2017/18,2,H. Beer Sheva,False
+2017/18,3,H. Beer Sheva,False
+2017/18,4,H. Beer Sheva,False
+2017/18,5,H. Beer Sheva,False
+2017/18,6,H. Beer Sheva,False
+2017/18,7,H. Beer Sheva,False
+2017/18,8,H. Beer Sheva,False
+2017/18,9,H. Beer Sheva,False
+2017/18,10,H. Beer Sheva,False
+2018/19,1,M. Tel Aviv,False
+2018/19,2,M. Tel Aviv,False
+2018/19,3,M. Tel Aviv,False
+2018/19,4,M. Tel Aviv,False
+2018/19,5,M. Tel Aviv,False
+2018/19,6,M. Tel Aviv,False
+2018/19,7,M. Tel Aviv,False
+2018/19,8,M. Tel Aviv,False
+2018/19,9,M. Tel Aviv,False
+2018/19,10,M. Tel Aviv,False
+2019/20,1,M. Tel Aviv,False
+2019/20,2,M. Tel Aviv,False
+2019/20,3,M. Tel Aviv,False
+2019/20,4,M. Tel Aviv,False
+2019/20,5,M. Tel Aviv,False
+2019/20,6,M. Tel Aviv,False
+2019/20,7,M. Tel Aviv,False
+2019/20,8,M. Tel Aviv,False
+2019/20,9,M. Tel Aviv,False
+2019/20,10,M. Tel Aviv,False
+2020/21,1,M. Tel Aviv,True
+2020/21,2,M. Tel Aviv,False
+2020/21,3,M. Tel Aviv,False
+2020/21,4,Maccabi Haifa,True
+2020/21,5,Maccabi Haifa,False
+2020/21,6,Maccabi Haifa,False
+2020/21,7,Maccabi Haifa,False
+2020/21,8,Maccabi Haifa,False
+2020/21,9,Maccabi Haifa,False
+2020/21,10,Maccabi Haifa,False
+2021/22,1,Maccabi Haifa,False
+2021/22,2,Maccabi Haifa,False
+2021/22,3,Maccabi Haifa,False
+2021/22,4,Maccabi Haifa,False
+2021/22,5,Maccabi Haifa,False
+2021/22,6,Maccabi Haifa,False
+2021/22,7,Maccabi Haifa,False
+2021/22,8,Maccabi Haifa,False
+2021/22,9,Maccabi Haifa,False
+2021/22,10,Maccabi Haifa,False
+2022/23,1,Maccabi Haifa,False
+2022/23,2,Maccabi Haifa,False
+2022/23,3,Maccabi Haifa,False
+2022/23,4,Maccabi Haifa,False
+2022/23,5,Maccabi Haifa,False
+2022/23,6,Maccabi Haifa,False
+2022/23,7,Maccabi Haifa,False
+2022/23,8,Maccabi Haifa,False
+2022/23,9,Maccabi Haifa,False
+2022/23,10,Maccabi Haifa,False
+2023/24,1,M. Tel Aviv,False
+2023/24,2,M. Tel Aviv,False
+2023/24,3,M. Tel Aviv,False
+2023/24,4,M. Tel Aviv,False
+2023/24,5,M. Tel Aviv,False
+2023/24,6,M. Tel Aviv,False
+2023/24,7,M. Tel Aviv,False
+2023/24,8,M. Tel Aviv,False
+2023/24,9,M. Tel Aviv,False
+2023/24,10,M. Tel Aviv,False
+2024/25,1,H. Beer Sheva,False
+2024/25,2,M. Tel Aviv,True
+2024/25,3,M. Tel Aviv,False
+2024/25,4,H. Beer Sheva,True
+2024/25,5,H. Beer Sheva,False
+2024/25,6,H. Beer Sheva,False
+2024/25,7,H. Beer Sheva,False
+2024/25,8,M. Tel Aviv,True
+2024/25,9,M. Tel Aviv,False
+2024/25,10,M. Tel Aviv,False
