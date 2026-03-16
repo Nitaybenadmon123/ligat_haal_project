@@ -1,0 +1,30 @@
+﻿team_raw,club_name,city_he,city_en,settlement_code,population_total,district_he,subdistrict_he,municipal_status_he,year
+FC Ashdod,FC Ashdod,אשדוד,Ashdod,70,228562.0,הדרום,אשקלון,עירייה,2024
+H. Ashkelon,Hapoel Ashkelon,אשקלון,Ashkelon,7100,166865.0,הדרום,אשקלון,עירייה,2024
+H. Beer Sheva,Hapoel Beer Sheva,באר שבע,Beer Sheva,9000,223587.0,הדרום,באר שבע,עירייה,2024
+Maccabi Herzlya,Maccabi Herzliya,הרצלייה,Herzliya,6400,110885.0,תל אביב,תל אביב,עירייה,2024
+Hapoel Hadera,Hapoel Hadera,חדרה,Hadera,6500,107974.0,חיפה,חדרה,עירייה,2024
+Hapoel Haifa,Hapoel Haifa,חיפה,Haifa,4000,297083.0,חיפה,חיפה,עירייה,2024
+Maccabi Haifa,Maccabi Haifa,חיפה,Haifa,4000,297083.0,חיפה,חיפה,עירייה,2024
+Ironi Tiberias,Ironi Tiberias,טבריה,Tiberias,6700,52122.0,הצפון,כנרת,עירייה,2024
+B. Jerusalem,Beitar Jerusalem,ירושלים,Jerusalem,3000,1050151.0,ירושלים,ירושלים,עירייה,2024
+H. Jerusalem,Hapoel Jerusalem,ירושלים,Jerusalem,3000,1050151.0,ירושלים,ירושלים,עירייה,2024
+H. Kfar Saba,Hapoel Kfar Saba,כפר סבא,Kfar Saba,6900,99410.0,המרכז,פתח תקווה,עירייה,2024
+H. Nof HaGalil,Hapoel Nof HaGalil,נוף הגליל,Nof HaGalil,1061,45805.0,הצפון,,עירייה,2024
+Ness Ziona,Sektzia Ness Ziona,נס ציונה,Ness Ziona,7200,47268.0,המרכז,רחובות,עירייה,2024
+M. Ahi Nazareth,Maccabi Ahi Nazareth,נצרת,Nazareth,7300,75704.0,הצפון,,עירייה,2024
+Maccabi Netanya,Maccabi Netanya,נתניה,Netanya,7400,234812.0,המרכז,השרון,עירייה,2024
+Bnei Sakhnin,Bnei Sakhnin,סח'נין,Sakhnin,7500,33726.0,הצפון,עכו,עירייה,2024
+Hapoel Acre,Hapoel Acre,עכו,Acre,7600,52884.0,הצפון,עכו,עירייה,2024
+H. Petah Tikva,Hapoel Petah Tikva,פתח תקווה,Petah Tikva,7900,270403.0,המרכז,פתח תקווה,עירייה,2024
+M. Petah Tikva,Maccabi Petah Tikva,פתח תקווה,Petah Tikva,7900,270403.0,המרכז,פתח תקווה,עירייה,2024
+Kiryat Shmona,Ironi Kiryat Shmona,קריית שמונה,Kiryat Shmona,2800,24437.0,הצפון,צפת,עירייה,2024
+H Rishon leZion,Hapoel Rishon LeZion,ראשון לציון,Rishon LeZion,8300,259275.0,המרכז,רחובות,עירייה,2024
+M. Bnei Reineh,Maccabi Bnei Reineh,ריינה,Reineh,542,20654.0,הצפון,,מועצה מקומית,2024
+Hakoah Amidar,Hakoah Amidar Ramat Gan,רמת גן,Ramat Gan,8600,172242.0,תל אביב,,עירייה,2024
+H. Ramat Gan,Hapoel Ramat Gan,רמת גן,Ramat Gan,8600,172242.0,תל אביב,,עירייה,2024
+Ramat haSharon,Hapoel Nir Ramat HaSharon,רמת השרון,Ramat HaSharon,2650,48860.0,תל אביב,תל אביב,עירייה,2024
+Hapoel Raanana,Hapoel Raanana,רעננה,Raanana,8700,82963.0,המרכז,פתח תקווה,עירייה,2024
+Bnei Yehuda,Bnei Yehuda Tel Aviv,תל אביב -יפו,Tel Aviv-Yafo,5000,494900.0,תל אביב,תל אביב,עירייה,2024
+Hapoel Tel Aviv,Hapoel Tel Aviv,תל אביב -יפו,Tel Aviv-Yafo,5000,494900.0,תל אביב,תל אביב,עירייה,2024
+M. Tel Aviv,Maccabi Tel Aviv,תל אביב -יפו,Tel Aviv-Yafo,5000,494900.0,תל אביב,תל אביב,עירייה,2024
