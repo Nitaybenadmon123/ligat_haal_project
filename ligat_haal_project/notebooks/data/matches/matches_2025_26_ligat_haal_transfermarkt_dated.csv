@@ -1,0 +1,75 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,H. Jerusalem,1:2,FC Ashdod,2025/26,2025,23/08/25,7:15 PM,2025-08-23,Saturday,שבת,5
+1,1,2,Hapoel Tel Aviv,2:1,Kiryat Shmona,2025/26,2025,23/08/25,7:15 PM,2025-08-23,Saturday,שבת,5
+1,1,3,Ironi Tiberias,1:0,Hapoel Haifa,2025/26,2025,23/08/25,7:30 PM,2025-08-23,Saturday,שבת,5
+1,1,4,Maccabi Haifa,4:0,M. Bnei Reineh,2025/26,2025,23/08/25,7:30 PM,2025-08-23,Saturday,שבת,5
+1,1,5,Maccabi Netanya,2:4,H. Beer Sheva,2025/26,2025,24/08/25,7:15 PM,2025-08-24,Sunday,יום ראשון,6
+1,1,6,Bnei Sakhnin,1:2,B. Jerusalem,2025/26,2025,25/08/25,7:00 PM,2025-08-25,Monday,יום שני,0
+1,1,7,H. Petah Tikva,0:4,M. Tel Aviv,2025/26,2025,16/09/25,6:30 PM,2025-09-16,Tuesday,יום שלישי,1
+2,2,8,Kiryat Shmona,0:0,H. Petah Tikva,2025/26,2025,30/08/25,7:15 PM,2025-08-30,Saturday,שבת,5
+2,2,9,M. Bnei Reineh,2:2,Hapoel Tel Aviv,2025/26,2025,30/08/25,7:15 PM,2025-08-30,Saturday,שבת,5
+2,2,10,Hapoel Haifa,2:1,H. Jerusalem,2025/26,2025,30/08/25,7:15 PM,2025-08-30,Saturday,שבת,5
+2,2,11,FC Ashdod,1:2,Bnei Sakhnin,2025/26,2025,30/08/25,7:30 PM,2025-08-30,Saturday,שבת,5
+2,2,12,H. Beer Sheva,7:0,Ironi Tiberias,2025/26,2025,30/08/25,7:30 PM,2025-08-30,Saturday,שבת,5
+2,2,13,M. Tel Aviv,4:0,Maccabi Netanya,2025/26,2025,31/08/25,7:00 PM,2025-08-31,Sunday,יום ראשון,6
+2,2,14,B. Jerusalem,0:0,Maccabi Haifa,2025/26,2025,31/08/25,7:30 PM,2025-08-31,Sunday,יום ראשון,6
+3,3,15,H. Petah Tikva,3:1,Maccabi Netanya,2025/26,2025,13/09/25,6:45 PM,2025-09-13,Saturday,שבת,5
+3,3,16,Bnei Sakhnin,0:2,Hapoel Haifa,2025/26,2025,13/09/25,6:45 PM,2025-09-13,Saturday,שבת,5
+3,3,17,Ironi Tiberias,1:4,M. Tel Aviv,2025/26,2025,13/09/25,7:00 PM,2025-09-13,Saturday,שבת,5
+3,3,18,Kiryat Shmona,3:1,M. Bnei Reineh,2025/26,2025,13/09/25,7:00 PM,2025-09-13,Saturday,שבת,5
+3,3,19,H. Jerusalem,1:5,H. Beer Sheva,2025/26,2025,14/09/25,7:15 PM,2025-09-14,Sunday,יום ראשון,6
+3,3,20,Maccabi Haifa,5:1,FC Ashdod,2025/26,2025,15/09/25,7:00 PM,2025-09-15,Monday,יום שני,0
+3,3,21,Hapoel Tel Aviv,3:2,B. Jerusalem,2025/26,2025,15/09/25,7:30 PM,2025-09-15,Monday,יום שני,0
+4,4,22,M. Bnei Reineh,1:6,H. Petah Tikva,2025/26,2025,20/09/25,6:45 PM,2025-09-20,Saturday,שבת,5
+4,4,23,FC Ashdod,2:6,Hapoel Tel Aviv,2025/26,2025,20/09/25,6:45 PM,2025-09-20,Saturday,שבת,5
+4,4,24,B. Jerusalem,2:1,Kiryat Shmona,2025/26,2025,20/09/25,7:00 PM,2025-09-20,Saturday,שבת,5
+4,4,25,M. Tel Aviv,2:1,H. Jerusalem,2025/26,2025,20/09/25,7:00 PM,2025-09-20,Saturday,שבת,5
+4,4,26,Maccabi Netanya,5:2,Ironi Tiberias,2025/26,2025,20/09/25,7:00 PM,2025-09-20,Saturday,שבת,5
+4,4,27,H. Beer Sheva,3:1,Bnei Sakhnin,2025/26,2025,21/09/25,7:00 PM,2025-09-21,Sunday,יום ראשון,6
+4,4,28,Hapoel Haifa,1:1,Maccabi Haifa,2025/26,2025,21/09/25,7:30 PM,2025-09-21,Sunday,יום ראשון,6
+5,5,29,H. Jerusalem,1:2,Maccabi Netanya,2025/26,2025,27/09/25,6:30 PM,2025-09-27,Saturday,שבת,5
+5,5,30,H. Petah Tikva,0:2,Ironi Tiberias,2025/26,2025,27/09/25,6:45 PM,2025-09-27,Saturday,שבת,5
+5,5,31,Hapoel Tel Aviv,1:0,Hapoel Haifa,2025/26,2025,27/09/25,6:45 PM,2025-09-27,Saturday,שבת,5
+5,5,32,Kiryat Shmona,1:2,FC Ashdod,2025/26,2025,27/09/25,6:45 PM,2025-09-27,Saturday,שבת,5
+5,5,33,M. Bnei Reineh,1:3,B. Jerusalem,2025/26,2025,27/09/25,7:00 PM,2025-09-27,Saturday,שבת,5
+5,5,34,Bnei Sakhnin,0:0,M. Tel Aviv,2025/26,2025,28/09/25,7:15 PM,2025-09-28,Sunday,יום ראשון,6
+5,5,35,Maccabi Haifa,0:1,H. Beer Sheva,2025/26,2025,29/09/25,7:30 PM,2025-09-29,Monday,יום שני,0
+6,6,36,Hapoel Haifa,0:0,Kiryat Shmona,2025/26,2025,04/10/25,6:15 PM,2025-10-04,Saturday,שבת,5
+6,6,37,Ironi Tiberias,1:0,H. Jerusalem,2025/26,2025,04/10/25,6:15 PM,2025-10-04,Saturday,שבת,5
+6,6,38,FC Ashdod,2:0,M. Bnei Reineh,2025/26,2025,04/10/25,6:30 PM,2025-10-04,Saturday,שבת,5
+6,6,39,B. Jerusalem,5:2,H. Petah Tikva,2025/26,2025,04/10/25,7:00 PM,2025-10-04,Saturday,שבת,5
+6,6,40,H. Beer Sheva,2:1,Hapoel Tel Aviv,2025/26,2025,04/10/25,7:00 PM,2025-10-04,Saturday,שבת,5
+6,6,41,Maccabi Netanya,1:2,Bnei Sakhnin,2025/26,2025,05/10/25,7:00 PM,2025-10-05,Sunday,יום ראשון,6
+6,6,42,M. Tel Aviv,1:1,Maccabi Haifa,2025/26,2025,05/10/25,7:30 PM,2025-10-05,Sunday,יום ראשון,6
+7,7,43,H. Petah Tikva,0:0,H. Jerusalem,2025/26,2025,18/10/25,6:15 PM,2025-10-18,Saturday,שבת,5
+7,7,44,Bnei Sakhnin,2:0,Ironi Tiberias,2025/26,2025,18/10/25,6:15 PM,2025-10-18,Saturday,שבת,5
+7,7,45,Kiryat Shmona,1:0,H. Beer Sheva,2025/26,2025,18/10/25,6:30 PM,2025-10-18,Saturday,שבת,5
+7,7,46,M. Bnei Reineh,1:2,Hapoel Haifa,2025/26,2025,18/10/25,6:30 PM,2025-10-18,Saturday,שבת,5
+7,7,47,Maccabi Haifa,2:3,Maccabi Netanya,2025/26,2025,18/10/25,7:00 PM,2025-10-18,Saturday,שבת,5
+7,7,48,B. Jerusalem,0:0,FC Ashdod,2025/26,2025,20/10/25,7:00 PM,2025-10-20,Monday,יום שני,0
+8,8,49,FC Ashdod,1:1,H. Petah Tikva,2025/26,2025,25/10/25,6:15 PM,2025-10-25,Saturday,שבת,5
+8,8,50,Hapoel Haifa,2:3,B. Jerusalem,2025/26,2025,25/10/25,6:15 PM,2025-10-25,Saturday,שבת,5
+8,8,51,Ironi Tiberias,1:1,Maccabi Haifa,2025/26,2025,25/10/25,6:30 PM,2025-10-25,Saturday,שבת,5
+8,8,52,H. Jerusalem,0:0,Bnei Sakhnin,2025/26,2025,25/10/25,6:30 PM,2025-10-25,Saturday,שבת,5
+8,8,53,Maccabi Netanya,2:0,Hapoel Tel Aviv,2025/26,2025,25/10/25,7:00 PM,2025-10-25,Saturday,שבת,5
+8,8,54,H. Beer Sheva,1:0,M. Bnei Reineh,2025/26,2025,26/10/25,7:15 PM,2025-10-26,Sunday,יום ראשון,6
+8,8,55,M. Tel Aviv,3:1,Kiryat Shmona,2025/26,2025,27/10/25,7:00 PM,2025-10-27,Monday,יום שני,0
+9,9,56,Maccabi Haifa,2:2,H. Jerusalem,2025/26,2025,01/11/25,2:00 PM,2025-11-01,Saturday,שבת,5
+9,9,57,Hapoel Tel Aviv,2:0,Ironi Tiberias,2025/26,2025,01/11/25,4:30 PM,2025-11-01,Saturday,שבת,5
+9,9,58,H. Petah Tikva,2:2,Bnei Sakhnin,2025/26,2025,01/11/25,5:30 PM,2025-11-01,Saturday,שבת,5
+9,9,59,FC Ashdod,4:1,Hapoel Haifa,2025/26,2025,01/11/25,5:30 PM,2025-11-01,Saturday,שבת,5
+9,9,60,M. Bnei Reineh,0:2,M. Tel Aviv,2025/26,2025,01/11/25,6:30 PM,2025-11-01,Saturday,שבת,5
+9,9,61,Kiryat Shmona,1:2,Maccabi Netanya,2025/26,2025,02/11/25,7:15 PM,2025-11-02,Sunday,יום ראשון,6
+9,9,62,B. Jerusalem,0:1,H. Beer Sheva,2025/26,2025,03/11/25,7:30 PM,2025-11-03,Monday,יום שני,0
+10,10,63,H. Jerusalem,0:0,Hapoel Tel Aviv,2025/26,2025,08/11/25,2:00 PM,2025-11-08,Saturday,שבת,5
+10,10,64,Bnei Sakhnin,3:3,Maccabi Haifa,2025/26,2025,08/11/25,4:30 PM,2025-11-08,Saturday,שבת,5
+10,10,65,Maccabi Netanya,2:1,M. Bnei Reineh,2025/26,2025,08/11/25,5:30 PM,2025-11-08,Saturday,שבת,5
+10,10,66,Ironi Tiberias,2:3,Kiryat Shmona,2025/26,2025,08/11/25,5:30 PM,2025-11-08,Saturday,שבת,5
+10,10,67,H. Beer Sheva,2:2,FC Ashdod,2025/26,2025,08/11/25,6:30 PM,2025-11-08,Saturday,שבת,5
+10,10,68,Hapoel Haifa,2:2,H. Petah Tikva,2025/26,2025,09/11/25,7:00 PM,2025-11-09,Sunday,יום ראשון,6
+10,10,69,M. Tel Aviv,2:6,B. Jerusalem,2025/26,2025,09/11/25,7:30 PM,2025-11-09,Sunday,יום ראשון,6
+11,11,70,Hapoel Haifa,3:4,H. Beer Sheva,2025/26,2025,29/11/25,2:00 PM,2025-11-29,Saturday,שבת,5
+11,11,71,Hapoel Tel Aviv,2:0,Bnei Sakhnin,2025/26,2025,29/11/25,4:30 PM,2025-11-29,Saturday,שבת,5
+11,11,72,Kiryat Shmona,1:2,H. Jerusalem,2025/26,2025,29/11/25,5:30 PM,2025-11-29,Saturday,שבת,5
+11,11,73,M. Bnei Reineh,1:3,Ironi Tiberias,2025/26,2025,29/11/25,5:30 PM,2025-11-29,Saturday,שבת,5
+11,11,74,H. Petah Tikva,0:0,Maccabi Haifa,2025/26,2025,29/11/25,6:30 PM,2025-11-29,Saturday,שבת,5

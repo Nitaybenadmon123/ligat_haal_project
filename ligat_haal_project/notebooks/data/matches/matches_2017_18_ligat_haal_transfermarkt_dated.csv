@@ -1,0 +1,183 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,FC Ashdod,1:2,M. Petah Tikva,2017/18,2017,19/08/17,5:00 PM,2017-08-19,Saturday,שבת,5
+1,1,2,Hapoel Raanana,0:0,Kiryat Shmona,2017/18,2017,19/08/17,6:00 PM,2017-08-19,Saturday,שבת,5
+1,1,3,Hapoel Haifa,3:1,H. Ashkelon,2017/18,2017,19/08/17,6:15 PM,2017-08-19,Saturday,שבת,5
+1,1,4,H. Beer Sheva,1:1,Maccabi Netanya,2017/18,2017,19/08/17,7:30 PM,2017-08-19,Saturday,שבת,5
+1,1,5,Hapoel Acre,1:2,Bnei Sakhnin,2017/18,2017,20/08/17,6:00 PM,2017-08-20,Sunday,יום ראשון,6
+1,1,6,M. Tel Aviv,0:3,B. Jerusalem,2017/18,2017,20/08/17,8:00 PM,2017-08-20,Sunday,יום ראשון,6
+1,1,7,Bnei Yehuda,2:0,Maccabi Haifa,2017/18,2017,21/08/17,7:30 PM,2017-08-21,Monday,יום שני,0
+2,2,8,Bnei Sakhnin,2:1,Hapoel Raanana,2017/18,2017,26/08/17,5:00 PM,2017-08-26,Saturday,שבת,5
+2,2,9,H. Ashkelon,1:1,Bnei Yehuda,2017/18,2017,26/08/17,5:30 PM,2017-08-26,Saturday,שבת,5
+2,2,10,Maccabi Netanya,2:2,Hapoel Acre,2017/18,2017,26/08/17,7:15 PM,2017-08-26,Saturday,שבת,5
+2,2,11,M. Petah Tikva,0:2,Hapoel Haifa,2017/18,2017,26/08/17,7:30 PM,2017-08-26,Saturday,שבת,5
+2,2,12,Kiryat Shmona,1:2,M. Tel Aviv,2017/18,2017,27/08/17,7:10 PM,2017-08-27,Sunday,יום ראשון,6
+2,2,13,Maccabi Haifa,3:1,H. Beer Sheva,2017/18,2017,27/08/17,8:00 PM,2017-08-27,Sunday,יום ראשון,6
+2,2,14,B. Jerusalem,4:1,FC Ashdod,2017/18,2017,28/08/17,7:30 PM,2017-08-28,Monday,יום שני,0
+3,3,15,M. Tel Aviv,2:0,Bnei Sakhnin,2017/18,2017,09/09/17,5:00 PM,2017-09-09,Saturday,שבת,5
+3,3,16,Hapoel Haifa,2:1,Bnei Yehuda,2017/18,2017,09/09/17,6:15 PM,2017-09-09,Saturday,שבת,5
+3,3,17,FC Ashdod,0:2,Kiryat Shmona,2017/18,2017,09/09/17,6:15 PM,2017-09-09,Saturday,שבת,5
+3,3,18,H. Beer Sheva,1:0,H. Ashkelon,2017/18,2017,09/09/17,7:30 PM,2017-09-09,Saturday,שבת,5
+3,3,19,Hapoel Raanana,0:3,Maccabi Netanya,2017/18,2017,10/09/17,6:00 PM,2017-09-10,Sunday,יום ראשון,6
+3,3,20,Hapoel Acre,2:0,Maccabi Haifa,2017/18,2017,10/09/17,7:15 PM,2017-09-10,Sunday,יום ראשון,6
+3,3,21,M. Petah Tikva,1:2,B. Jerusalem,2017/18,2017,11/09/17,8:00 PM,2017-09-11,Monday,יום שני,0
+4,4,22,Kiryat Shmona,3:1,M. Petah Tikva,2017/18,2017,16/09/17,5:00 PM,2017-09-16,Saturday,שבת,5
+4,4,23,Maccabi Haifa,4:2,Hapoel Raanana,2017/18,2017,16/09/17,6:00 PM,2017-09-16,Saturday,שבת,5
+4,4,24,H. Ashkelon,2:1,Hapoel Acre,2017/18,2017,16/09/17,6:30 PM,2017-09-16,Saturday,שבת,5
+4,4,25,B. Jerusalem,3:3,Hapoel Haifa,2017/18,2017,16/09/17,7:30 PM,2017-09-16,Saturday,שבת,5
+4,4,26,Bnei Sakhnin,0:0,FC Ashdod,2017/18,2017,17/09/17,6:00 PM,2017-09-17,Sunday,יום ראשון,6
+4,4,27,Bnei Yehuda,0:1,H. Beer Sheva,2017/18,2017,17/09/17,7:15 PM,2017-09-17,Sunday,יום ראשון,6
+4,4,28,Maccabi Netanya,2:3,M. Tel Aviv,2017/18,2017,18/09/17,8:00 PM,2017-09-18,Monday,יום שני,0
+5,5,29,Hapoel Acre,1:1,Bnei Yehuda,2017/18,2017,23/09/17,5:00 PM,2017-09-23,Saturday,שבת,5
+5,5,30,Hapoel Raanana,0:3,H. Ashkelon,2017/18,2017,23/09/17,6:00 PM,2017-09-23,Saturday,שבת,5
+5,5,31,FC Ashdod,0:3,Maccabi Netanya,2017/18,2017,23/09/17,6:15 PM,2017-09-23,Saturday,שבת,5
+5,5,32,Hapoel Haifa,1:1,H. Beer Sheva,2017/18,2017,23/09/17,7:30 PM,2017-09-23,Saturday,שבת,5
+5,5,33,M. Petah Tikva,1:0,Bnei Sakhnin,2017/18,2017,24/09/17,6:00 PM,2017-09-24,Sunday,יום ראשון,6
+5,5,34,M. Tel Aviv,0:0,Maccabi Haifa,2017/18,2017,24/09/17,8:00 PM,2017-09-24,Sunday,יום ראשון,6
+5,5,35,B. Jerusalem,1:1,Kiryat Shmona,2017/18,2017,25/09/17,7:30 PM,2017-09-25,Monday,יום שני,0
+6,6,36,Bnei Yehuda,1:0,Hapoel Raanana,2017/18,2017,01/10/17,6:00 PM,2017-10-01,Sunday,יום ראשון,6
+6,6,37,Kiryat Shmona,0:1,Hapoel Haifa,2017/18,2017,01/10/17,7:00 PM,2017-10-01,Sunday,יום ראשון,6
+6,6,38,Maccabi Haifa,1:0,FC Ashdod,2017/18,2017,01/10/17,7:00 PM,2017-10-01,Sunday,יום ראשון,6
+6,6,39,H. Ashkelon,2:2,M. Tel Aviv,2017/18,2017,01/10/17,8:00 PM,2017-10-01,Sunday,יום ראשון,6
+6,6,40,Maccabi Netanya,4:0,M. Petah Tikva,2017/18,2017,02/10/17,7:15 PM,2017-10-02,Monday,יום שני,0
+6,6,41,Bnei Sakhnin,3:2,B. Jerusalem,2017/18,2017,02/10/17,8:00 PM,2017-10-02,Monday,יום שני,0
+6,6,42,H. Beer Sheva,3:1,Hapoel Acre,2017/18,2017,18/11/17,7:30 PM,2017-11-18,Saturday,שבת,5
+7,7,43,M. Petah Tikva,2:2,Maccabi Haifa,2017/18,2017,14/10/17,5:00 PM,2017-10-14,Saturday,שבת,5
+7,7,44,Hapoel Haifa,4:0,Hapoel Acre,2017/18,2017,14/10/17,5:30 PM,2017-10-14,Saturday,שבת,5
+7,7,45,FC Ashdod,1:1,H. Ashkelon,2017/18,2017,14/10/17,6:00 PM,2017-10-14,Saturday,שבת,5
+7,7,46,Hapoel Raanana,1:3,H. Beer Sheva,2017/18,2017,14/10/17,7:30 PM,2017-10-14,Saturday,שבת,5
+7,7,47,Kiryat Shmona,0:0,Bnei Sakhnin,2017/18,2017,15/10/17,6:00 PM,2017-10-15,Sunday,יום ראשון,6
+7,7,48,M. Tel Aviv,2:0,Bnei Yehuda,2017/18,2017,15/10/17,7:15 PM,2017-10-15,Sunday,יום ראשון,6
+7,7,49,B. Jerusalem,4:1,Maccabi Netanya,2017/18,2017,16/10/17,8:00 PM,2017-10-16,Monday,יום שני,0
+8,8,50,Bnei Yehuda,1:2,FC Ashdod,2017/18,2017,21/10/17,3:00 PM,2017-10-21,Saturday,שבת,5
+8,8,51,Hapoel Acre,0:2,Hapoel Raanana,2017/18,2017,21/10/17,5:00 PM,2017-10-21,Saturday,שבת,5
+8,8,52,Maccabi Netanya,3:1,Kiryat Shmona,2017/18,2017,21/10/17,5:15 PM,2017-10-21,Saturday,שבת,5
+8,8,53,Maccabi Haifa,1:2,B. Jerusalem,2017/18,2017,21/10/17,7:30 PM,2017-10-21,Saturday,שבת,5
+8,8,54,H. Ashkelon,1:3,M. Petah Tikva,2017/18,2017,22/10/17,6:00 PM,2017-10-22,Sunday,יום ראשון,6
+8,8,55,Bnei Sakhnin,0:1,Hapoel Haifa,2017/18,2017,22/10/17,7:15 PM,2017-10-22,Sunday,יום ראשון,6
+8,8,56,H. Beer Sheva,2:1,M. Tel Aviv,2017/18,2017,23/10/17,8:00 PM,2017-10-23,Monday,יום שני,0
+9,9,57,Bnei Sakhnin,0:0,Maccabi Netanya,2017/18,2017,28/10/17,3:00 PM,2017-10-28,Saturday,שבת,5
+9,9,58,Hapoel Haifa,2:0,Hapoel Raanana,2017/18,2017,28/10/17,5:00 PM,2017-10-28,Saturday,שבת,5
+9,9,59,Kiryat Shmona,1:0,Maccabi Haifa,2017/18,2017,28/10/17,5:15 PM,2017-10-28,Saturday,שבת,5
+9,9,60,B. Jerusalem,2:0,H. Ashkelon,2017/18,2017,28/10/17,7:30 PM,2017-10-28,Saturday,שבת,5
+9,9,61,M. Tel Aviv,5:2,Hapoel Acre,2017/18,2017,29/10/17,7:10 PM,2017-10-29,Sunday,יום ראשון,6
+9,9,62,FC Ashdod,1:3,H. Beer Sheva,2017/18,2017,29/10/17,8:00 PM,2017-10-29,Sunday,יום ראשון,6
+9,9,63,M. Petah Tikva,1:2,Bnei Yehuda,2017/18,2017,30/10/17,8:00 PM,2017-10-30,Monday,יום שני,0
+10,10,64,Hapoel Acre,1:0,FC Ashdod,2017/18,2017,04/11/17,3:00 PM,2017-11-04,Saturday,שבת,5
+10,10,65,Maccabi Netanya,2:0,Hapoel Haifa,2017/18,2017,04/11/17,5:15 PM,2017-11-04,Saturday,שבת,5
+10,10,66,Bnei Yehuda,3:2,B. Jerusalem,2017/18,2017,04/11/17,7:30 PM,2017-11-04,Saturday,שבת,5
+10,10,67,M. Petah Tikva,0:2,H. Beer Sheva,2017/18,2017,05/11/17,7:00 PM,2017-11-05,Sunday,יום ראשון,6
+10,10,68,Hapoel Raanana,0:1,M. Tel Aviv,2017/18,2017,05/11/17,7:30 PM,2017-11-05,Sunday,יום ראשון,6
+10,10,69,Maccabi Haifa,2:0,Bnei Sakhnin,2017/18,2017,05/11/17,8:00 PM,2017-11-05,Sunday,יום ראשון,6
+10,10,70,H. Ashkelon,0:0,Kiryat Shmona,2017/18,2017,06/11/17,6:45 PM,2017-11-06,Monday,יום שני,0
+11,11,71,Bnei Sakhnin,2:1,H. Ashkelon,2017/18,2017,25/11/17,3:00 PM,2017-11-25,Saturday,שבת,5
+11,11,72,Kiryat Shmona,2:1,Bnei Yehuda,2017/18,2017,25/11/17,5:15 PM,2017-11-25,Saturday,שבת,5
+11,11,73,Maccabi Netanya,1:1,Maccabi Haifa,2017/18,2017,25/11/17,7:30 PM,2017-11-25,Saturday,שבת,5
+11,11,74,Hapoel Acre,0:3,M. Petah Tikva,2017/18,2017,25/11/17,7:30 PM,2017-11-25,Saturday,שבת,5
+11,11,75,FC Ashdod,0:1,Hapoel Raanana,2017/18,2017,26/11/17,6:00 PM,2017-11-26,Sunday,יום ראשון,6
+11,11,76,Hapoel Haifa,2:2,M. Tel Aviv,2017/18,2017,26/11/17,7:15 PM,2017-11-26,Sunday,יום ראשון,6
+11,11,77,B. Jerusalem,2:2,H. Beer Sheva,2017/18,2017,27/11/17,8:00 PM,2017-11-27,Monday,יום שני,0
+12,12,78,M. Tel Aviv,1:1,FC Ashdod,2017/18,2017,02/12/17,3:00 PM,2017-12-02,Saturday,שבת,5
+12,12,79,Bnei Yehuda,3:0,Bnei Sakhnin,2017/18,2017,02/12/17,5:00 PM,2017-12-02,Saturday,שבת,5
+12,12,80,H. Ashkelon,1:1,Maccabi Netanya,2017/18,2017,02/12/17,5:15 PM,2017-12-02,Saturday,שבת,5
+12,12,81,Hapoel Acre,1:3,B. Jerusalem,2017/18,2017,02/12/17,7:30 PM,2017-12-02,Saturday,שבת,5
+12,12,82,Hapoel Raanana,0:0,M. Petah Tikva,2017/18,2017,03/12/17,6:00 PM,2017-12-03,Sunday,יום ראשון,6
+12,12,83,H. Beer Sheva,3:1,Kiryat Shmona,2017/18,2017,03/12/17,7:15 PM,2017-12-03,Sunday,יום ראשון,6
+12,12,84,Hapoel Haifa,1:0,Maccabi Haifa,2017/18,2017,04/12/17,8:00 PM,2017-12-04,Monday,יום שני,0
+13,13,85,FC Ashdod,1:1,Hapoel Haifa,2017/18,2017,09/12/17,3:00 PM,2017-12-09,Saturday,שבת,5
+13,13,86,Maccabi Netanya,1:2,Bnei Yehuda,2017/18,2017,09/12/17,3:00 PM,2017-12-09,Saturday,שבת,5
+13,13,87,Maccabi Haifa,1:1,H. Ashkelon,2017/18,2017,09/12/17,5:15 PM,2017-12-09,Saturday,שבת,5
+13,13,88,B. Jerusalem,3:2,Hapoel Raanana,2017/18,2017,09/12/17,7:30 PM,2017-12-09,Saturday,שבת,5
+13,13,89,Kiryat Shmona,4:0,Hapoel Acre,2017/18,2017,10/12/17,6:00 PM,2017-12-10,Sunday,יום ראשון,6
+13,13,90,Bnei Sakhnin,1:3,H. Beer Sheva,2017/18,2017,10/12/17,7:15 PM,2017-12-10,Sunday,יום ראשון,6
+13,13,91,M. Petah Tikva,0:0,M. Tel Aviv,2017/18,2017,11/12/17,8:00 PM,2017-12-11,Monday,יום שני,0
+14,14,92,M. Petah Tikva,1:1,FC Ashdod,2017/18,2017,16/12/17,3:00 PM,2017-12-16,Saturday,שבת,5
+14,14,93,Bnei Sakhnin,2:1,Hapoel Acre,2017/18,2017,16/12/17,5:00 PM,2017-12-16,Saturday,שבת,5
+14,14,94,H. Ashkelon,0:0,Hapoel Haifa,2017/18,2017,16/12/17,5:15 PM,2017-12-16,Saturday,שבת,5
+14,14,95,Maccabi Haifa,0:2,Bnei Yehuda,2017/18,2017,16/12/17,7:30 PM,2017-12-16,Saturday,שבת,5
+14,14,96,Kiryat Shmona,0:2,Hapoel Raanana,2017/18,2017,17/12/17,6:00 PM,2017-12-17,Sunday,יום ראשון,6
+14,14,97,Maccabi Netanya,1:0,H. Beer Sheva,2017/18,2017,17/12/17,7:30 PM,2017-12-17,Sunday,יום ראשון,6
+14,14,98,B. Jerusalem,1:2,M. Tel Aviv,2017/18,2017,18/12/17,8:00 PM,2017-12-18,Monday,יום שני,0
+15,15,99,Hapoel Acre,0:3,Maccabi Netanya,2017/18,2017,23/12/17,3:00 PM,2017-12-23,Saturday,שבת,5
+15,15,100,Bnei Yehuda,3:1,H. Ashkelon,2017/18,2017,23/12/17,5:00 PM,2017-12-23,Saturday,שבת,5
+15,15,101,Hapoel Haifa,2:0,M. Petah Tikva,2017/18,2017,23/12/17,5:15 PM,2017-12-23,Saturday,שבת,5
+15,15,102,M. Tel Aviv,2:1,Kiryat Shmona,2017/18,2017,23/12/17,7:30 PM,2017-12-23,Saturday,שבת,5
+15,15,103,Hapoel Raanana,1:1,Bnei Sakhnin,2017/18,2017,24/12/17,6:00 PM,2017-12-24,Sunday,יום ראשון,6
+15,15,104,FC Ashdod,1:3,B. Jerusalem,2017/18,2017,24/12/17,7:15 PM,2017-12-24,Sunday,יום ראשון,6
+15,15,105,H. Beer Sheva,2:0,Maccabi Haifa,2017/18,2017,25/12/17,8:00 PM,2017-12-25,Monday,יום שני,0
+16,16,106,Bnei Yehuda,0:1,Hapoel Haifa,2017/18,2017,30/12/17,3:00 PM,2017-12-30,Saturday,שבת,5
+16,16,107,Maccabi Haifa,0:1,Hapoel Acre,2017/18,2017,30/12/17,5:15 PM,2017-12-30,Saturday,שבת,5
+16,16,108,Maccabi Netanya,2:2,Hapoel Raanana,2017/18,2017,30/12/17,5:15 PM,2017-12-30,Saturday,שבת,5
+16,16,109,B. Jerusalem,1:0,M. Petah Tikva,2017/18,2017,30/12/17,7:30 PM,2017-12-30,Saturday,שבת,5
+16,16,110,Kiryat Shmona,1:2,FC Ashdod,2017/18,2017,31/12/17,6:00 PM,2017-12-31,Sunday,יום ראשון,6
+16,16,111,H. Ashkelon,0:1,H. Beer Sheva,2017/18,2017,31/12/17,7:15 PM,2017-12-31,Sunday,יום ראשון,6
+16,16,112,Bnei Sakhnin,0:1,M. Tel Aviv,2017/18,2017,01/01/18,8:00 PM,2018-01-01,Monday,יום שני,0
+17,17,113,FC Ashdod,1:2,Bnei Sakhnin,2017/18,2017,08/01/18,6:00 PM,2018-01-08,Monday,יום שני,0
+17,17,114,Hapoel Acre,0:1,H. Ashkelon,2017/18,2017,08/01/18,6:00 PM,2018-01-08,Monday,יום שני,0
+17,17,115,Hapoel Haifa,0:2,B. Jerusalem,2017/18,2017,08/01/18,7:30 PM,2018-01-08,Monday,יום שני,0
+17,17,116,M. Petah Tikva,2:0,Kiryat Shmona,2017/18,2017,09/01/18,6:00 PM,2018-01-09,Tuesday,יום שלישי,1
+17,17,117,H. Beer Sheva,0:0,Bnei Yehuda,2017/18,2017,09/01/18,7:00 PM,2018-01-09,Tuesday,יום שלישי,1
+17,17,118,M. Tel Aviv,3:0,Maccabi Netanya,2017/18,2017,09/01/18,8:00 PM,2018-01-09,Tuesday,יום שלישי,1
+17,17,119,Hapoel Raanana,0:3,Maccabi Haifa,2017/18,2017,10/01/18,7:30 PM,2018-01-10,Wednesday,יום רביעי,2
+18,18,120,Bnei Yehuda,2:1,Hapoel Acre,2017/18,2017,13/01/18,3:00 PM,2018-01-13,Saturday,שבת,5
+18,18,121,Bnei Sakhnin,0:2,M. Petah Tikva,2017/18,2017,13/01/18,5:00 PM,2018-01-13,Saturday,שבת,5
+18,18,122,Maccabi Netanya,2:2,FC Ashdod,2017/18,2017,13/01/18,5:15 PM,2018-01-13,Saturday,שבת,5
+18,18,123,Kiryat Shmona,1:1,B. Jerusalem,2017/18,2017,13/01/18,7:30 PM,2018-01-13,Saturday,שבת,5
+18,18,124,H. Ashkelon,0:1,Hapoel Raanana,2017/18,2017,14/01/18,6:00 PM,2018-01-14,Sunday,יום ראשון,6
+18,18,125,H. Beer Sheva,1:1,Hapoel Haifa,2017/18,2017,14/01/18,7:30 PM,2018-01-14,Sunday,יום ראשון,6
+18,18,126,Maccabi Haifa,1:3,M. Tel Aviv,2017/18,2017,15/01/18,8:00 PM,2018-01-15,Monday,יום שני,0
+19,19,127,Hapoel Haifa,0:2,Kiryat Shmona,2017/18,2017,20/01/18,3:00 PM,2018-01-20,Saturday,שבת,5
+19,19,128,Hapoel Raanana,1:1,Bnei Yehuda,2017/18,2017,20/01/18,5:00 PM,2018-01-20,Saturday,שבת,5
+19,19,129,FC Ashdod,0:0,Maccabi Haifa,2017/18,2017,20/01/18,5:15 PM,2018-01-20,Saturday,שבת,5
+19,19,130,Hapoel Acre,0:1,H. Beer Sheva,2017/18,2017,20/01/18,7:30 PM,2018-01-20,Saturday,שבת,5
+19,19,131,M. Petah Tikva,1:1,Maccabi Netanya,2017/18,2017,21/01/18,6:00 PM,2018-01-21,Sunday,יום ראשון,6
+19,19,132,M. Tel Aviv,3:1,H. Ashkelon,2017/18,2017,21/01/18,7:30 PM,2018-01-21,Sunday,יום ראשון,6
+19,19,133,B. Jerusalem,4:2,Bnei Sakhnin,2017/18,2017,22/01/18,8:00 PM,2018-01-22,Monday,יום שני,0
+20,20,134,Hapoel Acre,0:1,Hapoel Haifa,2017/18,2017,27/01/18,3:00 PM,2018-01-27,Saturday,שבת,5
+20,20,135,H. Ashkelon,1:2,FC Ashdod,2017/18,2017,27/01/18,5:00 PM,2018-01-27,Saturday,שבת,5
+20,20,136,Maccabi Haifa,1:1,M. Petah Tikva,2017/18,2017,27/01/18,5:15 PM,2018-01-27,Saturday,שבת,5
+20,20,137,H. Beer Sheva,3:1,Hapoel Raanana,2017/18,2017,27/01/18,7:30 PM,2018-01-27,Saturday,שבת,5
+20,20,138,Bnei Sakhnin,1:2,Kiryat Shmona,2017/18,2017,28/01/18,6:00 PM,2018-01-28,Sunday,יום ראשון,6
+20,20,139,Bnei Yehuda,0:0,M. Tel Aviv,2017/18,2017,28/01/18,7:30 PM,2018-01-28,Sunday,יום ראשון,6
+20,20,140,Maccabi Netanya,2:1,B. Jerusalem,2017/18,2017,29/01/18,8:00 PM,2018-01-29,Monday,יום שני,0
+21,21,141,Hapoel Haifa,1:0,Bnei Sakhnin,2017/18,2017,03/02/18,3:00 PM,2018-02-03,Saturday,שבת,5
+21,21,142,Hapoel Raanana,0:1,Hapoel Acre,2017/18,2017,03/02/18,5:00 PM,2018-02-03,Saturday,שבת,5
+21,21,143,Kiryat Shmona,1:2,Maccabi Netanya,2017/18,2017,03/02/18,5:15 PM,2018-02-03,Saturday,שבת,5
+21,21,144,B. Jerusalem,3:1,Maccabi Haifa,2017/18,2017,03/02/18,7:30 PM,2018-02-03,Saturday,שבת,5
+21,21,145,FC Ashdod,1:1,Bnei Yehuda,2017/18,2017,04/02/18,6:30 PM,2018-02-04,Sunday,יום ראשון,6
+21,21,146,M. Tel Aviv,1:0,H. Beer Sheva,2017/18,2017,04/02/18,8:00 PM,2018-02-04,Sunday,יום ראשון,6
+21,21,147,M. Petah Tikva,3:0,H. Ashkelon,2017/18,2017,05/02/18,7:00 PM,2018-02-05,Monday,יום שני,0
+22,22,148,Hapoel Raanana,1:1,Hapoel Haifa,2017/18,2017,10/02/18,3:00 PM,2018-02-10,Saturday,שבת,5
+22,22,149,Bnei Yehuda,2:1,M. Petah Tikva,2017/18,2017,10/02/18,5:00 PM,2018-02-10,Saturday,שבת,5
+22,22,150,Maccabi Haifa,4:0,Kiryat Shmona,2017/18,2017,10/02/18,5:15 PM,2018-02-10,Saturday,שבת,5
+22,22,151,H. Ashkelon,1:3,B. Jerusalem,2017/18,2017,10/02/18,7:30 PM,2018-02-10,Saturday,שבת,5
+22,22,152,Maccabi Netanya,1:1,Bnei Sakhnin,2017/18,2017,11/02/18,6:00 PM,2018-02-11,Sunday,יום ראשון,6
+22,22,153,Hapoel Acre,0:2,M. Tel Aviv,2017/18,2017,11/02/18,7:15 PM,2018-02-11,Sunday,יום ראשון,6
+22,22,154,H. Beer Sheva,2:0,FC Ashdod,2017/18,2017,12/02/18,8:00 PM,2018-02-12,Monday,יום שני,0
+23,23,155,H. Beer Sheva,3:0,M. Petah Tikva,2017/18,2017,17/02/18,12:00 AM,2018-02-17,Saturday,שבת,5
+23,23,156,M. Tel Aviv,0:1,Hapoel Raanana,2017/18,2017,17/02/18,3:00 PM,2018-02-17,Saturday,שבת,5
+23,23,157,FC Ashdod,3:2,Hapoel Acre,2017/18,2017,17/02/18,5:00 PM,2018-02-17,Saturday,שבת,5
+23,23,158,Bnei Sakhnin,1:0,Maccabi Haifa,2017/18,2017,17/02/18,5:15 PM,2018-02-17,Saturday,שבת,5
+23,23,159,Kiryat Shmona,1:0,H. Ashkelon,2017/18,2017,18/02/18,6:00 PM,2018-02-18,Sunday,יום ראשון,6
+23,23,160,Hapoel Haifa,2:0,Maccabi Netanya,2017/18,2017,18/02/18,7:30 PM,2018-02-18,Sunday,יום ראשון,6
+23,23,161,B. Jerusalem,2:0,Bnei Yehuda,2017/18,2017,19/02/18,8:00 PM,2018-02-19,Monday,יום שני,0
+24,24,162,Hapoel Raanana,2:1,FC Ashdod,2017/18,2017,24/02/18,12:00 AM,2018-02-24,Saturday,שבת,5
+24,24,163,H. Ashkelon,0:2,Bnei Sakhnin,2017/18,2017,24/02/18,5:00 PM,2018-02-24,Saturday,שבת,5
+24,24,164,Maccabi Haifa,1:2,Maccabi Netanya,2017/18,2017,24/02/18,5:15 PM,2018-02-24,Saturday,שבת,5
+24,24,165,M. Tel Aviv,4:0,Hapoel Haifa,2017/18,2017,24/02/18,7:30 PM,2018-02-24,Saturday,שבת,5
+24,24,166,Bnei Yehuda,1:0,Kiryat Shmona,2017/18,2017,25/02/18,6:30 PM,2018-02-25,Sunday,יום ראשון,6
+24,24,167,H. Beer Sheva,1:1,B. Jerusalem,2017/18,2017,25/02/18,8:00 PM,2018-02-25,Sunday,יום ראשון,6
+24,24,168,M. Petah Tikva,2:1,Hapoel Acre,2017/18,2017,26/02/18,12:00 AM,2018-02-26,Monday,יום שני,0
+25,25,169,M. Petah Tikva,3:2,Hapoel Raanana,2017/18,2017,03/03/18,3:00 PM,2018-03-03,Saturday,שבת,5
+25,25,170,Maccabi Netanya,2:0,H. Ashkelon,2017/18,2017,03/03/18,5:10 PM,2018-03-03,Saturday,שבת,5
+25,25,171,Bnei Sakhnin,2:2,Bnei Yehuda,2017/18,2017,03/03/18,5:10 PM,2018-03-03,Saturday,שבת,5
+25,25,172,FC Ashdod,0:0,M. Tel Aviv,2017/18,2017,03/03/18,7:30 PM,2018-03-03,Saturday,שבת,5
+25,25,173,Kiryat Shmona,0:1,H. Beer Sheva,2017/18,2017,04/03/18,12:00 AM,2018-03-04,Sunday,יום ראשון,6
+25,25,174,B. Jerusalem,3:0,Hapoel Acre,2017/18,2017,04/03/18,8:00 PM,2018-03-04,Sunday,יום ראשון,6
+25,25,175,Maccabi Haifa,0:3,Hapoel Haifa,2017/18,2017,05/03/18,8:00 PM,2018-03-05,Monday,יום שני,0
+26,26,176,Bnei Yehuda,0:1,Maccabi Netanya,2017/18,2017,10/03/18,5:00 PM,2018-03-10,Saturday,שבת,5
+26,26,177,Hapoel Haifa,1:0,FC Ashdod,2017/18,2017,10/03/18,5:15 PM,2018-03-10,Saturday,שבת,5
+26,26,178,H. Ashkelon,0:0,Maccabi Haifa,2017/18,2017,10/03/18,6:00 PM,2018-03-10,Saturday,שבת,5
+26,26,179,H. Beer Sheva,2:0,Bnei Sakhnin,2017/18,2017,10/03/18,7:30 PM,2018-03-10,Saturday,שבת,5
+26,26,180,Hapoel Acre,0:3,Kiryat Shmona,2017/18,2017,11/03/18,6:00 PM,2018-03-11,Sunday,יום ראשון,6
+26,26,181,Hapoel Raanana,0:2,B. Jerusalem,2017/18,2017,11/03/18,7:15 PM,2018-03-11,Sunday,יום ראשון,6
+26,26,182,M. Tel Aviv,2:0,M. Petah Tikva,2017/18,2017,12/03/18,8:00 PM,2018-03-12,Monday,יום שני,0

@@ -1,0 +1,241 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,Maccabi Netanya,1:4,Maccabi Haifa,2011/12,2011,20/08/11,4:15 PM,2011-08-20,Saturday,שבת,5
+1,1,2,Hapoel Acre,2:0,Bnei Yehuda,2011/12,2011,20/08/11,6:30 PM,2011-08-20,Saturday,שבת,5
+1,1,3,Hapoel Haifa,0:1,Kiryat Shmona,2011/12,2011,20/08/11,6:30 PM,2011-08-20,Saturday,שבת,5
+1,1,4,H Rishon leZion,4:2,Bnei Sakhnin,2011/12,2011,20/08/11,7:00 PM,2011-08-20,Saturday,שבת,5
+1,1,5,H. Petah Tikva,1:3,M. Tel Aviv,2011/12,2011,21/08/11,7:00 PM,2011-08-21,Sunday,יום ראשון,6
+1,1,6,Hapoel Tel Aviv,4:1,M. Petah Tikva,2011/12,2011,22/08/11,7:50 PM,2011-08-22,Monday,יום שני,0
+1,1,7,H. Beer Sheva,0:1,B. Jerusalem,2011/12,2011,30/08/11,7:00 PM,2011-08-30,Tuesday,יום שלישי,1
+1,1,8,FC Ashdod,2:0,Ramat haSharon,2011/12,2011,13/09/11,6:30 PM,2011-09-13,Tuesday,יום שלישי,1
+2,2,9,Maccabi Haifa,2:2,H. Petah Tikva,2011/12,2011,27/08/11,4:15 PM,2011-08-27,Saturday,שבת,5
+2,2,10,B. Jerusalem,3:1,Hapoel Acre,2011/12,2011,27/08/11,6:30 PM,2011-08-27,Saturday,שבת,5
+2,2,11,Kiryat Shmona,1:3,Maccabi Netanya,2011/12,2011,27/08/11,6:30 PM,2011-08-27,Saturday,שבת,5
+2,2,12,Ramat haSharon,1:2,H Rishon leZion,2011/12,2011,27/08/11,6:30 PM,2011-08-27,Saturday,שבת,5
+2,2,13,Bnei Sakhnin,4:3,H. Beer Sheva,2011/12,2011,27/08/11,7:00 PM,2011-08-27,Saturday,שבת,5
+2,2,14,M. Petah Tikva,2:1,Hapoel Haifa,2011/12,2011,28/08/11,6:00 PM,2011-08-28,Sunday,יום ראשון,6
+2,2,15,Bnei Yehuda,1:1,Hapoel Tel Aviv,2011/12,2011,28/08/11,7:50 PM,2011-08-28,Sunday,יום ראשון,6
+2,2,16,M. Tel Aviv,4:0,FC Ashdod,2011/12,2011,29/08/11,7:00 PM,2011-08-29,Monday,יום שני,0
+3,3,17,H Rishon leZion,0:2,M. Tel Aviv,2011/12,2011,10/09/11,4:00 PM,2011-09-10,Saturday,שבת,5
+3,3,18,FC Ashdod,1:0,Maccabi Haifa,2011/12,2011,10/09/11,6:10 PM,2011-09-10,Saturday,שבת,5
+3,3,19,Hapoel Haifa,0:2,Bnei Yehuda,2011/12,2011,10/09/11,6:30 PM,2011-09-10,Saturday,שבת,5
+3,3,20,Maccabi Netanya,0:1,M. Petah Tikva,2011/12,2011,10/09/11,6:30 PM,2011-09-10,Saturday,שבת,5
+3,3,21,H. Petah Tikva,1:1,Kiryat Shmona,2011/12,2011,10/09/11,6:30 PM,2011-09-10,Saturday,שבת,5
+3,3,22,Bnei Sakhnin,3:0,Ramat haSharon,2011/12,2011,10/09/11,6:30 PM,2011-09-10,Saturday,שבת,5
+3,3,23,Hapoel Tel Aviv,1:0,B. Jerusalem,2011/12,2011,11/09/11,7:50 PM,2011-09-11,Sunday,יום ראשון,6
+3,3,24,Hapoel Acre,2:0,H. Beer Sheva,2011/12,2011,12/09/11,6:50 PM,2011-09-12,Monday,יום שני,0
+4,4,25,M. Petah Tikva,1:1,H. Petah Tikva,2011/12,2011,17/09/11,4:00 PM,2011-09-17,Saturday,שבת,5
+4,4,26,Bnei Yehuda,1:2,Maccabi Netanya,2011/12,2011,17/09/11,6:30 PM,2011-09-17,Saturday,שבת,5
+4,4,27,Kiryat Shmona,0:0,FC Ashdod,2011/12,2011,17/09/11,6:30 PM,2011-09-17,Saturday,שבת,5
+4,4,28,H. Beer Sheva,1:3,Ramat haSharon,2011/12,2011,17/09/11,6:30 PM,2011-09-17,Saturday,שבת,5
+4,4,29,B. Jerusalem,1:0,Hapoel Haifa,2011/12,2011,17/09/11,7:45 PM,2011-09-17,Saturday,שבת,5
+4,4,30,Hapoel Acre,0:2,Hapoel Tel Aviv,2011/12,2011,18/09/11,6:00 PM,2011-09-18,Sunday,יום ראשון,6
+4,4,31,Maccabi Haifa,3:1,H Rishon leZion,2011/12,2011,18/09/11,7:00 PM,2011-09-18,Sunday,יום ראשון,6
+4,4,32,M. Tel Aviv,2:0,Bnei Sakhnin,2011/12,2011,18/09/11,7:50 PM,2011-09-18,Sunday,יום ראשון,6
+5,5,33,Ramat haSharon,3:1,M. Tel Aviv,2011/12,2011,21/09/11,6:00 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,34,Hapoel Haifa,2:4,Hapoel Acre,2011/12,2011,21/09/11,6:30 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,35,H. Petah Tikva,0:1,Bnei Yehuda,2011/12,2011,21/09/11,6:30 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,36,FC Ashdod,1:3,M. Petah Tikva,2011/12,2011,21/09/11,6:30 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,37,H Rishon leZion,1:1,Kiryat Shmona,2011/12,2011,21/09/11,6:30 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,38,Hapoel Tel Aviv,2:0,H. Beer Sheva,2011/12,2011,21/09/11,6:45 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,39,Maccabi Netanya,1:1,B. Jerusalem,2011/12,2011,21/09/11,7:30 PM,2011-09-21,Wednesday,יום רביעי,2
+5,5,40,Bnei Sakhnin,2:0,Maccabi Haifa,2011/12,2011,21/09/11,8:00 PM,2011-09-21,Wednesday,יום רביעי,2
+6,6,41,Hapoel Tel Aviv,0:0,Hapoel Haifa,2011/12,2011,24/09/11,4:00 PM,2011-09-24,Saturday,שבת,5
+6,6,42,Hapoel Acre,1:2,Maccabi Netanya,2011/12,2011,24/09/11,6:00 PM,2011-09-24,Saturday,שבת,5
+6,6,43,B. Jerusalem,1:2,H. Petah Tikva,2011/12,2011,24/09/11,6:30 PM,2011-09-24,Saturday,שבת,5
+6,6,44,Kiryat Shmona,0:0,Bnei Sakhnin,2011/12,2011,24/09/11,6:30 PM,2011-09-24,Saturday,שבת,5
+6,6,45,Maccabi Haifa,5:0,Ramat haSharon,2011/12,2011,24/09/11,6:30 PM,2011-09-24,Saturday,שבת,5
+6,6,46,H. Beer Sheva,1:4,M. Tel Aviv,2011/12,2011,25/09/11,7:50 PM,2011-09-25,Sunday,יום ראשון,6
+6,6,47,M. Petah Tikva,2:2,H Rishon leZion,2011/12,2011,26/09/11,6:30 PM,2011-09-26,Monday,יום שני,0
+6,6,48,Bnei Yehuda,1:0,FC Ashdod,2011/12,2011,26/09/11,7:00 PM,2011-09-26,Monday,יום שני,0
+7,7,49,Hapoel Haifa,0:2,H. Beer Sheva,2011/12,2011,01/10/11,4:00 PM,2011-10-01,Saturday,שבת,5
+7,7,50,H. Petah Tikva,0:0,Hapoel Acre,2011/12,2011,01/10/11,6:30 PM,2011-10-01,Saturday,שבת,5
+7,7,51,FC Ashdod,3:0,B. Jerusalem,2011/12,2011,01/10/11,6:30 PM,2011-10-01,Saturday,שבת,5
+7,7,52,H Rishon leZion,0:1,Bnei Yehuda,2011/12,2011,01/10/11,6:30 PM,2011-10-01,Saturday,שבת,5
+7,7,53,Ramat haSharon,0:1,Kiryat Shmona,2011/12,2011,01/10/11,6:30 PM,2011-10-01,Saturday,שבת,5
+7,7,54,Bnei Sakhnin,3:0,M. Petah Tikva,2011/12,2011,02/10/11,7:30 PM,2011-10-02,Sunday,יום ראשון,6
+7,7,55,Maccabi Netanya,2:1,Hapoel Tel Aviv,2011/12,2011,03/10/11,7:30 PM,2011-10-03,Monday,יום שני,0
+7,7,56,M. Tel Aviv,1:1,Maccabi Haifa,2011/12,2011,03/10/11,8:50 PM,2011-10-03,Monday,יום שני,0
+8,8,57,Bnei Yehuda,1:1,Bnei Sakhnin,2011/12,2011,15/10/11,3:30 PM,2011-10-15,Saturday,שבת,5
+8,8,58,H. Beer Sheva,1:1,Maccabi Haifa,2011/12,2011,15/10/11,5:00 PM,2011-10-15,Saturday,שבת,5
+8,8,59,Hapoel Haifa,1:1,Maccabi Netanya,2011/12,2011,15/10/11,7:30 PM,2011-10-15,Saturday,שבת,5
+8,8,60,Hapoel Tel Aviv,5:0,H. Petah Tikva,2011/12,2011,15/10/11,7:30 PM,2011-10-15,Saturday,שבת,5
+8,8,61,Hapoel Acre,2:2,FC Ashdod,2011/12,2011,15/10/11,7:30 PM,2011-10-15,Saturday,שבת,5
+8,8,62,M. Petah Tikva,2:3,Ramat haSharon,2011/12,2011,15/10/11,7:30 PM,2011-10-15,Saturday,שבת,5
+8,8,63,Kiryat Shmona,2:1,M. Tel Aviv,2011/12,2011,16/10/11,8:50 PM,2011-10-16,Sunday,יום ראשון,6
+8,8,64,B. Jerusalem,1:1,H Rishon leZion,2011/12,2011,17/10/11,8:00 PM,2011-10-17,Monday,יום שני,0
+9,9,65,Maccabi Netanya,2:1,H. Beer Sheva,2011/12,2011,22/10/11,7:30 PM,2011-10-22,Saturday,שבת,5
+9,9,66,H. Petah Tikva,0:1,Hapoel Haifa,2011/12,2011,22/10/11,7:30 PM,2011-10-22,Saturday,שבת,5
+9,9,67,H Rishon leZion,0:3,Hapoel Acre,2011/12,2011,22/10/11,7:30 PM,2011-10-22,Saturday,שבת,5
+9,9,68,Ramat haSharon,2:1,Bnei Yehuda,2011/12,2011,22/10/11,7:30 PM,2011-10-22,Saturday,שבת,5
+9,9,69,Maccabi Haifa,0:3,Kiryat Shmona,2011/12,2011,23/10/11,6:55 PM,2011-10-23,Sunday,יום ראשון,6
+9,9,70,FC Ashdod,2:0,Hapoel Tel Aviv,2011/12,2011,23/10/11,8:00 PM,2011-10-23,Sunday,יום ראשון,6
+9,9,71,M. Tel Aviv,1:0,M. Petah Tikva,2011/12,2011,23/10/11,8:50 PM,2011-10-23,Sunday,יום ראשון,6
+9,9,72,Bnei Sakhnin,3:0,B. Jerusalem,2011/12,2011,24/10/11,8:50 PM,2011-10-24,Monday,יום שני,0
+10,10,73,Hapoel Tel Aviv,6:0,H Rishon leZion,2011/12,2011,29/10/11,5:30 PM,2011-10-29,Saturday,שבת,5
+10,10,74,Maccabi Netanya,1:1,H. Petah Tikva,2011/12,2011,29/10/11,7:30 PM,2011-10-29,Saturday,שבת,5
+10,10,75,Hapoel Haifa,2:2,FC Ashdod,2011/12,2011,29/10/11,7:30 PM,2011-10-29,Saturday,שבת,5
+10,10,76,Hapoel Acre,2:1,Bnei Sakhnin,2011/12,2011,29/10/11,7:30 PM,2011-10-29,Saturday,שבת,5
+10,10,77,H. Beer Sheva,0:3,Kiryat Shmona,2011/12,2011,29/10/11,7:30 PM,2011-10-29,Saturday,שבת,5
+10,10,78,M. Petah Tikva,1:4,Maccabi Haifa,2011/12,2011,29/10/11,7:30 PM,2011-10-29,Saturday,שבת,5
+10,10,79,B. Jerusalem,0:1,Ramat haSharon,2011/12,2011,30/10/11,7:00 PM,2011-10-30,Sunday,יום ראשון,6
+10,10,80,Bnei Yehuda,0:0,M. Tel Aviv,2011/12,2011,31/10/11,7:50 PM,2011-10-31,Monday,יום שני,0
+11,11,81,FC Ashdod,2:1,Maccabi Netanya,2011/12,2011,05/11/11,6:00 PM,2011-11-05,Saturday,שבת,5
+11,11,82,H Rishon leZion,1:1,Hapoel Haifa,2011/12,2011,05/11/11,6:00 PM,2011-11-05,Saturday,שבת,5
+11,11,83,Ramat haSharon,1:1,Hapoel Acre,2011/12,2011,05/11/11,6:00 PM,2011-11-05,Saturday,שבת,5
+11,11,84,Kiryat Shmona,1:1,M. Petah Tikva,2011/12,2011,05/11/11,6:00 PM,2011-11-05,Saturday,שבת,5
+11,11,85,H. Petah Tikva,2:0,H. Beer Sheva,2011/12,2011,05/11/11,6:30 PM,2011-11-05,Saturday,שבת,5
+11,11,86,Maccabi Haifa,1:1,Bnei Yehuda,2011/12,2011,06/11/11,7:00 PM,2011-11-06,Sunday,יום ראשון,6
+11,11,87,Bnei Sakhnin,0:1,Hapoel Tel Aviv,2011/12,2011,06/11/11,7:30 PM,2011-11-06,Sunday,יום ראשון,6
+11,11,88,M. Tel Aviv,0:1,B. Jerusalem,2011/12,2011,07/11/11,7:50 PM,2011-11-07,Monday,יום שני,0
+12,12,89,Bnei Yehuda,0:1,Kiryat Shmona,2011/12,2011,19/11/11,2:00 PM,2011-11-19,Saturday,שבת,5
+12,12,90,Hapoel Acre,3:0,M. Tel Aviv,2011/12,2011,19/11/11,4:00 PM,2011-11-19,Saturday,שבת,5
+12,12,91,H. Petah Tikva,0:1,FC Ashdod,2011/12,2011,19/11/11,6:00 PM,2011-11-19,Saturday,שבת,5
+12,12,92,Maccabi Netanya,6:2,H Rishon leZion,2011/12,2011,19/11/11,6:00 PM,2011-11-19,Saturday,שבת,5
+12,12,93,Hapoel Haifa,1:2,Bnei Sakhnin,2011/12,2011,19/11/11,6:00 PM,2011-11-19,Saturday,שבת,5
+12,12,94,H. Beer Sheva,0:0,M. Petah Tikva,2011/12,2011,19/11/11,6:00 PM,2011-11-19,Saturday,שבת,5
+12,12,95,Hapoel Tel Aviv,0:0,Ramat haSharon,2011/12,2011,20/11/11,7:00 PM,2011-11-20,Sunday,יום ראשון,6
+12,12,96,B. Jerusalem,1:4,Maccabi Haifa,2011/12,2011,21/11/11,7:50 PM,2011-11-21,Monday,יום שני,0
+13,13,97,Kiryat Shmona,1:0,B. Jerusalem,2011/12,2011,26/11/11,4:00 PM,2011-11-26,Saturday,שבת,5
+13,13,98,FC Ashdod,2:0,H. Beer Sheva,2011/12,2011,26/11/11,6:00 PM,2011-11-26,Saturday,שבת,5
+13,13,99,H Rishon leZion,0:0,H. Petah Tikva,2011/12,2011,26/11/11,6:00 PM,2011-11-26,Saturday,שבת,5
+13,13,100,Bnei Sakhnin,1:1,Maccabi Netanya,2011/12,2011,26/11/11,6:00 PM,2011-11-26,Saturday,שבת,5
+13,13,101,Ramat haSharon,2:0,Hapoel Haifa,2011/12,2011,26/11/11,6:30 PM,2011-11-26,Saturday,שבת,5
+13,13,102,Maccabi Haifa,1:0,Hapoel Acre,2011/12,2011,26/11/11,6:30 PM,2011-11-26,Saturday,שבת,5
+13,13,103,M. Tel Aviv,1:3,Hapoel Tel Aviv,2011/12,2011,27/11/11,7:50 PM,2011-11-27,Sunday,יום ראשון,6
+13,13,104,M. Petah Tikva,1:0,Bnei Yehuda,2011/12,2011,28/11/11,7:00 PM,2011-11-28,Monday,יום שני,0
+14,14,105,Hapoel Acre,1:2,Kiryat Shmona,2011/12,2011,03/12/11,4:00 PM,2011-12-03,Saturday,שבת,5
+14,14,106,FC Ashdod,2:1,H Rishon leZion,2011/12,2011,03/12/11,6:00 PM,2011-12-03,Saturday,שבת,5
+14,14,107,H. Petah Tikva,1:2,Bnei Sakhnin,2011/12,2011,03/12/11,6:00 PM,2011-12-03,Saturday,שבת,5
+14,14,108,Maccabi Netanya,0:2,Ramat haSharon,2011/12,2011,03/12/11,6:00 PM,2011-12-03,Saturday,שבת,5
+14,14,109,H. Beer Sheva,3:1,Bnei Yehuda,2011/12,2011,03/12/11,6:00 PM,2011-12-03,Saturday,שבת,5
+14,14,110,B. Jerusalem,0:0,M. Petah Tikva,2011/12,2011,03/12/11,6:30 PM,2011-12-03,Saturday,שבת,5
+14,14,111,Hapoel Haifa,2:0,M. Tel Aviv,2011/12,2011,04/12/11,7:00 PM,2011-12-04,Sunday,יום ראשון,6
+14,14,112,Hapoel Tel Aviv,3:0,Maccabi Haifa,2011/12,2011,05/12/11,7:50 PM,2011-12-05,Monday,יום שני,0
+15,15,113,H Rishon leZion,0:1,H. Beer Sheva,2011/12,2011,10/12/11,5:00 PM,2011-12-10,Saturday,שבת,5
+15,15,114,Bnei Sakhnin,1:2,FC Ashdod,2011/12,2011,10/12/11,5:00 PM,2011-12-10,Saturday,שבת,5
+15,15,115,Ramat haSharon,0:0,H. Petah Tikva,2011/12,2011,10/12/11,5:00 PM,2011-12-10,Saturday,שבת,5
+15,15,116,M. Petah Tikva,0:4,Hapoel Acre,2011/12,2011,10/12/11,5:45 PM,2011-12-10,Saturday,שבת,5
+15,15,117,M. Tel Aviv,1:1,Maccabi Netanya,2011/12,2011,10/12/11,6:00 PM,2011-12-10,Saturday,שבת,5
+15,15,118,Maccabi Haifa,1:3,Hapoel Haifa,2011/12,2011,10/12/11,6:45 PM,2011-12-10,Saturday,שבת,5
+15,15,119,Bnei Yehuda,3:0,B. Jerusalem,2011/12,2011,11/12/11,7:00 PM,2011-12-11,Sunday,יום ראשון,6
+15,15,120,Kiryat Shmona,1:0,Hapoel Tel Aviv,2011/12,2011,12/12/11,7:50 PM,2011-12-12,Monday,יום שני,0
+16,16,121,Bnei Yehuda,4:1,Hapoel Acre,2011/12,2011,17/12/11,2:00 PM,2011-12-17,Saturday,שבת,5
+16,16,122,B. Jerusalem,0:1,H. Beer Sheva,2011/12,2011,17/12/11,4:15 PM,2011-12-17,Saturday,שבת,5
+16,16,123,Kiryat Shmona,1:0,Hapoel Haifa,2011/12,2011,17/12/11,5:00 PM,2011-12-17,Saturday,שבת,5
+16,16,124,Ramat haSharon,1:1,FC Ashdod,2011/12,2011,17/12/11,5:00 PM,2011-12-17,Saturday,שבת,5
+16,16,125,Bnei Sakhnin,1:0,H Rishon leZion,2011/12,2011,17/12/11,5:00 PM,2011-12-17,Saturday,שבת,5
+16,16,126,M. Tel Aviv,1:0,H. Petah Tikva,2011/12,2011,17/12/11,6:30 PM,2011-12-17,Saturday,שבת,5
+16,16,127,M. Petah Tikva,1:0,Hapoel Tel Aviv,2011/12,2011,18/12/11,7:10 PM,2011-12-18,Sunday,יום ראשון,6
+16,16,128,Maccabi Haifa,2:1,Maccabi Netanya,2011/12,2011,19/12/11,7:50 PM,2011-12-19,Monday,יום שני,0
+17,17,129,H. Petah Tikva,3:1,Maccabi Haifa,2011/12,2011,24/12/11,4:30 PM,2011-12-24,Saturday,שבת,5
+17,17,130,Hapoel Haifa,1:1,M. Petah Tikva,2011/12,2011,24/12/11,5:00 PM,2011-12-24,Saturday,שבת,5
+17,17,131,H Rishon leZion,1:1,Ramat haSharon,2011/12,2011,24/12/11,5:00 PM,2011-12-24,Saturday,שבת,5
+17,17,132,H. Beer Sheva,0:2,Bnei Sakhnin,2011/12,2011,24/12/11,5:00 PM,2011-12-24,Saturday,שבת,5
+17,17,133,Maccabi Netanya,0:1,Kiryat Shmona,2011/12,2011,24/12/11,6:00 PM,2011-12-24,Saturday,שבת,5
+17,17,134,Hapoel Tel Aviv,1:1,Bnei Yehuda,2011/12,2011,24/12/11,7:00 PM,2011-12-24,Saturday,שבת,5
+17,17,135,Hapoel Acre,1:1,B. Jerusalem,2011/12,2011,25/12/11,6:10 PM,2011-12-25,Sunday,יום ראשון,6
+17,17,136,FC Ashdod,2:1,M. Tel Aviv,2011/12,2011,25/12/11,7:50 PM,2011-12-25,Sunday,יום ראשון,6
+18,18,137,Bnei Yehuda,1:0,Hapoel Haifa,2011/12,2011,27/12/11,6:00 PM,2011-12-27,Tuesday,יום שלישי,1
+18,18,138,H. Beer Sheva,2:1,Hapoel Acre,2011/12,2011,28/12/11,6:00 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,139,M. Petah Tikva,0:1,Maccabi Netanya,2011/12,2011,28/12/11,6:00 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,140,Kiryat Shmona,2:0,H. Petah Tikva,2011/12,2011,28/12/11,6:00 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,141,Ramat haSharon,0:1,Bnei Sakhnin,2011/12,2011,28/12/11,6:00 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,142,M. Tel Aviv,3:1,H Rishon leZion,2011/12,2011,28/12/11,6:15 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,143,Maccabi Haifa,1:1,FC Ashdod,2011/12,2011,28/12/11,7:00 PM,2011-12-28,Wednesday,יום רביעי,2
+18,18,144,B. Jerusalem,1:1,Hapoel Tel Aviv,2011/12,2011,28/12/11,7:50 PM,2011-12-28,Wednesday,יום רביעי,2
+19,19,145,Bnei Sakhnin,1:3,M. Tel Aviv,2011/12,2011,31/12/11,4:30 PM,2011-12-31,Saturday,שבת,5
+19,19,146,Maccabi Netanya,1:0,Bnei Yehuda,2011/12,2011,31/12/11,5:00 PM,2011-12-31,Saturday,שבת,5
+19,19,147,H. Petah Tikva,1:0,M. Petah Tikva,2011/12,2011,31/12/11,5:00 PM,2011-12-31,Saturday,שבת,5
+19,19,148,H Rishon leZion,4:2,Maccabi Haifa,2011/12,2011,31/12/11,5:00 PM,2011-12-31,Saturday,שבת,5
+19,19,149,Ramat haSharon,3:3,H. Beer Sheva,2011/12,2011,31/12/11,5:00 PM,2011-12-31,Saturday,שבת,5
+19,19,150,Hapoel Tel Aviv,2:1,Hapoel Acre,2011/12,2011,31/12/11,7:00 PM,2011-12-31,Saturday,שבת,5
+19,19,151,Hapoel Haifa,3:0,B. Jerusalem,2011/12,2011,01/01/12,7:00 PM,2012-01-01,Sunday,יום ראשון,6
+19,19,152,FC Ashdod,0:0,Kiryat Shmona,2011/12,2011,02/01/12,7:50 PM,2012-01-02,Monday,יום שני,0
+20,20,153,Kiryat Shmona,2:0,H Rishon leZion,2011/12,2011,07/01/12,4:00 PM,2012-01-07,Saturday,שבת,5
+20,20,154,B. Jerusalem,2:1,Maccabi Netanya,2011/12,2011,07/01/12,4:40 PM,2012-01-07,Saturday,שבת,5
+20,20,155,Hapoel Acre,1:0,Hapoel Haifa,2011/12,2011,07/01/12,5:00 PM,2012-01-07,Saturday,שבת,5
+20,20,156,Bnei Yehuda,5:1,H. Petah Tikva,2011/12,2011,07/01/12,5:00 PM,2012-01-07,Saturday,שבת,5
+20,20,157,M. Petah Tikva,2:3,FC Ashdod,2011/12,2011,07/01/12,5:00 PM,2012-01-07,Saturday,שבת,5
+20,20,158,H. Beer Sheva,1:1,Hapoel Tel Aviv,2011/12,2011,07/01/12,7:00 PM,2012-01-07,Saturday,שבת,5
+20,20,159,M. Tel Aviv,0:1,Ramat haSharon,2011/12,2011,08/01/12,7:00 PM,2012-01-08,Sunday,יום ראשון,6
+20,20,160,Maccabi Haifa,0:0,Bnei Sakhnin,2011/12,2011,09/01/12,7:50 PM,2012-01-09,Monday,יום שני,0
+21,21,161,Maccabi Netanya,1:1,Hapoel Acre,2011/12,2011,14/01/12,5:00 PM,2012-01-14,Saturday,שבת,5
+21,21,162,FC Ashdod,0:0,Bnei Yehuda,2011/12,2011,14/01/12,5:00 PM,2012-01-14,Saturday,שבת,5
+21,21,163,H Rishon leZion,2:2,M. Petah Tikva,2011/12,2011,14/01/12,5:00 PM,2012-01-14,Saturday,שבת,5
+21,21,164,Bnei Sakhnin,2:3,Kiryat Shmona,2011/12,2011,14/01/12,5:00 PM,2012-01-14,Saturday,שבת,5
+21,21,165,M. Tel Aviv,4:0,H. Beer Sheva,2011/12,2011,14/01/12,6:15 PM,2012-01-14,Saturday,שבת,5
+21,21,166,Ramat haSharon,0:0,Maccabi Haifa,2011/12,2011,14/01/12,7:00 PM,2012-01-14,Saturday,שבת,5
+21,21,167,H. Petah Tikva,0:1,B. Jerusalem,2011/12,2011,15/01/12,6:45 PM,2012-01-15,Sunday,יום ראשון,6
+21,21,168,Hapoel Haifa,3:0,Hapoel Tel Aviv,2011/12,2011,16/01/12,7:50 PM,2012-01-16,Monday,יום שני,0
+22,22,169,Hapoel Tel Aviv,7:3,Maccabi Netanya,2011/12,2011,21/01/12,4:00 PM,2012-01-21,Saturday,שבת,5
+22,22,170,Kiryat Shmona,4:0,Ramat haSharon,2011/12,2011,21/01/12,4:40 PM,2012-01-21,Saturday,שבת,5
+22,22,171,H. Beer Sheva,2:0,Hapoel Haifa,2011/12,2011,21/01/12,5:00 PM,2012-01-21,Saturday,שבת,5
+22,22,172,Hapoel Acre,3:1,H. Petah Tikva,2011/12,2011,21/01/12,5:00 PM,2012-01-21,Saturday,שבת,5
+22,22,173,M. Petah Tikva,1:3,Bnei Sakhnin,2011/12,2011,21/01/12,5:00 PM,2012-01-21,Saturday,שבת,5
+22,22,174,B. Jerusalem,1:0,FC Ashdod,2011/12,2011,21/01/12,7:00 PM,2012-01-21,Saturday,שבת,5
+22,22,175,Bnei Yehuda,1:0,H Rishon leZion,2011/12,2011,22/01/12,6:30 PM,2012-01-22,Sunday,יום ראשון,6
+22,22,176,Maccabi Haifa,2:1,M. Tel Aviv,2011/12,2011,23/01/12,7:50 PM,2012-01-23,Monday,יום שני,0
+23,23,177,Maccabi Netanya,1:1,Hapoel Haifa,2011/12,2011,28/01/12,5:00 PM,2012-01-28,Saturday,שבת,5
+23,23,178,FC Ashdod,1:1,Hapoel Acre,2011/12,2011,28/01/12,5:00 PM,2012-01-28,Saturday,שבת,5
+23,23,179,Bnei Sakhnin,2:2,Bnei Yehuda,2011/12,2011,28/01/12,5:00 PM,2012-01-28,Saturday,שבת,5
+23,23,180,Ramat haSharon,0:1,M. Petah Tikva,2011/12,2011,28/01/12,5:00 PM,2012-01-28,Saturday,שבת,5
+23,23,181,Maccabi Haifa,3:1,H. Beer Sheva,2011/12,2011,28/01/12,5:45 PM,2012-01-28,Saturday,שבת,5
+23,23,182,H Rishon leZion,2:0,B. Jerusalem,2011/12,2011,28/01/12,6:30 PM,2012-01-28,Saturday,שבת,5
+23,23,183,H. Petah Tikva,2:3,Hapoel Tel Aviv,2011/12,2011,29/01/12,7:10 PM,2012-01-29,Sunday,יום ראשון,6
+23,23,184,M. Tel Aviv,1:1,Kiryat Shmona,2011/12,2011,30/01/12,7:50 PM,2012-01-30,Monday,יום שני,0
+24,24,185,Bnei Yehuda,1:1,Ramat haSharon,2011/12,2011,04/02/12,2:00 PM,2012-02-04,Saturday,שבת,5
+24,24,186,M. Petah Tikva,2:1,M. Tel Aviv,2011/12,2011,04/02/12,4:20 PM,2012-02-04,Saturday,שבת,5
+24,24,187,H. Beer Sheva,1:2,Maccabi Netanya,2011/12,2011,04/02/12,5:00 PM,2012-02-04,Saturday,שבת,5
+24,24,188,Hapoel Haifa,2:2,H. Petah Tikva,2011/12,2011,04/02/12,5:00 PM,2012-02-04,Saturday,שבת,5
+24,24,189,Hapoel Acre,2:2,H Rishon leZion,2011/12,2011,04/02/12,5:00 PM,2012-02-04,Saturday,שבת,5
+24,24,190,B. Jerusalem,0:3,Bnei Sakhnin,2011/12,2011,04/02/12,5:15 PM,2012-02-04,Saturday,שבת,5
+24,24,191,Hapoel Tel Aviv,0:0,FC Ashdod,2011/12,2011,04/02/12,7:15 PM,2012-02-04,Saturday,שבת,5
+24,24,192,Kiryat Shmona,1:0,Maccabi Haifa,2011/12,2011,05/02/12,7:50 PM,2012-02-05,Sunday,יום ראשון,6
+25,25,193,H. Petah Tikva,3:1,Maccabi Netanya,2011/12,2011,11/02/12,5:00 PM,2012-02-11,Saturday,שבת,5
+25,25,194,FC Ashdod,3:2,Hapoel Haifa,2011/12,2011,11/02/12,5:00 PM,2012-02-11,Saturday,שבת,5
+25,25,195,Bnei Sakhnin,2:1,Hapoel Acre,2011/12,2011,11/02/12,5:00 PM,2012-02-11,Saturday,שבת,5
+25,25,196,H Rishon leZion,1:2,Hapoel Tel Aviv,2011/12,2011,11/02/12,5:20 PM,2012-02-11,Saturday,שבת,5
+25,25,197,M. Tel Aviv,0:1,Bnei Yehuda,2011/12,2011,11/02/12,6:30 PM,2012-02-11,Saturday,שבת,5
+25,25,198,Ramat haSharon,2:0,B. Jerusalem,2011/12,2011,11/02/12,7:15 PM,2012-02-11,Saturday,שבת,5
+25,25,199,Kiryat Shmona,1:1,H. Beer Sheva,2011/12,2011,12/02/12,7:50 PM,2012-02-12,Sunday,יום ראשון,6
+25,25,200,Maccabi Haifa,4:1,M. Petah Tikva,2011/12,2011,13/02/12,7:00 PM,2012-02-13,Monday,יום שני,0
+26,26,201,Hapoel Tel Aviv,0:0,Bnei Sakhnin,2011/12,2011,18/02/12,4:00 PM,2012-02-18,Saturday,שבת,5
+26,26,202,Maccabi Netanya,1:0,FC Ashdod,2011/12,2011,18/02/12,5:00 PM,2012-02-18,Saturday,שבת,5
+26,26,203,Hapoel Haifa,3:2,H Rishon leZion,2011/12,2011,18/02/12,5:00 PM,2012-02-18,Saturday,שבת,5
+26,26,204,H. Beer Sheva,1:2,H. Petah Tikva,2011/12,2011,18/02/12,6:00 PM,2012-02-18,Saturday,שבת,5
+26,26,205,Hapoel Acre,2:0,Ramat haSharon,2011/12,2011,18/02/12,6:00 PM,2012-02-18,Saturday,שבת,5
+26,26,206,M. Petah Tikva,0:2,Kiryat Shmona,2011/12,2011,18/02/12,6:30 PM,2012-02-18,Saturday,שבת,5
+26,26,207,Bnei Yehuda,0:0,Maccabi Haifa,2011/12,2011,19/02/12,7:30 PM,2012-02-19,Sunday,יום ראשון,6
+26,26,208,B. Jerusalem,0:0,M. Tel Aviv,2011/12,2011,20/02/12,7:50 PM,2012-02-20,Monday,יום שני,0
+27,27,209,M. Tel Aviv,2:0,Hapoel Acre,2011/12,2011,25/02/12,4:00 PM,2012-02-25,Saturday,שבת,5
+27,27,210,Kiryat Shmona,1:0,Bnei Yehuda,2011/12,2011,25/02/12,4:30 PM,2012-02-25,Saturday,שבת,5
+27,27,211,FC Ashdod,1:1,H. Petah Tikva,2011/12,2011,25/02/12,5:00 PM,2012-02-25,Saturday,שבת,5
+27,27,212,H Rishon leZion,0:0,Maccabi Netanya,2011/12,2011,25/02/12,5:00 PM,2012-02-25,Saturday,שבת,5
+27,27,213,M. Petah Tikva,1:2,H. Beer Sheva,2011/12,2011,25/02/12,6:00 PM,2012-02-25,Saturday,שבת,5
+27,27,214,Ramat haSharon,1:1,Hapoel Tel Aviv,2011/12,2011,25/02/12,7:00 PM,2012-02-25,Saturday,שבת,5
+27,27,215,Maccabi Haifa,1:0,B. Jerusalem,2011/12,2011,26/02/12,7:50 PM,2012-02-26,Sunday,יום ראשון,6
+27,27,216,Bnei Sakhnin,0:1,Hapoel Haifa,2011/12,2011,27/02/12,7:00 PM,2012-02-27,Monday,יום שני,0
+28,28,217,Hapoel Haifa,2:0,Ramat haSharon,2011/12,2011,03/03/12,5:00 PM,2012-03-03,Saturday,שבת,5
+28,28,218,Bnei Yehuda,2:2,M. Petah Tikva,2011/12,2011,03/03/12,5:00 PM,2012-03-03,Saturday,שבת,5
+28,28,219,H. Beer Sheva,2:1,FC Ashdod,2011/12,2011,03/03/12,6:00 PM,2012-03-03,Saturday,שבת,5
+28,28,220,H. Petah Tikva,0:1,H Rishon leZion,2011/12,2011,03/03/12,6:00 PM,2012-03-03,Saturday,שבת,5
+28,28,221,Maccabi Netanya,3:1,Bnei Sakhnin,2011/12,2011,03/03/12,6:00 PM,2012-03-03,Saturday,שבת,5
+28,28,222,B. Jerusalem,1:0,Kiryat Shmona,2011/12,2011,03/03/12,6:30 PM,2012-03-03,Saturday,שבת,5
+28,28,223,Hapoel Acre,0:1,Maccabi Haifa,2011/12,2011,04/03/12,7:10 PM,2012-03-04,Sunday,יום ראשון,6
+28,28,224,Hapoel Tel Aviv,0:1,M. Tel Aviv,2011/12,2011,05/03/12,7:50 PM,2012-03-05,Monday,יום שני,0
+29,29,225,Kiryat Shmona,2:0,Hapoel Acre,2011/12,2011,10/03/12,4:00 PM,2012-03-10,Saturday,שבת,5
+29,29,226,Bnei Sakhnin,3:0,H. Petah Tikva,2011/12,2011,10/03/12,5:00 PM,2012-03-10,Saturday,שבת,5
+29,29,227,Bnei Yehuda,5:1,H. Beer Sheva,2011/12,2011,10/03/12,5:00 PM,2012-03-10,Saturday,שבת,5
+29,29,228,H Rishon leZion,2:1,FC Ashdod,2011/12,2011,10/03/12,5:00 PM,2012-03-10,Saturday,שבת,5
+29,29,229,Ramat haSharon,0:1,Maccabi Netanya,2011/12,2011,10/03/12,6:00 PM,2012-03-10,Saturday,שבת,5
+29,29,230,M. Petah Tikva,2:3,B. Jerusalem,2011/12,2011,10/03/12,7:00 PM,2012-03-10,Saturday,שבת,5
+29,29,231,M. Tel Aviv,2:0,Hapoel Haifa,2011/12,2011,11/03/12,7:00 PM,2012-03-11,Sunday,יום ראשון,6
+29,29,232,Maccabi Haifa,1:4,Hapoel Tel Aviv,2011/12,2011,12/03/12,7:50 PM,2012-03-12,Monday,יום שני,0
+30,30,233,H. Beer Sheva,2:1,H Rishon leZion,2011/12,2011,17/03/12,4:00 PM,2012-03-17,Saturday,שבת,5
+30,30,234,Maccabi Netanya,3:0,M. Tel Aviv,2011/12,2011,17/03/12,4:00 PM,2012-03-17,Saturday,שבת,5
+30,30,235,FC Ashdod,3:3,Bnei Sakhnin,2011/12,2011,17/03/12,5:00 PM,2012-03-17,Saturday,שבת,5
+30,30,236,H. Petah Tikva,1:1,Ramat haSharon,2011/12,2011,17/03/12,5:00 PM,2012-03-17,Saturday,שבת,5
+30,30,237,Hapoel Acre,0:0,M. Petah Tikva,2011/12,2011,17/03/12,6:00 PM,2012-03-17,Saturday,שבת,5
+30,30,238,Hapoel Haifa,1:1,Maccabi Haifa,2011/12,2011,17/03/12,6:30 PM,2012-03-17,Saturday,שבת,5
+30,30,239,Hapoel Tel Aviv,2:2,Kiryat Shmona,2011/12,2011,18/03/12,7:50 PM,2012-03-18,Sunday,יום ראשון,6
+30,30,240,B. Jerusalem,2:1,Bnei Yehuda,2011/12,2011,19/03/12,6:30 PM,2012-03-19,Monday,יום שני,0

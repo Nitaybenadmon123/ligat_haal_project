@@ -1,0 +1,183 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,FC Ashdod,0:2,Kiryat Shmona,2020/21,2020,29/08/20,6:00 PM,2020-08-29,Saturday,שבת,5
+1,1,2,Bnei Sakhnin,0:3,Bnei Yehuda,2020/21,2020,29/08/20,6:45 PM,2020-08-29,Saturday,שבת,5
+1,1,3,H. Kfar Saba,2:1,Hapoel Tel Aviv,2020/21,2020,29/08/20,7:30 PM,2020-08-29,Saturday,שבת,5
+1,1,4,H. Beer Sheva,3:2,Maccabi Netanya,2020/21,2020,30/08/20,7:00 PM,2020-08-30,Sunday,יום ראשון,6
+1,1,5,Hapoel Haifa,0:1,B. Jerusalem,2020/21,2020,30/08/20,7:15 PM,2020-08-30,Sunday,יום ראשון,6
+1,1,6,Hapoel Hadera,1:2,Maccabi Haifa,2020/21,2020,30/08/20,7:30 PM,2020-08-30,Sunday,יום ראשון,6
+1,1,7,M. Tel Aviv,1:2,M. Petah Tikva,2020/21,2020,30/08/20,8:00 PM,2020-08-30,Sunday,יום ראשון,6
+2,2,8,Kiryat Shmona,1:1,Hapoel Haifa,2020/21,2020,12/09/20,5:00 PM,2020-09-12,Saturday,שבת,5
+2,2,9,M. Petah Tikva,2:0,H. Kfar Saba,2020/21,2020,12/09/20,6:00 PM,2020-09-12,Saturday,שבת,5
+2,2,10,Bnei Yehuda,2:2,M. Tel Aviv,2020/21,2020,12/09/20,7:30 PM,2020-09-12,Saturday,שבת,5
+2,2,11,Hapoel Tel Aviv,0:2,FC Ashdod,2020/21,2020,13/09/20,7:30 PM,2020-09-13,Sunday,יום ראשון,6
+2,2,12,Maccabi Haifa,3:1,H. Beer Sheva,2020/21,2020,13/09/20,8:00 PM,2020-09-13,Sunday,יום ראשון,6
+2,2,13,Maccabi Netanya,7:0,Bnei Sakhnin,2020/21,2020,14/09/20,7:00 PM,2020-09-14,Monday,יום שני,0
+2,2,14,B. Jerusalem,4:0,Hapoel Hadera,2020/21,2020,04/11/20,7:00 PM,2020-11-04,Wednesday,יום רביעי,2
+3,3,15,FC Ashdod,1:0,M. Petah Tikva,2020/21,2020,21/09/20,6:00 PM,2020-09-21,Monday,יום שני,0
+3,3,16,H. Kfar Saba,3:1,Bnei Yehuda,2020/21,2020,21/09/20,7:00 PM,2020-09-21,Monday,יום שני,0
+3,3,17,Bnei Sakhnin,0:3,Maccabi Haifa,2020/21,2020,08/12/20,7:00 PM,2020-12-08,Tuesday,יום שלישי,1
+3,3,18,Hapoel Haifa,2:0,Hapoel Tel Aviv,2020/21,2020,09/12/20,7:00 PM,2020-12-09,Wednesday,יום רביעי,2
+3,3,19,Hapoel Hadera,2:2,H. Beer Sheva,2020/21,2020,16/12/20,7:00 PM,2020-12-16,Wednesday,יום רביעי,2
+3,3,20,M. Tel Aviv,2:2,Maccabi Netanya,2020/21,2020,16/12/20,7:45 PM,2020-12-16,Wednesday,יום רביעי,2
+3,3,21,B. Jerusalem,1:0,Kiryat Shmona,2020/21,2020,17/12/20,7:00 PM,2020-12-17,Thursday,יום חמישי,3
+4,4,22,M. Petah Tikva,2:0,Hapoel Haifa,2020/21,2020,31/10/20,3:15 PM,2020-10-31,Saturday,שבת,5
+4,4,23,Maccabi Netanya,3:0,H. Kfar Saba,2020/21,2020,31/10/20,4:15 PM,2020-10-31,Saturday,שבת,5
+4,4,24,Kiryat Shmona,1:1,Hapoel Hadera,2020/21,2020,31/10/20,5:15 PM,2020-10-31,Saturday,שבת,5
+4,4,25,Hapoel Tel Aviv,1:1,B. Jerusalem,2020/21,2020,31/10/20,6:50 PM,2020-10-31,Saturday,שבת,5
+4,4,26,Bnei Yehuda,1:0,FC Ashdod,2020/21,2020,01/11/20,7:30 PM,2020-11-01,Sunday,יום ראשון,6
+4,4,27,H. Beer Sheva,2:2,Bnei Sakhnin,2020/21,2020,02/11/20,7:15 PM,2020-11-02,Monday,יום שני,0
+4,4,28,Maccabi Haifa,2:2,M. Tel Aviv,2020/21,2020,02/11/20,8:00 PM,2020-11-02,Monday,יום שני,0
+5,5,29,M. Tel Aviv,0:0,H. Beer Sheva,2020/21,2020,25/10/20,8:00 PM,2020-10-25,Sunday,יום ראשון,6
+5,5,30,Hapoel Haifa,2:1,Bnei Yehuda,2020/21,2020,24/11/20,5:00 PM,2020-11-24,Tuesday,יום שלישי,1
+5,5,31,Kiryat Shmona,1:0,Hapoel Tel Aviv,2020/21,2020,24/11/20,6:00 PM,2020-11-24,Tuesday,יום שלישי,1
+5,5,32,H. Kfar Saba,3:2,Maccabi Haifa,2020/21,2020,24/11/20,7:00 PM,2020-11-24,Tuesday,יום שלישי,1
+5,5,33,Hapoel Hadera,4:0,Bnei Sakhnin,2020/21,2020,25/11/20,5:00 PM,2020-11-25,Wednesday,יום רביעי,2
+5,5,34,FC Ashdod,4:0,Maccabi Netanya,2020/21,2020,25/11/20,6:00 PM,2020-11-25,Wednesday,יום רביעי,2
+5,5,35,B. Jerusalem,1:2,M. Petah Tikva,2020/21,2020,25/11/20,7:00 PM,2020-11-25,Wednesday,יום רביעי,2
+6,6,36,Maccabi Netanya,2:1,Hapoel Haifa,2020/21,2020,07/11/20,2:00 PM,2020-11-07,Saturday,שבת,5
+6,6,37,Maccabi Haifa,2:1,FC Ashdod,2020/21,2020,07/11/20,5:45 PM,2020-11-07,Saturday,שבת,5
+6,6,38,Bnei Yehuda,1:0,B. Jerusalem,2020/21,2020,07/11/20,7:30 PM,2020-11-07,Saturday,שבת,5
+6,6,39,M. Petah Tikva,0:1,Kiryat Shmona,2020/21,2020,08/11/20,6:00 PM,2020-11-08,Sunday,יום ראשון,6
+6,6,40,Bnei Sakhnin,1:2,M. Tel Aviv,2020/21,2020,08/11/20,7:15 PM,2020-11-08,Sunday,יום ראשון,6
+6,6,41,H. Beer Sheva,0:0,H. Kfar Saba,2020/21,2020,08/11/20,7:45 PM,2020-11-08,Sunday,יום ראשון,6
+6,6,42,Hapoel Tel Aviv,1:0,Hapoel Hadera,2020/21,2020,09/11/20,7:30 PM,2020-11-09,Monday,יום שני,0
+7,7,43,Hapoel Tel Aviv,0:0,M. Petah Tikva,2020/21,2020,21/11/20,2:00 PM,2020-11-21,Saturday,שבת,5
+7,7,44,Kiryat Shmona,2:0,Bnei Yehuda,2020/21,2020,21/11/20,3:45 PM,2020-11-21,Saturday,שבת,5
+7,7,45,FC Ashdod,2:0,H. Beer Sheva,2020/21,2020,21/11/20,5:45 PM,2020-11-21,Saturday,שבת,5
+7,7,46,H. Kfar Saba,0:1,Bnei Sakhnin,2020/21,2020,21/11/20,6:00 PM,2020-11-21,Saturday,שבת,5
+7,7,47,Hapoel Haifa,2:1,Maccabi Haifa,2020/21,2020,21/11/20,6:50 PM,2020-11-21,Saturday,שבת,5
+7,7,48,Hapoel Hadera,0:1,M. Tel Aviv,2020/21,2020,22/11/20,7:00 PM,2020-11-22,Sunday,יום ראשון,6
+7,7,49,B. Jerusalem,1:1,Maccabi Netanya,2020/21,2020,22/11/20,7:45 PM,2020-11-22,Sunday,יום ראשון,6
+8,8,50,M. Petah Tikva,1:0,Hapoel Hadera,2020/21,2020,28/11/20,2:00 PM,2020-11-28,Saturday,שבת,5
+8,8,51,Bnei Sakhnin,1:0,FC Ashdod,2020/21,2020,28/11/20,4:20 PM,2020-11-28,Saturday,שבת,5
+8,8,52,Bnei Yehuda,1:0,Hapoel Tel Aviv,2020/21,2020,28/11/20,6:50 PM,2020-11-28,Saturday,שבת,5
+8,8,53,Maccabi Netanya,0:0,Kiryat Shmona,2020/21,2020,29/11/20,7:00 PM,2020-11-29,Sunday,יום ראשון,6
+8,8,54,M. Tel Aviv,3:0,H. Kfar Saba,2020/21,2020,29/11/20,7:45 PM,2020-11-29,Sunday,יום ראשון,6
+8,8,55,H. Beer Sheva,2:2,Hapoel Haifa,2020/21,2020,30/11/20,7:00 PM,2020-11-30,Monday,יום שני,0
+8,8,56,Maccabi Haifa,2:0,B. Jerusalem,2020/21,2020,30/11/20,7:45 PM,2020-11-30,Monday,יום שני,0
+9,9,57,Kiryat Shmona,0:3,Maccabi Haifa,2020/21,2020,05/12/20,2:00 PM,2020-12-05,Saturday,שבת,5
+9,9,58,M. Petah Tikva,1:0,Bnei Yehuda,2020/21,2020,05/12/20,4:20 PM,2020-12-05,Saturday,שבת,5
+9,9,59,Hapoel Haifa,0:2,Bnei Sakhnin,2020/21,2020,05/12/20,5:45 PM,2020-12-05,Saturday,שבת,5
+9,9,60,Hapoel Tel Aviv,0:0,Maccabi Netanya,2020/21,2020,05/12/20,6:50 PM,2020-12-05,Saturday,שבת,5
+9,9,61,Hapoel Hadera,1:1,H. Kfar Saba,2020/21,2020,06/12/20,7:00 PM,2020-12-06,Sunday,יום ראשון,6
+9,9,62,FC Ashdod,3:2,M. Tel Aviv,2020/21,2020,07/12/20,7:00 PM,2020-12-07,Monday,יום שני,0
+9,9,63,B. Jerusalem,1:2,H. Beer Sheva,2020/21,2020,07/12/20,7:45 PM,2020-12-07,Monday,יום שני,0
+10,10,64,H. Kfar Saba,0:1,FC Ashdod,2020/21,2020,12/12/20,2:00 PM,2020-12-12,Saturday,שבת,5
+10,10,65,Bnei Yehuda,0:3,Hapoel Hadera,2020/21,2020,12/12/20,4:20 PM,2020-12-12,Saturday,שבת,5
+10,10,66,Maccabi Netanya,3:2,M. Petah Tikva,2020/21,2020,12/12/20,6:50 PM,2020-12-12,Saturday,שבת,5
+10,10,67,H. Beer Sheva,2:1,Kiryat Shmona,2020/21,2020,13/12/20,7:00 PM,2020-12-13,Sunday,יום ראשון,6
+10,10,68,M. Tel Aviv,4:3,Hapoel Haifa,2020/21,2020,13/12/20,7:45 PM,2020-12-13,Sunday,יום ראשון,6
+10,10,69,Maccabi Haifa,1:0,Hapoel Tel Aviv,2020/21,2020,14/12/20,7:45 PM,2020-12-14,Monday,יום שני,0
+10,10,70,Bnei Sakhnin,0:0,B. Jerusalem,2020/21,2020,18/02/21,7:00 PM,2021-02-18,Thursday,יום חמישי,3
+11,11,71,Hapoel Haifa,2:1,H. Kfar Saba,2020/21,2020,19/12/20,2:00 PM,2020-12-19,Saturday,שבת,5
+11,11,72,Hapoel Hadera,1:1,FC Ashdod,2020/21,2020,19/12/20,4:20 PM,2020-12-19,Saturday,שבת,5
+11,11,73,Bnei Yehuda,1:1,Maccabi Netanya,2020/21,2020,19/12/20,5:45 PM,2020-12-19,Saturday,שבת,5
+11,11,74,M. Petah Tikva,1:2,Maccabi Haifa,2020/21,2020,19/12/20,6:50 PM,2020-12-19,Saturday,שבת,5
+11,11,75,Kiryat Shmona,0:1,Bnei Sakhnin,2020/21,2020,20/12/20,6:00 PM,2020-12-20,Sunday,יום ראשון,6
+11,11,76,Hapoel Tel Aviv,0:3,H. Beer Sheva,2020/21,2020,20/12/20,7:15 PM,2020-12-20,Sunday,יום ראשון,6
+11,11,77,B. Jerusalem,0:0,M. Tel Aviv,2020/21,2020,21/12/20,7:45 PM,2020-12-21,Monday,יום שני,0
+12,12,78,FC Ashdod,0:1,Hapoel Haifa,2020/21,2020,22/12/20,6:00 PM,2020-12-22,Tuesday,יום שלישי,1
+12,12,79,Hapoel Hadera,2:1,Maccabi Netanya,2020/21,2020,22/12/20,7:00 PM,2020-12-22,Tuesday,יום שלישי,1
+12,12,80,Maccabi Haifa,3:0,Bnei Yehuda,2020/21,2020,22/12/20,7:05 PM,2020-12-22,Tuesday,יום שלישי,1
+12,12,81,Bnei Sakhnin,0:1,Hapoel Tel Aviv,2020/21,2020,23/12/20,7:00 PM,2020-12-23,Wednesday,יום רביעי,2
+12,12,82,H. Beer Sheva,1:2,M. Petah Tikva,2020/21,2020,23/12/20,7:15 PM,2020-12-23,Wednesday,יום רביעי,2
+12,12,83,M. Tel Aviv,1:0,Kiryat Shmona,2020/21,2020,24/12/20,7:00 PM,2020-12-24,Thursday,יום חמישי,3
+12,12,84,H. Kfar Saba,1:1,B. Jerusalem,2020/21,2020,24/12/20,7:45 PM,2020-12-24,Thursday,יום חמישי,3
+13,13,85,Hapoel Haifa,0:0,Hapoel Hadera,2020/21,2020,26/12/20,4:20 PM,2020-12-26,Saturday,שבת,5
+13,13,86,Maccabi Netanya,0:2,Maccabi Haifa,2020/21,2020,26/12/20,6:50 PM,2020-12-26,Saturday,שבת,5
+13,13,87,M. Petah Tikva,0:0,Bnei Sakhnin,2020/21,2020,27/12/20,6:00 PM,2020-12-27,Sunday,יום ראשון,6
+13,13,88,Kiryat Shmona,1:0,H. Kfar Saba,2020/21,2020,27/12/20,6:45 PM,2020-12-27,Sunday,יום ראשון,6
+13,13,89,Bnei Yehuda,0:2,H. Beer Sheva,2020/21,2020,27/12/20,7:30 PM,2020-12-27,Sunday,יום ראשון,6
+13,13,90,B. Jerusalem,1:2,FC Ashdod,2020/21,2020,28/12/20,7:00 PM,2020-12-28,Monday,יום שני,0
+13,13,91,Hapoel Tel Aviv,0:4,M. Tel Aviv,2020/21,2020,28/12/20,7:45 PM,2020-12-28,Monday,יום שני,0
+14,14,92,Hapoel Tel Aviv,1:1,H. Kfar Saba,2020/21,2020,02/01/21,2:00 PM,2021-01-02,Saturday,שבת,5
+14,14,93,Maccabi Haifa,1:0,Hapoel Hadera,2020/21,2020,02/01/21,4:20 PM,2021-01-02,Saturday,שבת,5
+14,14,94,Maccabi Netanya,0:1,H. Beer Sheva,2020/21,2020,02/01/21,6:15 PM,2021-01-02,Saturday,שבת,5
+14,14,95,B. Jerusalem,3:3,Hapoel Haifa,2020/21,2020,02/01/21,7:00 PM,2021-01-02,Saturday,שבת,5
+14,14,96,Bnei Yehuda,1:1,Bnei Sakhnin,2020/21,2020,03/01/21,6:00 PM,2021-01-03,Sunday,יום ראשון,6
+14,14,97,M. Petah Tikva,0:1,M. Tel Aviv,2020/21,2020,04/01/21,7:45 PM,2021-01-04,Monday,יום שני,0
+14,14,98,Kiryat Shmona,2:1,FC Ashdod,2020/21,2020,18/02/21,6:00 PM,2021-02-18,Thursday,יום חמישי,3
+15,15,99,Hapoel Haifa,0:2,Kiryat Shmona,2020/21,2020,05/01/21,6:00 PM,2021-01-05,Tuesday,יום שלישי,1
+15,15,100,H. Beer Sheva,1:1,Maccabi Haifa,2020/21,2020,05/01/21,7:45 PM,2021-01-05,Tuesday,יום שלישי,1
+15,15,101,Bnei Sakhnin,0:1,Maccabi Netanya,2020/21,2020,06/01/21,7:00 PM,2021-01-06,Wednesday,יום רביעי,2
+15,15,102,Hapoel Hadera,0:4,B. Jerusalem,2020/21,2020,06/01/21,7:45 PM,2021-01-06,Wednesday,יום רביעי,2
+15,15,103,H. Kfar Saba,2:0,M. Petah Tikva,2020/21,2020,07/01/21,6:00 PM,2021-01-07,Thursday,יום חמישי,3
+15,15,104,FC Ashdod,2:1,Hapoel Tel Aviv,2020/21,2020,07/01/21,7:00 PM,2021-01-07,Thursday,יום חמישי,3
+15,15,105,M. Tel Aviv,0:0,Bnei Yehuda,2020/21,2020,07/01/21,7:45 PM,2021-01-07,Thursday,יום חמישי,3
+16,16,106,Hapoel Tel Aviv,2:2,Hapoel Haifa,2020/21,2020,23/01/21,2:00 PM,2021-01-23,Saturday,שבת,5
+16,16,107,M. Petah Tikva,2:1,FC Ashdod,2020/21,2020,23/01/21,4:30 PM,2021-01-23,Saturday,שבת,5
+16,16,108,Kiryat Shmona,0:2,B. Jerusalem,2020/21,2020,23/01/21,5:45 PM,2021-01-23,Saturday,שבת,5
+16,16,109,Maccabi Haifa,3:0,Bnei Sakhnin,2020/21,2020,23/01/21,7:00 PM,2021-01-23,Saturday,שבת,5
+16,16,110,Maccabi Netanya,1:3,M. Tel Aviv,2020/21,2020,23/01/21,7:45 PM,2021-01-23,Saturday,שבת,5
+16,16,111,Bnei Yehuda,1:3,H. Kfar Saba,2020/21,2020,24/01/21,6:00 PM,2021-01-24,Sunday,יום ראשון,6
+16,16,112,H. Beer Sheva,1:0,Hapoel Hadera,2020/21,2020,25/01/21,7:15 PM,2021-01-25,Monday,יום שני,0
+17,17,113,Hapoel Haifa,1:2,M. Petah Tikva,2020/21,2020,26/01/21,6:45 PM,2021-01-26,Tuesday,יום שלישי,1
+17,17,114,B. Jerusalem,0:1,Hapoel Tel Aviv,2020/21,2020,26/01/21,7:00 PM,2021-01-26,Tuesday,יום שלישי,1
+17,17,115,FC Ashdod,4:0,Bnei Yehuda,2020/21,2020,27/01/21,6:00 PM,2021-01-27,Wednesday,יום רביעי,2
+17,17,116,H. Kfar Saba,0:1,Maccabi Netanya,2020/21,2020,27/01/21,7:00 PM,2021-01-27,Wednesday,יום רביעי,2
+17,17,117,M. Tel Aviv,2:1,Maccabi Haifa,2020/21,2020,27/01/21,7:45 PM,2021-01-27,Wednesday,יום רביעי,2
+17,17,118,Hapoel Hadera,0:1,Kiryat Shmona,2020/21,2020,28/01/21,6:00 PM,2021-01-28,Thursday,יום חמישי,3
+17,17,119,Bnei Sakhnin,1:0,H. Beer Sheva,2020/21,2020,28/01/21,7:15 PM,2021-01-28,Thursday,יום חמישי,3
+18,18,120,Maccabi Netanya,3:0,FC Ashdod,2020/21,2020,30/01/21,5:45 PM,2021-01-30,Saturday,שבת,5
+18,18,121,Hapoel Tel Aviv,1:1,Kiryat Shmona,2020/21,2020,31/01/21,7:00 PM,2021-01-31,Sunday,יום ראשון,6
+18,18,122,Maccabi Haifa,3:0,H. Kfar Saba,2020/21,2020,31/01/21,7:15 PM,2021-01-31,Sunday,יום ראשון,6
+18,18,123,Bnei Yehuda,0:2,Hapoel Haifa,2020/21,2020,01/02/21,6:00 PM,2021-02-01,Monday,יום שני,0
+18,18,124,Bnei Sakhnin,0:2,Hapoel Hadera,2020/21,2020,01/02/21,6:30 PM,2021-02-01,Monday,יום שני,0
+18,18,125,H. Beer Sheva,0:1,M. Tel Aviv,2020/21,2020,01/02/21,7:45 PM,2021-02-01,Monday,יום שני,0
+18,18,126,M. Petah Tikva,0:1,B. Jerusalem,2020/21,2020,24/02/21,7:00 PM,2021-02-24,Wednesday,יום רביעי,2
+19,19,127,Hapoel Haifa,0:0,Maccabi Netanya,2020/21,2020,06/02/21,5:00 PM,2021-02-06,Saturday,שבת,5
+19,19,128,H. Kfar Saba,0:1,H. Beer Sheva,2020/21,2020,06/02/21,5:45 PM,2021-02-06,Saturday,שבת,5
+19,19,129,M. Tel Aviv,1:0,Bnei Sakhnin,2020/21,2020,06/02/21,7:15 PM,2021-02-06,Saturday,שבת,5
+19,19,130,FC Ashdod,1:0,Maccabi Haifa,2020/21,2020,06/02/21,7:45 PM,2021-02-06,Saturday,שבת,5
+19,19,131,Hapoel Hadera,1:1,Hapoel Tel Aviv,2020/21,2020,07/02/21,7:30 PM,2021-02-07,Sunday,יום ראשון,6
+19,19,132,Kiryat Shmona,2:1,M. Petah Tikva,2020/21,2020,10/03/21,6:00 PM,2021-03-10,Wednesday,יום רביעי,2
+19,19,133,B. Jerusalem,1:1,Bnei Yehuda,2020/21,2020,11/03/21,7:00 PM,2021-03-11,Thursday,יום חמישי,3
+20,20,134,Bnei Sakhnin,0:1,H. Kfar Saba,2020/21,2020,09/02/21,6:00 PM,2021-02-09,Tuesday,יום שלישי,1
+20,20,135,H. Beer Sheva,0:3,FC Ashdod,2020/21,2020,09/02/21,7:15 PM,2021-02-09,Tuesday,יום שלישי,1
+20,20,136,M. Petah Tikva,0:2,Hapoel Tel Aviv,2020/21,2020,10/02/21,7:00 PM,2021-02-10,Wednesday,יום רביעי,2
+20,20,137,M. Tel Aviv,3:1,Hapoel Hadera,2020/21,2020,10/02/21,7:15 PM,2021-02-10,Wednesday,יום רביעי,2
+20,20,138,Maccabi Haifa,2:0,Hapoel Haifa,2020/21,2020,10/02/21,7:45 PM,2021-02-10,Wednesday,יום רביעי,2
+20,20,139,Maccabi Netanya,1:2,B. Jerusalem,2020/21,2020,11/02/21,7:15 PM,2021-02-11,Thursday,יום חמישי,3
+20,20,140,Bnei Yehuda,1:0,Kiryat Shmona,2020/21,2020,24/02/21,6:15 PM,2021-02-24,Wednesday,יום רביעי,2
+21,21,141,Hapoel Haifa,2:2,H. Beer Sheva,2020/21,2020,13/02/21,2:00 PM,2021-02-13,Saturday,שבת,5
+21,21,142,FC Ashdod,0:0,Bnei Sakhnin,2020/21,2020,13/02/21,5:45 PM,2021-02-13,Saturday,שבת,5
+21,21,143,H. Kfar Saba,0:1,M. Tel Aviv,2020/21,2020,13/02/21,6:50 PM,2021-02-13,Saturday,שבת,5
+21,21,144,Hapoel Hadera,1:0,M. Petah Tikva,2020/21,2020,14/02/21,6:00 PM,2021-02-14,Sunday,יום ראשון,6
+21,21,145,Kiryat Shmona,1:4,Maccabi Netanya,2020/21,2020,15/02/21,6:00 PM,2021-02-15,Monday,יום שני,0
+21,21,146,Hapoel Tel Aviv,0:0,Bnei Yehuda,2020/21,2020,15/02/21,7:15 PM,2021-02-15,Monday,יום שני,0
+21,21,147,B. Jerusalem,0:3,Maccabi Haifa,2020/21,2020,15/02/21,7:45 PM,2021-02-15,Monday,יום שני,0
+22,22,148,Bnei Sakhnin,0:1,Hapoel Haifa,2020/21,2020,27/02/21,2:00 PM,2021-02-27,Saturday,שבת,5
+22,22,149,H. Kfar Saba,0:1,Hapoel Hadera,2020/21,2020,27/02/21,2:45 PM,2021-02-27,Saturday,שבת,5
+22,22,150,Bnei Yehuda,0:1,M. Petah Tikva,2020/21,2020,27/02/21,5:00 PM,2021-02-27,Saturday,שבת,5
+22,22,151,Maccabi Netanya,0:1,Hapoel Tel Aviv,2020/21,2020,27/02/21,5:45 PM,2021-02-27,Saturday,שבת,5
+22,22,152,Maccabi Haifa,4:2,Kiryat Shmona,2020/21,2020,27/02/21,6:50 PM,2021-02-27,Saturday,שבת,5
+22,22,153,H. Beer Sheva,1:1,B. Jerusalem,2020/21,2020,28/02/21,7:45 PM,2021-02-28,Sunday,יום ראשון,6
+22,22,154,M. Tel Aviv,3:1,FC Ashdod,2020/21,2020,01/03/21,7:15 PM,2021-03-01,Monday,יום שני,0
+23,23,155,Hapoel Hadera,0:0,Bnei Yehuda,2020/21,2020,02/03/21,6:00 PM,2021-03-02,Tuesday,יום שלישי,1
+23,23,156,M. Petah Tikva,1:1,Maccabi Netanya,2020/21,2020,03/03/21,6:50 PM,2021-03-03,Wednesday,יום רביעי,2
+23,23,157,Kiryat Shmona,2:2,H. Beer Sheva,2020/21,2020,03/03/21,7:00 PM,2021-03-03,Wednesday,יום רביעי,2
+23,23,158,Hapoel Tel Aviv,1:2,Maccabi Haifa,2020/21,2020,03/03/21,7:45 PM,2021-03-03,Wednesday,יום רביעי,2
+23,23,159,FC Ashdod,2:0,H. Kfar Saba,2020/21,2020,04/03/21,6:00 PM,2021-03-04,Thursday,יום חמישי,3
+23,23,160,B. Jerusalem,2:3,Bnei Sakhnin,2020/21,2020,04/03/21,7:00 PM,2021-03-04,Thursday,יום חמישי,3
+23,23,161,Hapoel Haifa,0:2,M. Tel Aviv,2020/21,2020,04/03/21,7:45 PM,2021-03-04,Thursday,יום חמישי,3
+24,24,162,Maccabi Netanya,1:0,Bnei Yehuda,2020/21,2020,06/03/21,2:00 PM,2021-03-06,Saturday,שבת,5
+24,24,163,Maccabi Haifa,0:2,M. Petah Tikva,2020/21,2020,06/03/21,6:50 PM,2021-03-06,Saturday,שבת,5
+24,24,164,Bnei Sakhnin,0:2,Kiryat Shmona,2020/21,2020,07/03/21,6:00 PM,2021-03-07,Sunday,יום ראשון,6
+24,24,165,H. Kfar Saba,0:0,Hapoel Haifa,2020/21,2020,07/03/21,7:00 PM,2021-03-07,Sunday,יום ראשון,6
+24,24,166,H. Beer Sheva,0:1,Hapoel Tel Aviv,2020/21,2020,07/03/21,7:30 PM,2021-03-07,Sunday,יום ראשון,6
+24,24,167,FC Ashdod,1:1,Hapoel Hadera,2020/21,2020,08/03/21,6:00 PM,2021-03-08,Monday,יום שני,0
+24,24,168,M. Tel Aviv,4:1,B. Jerusalem,2020/21,2020,08/03/21,7:45 PM,2021-03-08,Monday,יום שני,0
+25,25,169,Hapoel Tel Aviv,0:1,Bnei Sakhnin,2020/21,2020,13/03/21,2:00 PM,2021-03-13,Saturday,שבת,5
+25,25,170,Maccabi Netanya,0:1,Hapoel Hadera,2020/21,2020,13/03/21,2:45 PM,2021-03-13,Saturday,שבת,5
+25,25,171,Hapoel Haifa,2:2,FC Ashdod,2020/21,2020,13/03/21,5:00 PM,2021-03-13,Saturday,שבת,5
+25,25,172,Kiryat Shmona,0:2,M. Tel Aviv,2020/21,2020,13/03/21,6:50 PM,2021-03-13,Saturday,שבת,5
+25,25,173,M. Petah Tikva,0:0,H. Beer Sheva,2020/21,2020,14/03/21,7:00 PM,2021-03-14,Sunday,יום ראשון,6
+25,25,174,B. Jerusalem,2:1,H. Kfar Saba,2020/21,2020,14/03/21,7:15 PM,2021-03-14,Sunday,יום ראשון,6
+25,25,175,Bnei Yehuda,0:2,Maccabi Haifa,2020/21,2020,14/03/21,7:45 PM,2021-03-14,Sunday,יום ראשון,6
+26,26,176,Maccabi Haifa,2:0,Maccabi Netanya,2020/21,2020,20/03/21,6:15 PM,2021-03-20,Saturday,שבת,5
+26,26,177,H. Beer Sheva,2:0,Bnei Yehuda,2020/21,2020,20/03/21,6:15 PM,2021-03-20,Saturday,שבת,5
+26,26,178,Bnei Sakhnin,1:0,M. Petah Tikva,2020/21,2020,20/03/21,6:15 PM,2021-03-20,Saturday,שבת,5
+26,26,179,FC Ashdod,2:0,B. Jerusalem,2020/21,2020,20/03/21,6:15 PM,2021-03-20,Saturday,שבת,5
+26,26,180,H. Kfar Saba,0:1,Kiryat Shmona,2020/21,2020,20/03/21,6:15 PM,2021-03-20,Saturday,שבת,5
+26,26,181,M. Tel Aviv,1:1,Hapoel Tel Aviv,2020/21,2020,20/03/21,8:00 PM,2021-03-20,Saturday,שבת,5
+26,26,182,Hapoel Hadera,3:1,Hapoel Haifa,2020/21,2020,22/03/21,7:15 PM,2021-03-22,Monday,יום שני,0

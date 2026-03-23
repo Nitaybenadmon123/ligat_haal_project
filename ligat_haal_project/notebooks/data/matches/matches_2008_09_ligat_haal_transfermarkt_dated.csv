@@ -1,0 +1,199 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,M. Tel Aviv,2:1,Bnei Yehuda,2008/09,2008,30/08/08,5:10 PM,2008-08-30,Saturday,שבת,5
+1,1,2,Maccabi Haifa,3:1,FC Ashdod,2008/09,2008,30/08/08,7:30 PM,2008-08-30,Saturday,שבת,5
+1,1,3,M. Petah Tikva,1:1,Maccabi Netanya,2008/09,2008,31/08/08,6:54 PM,2008-08-31,Sunday,יום ראשון,6
+1,1,4,Bnei Sakhnin,0:0,B. Jerusalem,2008/09,2008,31/08/08,8:50 PM,2008-08-31,Sunday,יום ראשון,6
+1,1,5,Kiryat Shmona,0:0,H. Petah Tikva,2008/09,2008,01/09/08,6:40 PM,2008-09-01,Monday,יום שני,0
+1,1,6,Hakoah Amidar,2:2,Hapoel Tel Aviv,2008/09,2008,01/09/08,8:50 PM,2008-09-01,Monday,יום שני,0
+2,2,7,Bnei Yehuda,2:2,Hakoah Amidar,2008/09,2008,13/09/08,3:30 PM,2008-09-13,Saturday,שבת,5
+2,2,8,Maccabi Netanya,3:1,H. Petah Tikva,2008/09,2008,13/09/08,5:30 PM,2008-09-13,Saturday,שבת,5
+2,2,9,FC Ashdod,2:0,Kiryat Shmona,2008/09,2008,13/09/08,7:30 PM,2008-09-13,Saturday,שבת,5
+2,2,10,M. Petah Tikva,1:0,Bnei Sakhnin,2008/09,2008,13/09/08,7:30 PM,2008-09-13,Saturday,שבת,5
+2,2,11,Hapoel Tel Aviv,0:0,Maccabi Haifa,2008/09,2008,13/09/08,7:35 PM,2008-09-13,Saturday,שבת,5
+2,2,12,B. Jerusalem,0:0,M. Tel Aviv,2008/09,2008,14/09/08,8:54 PM,2008-09-14,Sunday,יום ראשון,6
+3,3,13,Bnei Sakhnin,0:1,Maccabi Netanya,2008/09,2008,20/09/08,12:00 AM,2008-09-20,Saturday,שבת,5
+3,3,14,M. Tel Aviv,0:0,M. Petah Tikva,2008/09,2008,20/09/08,5:15 PM,2008-09-20,Saturday,שבת,5
+3,3,15,H. Petah Tikva,2:1,FC Ashdod,2008/09,2008,20/09/08,7:00 PM,2008-09-20,Saturday,שבת,5
+3,3,16,Hakoah Amidar,2:4,B. Jerusalem,2008/09,2008,20/09/08,7:30 PM,2008-09-20,Saturday,שבת,5
+3,3,17,Maccabi Haifa,1:0,Bnei Yehuda,2008/09,2008,21/09/08,12:00 AM,2008-09-21,Sunday,יום ראשון,6
+3,3,18,Kiryat Shmona,0:0,Hapoel Tel Aviv,2008/09,2008,22/09/08,12:00 AM,2008-09-22,Monday,יום שני,0
+4,4,19,Bnei Yehuda,0:1,Kiryat Shmona,2008/09,2008,27/09/08,3:00 PM,2008-09-27,Saturday,שבת,5
+4,4,20,Bnei Sakhnin,2:3,M. Tel Aviv,2008/09,2008,27/09/08,7:10 PM,2008-09-27,Saturday,שבת,5
+4,4,21,Maccabi Netanya,2:1,FC Ashdod,2008/09,2008,27/09/08,7:30 PM,2008-09-27,Saturday,שבת,5
+4,4,22,Hapoel Tel Aviv,3:2,H. Petah Tikva,2008/09,2008,27/09/08,7:30 PM,2008-09-27,Saturday,שבת,5
+4,4,23,M. Petah Tikva,1:0,Hakoah Amidar,2008/09,2008,27/09/08,7:30 PM,2008-09-27,Saturday,שבת,5
+4,4,24,B. Jerusalem,1:1,Maccabi Haifa,2008/09,2008,28/09/08,8:50 PM,2008-09-28,Sunday,יום ראשון,6
+5,5,25,Hakoah Amidar,0:0,Bnei Sakhnin,2008/09,2008,04/10/08,5:00 PM,2008-10-04,Saturday,שבת,5
+5,5,26,Maccabi Haifa,3:1,M. Petah Tikva,2008/09,2008,04/10/08,5:00 PM,2008-10-04,Saturday,שבת,5
+5,5,27,Kiryat Shmona,1:0,B. Jerusalem,2008/09,2008,04/10/08,7:00 PM,2008-10-04,Saturday,שבת,5
+5,5,28,H. Petah Tikva,1:0,Bnei Yehuda,2008/09,2008,04/10/08,7:30 PM,2008-10-04,Saturday,שבת,5
+5,5,29,M. Tel Aviv,0:1,Maccabi Netanya,2008/09,2008,05/10/08,8:50 PM,2008-10-05,Sunday,יום ראשון,6
+5,5,30,FC Ashdod,1:0,Hapoel Tel Aviv,2008/09,2008,06/10/08,7:15 PM,2008-10-06,Monday,יום שני,0
+6,6,31,M. Tel Aviv,0:0,Hakoah Amidar,2008/09,2008,18/10/08,3:10 PM,2008-10-18,Saturday,שבת,5
+6,6,32,Bnei Sakhnin,0:1,Maccabi Haifa,2008/09,2008,18/10/08,5:20 PM,2008-10-18,Saturday,שבת,5
+6,6,33,M. Petah Tikva,2:1,Kiryat Shmona,2008/09,2008,18/10/08,7:00 PM,2008-10-18,Saturday,שבת,5
+6,6,34,Bnei Yehuda,1:0,FC Ashdod,2008/09,2008,18/10/08,7:30 PM,2008-10-18,Saturday,שבת,5
+6,6,35,Maccabi Netanya,0:0,Hapoel Tel Aviv,2008/09,2008,18/10/08,7:33 PM,2008-10-18,Saturday,שבת,5
+6,6,36,B. Jerusalem,2:2,H. Petah Tikva,2008/09,2008,19/10/08,8:50 PM,2008-10-19,Sunday,יום ראשון,6
+7,7,37,Hakoah Amidar,1:2,Maccabi Netanya,2008/09,2008,25/10/08,4:00 PM,2008-10-25,Saturday,שבת,5
+7,7,38,Hapoel Tel Aviv,2:0,Bnei Yehuda,2008/09,2008,25/10/08,5:20 PM,2008-10-25,Saturday,שבת,5
+7,7,39,H. Petah Tikva,0:1,M. Petah Tikva,2008/09,2008,25/10/08,6:30 PM,2008-10-25,Saturday,שבת,5
+7,7,40,Kiryat Shmona,1:2,Bnei Sakhnin,2008/09,2008,25/10/08,7:30 PM,2008-10-25,Saturday,שבת,5
+7,7,41,FC Ashdod,1:2,B. Jerusalem,2008/09,2008,25/10/08,7:30 PM,2008-10-25,Saturday,שבת,5
+7,7,42,Maccabi Haifa,3:2,M. Tel Aviv,2008/09,2008,27/10/08,8:50 PM,2008-10-27,Monday,יום שני,0
+8,8,43,Hakoah Amidar,0:3,Maccabi Haifa,2008/09,2008,01/11/08,5:20 PM,2008-11-01,Saturday,שבת,5
+8,8,44,Maccabi Netanya,2:2,Bnei Yehuda,2008/09,2008,01/11/08,5:25 PM,2008-11-01,Saturday,שבת,5
+8,8,45,Bnei Sakhnin,0:3,H. Petah Tikva,2008/09,2008,01/11/08,5:30 PM,2008-11-01,Saturday,שבת,5
+8,8,46,M. Petah Tikva,2:3,FC Ashdod,2008/09,2008,01/11/08,6:30 PM,2008-11-01,Saturday,שבת,5
+8,8,47,M. Tel Aviv,0:1,Kiryat Shmona,2008/09,2008,01/11/08,7:30 PM,2008-11-01,Saturday,שבת,5
+8,8,48,B. Jerusalem,0:2,Hapoel Tel Aviv,2008/09,2008,03/11/08,8:50 PM,2008-11-03,Monday,יום שני,0
+9,9,49,Hapoel Tel Aviv,1:1,M. Petah Tikva,2008/09,2008,08/11/08,3:00 PM,2008-11-08,Saturday,שבת,5
+9,9,50,H. Petah Tikva,0:1,M. Tel Aviv,2008/09,2008,08/11/08,5:15 PM,2008-11-08,Saturday,שבת,5
+9,9,51,Kiryat Shmona,0:2,Hakoah Amidar,2008/09,2008,08/11/08,5:30 PM,2008-11-08,Saturday,שבת,5
+9,9,52,FC Ashdod,4:2,Bnei Sakhnin,2008/09,2008,08/11/08,6:30 PM,2008-11-08,Saturday,שבת,5
+9,9,53,Bnei Yehuda,0:3,B. Jerusalem,2008/09,2008,08/11/08,7:35 PM,2008-11-08,Saturday,שבת,5
+9,9,54,Maccabi Haifa,2:3,Maccabi Netanya,2008/09,2008,10/11/08,8:53 PM,2008-11-10,Monday,יום שני,0
+10,10,55,Bnei Sakhnin,1:0,Hapoel Tel Aviv,2008/09,2008,15/11/08,5:15 PM,2008-11-15,Saturday,שבת,5
+10,10,56,M. Petah Tikva,0:0,Bnei Yehuda,2008/09,2008,15/11/08,6:30 PM,2008-11-15,Saturday,שבת,5
+10,10,57,Hakoah Amidar,0:1,H. Petah Tikva,2008/09,2008,15/11/08,6:30 PM,2008-11-15,Saturday,שבת,5
+10,10,58,Maccabi Haifa,1:1,Kiryat Shmona,2008/09,2008,15/11/08,7:00 PM,2008-11-15,Saturday,שבת,5
+10,10,59,M. Tel Aviv,2:2,FC Ashdod,2008/09,2008,15/11/08,7:30 PM,2008-11-15,Saturday,שבת,5
+10,10,60,Maccabi Netanya,1:2,B. Jerusalem,2008/09,2008,17/11/08,8:50 PM,2008-11-17,Monday,יום שני,0
+11,11,61,H. Petah Tikva,1:4,Maccabi Haifa,2008/09,2008,22/11/08,5:10 PM,2008-11-22,Saturday,שבת,5
+11,11,62,Kiryat Shmona,0:3,Maccabi Netanya,2008/09,2008,22/11/08,5:20 PM,2008-11-22,Saturday,שבת,5
+11,11,63,FC Ashdod,3:2,Hakoah Amidar,2008/09,2008,22/11/08,6:30 PM,2008-11-22,Saturday,שבת,5
+11,11,64,Bnei Yehuda,2:0,Bnei Sakhnin,2008/09,2008,22/11/08,6:33 PM,2008-11-22,Saturday,שבת,5
+11,11,65,B. Jerusalem,1:1,M. Petah Tikva,2008/09,2008,22/11/08,7:30 PM,2008-11-22,Saturday,שבת,5
+11,11,66,Hapoel Tel Aviv,2:0,M. Tel Aviv,2008/09,2008,24/11/08,8:50 PM,2008-11-24,Monday,יום שני,0
+12,12,67,Hapoel Tel Aviv,3:0,Hakoah Amidar,2008/09,2008,29/11/08,3:00 PM,2008-11-29,Saturday,שבת,5
+12,12,68,Maccabi Netanya,0:0,M. Petah Tikva,2008/09,2008,29/11/08,5:15 PM,2008-11-29,Saturday,שבת,5
+12,12,69,FC Ashdod,1:3,Maccabi Haifa,2008/09,2008,29/11/08,7:00 PM,2008-11-29,Saturday,שבת,5
+12,12,70,H. Petah Tikva,3:0,Kiryat Shmona,2008/09,2008,29/11/08,7:00 PM,2008-11-29,Saturday,שבת,5
+12,12,71,Bnei Yehuda,3:2,M. Tel Aviv,2008/09,2008,29/11/08,7:30 PM,2008-11-29,Saturday,שבת,5
+12,12,72,B. Jerusalem,0:0,Bnei Sakhnin,2008/09,2008,01/12/08,8:50 PM,2008-12-01,Monday,יום שני,0
+13,13,73,H. Petah Tikva,0:0,Maccabi Netanya,2008/09,2008,06/12/08,5:10 PM,2008-12-06,Saturday,שבת,5
+13,13,74,Hakoah Amidar,0:1,Bnei Yehuda,2008/09,2008,06/12/08,7:00 PM,2008-12-06,Saturday,שבת,5
+13,13,75,Bnei Sakhnin,2:1,M. Petah Tikva,2008/09,2008,06/12/08,7:00 PM,2008-12-06,Saturday,שבת,5
+13,13,76,Kiryat Shmona,1:1,FC Ashdod,2008/09,2008,06/12/08,7:02 PM,2008-12-06,Saturday,שבת,5
+13,13,77,M. Tel Aviv,0:0,B. Jerusalem,2008/09,2008,06/12/08,7:30 PM,2008-12-06,Saturday,שבת,5
+13,13,78,Maccabi Haifa,2:2,Hapoel Tel Aviv,2008/09,2008,08/12/08,8:50 PM,2008-12-08,Monday,יום שני,0
+14,14,79,Maccabi Netanya,1:1,Bnei Sakhnin,2008/09,2008,12/12/08,2:30 PM,2008-12-12,Friday,יום שישי,4
+14,14,80,Hapoel Tel Aviv,1:1,Kiryat Shmona,2008/09,2008,13/12/08,5:00 PM,2008-12-13,Saturday,שבת,5
+14,14,81,M. Petah Tikva,0:0,M. Tel Aviv,2008/09,2008,13/12/08,5:02 PM,2008-12-13,Saturday,שבת,5
+14,14,82,B. Jerusalem,3:0,Hakoah Amidar,2008/09,2008,13/12/08,7:00 PM,2008-12-13,Saturday,שבת,5
+14,14,83,FC Ashdod,4:1,H. Petah Tikva,2008/09,2008,13/12/08,7:00 PM,2008-12-13,Saturday,שבת,5
+14,14,84,Bnei Yehuda,0:1,Maccabi Haifa,2008/09,2008,15/12/08,8:55 PM,2008-12-15,Monday,יום שני,0
+15,15,85,H. Petah Tikva,0:2,Hapoel Tel Aviv,2008/09,2008,20/12/08,5:15 PM,2008-12-20,Saturday,שבת,5
+15,15,86,FC Ashdod,3:3,Maccabi Netanya,2008/09,2008,20/12/08,5:20 PM,2008-12-20,Saturday,שבת,5
+15,15,87,Kiryat Shmona,0:2,Bnei Yehuda,2008/09,2008,20/12/08,7:00 PM,2008-12-20,Saturday,שבת,5
+15,15,88,Hakoah Amidar,2:2,M. Petah Tikva,2008/09,2008,20/12/08,7:00 PM,2008-12-20,Saturday,שבת,5
+15,15,89,M. Tel Aviv,1:1,Bnei Sakhnin,2008/09,2008,20/12/08,7:30 PM,2008-12-20,Saturday,שבת,5
+15,15,90,Maccabi Haifa,0:0,B. Jerusalem,2008/09,2008,22/12/08,8:50 PM,2008-12-22,Monday,יום שני,0
+16,16,91,Bnei Sakhnin,0:1,Hakoah Amidar,2008/09,2008,17/01/09,2:00 PM,2009-01-17,Saturday,שבת,5
+16,16,92,Hapoel Tel Aviv,2:0,FC Ashdod,2008/09,2008,17/01/09,3:00 PM,2009-01-17,Saturday,שבת,5
+16,16,93,M. Petah Tikva,2:0,Maccabi Haifa,2008/09,2008,17/01/09,5:15 PM,2009-01-17,Saturday,שבת,5
+16,16,94,B. Jerusalem,2:2,Kiryat Shmona,2008/09,2008,17/01/09,7:30 PM,2009-01-17,Saturday,שבת,5
+16,16,95,Bnei Yehuda,1:0,H. Petah Tikva,2008/09,2008,17/01/09,7:30 PM,2009-01-17,Saturday,שבת,5
+16,16,96,Maccabi Netanya,1:0,M. Tel Aviv,2008/09,2008,19/01/09,8:50 PM,2009-01-19,Monday,יום שני,0
+17,17,97,Maccabi Haifa,2:1,Bnei Sakhnin,2008/09,2008,24/01/09,5:00 PM,2009-01-24,Saturday,שבת,5
+17,17,98,Hakoah Amidar,0:1,M. Tel Aviv,2008/09,2008,24/01/09,5:00 PM,2009-01-24,Saturday,שבת,5
+17,17,99,FC Ashdod,0:2,Bnei Yehuda,2008/09,2008,24/01/09,7:00 PM,2009-01-24,Saturday,שבת,5
+17,17,100,Kiryat Shmona,0:0,M. Petah Tikva,2008/09,2008,24/01/09,7:00 PM,2009-01-24,Saturday,שבת,5
+17,17,101,H. Petah Tikva,0:2,B. Jerusalem,2008/09,2008,24/01/09,7:20 PM,2009-01-24,Saturday,שבת,5
+17,17,102,Hapoel Tel Aviv,2:1,Maccabi Netanya,2008/09,2008,26/01/09,8:50 PM,2009-01-26,Monday,יום שני,0
+18,18,103,Bnei Yehuda,3:0,Hapoel Tel Aviv,2008/09,2008,31/01/09,5:10 PM,2009-01-31,Saturday,שבת,5
+18,18,104,M. Petah Tikva,2:1,H. Petah Tikva,2008/09,2008,31/01/09,5:35 PM,2009-01-31,Saturday,שבת,5
+18,18,105,Maccabi Netanya,2:2,Hakoah Amidar,2008/09,2008,31/01/09,7:00 PM,2009-01-31,Saturday,שבת,5
+18,18,106,Bnei Sakhnin,1:0,Kiryat Shmona,2008/09,2008,31/01/09,7:00 PM,2009-01-31,Saturday,שבת,5
+18,18,107,B. Jerusalem,3:2,FC Ashdod,2008/09,2008,31/01/09,7:30 PM,2009-01-31,Saturday,שבת,5
+18,18,108,M. Tel Aviv,1:1,Maccabi Haifa,2008/09,2008,02/02/09,8:50 PM,2009-02-02,Monday,יום שני,0
+19,19,109,Bnei Yehuda,1:1,Maccabi Netanya,2008/09,2008,07/02/09,5:00 PM,2009-02-07,Saturday,שבת,5
+19,19,110,Kiryat Shmona,1:2,M. Tel Aviv,2008/09,2008,07/02/09,5:15 PM,2009-02-07,Saturday,שבת,5
+19,19,111,FC Ashdod,1:1,M. Petah Tikva,2008/09,2008,07/02/09,7:00 PM,2009-02-07,Saturday,שבת,5
+19,19,112,H. Petah Tikva,1:1,Bnei Sakhnin,2008/09,2008,07/02/09,7:00 PM,2009-02-07,Saturday,שבת,5
+19,19,113,Maccabi Haifa,2:0,Hakoah Amidar,2008/09,2008,07/02/09,7:15 PM,2009-02-07,Saturday,שבת,5
+19,19,114,Hapoel Tel Aviv,4:0,B. Jerusalem,2008/09,2008,09/02/09,8:52 PM,2009-02-09,Monday,יום שני,0
+20,20,115,M. Tel Aviv,1:2,H. Petah Tikva,2008/09,2008,21/02/09,5:15 PM,2009-02-21,Saturday,שבת,5
+20,20,116,M. Petah Tikva,1:1,Hapoel Tel Aviv,2008/09,2008,21/02/09,5:20 PM,2009-02-21,Saturday,שבת,5
+20,20,117,Hakoah Amidar,1:0,Kiryat Shmona,2008/09,2008,21/02/09,7:00 PM,2009-02-21,Saturday,שבת,5
+20,20,118,Bnei Sakhnin,0:2,FC Ashdod,2008/09,2008,21/02/09,7:00 PM,2009-02-21,Saturday,שבת,5
+20,20,119,B. Jerusalem,1:0,Bnei Yehuda,2008/09,2008,21/02/09,7:30 PM,2009-02-21,Saturday,שבת,5
+20,20,120,Maccabi Netanya,2:0,Maccabi Haifa,2008/09,2008,23/02/09,8:50 PM,2009-02-23,Monday,יום שני,0
+21,21,121,Bnei Yehuda,1:0,M. Petah Tikva,2008/09,2008,28/02/09,3:00 PM,2009-02-28,Saturday,שבת,5
+21,21,122,Kiryat Shmona,1:0,Maccabi Haifa,2008/09,2008,28/02/09,5:15 PM,2009-02-28,Saturday,שבת,5
+21,21,123,H. Petah Tikva,1:0,Hakoah Amidar,2008/09,2008,28/02/09,7:00 PM,2009-02-28,Saturday,שבת,5
+21,21,124,FC Ashdod,1:0,M. Tel Aviv,2008/09,2008,28/02/09,7:15 PM,2009-02-28,Saturday,שבת,5
+21,21,125,Hapoel Tel Aviv,1:0,Bnei Sakhnin,2008/09,2008,28/02/09,7:30 PM,2009-02-28,Saturday,שבת,5
+21,21,126,B. Jerusalem,2:1,Maccabi Netanya,2008/09,2008,02/03/09,8:53 PM,2009-03-02,Monday,יום שני,0
+22,22,127,Maccabi Netanya,2:1,Kiryat Shmona,2008/09,2008,07/03/09,5:00 PM,2009-03-07,Saturday,שבת,5
+22,22,128,Maccabi Haifa,1:0,H. Petah Tikva,2008/09,2008,07/03/09,5:15 PM,2009-03-07,Saturday,שבת,5
+22,22,129,Bnei Sakhnin,0:2,Bnei Yehuda,2008/09,2008,07/03/09,7:00 PM,2009-03-07,Saturday,שבת,5
+22,22,130,Hakoah Amidar,1:1,FC Ashdod,2008/09,2008,07/03/09,7:05 PM,2009-03-07,Saturday,שבת,5
+22,22,131,M. Petah Tikva,0:1,B. Jerusalem,2008/09,2008,07/03/09,7:30 PM,2009-03-07,Saturday,שבת,5
+22,22,132,M. Tel Aviv,1:3,Hapoel Tel Aviv,2008/09,2008,09/03/09,8:50 PM,2009-03-09,Monday,יום שני,0
+23,23,133,M. Petah Tikva,0:0,Bnei Sakhnin,2008/09,2008,14/03/09,3:03 PM,2009-03-14,Saturday,שבת,5
+23,23,134,Maccabi Netanya,0:0,Hakoah Amidar,2008/09,2008,14/03/09,5:15 PM,2009-03-14,Saturday,שבת,5
+23,23,135,FC Ashdod,2:0,Kiryat Shmona,2008/09,2008,14/03/09,7:00 PM,2009-03-14,Saturday,שבת,5
+23,23,136,H. Petah Tikva,1:2,M. Tel Aviv,2008/09,2008,14/03/09,7:30 PM,2009-03-14,Saturday,שבת,5
+23,23,137,Bnei Yehuda,0:1,Maccabi Haifa,2008/09,2008,15/03/09,8:00 PM,2009-03-15,Sunday,יום ראשון,6
+23,23,138,B. Jerusalem,2:1,Hapoel Tel Aviv,2008/09,2008,16/03/09,8:50 PM,2009-03-16,Monday,יום שני,0
+24,24,139,Hakoah Amidar,1:1,M. Tel Aviv,2008/09,2008,21/03/09,5:21 PM,2009-03-21,Saturday,שבת,5
+24,24,140,Bnei Sakhnin,3:2,FC Ashdod,2008/09,2008,21/03/09,6:00 PM,2009-03-21,Saturday,שבת,5
+24,24,141,Kiryat Shmona,1:1,H. Petah Tikva,2008/09,2008,21/03/09,7:00 PM,2009-03-21,Saturday,שבת,5
+24,24,142,Maccabi Haifa,0:0,M. Petah Tikva,2008/09,2008,21/03/09,7:00 PM,2009-03-21,Saturday,שבת,5
+24,24,143,Hapoel Tel Aviv,2:1,Bnei Yehuda,2008/09,2008,21/03/09,7:35 PM,2009-03-21,Saturday,שבת,5
+24,24,144,Maccabi Netanya,1:0,B. Jerusalem,2008/09,2008,22/03/09,8:50 PM,2009-03-22,Sunday,יום ראשון,6
+25,25,145,Bnei Yehuda,2:0,Maccabi Netanya,2008/09,2008,04/04/09,3:00 PM,2009-04-04,Saturday,שבת,5
+25,25,146,M. Petah Tikva,1:2,Hapoel Tel Aviv,2008/09,2008,04/04/09,3:00 PM,2009-04-04,Saturday,שבת,5
+25,25,147,B. Jerusalem,4:0,Hakoah Amidar,2008/09,2008,04/04/09,5:15 PM,2009-04-04,Saturday,שבת,5
+25,25,148,H. Petah Tikva,2:2,Bnei Sakhnin,2008/09,2008,04/04/09,7:30 PM,2009-04-04,Saturday,שבת,5
+25,25,149,M. Tel Aviv,3:2,Kiryat Shmona,2008/09,2008,04/04/09,7:30 PM,2009-04-04,Saturday,שבת,5
+25,25,150,FC Ashdod,0:3,Maccabi Haifa,2008/09,2008,06/04/09,8:50 PM,2009-04-06,Monday,יום שני,0
+26,26,151,Bnei Sakhnin,0:3,M. Tel Aviv,2008/09,2008,11/04/09,5:05 PM,2009-04-11,Saturday,שבת,5
+26,26,152,Hakoah Amidar,1:0,Kiryat Shmona,2008/09,2008,11/04/09,6:30 PM,2009-04-11,Saturday,שבת,5
+26,26,153,Maccabi Haifa,2:1,H. Petah Tikva,2008/09,2008,11/04/09,7:00 PM,2009-04-11,Saturday,שבת,5
+26,26,154,Maccabi Netanya,1:2,M. Petah Tikva,2008/09,2008,11/04/09,7:00 PM,2009-04-11,Saturday,שבת,5
+26,26,155,Hapoel Tel Aviv,1:0,FC Ashdod,2008/09,2008,11/04/09,7:27 PM,2009-04-11,Saturday,שבת,5
+26,26,156,B. Jerusalem,2:2,Bnei Yehuda,2008/09,2008,13/04/09,8:50 PM,2009-04-13,Monday,יום שני,0
+27,27,157,H. Petah Tikva,0:1,Hapoel Tel Aviv,2008/09,2008,18/04/09,3:00 PM,2009-04-18,Saturday,שבת,5
+27,27,158,Kiryat Shmona,0:2,Bnei Sakhnin,2008/09,2008,18/04/09,5:15 PM,2009-04-18,Saturday,שבת,5
+27,27,159,Bnei Yehuda,1:0,Hakoah Amidar,2008/09,2008,18/04/09,7:00 PM,2009-04-18,Saturday,שבת,5
+27,27,160,FC Ashdod,0:0,Maccabi Netanya,2008/09,2008,18/04/09,7:00 PM,2009-04-18,Saturday,שבת,5
+27,27,161,M. Petah Tikva,0:2,B. Jerusalem,2008/09,2008,18/04/09,7:30 PM,2009-04-18,Saturday,שבת,5
+27,27,162,M. Tel Aviv,1:1,Maccabi Haifa,2008/09,2008,19/04/09,8:50 PM,2009-04-19,Sunday,יום ראשון,6
+28,28,163,Maccabi Haifa,2:1,Kiryat Shmona,2008/09,2008,25/04/09,5:10 PM,2009-04-25,Saturday,שבת,5
+28,28,164,Hakoah Amidar,1:1,Bnei Sakhnin,2008/09,2008,25/04/09,6:00 PM,2009-04-25,Saturday,שבת,5
+28,28,165,Maccabi Netanya,1:0,H. Petah Tikva,2008/09,2008,25/04/09,7:00 PM,2009-04-25,Saturday,שבת,5
+28,28,166,Bnei Yehuda,1:1,M. Petah Tikva,2008/09,2008,25/04/09,7:00 PM,2009-04-25,Saturday,שבת,5
+28,28,167,B. Jerusalem,2:1,FC Ashdod,2008/09,2008,25/04/09,7:30 PM,2009-04-25,Saturday,שבת,5
+28,28,168,Hapoel Tel Aviv,1:1,M. Tel Aviv,2008/09,2008,26/04/09,8:50 PM,2009-04-26,Sunday,יום ראשון,6
+29,29,169,M. Petah Tikva,0:2,Hakoah Amidar,2008/09,2008,02/05/09,3:00 PM,2009-05-02,Saturday,שבת,5
+29,29,170,M. Tel Aviv,0:1,Maccabi Netanya,2008/09,2008,02/05/09,5:10 PM,2009-05-02,Saturday,שבת,5
+29,29,171,FC Ashdod,0:3,Bnei Yehuda,2008/09,2008,02/05/09,7:00 PM,2009-05-02,Saturday,שבת,5
+29,29,172,Kiryat Shmona,1:3,Hapoel Tel Aviv,2008/09,2008,02/05/09,7:10 PM,2009-05-02,Saturday,שבת,5
+29,29,173,H. Petah Tikva,0:0,B. Jerusalem,2008/09,2008,02/05/09,7:30 PM,2009-05-02,Saturday,שבת,5
+29,29,174,Bnei Sakhnin,0:0,Maccabi Haifa,2008/09,2008,04/05/09,8:50 PM,2009-05-04,Monday,יום שני,0
+30,30,175,Maccabi Haifa,2:0,Hakoah Amidar,2008/09,2008,09/05/09,5:10 PM,2009-05-09,Saturday,שבת,5
+30,30,176,Maccabi Netanya,1:3,Kiryat Shmona,2008/09,2008,09/05/09,5:10 PM,2009-05-09,Saturday,שבת,5
+30,30,177,Bnei Yehuda,2:1,H. Petah Tikva,2008/09,2008,09/05/09,7:00 PM,2009-05-09,Saturday,שבת,5
+30,30,178,M. Petah Tikva,0:0,FC Ashdod,2008/09,2008,09/05/09,7:00 PM,2009-05-09,Saturday,שבת,5
+30,30,179,B. Jerusalem,2:0,M. Tel Aviv,2008/09,2008,09/05/09,7:30 PM,2009-05-09,Saturday,שבת,5
+30,30,180,Hapoel Tel Aviv,1:1,Bnei Sakhnin,2008/09,2008,11/05/09,8:50 PM,2009-05-11,Monday,יום שני,0
+31,31,181,M. Tel Aviv,2:1,Bnei Yehuda,2008/09,2008,16/05/09,5:00 PM,2009-05-16,Saturday,שבת,5
+31,31,182,Hakoah Amidar,0:0,FC Ashdod,2008/09,2008,16/05/09,7:10 PM,2009-05-16,Saturday,שבת,5
+31,31,183,H. Petah Tikva,2:0,M. Petah Tikva,2008/09,2008,16/05/09,7:10 PM,2009-05-16,Saturday,שבת,5
+31,31,184,Kiryat Shmona,2:0,B. Jerusalem,2008/09,2008,16/05/09,7:10 PM,2009-05-16,Saturday,שבת,5
+31,31,185,Bnei Sakhnin,0:0,Maccabi Netanya,2008/09,2008,16/05/09,7:12 PM,2009-05-16,Saturday,שבת,5
+31,31,186,Maccabi Haifa,1:0,Hapoel Tel Aviv,2008/09,2008,18/05/09,8:50 PM,2009-05-18,Monday,יום שני,0
+32,32,187,Maccabi Netanya,0:2,Maccabi Haifa,2008/09,2008,23/05/09,6:40 PM,2009-05-23,Saturday,שבת,5
+32,32,188,B. Jerusalem,3:0,Bnei Sakhnin,2008/09,2008,23/05/09,6:40 PM,2009-05-23,Saturday,שבת,5
+32,32,189,Bnei Yehuda,0:0,Kiryat Shmona,2008/09,2008,23/05/09,6:40 PM,2009-05-23,Saturday,שבת,5
+32,32,190,M. Petah Tikva,0:3,M. Tel Aviv,2008/09,2008,23/05/09,6:40 PM,2009-05-23,Saturday,שבת,5
+32,32,191,FC Ashdod,1:0,H. Petah Tikva,2008/09,2008,23/05/09,6:40 PM,2009-05-23,Saturday,שבת,5
+32,32,192,Hapoel Tel Aviv,3:2,Hakoah Amidar,2008/09,2008,25/05/09,8:50 PM,2009-05-25,Monday,יום שני,0
+33,33,193,M. Tel Aviv,1:0,FC Ashdod,2008/09,2008,30/05/09,3:00 PM,2009-05-30,Saturday,שבת,5
+33,33,194,Kiryat Shmona,1:2,M. Petah Tikva,2008/09,2008,30/05/09,7:15 PM,2009-05-30,Saturday,שבת,5
+33,33,195,Bnei Sakhnin,3:1,Bnei Yehuda,2008/09,2008,30/05/09,7:15 PM,2009-05-30,Saturday,שבת,5
+33,33,196,Hapoel Tel Aviv,1:2,Maccabi Netanya,2008/09,2008,30/05/09,7:15 PM,2009-05-30,Saturday,שבת,5
+33,33,197,Hakoah Amidar,1:0,H. Petah Tikva,2008/09,2008,30/05/09,7:17 PM,2009-05-30,Saturday,שבת,5
+33,33,198,Maccabi Haifa,1:1,B. Jerusalem,2008/09,2008,01/06/09,8:50 PM,2009-06-01,Monday,יום שני,0

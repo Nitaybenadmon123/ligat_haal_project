@@ -1,0 +1,183 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,Hapoel Acre,0:2,M. Tel Aviv,2013/14,2013,24/08/13,4:50 PM,2013-08-24,Saturday,שבת,5
+1,1,2,Ramat haSharon,0:2,Hapoel Haifa,2013/14,2013,24/08/13,6:00 PM,2013-08-24,Saturday,שבת,5
+1,1,3,Hapoel Raanana,1:0,M. Petah Tikva,2013/14,2013,24/08/13,6:00 PM,2013-08-24,Saturday,שבת,5
+1,1,4,Bnei Yehuda,1:0,FC Ashdod,2013/14,2013,24/08/13,6:00 PM,2013-08-24,Saturday,שבת,5
+1,1,5,B. Jerusalem,0:2,H. Beer Sheva,2013/14,2013,24/08/13,7:15 PM,2013-08-24,Saturday,שבת,5
+1,1,6,Hapoel Tel Aviv,0:0,Bnei Sakhnin,2013/14,2013,25/08/13,7:00 PM,2013-08-25,Sunday,יום ראשון,6
+1,1,7,Maccabi Haifa,3:1,Kiryat Shmona,2013/14,2013,25/08/13,8:00 PM,2013-08-25,Sunday,יום ראשון,6
+2,2,8,Bnei Sakhnin,1:0,Hapoel Acre,2013/14,2013,31/08/13,5:00 PM,2013-08-31,Saturday,שבת,5
+2,2,9,Kiryat Shmona,4:1,Ramat haSharon,2013/14,2013,31/08/13,6:00 PM,2013-08-31,Saturday,שבת,5
+2,2,10,Hapoel Haifa,1:1,Hapoel Raanana,2013/14,2013,31/08/13,6:00 PM,2013-08-31,Saturday,שבת,5
+2,2,11,H. Beer Sheva,2:0,Hapoel Tel Aviv,2013/14,2013,31/08/13,6:30 PM,2013-08-31,Saturday,שבת,5
+2,2,12,M. Petah Tikva,1:3,B. Jerusalem,2013/14,2013,31/08/13,7:15 PM,2013-08-31,Saturday,שבת,5
+2,2,13,FC Ashdod,3:2,Maccabi Haifa,2013/14,2013,01/09/13,7:00 PM,2013-09-01,Sunday,יום ראשון,6
+2,2,14,M. Tel Aviv,1:0,Bnei Yehuda,2013/14,2013,01/09/13,8:00 PM,2013-09-01,Sunday,יום ראשון,6
+3,3,15,Hapoel Acre,1:2,H. Beer Sheva,2013/14,2013,21/09/13,4:30 PM,2013-09-21,Saturday,שבת,5
+3,3,16,Bnei Yehuda,2:4,Bnei Sakhnin,2013/14,2013,21/09/13,6:00 PM,2013-09-21,Saturday,שבת,5
+3,3,17,Kiryat Shmona,1:0,FC Ashdod,2013/14,2013,21/09/13,6:00 PM,2013-09-21,Saturday,שבת,5
+3,3,18,Ramat haSharon,1:3,Hapoel Raanana,2013/14,2013,21/09/13,6:00 PM,2013-09-21,Saturday,שבת,5
+3,3,19,B. Jerusalem,0:1,Hapoel Haifa,2013/14,2013,21/09/13,7:15 PM,2013-09-21,Saturday,שבת,5
+3,3,20,Hapoel Tel Aviv,3:1,M. Petah Tikva,2013/14,2013,22/09/13,7:10 PM,2013-09-22,Sunday,יום ראשון,6
+3,3,21,Maccabi Haifa,0:3,M. Tel Aviv,2013/14,2013,23/09/13,8:00 PM,2013-09-23,Monday,יום שני,0
+4,4,22,Bnei Sakhnin,0:0,Maccabi Haifa,2013/14,2013,28/09/13,4:30 PM,2013-09-28,Saturday,שבת,5
+4,4,23,FC Ashdod,3:0,Ramat haSharon,2013/14,2013,28/09/13,6:00 PM,2013-09-28,Saturday,שבת,5
+4,4,24,M. Petah Tikva,1:1,Hapoel Acre,2013/14,2013,28/09/13,6:00 PM,2013-09-28,Saturday,שבת,5
+4,4,25,Hapoel Haifa,0:4,Hapoel Tel Aviv,2013/14,2013,28/09/13,6:15 PM,2013-09-28,Saturday,שבת,5
+4,4,26,M. Tel Aviv,3:0,Kiryat Shmona,2013/14,2013,28/09/13,7:00 PM,2013-09-28,Saturday,שבת,5
+4,4,27,Hapoel Raanana,2:2,B. Jerusalem,2013/14,2013,29/09/13,7:10 PM,2013-09-29,Sunday,יום ראשון,6
+4,4,28,H. Beer Sheva,2:1,Bnei Yehuda,2013/14,2013,30/09/13,8:00 PM,2013-09-30,Monday,יום שני,0
+5,5,29,Hapoel Tel Aviv,0:0,Hapoel Raanana,2013/14,2013,05/10/13,3:15 PM,2013-10-05,Saturday,שבת,5
+5,5,30,Hapoel Acre,2:1,Hapoel Haifa,2013/14,2013,05/10/13,6:00 PM,2013-10-05,Saturday,שבת,5
+5,5,31,Kiryat Shmona,1:1,Bnei Sakhnin,2013/14,2013,05/10/13,6:00 PM,2013-10-05,Saturday,שבת,5
+5,5,32,Ramat haSharon,0:2,B. Jerusalem,2013/14,2013,05/10/13,7:00 PM,2013-10-05,Saturday,שבת,5
+5,5,33,Bnei Yehuda,2:4,M. Petah Tikva,2013/14,2013,05/10/13,7:15 PM,2013-10-05,Saturday,שבת,5
+5,5,34,FC Ashdod,0:0,M. Tel Aviv,2013/14,2013,06/10/13,7:10 PM,2013-10-06,Sunday,יום ראשון,6
+5,5,35,Maccabi Haifa,0:0,H. Beer Sheva,2013/14,2013,06/10/13,7:40 PM,2013-10-06,Sunday,יום ראשון,6
+6,6,36,H. Beer Sheva,0:2,Kiryat Shmona,2013/14,2013,19/10/13,6:00 PM,2013-10-19,Saturday,שבת,5
+6,6,37,Bnei Sakhnin,3:0,FC Ashdod,2013/14,2013,19/10/13,6:00 PM,2013-10-19,Saturday,שבת,5
+6,6,38,Hapoel Haifa,2:1,Bnei Yehuda,2013/14,2013,19/10/13,6:00 PM,2013-10-19,Saturday,שבת,5
+6,6,39,Hapoel Raanana,1:3,Hapoel Acre,2013/14,2013,19/10/13,6:00 PM,2013-10-19,Saturday,שבת,5
+6,6,40,M. Petah Tikva,0:3,Maccabi Haifa,2013/14,2013,19/10/13,6:30 PM,2013-10-19,Saturday,שבת,5
+6,6,41,M. Tel Aviv,1:0,Ramat haSharon,2013/14,2013,20/10/13,7:10 PM,2013-10-20,Sunday,יום ראשון,6
+6,6,42,B. Jerusalem,1:0,Hapoel Tel Aviv,2013/14,2013,21/10/13,8:00 PM,2013-10-21,Monday,יום שני,0
+7,7,43,Ramat haSharon,0:5,Hapoel Tel Aviv,2013/14,2013,26/10/13,5:45 PM,2013-10-26,Saturday,שבת,5
+7,7,44,FC Ashdod,2:2,H. Beer Sheva,2013/14,2013,26/10/13,6:00 PM,2013-10-26,Saturday,שבת,5
+7,7,45,Kiryat Shmona,0:0,M. Petah Tikva,2013/14,2013,26/10/13,6:00 PM,2013-10-26,Saturday,שבת,5
+7,7,46,Bnei Yehuda,0:0,Hapoel Raanana,2013/14,2013,26/10/13,6:00 PM,2013-10-26,Saturday,שבת,5
+7,7,47,Hapoel Acre,0:0,B. Jerusalem,2013/14,2013,26/10/13,7:45 PM,2013-10-26,Saturday,שבת,5
+7,7,48,Maccabi Haifa,0:1,Hapoel Haifa,2013/14,2013,27/10/13,7:30 PM,2013-10-27,Sunday,יום ראשון,6
+7,7,49,M. Tel Aviv,4:1,Bnei Sakhnin,2013/14,2013,28/10/13,8:00 PM,2013-10-28,Monday,יום שני,0
+8,8,50,Hapoel Raanana,1:0,Maccabi Haifa,2013/14,2013,02/11/13,4:00 PM,2013-11-02,Saturday,שבת,5
+8,8,51,Hapoel Haifa,2:0,Kiryat Shmona,2013/14,2013,02/11/13,5:00 PM,2013-11-02,Saturday,שבת,5
+8,8,52,M. Petah Tikva,1:1,FC Ashdod,2013/14,2013,02/11/13,5:00 PM,2013-11-02,Saturday,שבת,5
+8,8,53,Bnei Sakhnin,1:1,Ramat haSharon,2013/14,2013,02/11/13,5:00 PM,2013-11-02,Saturday,שבת,5
+8,8,54,B. Jerusalem,2:1,Bnei Yehuda,2013/14,2013,02/11/13,6:30 PM,2013-11-02,Saturday,שבת,5
+8,8,55,Hapoel Tel Aviv,2:0,Hapoel Acre,2013/14,2013,03/11/13,7:10 PM,2013-11-03,Sunday,יום ראשון,6
+8,8,56,H. Beer Sheva,3:2,M. Tel Aviv,2013/14,2013,04/11/13,8:00 PM,2013-11-04,Monday,יום שני,0
+9,9,57,Ramat haSharon,1:1,Hapoel Acre,2013/14,2013,09/11/13,5:00 PM,2013-11-09,Saturday,שבת,5
+9,9,58,FC Ashdod,1:0,Hapoel Haifa,2013/14,2013,09/11/13,5:00 PM,2013-11-09,Saturday,שבת,5
+9,9,59,Bnei Sakhnin,0:4,H. Beer Sheva,2013/14,2013,09/11/13,5:45 PM,2013-11-09,Saturday,שבת,5
+9,9,60,Kiryat Shmona,0:0,Hapoel Raanana,2013/14,2013,09/11/13,6:00 PM,2013-11-09,Saturday,שבת,5
+9,9,61,Bnei Yehuda,2:2,Hapoel Tel Aviv,2013/14,2013,09/11/13,6:30 PM,2013-11-09,Saturday,שבת,5
+9,9,62,M. Tel Aviv,2:2,M. Petah Tikva,2013/14,2013,11/11/13,7:00 PM,2013-11-11,Monday,יום שני,0
+9,9,63,Maccabi Haifa,2:0,B. Jerusalem,2013/14,2013,11/11/13,8:00 PM,2013-11-11,Monday,יום שני,0
+10,10,64,M. Petah Tikva,1:3,Bnei Sakhnin,2013/14,2013,23/11/13,4:00 PM,2013-11-23,Saturday,שבת,5
+10,10,65,Hapoel Haifa,1:3,M. Tel Aviv,2013/14,2013,23/11/13,4:00 PM,2013-11-23,Saturday,שבת,5
+10,10,66,Hapoel Acre,3:2,Bnei Yehuda,2013/14,2013,23/11/13,5:00 PM,2013-11-23,Saturday,שבת,5
+10,10,67,Hapoel Raanana,3:0,FC Ashdod,2013/14,2013,23/11/13,5:00 PM,2013-11-23,Saturday,שבת,5
+10,10,68,B. Jerusalem,1:4,Kiryat Shmona,2013/14,2013,23/11/13,6:30 PM,2013-11-23,Saturday,שבת,5
+10,10,69,Hapoel Tel Aviv,2:4,Maccabi Haifa,2013/14,2013,24/11/13,7:10 PM,2013-11-24,Sunday,יום ראשון,6
+10,10,70,H. Beer Sheva,0:0,Ramat haSharon,2013/14,2013,25/11/13,7:50 PM,2013-11-25,Monday,יום שני,0
+11,11,71,Bnei Sakhnin,2:0,Hapoel Haifa,2013/14,2013,30/11/13,5:00 PM,2013-11-30,Saturday,שבת,5
+11,11,72,Ramat haSharon,1:0,Bnei Yehuda,2013/14,2013,30/11/13,5:00 PM,2013-11-30,Saturday,שבת,5
+11,11,73,H. Beer Sheva,3:0,M. Petah Tikva,2013/14,2013,30/11/13,5:00 PM,2013-11-30,Saturday,שבת,5
+11,11,74,Kiryat Shmona,2:2,Hapoel Tel Aviv,2013/14,2013,30/11/13,5:45 PM,2013-11-30,Saturday,שבת,5
+11,11,75,FC Ashdod,1:0,B. Jerusalem,2013/14,2013,30/11/13,7:00 PM,2013-11-30,Saturday,שבת,5
+11,11,76,Maccabi Haifa,2:1,Hapoel Acre,2013/14,2013,02/12/13,6:00 PM,2013-12-02,Monday,יום שני,0
+11,11,77,M. Tel Aviv,3:1,Hapoel Raanana,2013/14,2013,02/12/13,7:50 PM,2013-12-02,Monday,יום שני,0
+12,12,78,Hapoel Haifa,1:3,H. Beer Sheva,2013/14,2013,07/12/13,4:00 PM,2013-12-07,Saturday,שבת,5
+12,12,79,Ramat haSharon,2:0,M. Petah Tikva,2013/14,2013,07/12/13,5:00 PM,2013-12-07,Saturday,שבת,5
+12,12,80,Hapoel Acre,2:1,Kiryat Shmona,2013/14,2013,07/12/13,5:00 PM,2013-12-07,Saturday,שבת,5
+12,12,81,Hapoel Raanana,0:1,Bnei Sakhnin,2013/14,2013,07/12/13,5:00 PM,2013-12-07,Saturday,שבת,5
+12,12,82,Bnei Yehuda,0:2,Maccabi Haifa,2013/14,2013,07/12/13,6:15 PM,2013-12-07,Saturday,שבת,5
+12,12,83,B. Jerusalem,1:2,M. Tel Aviv,2013/14,2013,08/12/13,7:50 PM,2013-12-08,Sunday,יום ראשון,6
+12,12,84,Hapoel Tel Aviv,2:1,FC Ashdod,2013/14,2013,09/12/13,6:45 PM,2013-12-09,Monday,יום שני,0
+13,13,85,FC Ashdod,0:0,Hapoel Acre,2013/14,2013,14/12/13,5:00 PM,2013-12-14,Saturday,שבת,5
+13,13,86,M. Petah Tikva,1:1,Hapoel Haifa,2013/14,2013,14/12/13,5:00 PM,2013-12-14,Saturday,שבת,5
+13,13,87,H. Beer Sheva,0:0,Hapoel Raanana,2013/14,2013,14/12/13,5:45 PM,2013-12-14,Saturday,שבת,5
+13,13,88,Maccabi Haifa,1:1,Ramat haSharon,2013/14,2013,16/12/13,6:00 PM,2013-12-16,Monday,יום שני,0
+13,13,89,M. Tel Aviv,1:0,Hapoel Tel Aviv,2013/14,2013,16/12/13,7:50 PM,2013-12-16,Monday,יום שני,0
+13,13,90,Kiryat Shmona,2:1,Bnei Yehuda,2013/14,2013,17/12/13,6:00 PM,2013-12-17,Tuesday,יום שלישי,1
+13,13,91,Bnei Sakhnin,0:0,B. Jerusalem,2013/14,2013,17/12/13,6:30 PM,2013-12-17,Tuesday,יום שלישי,1
+14,14,92,Hapoel Haifa,3:0,Ramat haSharon,2013/14,2013,21/12/13,5:00 PM,2013-12-21,Saturday,שבת,5
+14,14,93,FC Ashdod,1:0,Bnei Yehuda,2013/14,2013,21/12/13,5:00 PM,2013-12-21,Saturday,שבת,5
+14,14,94,M. Petah Tikva,1:0,Hapoel Raanana,2013/14,2013,21/12/13,5:00 PM,2013-12-21,Saturday,שבת,5
+14,14,95,Bnei Sakhnin,4:0,Hapoel Tel Aviv,2013/14,2013,21/12/13,5:45 PM,2013-12-21,Saturday,שבת,5
+14,14,96,M. Tel Aviv,5:0,Hapoel Acre,2013/14,2013,21/12/13,6:15 PM,2013-12-21,Saturday,שבת,5
+14,14,97,Kiryat Shmona,2:1,Maccabi Haifa,2013/14,2013,22/12/13,6:40 PM,2013-12-22,Sunday,יום ראשון,6
+14,14,98,H. Beer Sheva,2:0,B. Jerusalem,2013/14,2013,23/12/13,7:50 PM,2013-12-23,Monday,יום שני,0
+15,15,99,Hapoel Acre,0:2,Bnei Sakhnin,2013/14,2013,28/12/13,5:00 PM,2013-12-28,Saturday,שבת,5
+15,15,100,Ramat haSharon,0:2,Kiryat Shmona,2013/14,2013,28/12/13,5:00 PM,2013-12-28,Saturday,שבת,5
+15,15,101,Hapoel Raanana,0:2,Hapoel Haifa,2013/14,2013,28/12/13,5:00 PM,2013-12-28,Saturday,שבת,5
+15,15,102,Maccabi Haifa,2:1,FC Ashdod,2013/14,2013,28/12/13,6:15 PM,2013-12-28,Saturday,שבת,5
+15,15,103,Bnei Yehuda,0:2,M. Tel Aviv,2013/14,2013,28/12/13,7:00 PM,2013-12-28,Saturday,שבת,5
+15,15,104,B. Jerusalem,1:0,M. Petah Tikva,2013/14,2013,29/12/13,7:20 PM,2013-12-29,Sunday,יום ראשון,6
+15,15,105,Hapoel Tel Aviv,1:3,H. Beer Sheva,2013/14,2013,30/12/13,7:50 PM,2013-12-30,Monday,יום שני,0
+16,16,106,M. Petah Tikva,0:2,Hapoel Tel Aviv,2013/14,2013,04/01/14,4:00 PM,2014-01-04,Saturday,שבת,5
+16,16,107,Bnei Sakhnin,0:1,Bnei Yehuda,2013/14,2013,04/01/14,5:00 PM,2014-01-04,Saturday,שבת,5
+16,16,108,FC Ashdod,2:1,Kiryat Shmona,2013/14,2013,04/01/14,5:00 PM,2014-01-04,Saturday,שבת,5
+16,16,109,Hapoel Raanana,1:2,Ramat haSharon,2013/14,2013,04/01/14,5:00 PM,2014-01-04,Saturday,שבת,5
+16,16,110,H. Beer Sheva,1:1,Hapoel Acre,2013/14,2013,04/01/14,6:30 PM,2014-01-04,Saturday,שבת,5
+16,16,111,Hapoel Haifa,2:2,B. Jerusalem,2013/14,2013,05/01/14,6:30 PM,2014-01-05,Sunday,יום ראשון,6
+16,16,112,M. Tel Aviv,3:1,Maccabi Haifa,2013/14,2013,06/01/14,7:50 PM,2014-01-06,Monday,יום שני,0
+17,17,113,Maccabi Haifa,2:1,Bnei Sakhnin,2013/14,2013,11/01/14,4:00 PM,2014-01-11,Saturday,שבת,5
+17,17,114,Bnei Yehuda,1:2,H. Beer Sheva,2013/14,2013,11/01/14,5:00 PM,2014-01-11,Saturday,שבת,5
+17,17,115,Hapoel Acre,1:3,M. Petah Tikva,2013/14,2013,11/01/14,5:00 PM,2014-01-11,Saturday,שבת,5
+17,17,116,Ramat haSharon,2:3,FC Ashdod,2013/14,2013,11/01/14,5:00 PM,2014-01-11,Saturday,שבת,5
+17,17,117,B. Jerusalem,1:1,Hapoel Raanana,2013/14,2013,11/01/14,6:30 PM,2014-01-11,Saturday,שבת,5
+17,17,118,Hapoel Tel Aviv,4:0,Hapoel Haifa,2013/14,2013,12/01/14,7:20 PM,2014-01-12,Sunday,יום ראשון,6
+17,17,119,Kiryat Shmona,3:1,M. Tel Aviv,2013/14,2013,13/01/14,7:50 PM,2014-01-13,Monday,יום שני,0
+18,18,120,M. Tel Aviv,2:0,FC Ashdod,2013/14,2013,18/01/14,4:00 PM,2014-01-18,Saturday,שבת,5
+18,18,121,Bnei Sakhnin,1:1,Kiryat Shmona,2013/14,2013,18/01/14,5:00 PM,2014-01-18,Saturday,שבת,5
+18,18,122,Hapoel Haifa,0:0,Hapoel Acre,2013/14,2013,18/01/14,5:00 PM,2014-01-18,Saturday,שבת,5
+18,18,123,M. Petah Tikva,2:2,Bnei Yehuda,2013/14,2013,18/01/14,5:00 PM,2014-01-18,Saturday,שבת,5
+18,18,124,Hapoel Raanana,1:4,Hapoel Tel Aviv,2013/14,2013,18/01/14,6:30 PM,2014-01-18,Saturday,שבת,5
+18,18,125,B. Jerusalem,0:1,Ramat haSharon,2013/14,2013,19/01/14,7:15 PM,2014-01-19,Sunday,יום ראשון,6
+18,18,126,H. Beer Sheva,3:1,Maccabi Haifa,2013/14,2013,20/01/14,7:50 PM,2014-01-20,Monday,יום שני,0
+19,19,127,Kiryat Shmona,0:1,H. Beer Sheva,2013/14,2013,25/01/14,3:00 PM,2014-01-25,Saturday,שבת,5
+19,19,128,FC Ashdod,0:0,Bnei Sakhnin,2013/14,2013,25/01/14,5:00 PM,2014-01-25,Saturday,שבת,5
+19,19,129,Hapoel Acre,0:0,Hapoel Raanana,2013/14,2013,25/01/14,5:00 PM,2014-01-25,Saturday,שבת,5
+19,19,130,Maccabi Haifa,1:0,M. Petah Tikva,2013/14,2013,25/01/14,5:05 PM,2014-01-25,Saturday,שבת,5
+19,19,131,Bnei Yehuda,2:2,Hapoel Haifa,2013/14,2013,25/01/14,5:30 PM,2014-01-25,Saturday,שבת,5
+19,19,132,Ramat haSharon,0:3,M. Tel Aviv,2013/14,2013,25/01/14,7:10 PM,2014-01-25,Saturday,שבת,5
+19,19,133,Hapoel Tel Aviv,3:1,B. Jerusalem,2013/14,2013,26/01/14,7:50 PM,2014-01-26,Sunday,יום ראשון,6
+20,20,134,Hapoel Tel Aviv,3:0,Ramat haSharon,2013/14,2013,01/02/14,4:00 PM,2014-02-01,Saturday,שבת,5
+20,20,135,M. Petah Tikva,3:3,Kiryat Shmona,2013/14,2013,01/02/14,5:00 PM,2014-02-01,Saturday,שבת,5
+20,20,136,Hapoel Raanana,0:2,Bnei Yehuda,2013/14,2013,01/02/14,5:00 PM,2014-02-01,Saturday,שבת,5
+20,20,137,H. Beer Sheva,2:0,FC Ashdod,2013/14,2013,01/02/14,6:15 PM,2014-02-01,Saturday,שבת,5
+20,20,138,Hapoel Haifa,0:1,Maccabi Haifa,2013/14,2013,01/02/14,6:30 PM,2014-02-01,Saturday,שבת,5
+20,20,139,Bnei Sakhnin,0:2,M. Tel Aviv,2013/14,2013,02/02/14,7:50 PM,2014-02-02,Sunday,יום ראשון,6
+20,20,140,B. Jerusalem,1:0,Hapoel Acre,2013/14,2013,03/02/14,6:30 PM,2014-02-03,Monday,יום שני,0
+21,21,141,FC Ashdod,2:0,M. Petah Tikva,2013/14,2013,08/02/14,5:00 PM,2014-02-08,Saturday,שבת,5
+21,21,142,Ramat haSharon,0:1,Bnei Sakhnin,2013/14,2013,08/02/14,5:00 PM,2014-02-08,Saturday,שבת,5
+21,21,143,Kiryat Shmona,2:0,Hapoel Haifa,2013/14,2013,08/02/14,5:00 PM,2014-02-08,Saturday,שבת,5
+21,21,144,Maccabi Haifa,3:1,Hapoel Raanana,2013/14,2013,08/02/14,5:00 PM,2014-02-08,Saturday,שבת,5
+21,21,145,Bnei Yehuda,0:0,B. Jerusalem,2013/14,2013,08/02/14,6:30 PM,2014-02-08,Saturday,שבת,5
+21,21,146,M. Tel Aviv,3:1,H. Beer Sheva,2013/14,2013,09/02/14,7:50 PM,2014-02-09,Sunday,יום ראשון,6
+21,21,147,Hapoel Acre,2:1,Hapoel Tel Aviv,2013/14,2013,10/02/14,6:45 PM,2014-02-10,Monday,יום שני,0
+22,22,148,Hapoel Tel Aviv,2:2,Bnei Yehuda,2013/14,2013,15/02/14,4:00 PM,2014-02-15,Saturday,שבת,5
+22,22,149,Hapoel Acre,4:3,Ramat haSharon,2013/14,2013,15/02/14,5:00 PM,2014-02-15,Saturday,שבת,5
+22,22,150,Hapoel Haifa,1:1,FC Ashdod,2013/14,2013,15/02/14,5:00 PM,2014-02-15,Saturday,שבת,5
+22,22,151,Hapoel Raanana,0:2,Kiryat Shmona,2013/14,2013,15/02/14,5:00 PM,2014-02-15,Saturday,שבת,5
+22,22,152,M. Petah Tikva,0:2,M. Tel Aviv,2013/14,2013,15/02/14,6:30 PM,2014-02-15,Saturday,שבת,5
+22,22,153,B. Jerusalem,1:0,Maccabi Haifa,2013/14,2013,16/02/14,7:15 PM,2014-02-16,Sunday,יום ראשון,6
+22,22,154,H. Beer Sheva,2:1,Bnei Sakhnin,2013/14,2013,17/02/14,7:50 PM,2014-02-17,Monday,יום שני,0
+23,23,155,Ramat haSharon,0:4,H. Beer Sheva,2013/14,2013,22/02/14,4:00 PM,2014-02-22,Saturday,שבת,5
+23,23,156,Bnei Sakhnin,0:2,M. Petah Tikva,2013/14,2013,22/02/14,5:00 PM,2014-02-22,Saturday,שבת,5
+23,23,157,FC Ashdod,1:2,Hapoel Raanana,2013/14,2013,22/02/14,5:00 PM,2014-02-22,Saturday,שבת,5
+23,23,158,Bnei Yehuda,1:0,Hapoel Acre,2013/14,2013,22/02/14,6:00 PM,2014-02-22,Saturday,שבת,5
+23,23,159,Kiryat Shmona,1:0,B. Jerusalem,2013/14,2013,22/02/14,6:30 PM,2014-02-22,Saturday,שבת,5
+23,23,160,M. Tel Aviv,2:2,Hapoel Haifa,2013/14,2013,23/02/14,7:15 PM,2014-02-23,Sunday,יום ראשון,6
+23,23,161,Maccabi Haifa,3:1,Hapoel Tel Aviv,2013/14,2013,24/02/14,8:00 PM,2014-02-24,Monday,יום שני,0
+24,24,162,Hapoel Tel Aviv,1:1,Kiryat Shmona,2013/14,2013,01/03/14,2:30 PM,2014-03-01,Saturday,שבת,5
+24,24,163,M. Petah Tikva,1:3,H. Beer Sheva,2013/14,2013,01/03/14,4:45 PM,2014-03-01,Saturday,שבת,5
+24,24,164,Hapoel Acre,1:1,Maccabi Haifa,2013/14,2013,01/03/14,6:00 PM,2014-03-01,Saturday,שבת,5
+24,24,165,Bnei Yehuda,0:1,Ramat haSharon,2013/14,2013,01/03/14,7:00 PM,2014-03-01,Saturday,שבת,5
+24,24,166,B. Jerusalem,2:0,FC Ashdod,2013/14,2013,01/03/14,7:00 PM,2014-03-01,Saturday,שבת,5
+24,24,167,Hapoel Raanana,0:2,M. Tel Aviv,2013/14,2013,02/03/14,7:50 PM,2014-03-02,Sunday,יום ראשון,6
+24,24,168,Hapoel Haifa,2:0,Bnei Sakhnin,2013/14,2013,03/03/14,7:00 PM,2014-03-03,Monday,יום שני,0
+25,25,169,FC Ashdod,4:5,Hapoel Tel Aviv,2013/14,2013,08/03/14,4:00 PM,2014-03-08,Saturday,שבת,5
+25,25,170,Kiryat Shmona,2:0,Hapoel Acre,2013/14,2013,08/03/14,5:00 PM,2014-03-08,Saturday,שבת,5
+25,25,171,M. Petah Tikva,3:3,Ramat haSharon,2013/14,2013,08/03/14,5:00 PM,2014-03-08,Saturday,שבת,5
+25,25,172,Bnei Sakhnin,2:0,Hapoel Raanana,2013/14,2013,08/03/14,5:00 PM,2014-03-08,Saturday,שבת,5
+25,25,173,H. Beer Sheva,1:0,Hapoel Haifa,2013/14,2013,08/03/14,5:45 PM,2014-03-08,Saturday,שבת,5
+25,25,174,Maccabi Haifa,2:2,Bnei Yehuda,2013/14,2013,09/03/14,7:15 PM,2014-03-09,Sunday,יום ראשון,6
+25,25,175,M. Tel Aviv,1:0,B. Jerusalem,2013/14,2013,10/03/14,7:50 PM,2014-03-10,Monday,יום שני,0
+26,26,176,Hapoel Raanana,1:0,H. Beer Sheva,2013/14,2013,15/03/14,4:00 PM,2014-03-15,Saturday,שבת,5
+26,26,177,Hapoel Haifa,0:1,M. Petah Tikva,2013/14,2013,15/03/14,5:00 PM,2014-03-15,Saturday,שבת,5
+26,26,178,Hapoel Acre,1:1,FC Ashdod,2013/14,2013,15/03/14,6:00 PM,2014-03-15,Saturday,שבת,5
+26,26,179,Bnei Yehuda,0:0,Kiryat Shmona,2013/14,2013,15/03/14,6:00 PM,2014-03-15,Saturday,שבת,5
+26,26,180,B. Jerusalem,0:1,Bnei Sakhnin,2013/14,2013,15/03/14,6:30 PM,2014-03-15,Saturday,שבת,5
+26,26,181,Ramat haSharon,1:2,Maccabi Haifa,2013/14,2013,16/03/14,7:15 PM,2014-03-16,Sunday,יום ראשון,6
+26,26,182,Hapoel Tel Aviv,2:3,M. Tel Aviv,2013/14,2013,17/03/14,7:55 PM,2014-03-17,Monday,יום שני,0

@@ -1,0 +1,241 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,B. Jerusalem,0:0,Hapoel Tel Aviv,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,2,M. Petah Tikva,1:1,H. Ramat Gan,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,3,H. Beer Sheva,2:1,Hapoel Raanana,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,4,Maccabi Haifa,2:1,Hapoel Acre,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,5,Maccabi Netanya,1:2,Hapoel Haifa,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,6,FC Ashdod,0:3,Bnei Yehuda,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,7,M. Ahi Nazareth,1:2,H. Petah Tikva,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+1,1,8,M. Tel Aviv,3:1,Bnei Sakhnin,2009/10,2009,22/08/09,5:00 PM,2009-08-22,Saturday,שבת,5
+2,2,9,Hapoel Raanana,1:3,Maccabi Haifa,2009/10,2009,29/08/09,4:00 PM,2009-08-29,Saturday,שבת,5
+2,2,10,H. Petah Tikva,0:2,M. Tel Aviv,2009/10,2009,29/08/09,4:15 PM,2009-08-29,Saturday,שבת,5
+2,2,11,Hapoel Haifa,0:1,FC Ashdod,2009/10,2009,29/08/09,6:00 PM,2009-08-29,Saturday,שבת,5
+2,2,12,Hapoel Acre,1:1,Maccabi Netanya,2009/10,2009,29/08/09,6:00 PM,2009-08-29,Saturday,שבת,5
+2,2,13,H. Ramat Gan,2:2,H. Beer Sheva,2009/10,2009,29/08/09,6:00 PM,2009-08-29,Saturday,שבת,5
+2,2,14,Hapoel Tel Aviv,1:1,M. Petah Tikva,2009/10,2009,29/08/09,7:40 PM,2009-08-29,Saturday,שבת,5
+2,2,15,Bnei Yehuda,2:0,M. Ahi Nazareth,2009/10,2009,30/08/09,6:00 PM,2009-08-30,Sunday,יום ראשון,6
+2,2,16,Bnei Sakhnin,0:0,B. Jerusalem,2009/10,2009,31/08/09,7:00 PM,2009-08-31,Monday,יום שני,0
+3,3,17,Maccabi Haifa,3:1,H. Ramat Gan,2009/10,2009,12/09/09,4:00 PM,2009-09-12,Saturday,שבת,5
+3,3,18,M. Ahi Nazareth,1:3,Hapoel Haifa,2009/10,2009,12/09/09,4:00 PM,2009-09-12,Saturday,שבת,5
+3,3,19,Maccabi Netanya,1:1,Hapoel Raanana,2009/10,2009,12/09/09,6:00 PM,2009-09-12,Saturday,שבת,5
+3,3,20,FC Ashdod,1:0,Hapoel Acre,2009/10,2009,12/09/09,6:00 PM,2009-09-12,Saturday,שבת,5
+3,3,21,M. Petah Tikva,1:3,B. Jerusalem,2009/10,2009,12/09/09,6:30 PM,2009-09-12,Saturday,שבת,5
+3,3,22,Bnei Sakhnin,2:0,H. Petah Tikva,2009/10,2009,12/09/09,6:30 PM,2009-09-12,Saturday,שבת,5
+3,3,23,H. Beer Sheva,1:3,Hapoel Tel Aviv,2009/10,2009,13/09/09,7:20 PM,2009-09-13,Sunday,יום ראשון,6
+3,3,24,M. Tel Aviv,0:0,Bnei Yehuda,2009/10,2009,14/09/09,7:00 PM,2009-09-14,Monday,יום שני,0
+4,4,25,Hapoel Tel Aviv,1:2,Maccabi Haifa,2009/10,2009,21/09/09,7:00 PM,2009-09-21,Monday,יום שני,0
+4,4,26,Hapoel Haifa,3:1,M. Tel Aviv,2009/10,2009,26/09/09,4:00 PM,2009-09-26,Saturday,שבת,5
+4,4,27,Bnei Yehuda,2:1,Bnei Sakhnin,2009/10,2009,26/09/09,6:00 PM,2009-09-26,Saturday,שבת,5
+4,4,28,Hapoel Acre,0:1,M. Ahi Nazareth,2009/10,2009,26/09/09,6:00 PM,2009-09-26,Saturday,שבת,5
+4,4,29,Hapoel Raanana,1:1,FC Ashdod,2009/10,2009,26/09/09,6:00 PM,2009-09-26,Saturday,שבת,5
+4,4,30,H. Ramat Gan,1:0,Maccabi Netanya,2009/10,2009,26/09/09,6:00 PM,2009-09-26,Saturday,שבת,5
+4,4,31,M. Petah Tikva,3:0,H. Beer Sheva,2009/10,2009,26/09/09,6:00 PM,2009-09-26,Saturday,שבת,5
+4,4,32,B. Jerusalem,3:0,H. Petah Tikva,2009/10,2009,26/09/09,6:30 PM,2009-09-26,Saturday,שבת,5
+5,5,33,M. Tel Aviv,1:1,Hapoel Acre,2009/10,2009,03/10/09,5:30 PM,2009-10-03,Saturday,שבת,5
+5,5,34,FC Ashdod,0:0,H. Ramat Gan,2009/10,2009,03/10/09,7:00 PM,2009-10-03,Saturday,שבת,5
+5,5,35,M. Ahi Nazareth,2:1,Hapoel Raanana,2009/10,2009,03/10/09,7:00 PM,2009-10-03,Saturday,שבת,5
+5,5,36,Bnei Sakhnin,0:3,Hapoel Haifa,2009/10,2009,03/10/09,7:00 PM,2009-10-03,Saturday,שבת,5
+5,5,37,H. Petah Tikva,1:1,Bnei Yehuda,2009/10,2009,03/10/09,7:00 PM,2009-10-03,Saturday,שבת,5
+5,5,38,Maccabi Haifa,2:0,M. Petah Tikva,2009/10,2009,03/10/09,7:40 PM,2009-10-03,Saturday,שבת,5
+5,5,39,Maccabi Netanya,0:3,Hapoel Tel Aviv,2009/10,2009,04/10/09,8:00 PM,2009-10-04,Sunday,יום ראשון,6
+5,5,40,H. Beer Sheva,3:2,B. Jerusalem,2009/10,2009,05/10/09,8:00 PM,2009-10-05,Monday,יום שני,0
+6,6,41,Hapoel Tel Aviv,2:2,FC Ashdod,2009/10,2009,17/10/09,6:30 PM,2009-10-17,Saturday,שבת,5
+6,6,42,Hapoel Haifa,1:2,H. Petah Tikva,2009/10,2009,17/10/09,7:00 PM,2009-10-17,Saturday,שבת,5
+6,6,43,Hapoel Raanana,0:3,M. Tel Aviv,2009/10,2009,17/10/09,7:00 PM,2009-10-17,Saturday,שבת,5
+6,6,44,H. Ramat Gan,2:3,M. Ahi Nazareth,2009/10,2009,17/10/09,7:00 PM,2009-10-17,Saturday,שבת,5
+6,6,45,M. Petah Tikva,0:3,Maccabi Netanya,2009/10,2009,17/10/09,7:00 PM,2009-10-17,Saturday,שבת,5
+6,6,46,H. Beer Sheva,1:3,Maccabi Haifa,2009/10,2009,17/10/09,7:30 PM,2009-10-17,Saturday,שבת,5
+6,6,47,Hapoel Acre,0:0,Bnei Sakhnin,2009/10,2009,18/10/09,7:00 PM,2009-10-18,Sunday,יום ראשון,6
+6,6,48,B. Jerusalem,1:0,Bnei Yehuda,2009/10,2009,19/10/09,8:00 PM,2009-10-19,Monday,יום שני,0
+7,7,49,Bnei Yehuda,2:0,Hapoel Haifa,2009/10,2009,24/10/09,3:00 PM,2009-10-24,Saturday,שבת,5
+7,7,50,Maccabi Netanya,2:2,H. Beer Sheva,2009/10,2009,24/10/09,5:15 PM,2009-10-24,Saturday,שבת,5
+7,7,51,FC Ashdod,1:1,M. Petah Tikva,2009/10,2009,24/10/09,7:00 PM,2009-10-24,Saturday,שבת,5
+7,7,52,Bnei Sakhnin,1:1,Hapoel Raanana,2009/10,2009,24/10/09,7:00 PM,2009-10-24,Saturday,שבת,5
+7,7,53,H. Petah Tikva,1:1,Hapoel Acre,2009/10,2009,24/10/09,7:00 PM,2009-10-24,Saturday,שבת,5
+7,7,54,M. Tel Aviv,3:1,H. Ramat Gan,2009/10,2009,24/10/09,7:30 PM,2009-10-24,Saturday,שבת,5
+7,7,55,M. Ahi Nazareth,0:4,Hapoel Tel Aviv,2009/10,2009,25/10/09,7:15 PM,2009-10-25,Sunday,יום ראשון,6
+7,7,56,Maccabi Haifa,2:1,B. Jerusalem,2009/10,2009,26/10/09,7:00 PM,2009-10-26,Monday,יום שני,0
+8,8,57,Maccabi Haifa,2:0,Maccabi Netanya,2009/10,2009,31/10/09,4:10 PM,2009-10-31,Saturday,שבת,5
+8,8,58,Hapoel Acre,1:1,Bnei Yehuda,2009/10,2009,31/10/09,6:00 PM,2009-10-31,Saturday,שבת,5
+8,8,59,Hapoel Raanana,2:1,H. Petah Tikva,2009/10,2009,31/10/09,6:00 PM,2009-10-31,Saturday,שבת,5
+8,8,60,H. Ramat Gan,1:0,Bnei Sakhnin,2009/10,2009,31/10/09,6:00 PM,2009-10-31,Saturday,שבת,5
+8,8,61,M. Petah Tikva,1:0,M. Ahi Nazareth,2009/10,2009,31/10/09,6:00 PM,2009-10-31,Saturday,שבת,5
+8,8,62,B. Jerusalem,3:1,Hapoel Haifa,2009/10,2009,31/10/09,6:30 PM,2009-10-31,Saturday,שבת,5
+8,8,63,Hapoel Tel Aviv,1:0,M. Tel Aviv,2009/10,2009,01/11/09,6:00 PM,2009-11-01,Sunday,יום ראשון,6
+8,8,64,H. Beer Sheva,1:0,FC Ashdod,2009/10,2009,02/11/09,7:00 PM,2009-11-02,Monday,יום שני,0
+9,9,65,M. Tel Aviv,1:1,M. Petah Tikva,2009/10,2009,07/11/09,4:10 PM,2009-11-07,Saturday,שבת,5
+9,9,66,M. Ahi Nazareth,1:4,H. Beer Sheva,2009/10,2009,07/11/09,6:00 PM,2009-11-07,Saturday,שבת,5
+9,9,67,H. Petah Tikva,0:0,H. Ramat Gan,2009/10,2009,07/11/09,6:00 PM,2009-11-07,Saturday,שבת,5
+9,9,68,Bnei Yehuda,2:1,Hapoel Raanana,2009/10,2009,07/11/09,6:00 PM,2009-11-07,Saturday,שבת,5
+9,9,69,Hapoel Haifa,2:4,Hapoel Acre,2009/10,2009,07/11/09,6:00 PM,2009-11-07,Saturday,שבת,5
+9,9,70,Maccabi Netanya,3:0,B. Jerusalem,2009/10,2009,07/11/09,6:30 PM,2009-11-07,Saturday,שבת,5
+9,9,71,Bnei Sakhnin,1:2,Hapoel Tel Aviv,2009/10,2009,08/11/09,6:30 PM,2009-11-08,Sunday,יום ראשון,6
+9,9,72,FC Ashdod,0:1,Maccabi Haifa,2009/10,2009,09/11/09,7:00 PM,2009-11-09,Monday,יום שני,0
+10,10,73,Maccabi Haifa,4:1,M. Ahi Nazareth,2009/10,2009,21/11/09,4:10 PM,2009-11-21,Saturday,שבת,5
+10,10,74,Hapoel Tel Aviv,7:1,H. Petah Tikva,2009/10,2009,21/11/09,4:20 PM,2009-11-21,Saturday,שבת,5
+10,10,75,H. Ramat Gan,0:2,Bnei Yehuda,2009/10,2009,21/11/09,6:00 PM,2009-11-21,Saturday,שבת,5
+10,10,76,M. Petah Tikva,1:2,Bnei Sakhnin,2009/10,2009,21/11/09,6:00 PM,2009-11-21,Saturday,שבת,5
+10,10,77,Maccabi Netanya,0:1,FC Ashdod,2009/10,2009,21/11/09,6:00 PM,2009-11-21,Saturday,שבת,5
+10,10,78,B. Jerusalem,1:1,Hapoel Acre,2009/10,2009,21/11/09,6:30 PM,2009-11-21,Saturday,שבת,5
+10,10,79,Hapoel Raanana,2:1,Hapoel Haifa,2009/10,2009,22/11/09,6:30 PM,2009-11-22,Sunday,יום ראשון,6
+10,10,80,H. Beer Sheva,1:3,M. Tel Aviv,2009/10,2009,23/11/09,7:00 PM,2009-11-23,Monday,יום שני,0
+11,11,81,Bnei Sakhnin,1:1,H. Beer Sheva,2009/10,2009,28/11/09,4:10 PM,2009-11-28,Saturday,שבת,5
+11,11,82,M. Ahi Nazareth,1:3,Maccabi Netanya,2009/10,2009,28/11/09,6:00 PM,2009-11-28,Saturday,שבת,5
+11,11,83,H. Petah Tikva,1:1,M. Petah Tikva,2009/10,2009,28/11/09,6:00 PM,2009-11-28,Saturday,שבת,5
+11,11,84,Hapoel Haifa,1:1,H. Ramat Gan,2009/10,2009,28/11/09,6:00 PM,2009-11-28,Saturday,שבת,5
+11,11,85,FC Ashdod,2:0,B. Jerusalem,2009/10,2009,28/11/09,6:10 PM,2009-11-28,Saturday,שבת,5
+11,11,86,Bnei Yehuda,0:1,Hapoel Tel Aviv,2009/10,2009,28/11/09,6:30 PM,2009-11-28,Saturday,שבת,5
+11,11,87,Hapoel Acre,1:1,Hapoel Raanana,2009/10,2009,29/11/09,6:30 PM,2009-11-29,Sunday,יום ראשון,6
+11,11,88,M. Tel Aviv,1:0,Maccabi Haifa,2009/10,2009,30/11/09,7:00 PM,2009-11-30,Monday,יום שני,0
+12,12,89,Maccabi Haifa,1:0,Bnei Sakhnin,2009/10,2009,05/12/09,4:10 PM,2009-12-05,Saturday,שבת,5
+12,12,90,H. Ramat Gan,1:1,Hapoel Acre,2009/10,2009,05/12/09,6:00 PM,2009-12-05,Saturday,שבת,5
+12,12,91,M. Petah Tikva,0:1,Bnei Yehuda,2009/10,2009,05/12/09,6:00 PM,2009-12-05,Saturday,שבת,5
+12,12,92,H. Beer Sheva,2:0,H. Petah Tikva,2009/10,2009,05/12/09,6:00 PM,2009-12-05,Saturday,שבת,5
+12,12,93,B. Jerusalem,3:1,Hapoel Raanana,2009/10,2009,05/12/09,6:15 PM,2009-12-05,Saturday,שבת,5
+12,12,94,Maccabi Netanya,1:0,M. Tel Aviv,2009/10,2009,05/12/09,6:30 PM,2009-12-05,Saturday,שבת,5
+12,12,95,FC Ashdod,2:1,M. Ahi Nazareth,2009/10,2009,06/12/09,6:30 PM,2009-12-06,Sunday,יום ראשון,6
+12,12,96,Hapoel Tel Aviv,2:0,Hapoel Haifa,2009/10,2009,07/12/09,7:00 PM,2009-12-07,Monday,יום שני,0
+13,13,97,M. Ahi Nazareth,0:1,B. Jerusalem,2009/10,2009,12/12/09,6:00 PM,2009-12-12,Saturday,שבת,5
+13,13,98,Bnei Yehuda,2:2,H. Beer Sheva,2009/10,2009,12/12/09,6:00 PM,2009-12-12,Saturday,שבת,5
+13,13,99,Hapoel Haifa,2:0,M. Petah Tikva,2009/10,2009,12/12/09,6:00 PM,2009-12-12,Saturday,שבת,5
+13,13,100,Hapoel Raanana,0:1,H. Ramat Gan,2009/10,2009,12/12/09,6:00 PM,2009-12-12,Saturday,שבת,5
+13,13,101,H. Petah Tikva,0:4,Maccabi Haifa,2009/10,2009,12/12/09,6:30 PM,2009-12-12,Saturday,שבת,5
+13,13,102,Bnei Sakhnin,0:3,Maccabi Netanya,2009/10,2009,13/12/09,6:30 PM,2009-12-13,Sunday,יום ראשון,6
+13,13,103,M. Tel Aviv,2:0,FC Ashdod,2009/10,2009,14/12/09,7:00 PM,2009-12-14,Monday,יום שני,0
+13,13,104,Hapoel Acre,1:1,Hapoel Tel Aviv,2009/10,2009,29/12/09,4:10 PM,2009-12-29,Tuesday,יום שלישי,1
+14,14,105,B. Jerusalem,1:0,H. Ramat Gan,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,106,M. Petah Tikva,2:3,Hapoel Acre,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,107,H. Beer Sheva,2:3,Hapoel Haifa,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,108,Maccabi Netanya,1:0,H. Petah Tikva,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,109,FC Ashdod,0:0,Bnei Sakhnin,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,110,M. Ahi Nazareth,3:3,M. Tel Aviv,2009/10,2009,19/12/09,12:00 AM,2009-12-19,Saturday,שבת,5
+14,14,111,Maccabi Haifa,2:0,Bnei Yehuda,2009/10,2009,20/12/09,12:00 AM,2009-12-20,Sunday,יום ראשון,6
+14,14,112,Hapoel Tel Aviv,5:0,Hapoel Raanana,2009/10,2009,21/12/09,12:00 AM,2009-12-21,Monday,יום שני,0
+15,15,113,M. Tel Aviv,4:3,B. Jerusalem,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,114,H. Petah Tikva,1:1,FC Ashdod,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,115,Bnei Yehuda,2:1,Maccabi Netanya,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,116,Hapoel Acre,1:3,H. Beer Sheva,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,117,Hapoel Raanana,3:1,M. Petah Tikva,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,118,H. Ramat Gan,0:3,Hapoel Tel Aviv,2009/10,2009,26/12/09,12:00 AM,2009-12-26,Saturday,שבת,5
+15,15,119,Bnei Sakhnin,1:1,M. Ahi Nazareth,2009/10,2009,27/12/09,12:00 AM,2009-12-27,Sunday,יום ראשון,6
+15,15,120,Hapoel Haifa,0:1,Maccabi Haifa,2009/10,2009,28/12/09,12:00 AM,2009-12-28,Monday,יום שני,0
+16,16,121,Hapoel Acre,0:3,Maccabi Haifa,2009/10,2009,02/01/10,4:15 PM,2010-01-02,Saturday,שבת,5
+16,16,122,Hapoel Raanana,2:2,H. Beer Sheva,2009/10,2009,02/01/10,6:00 PM,2010-01-02,Saturday,שבת,5
+16,16,123,Hapoel Haifa,0:0,Maccabi Netanya,2009/10,2009,02/01/10,6:00 PM,2010-01-02,Saturday,שבת,5
+16,16,124,Bnei Yehuda,2:3,FC Ashdod,2009/10,2009,02/01/10,6:00 PM,2010-01-02,Saturday,שבת,5
+16,16,125,H. Petah Tikva,3:0,M. Ahi Nazareth,2009/10,2009,02/01/10,6:00 PM,2010-01-02,Saturday,שבת,5
+16,16,126,Bnei Sakhnin,0:0,M. Tel Aviv,2009/10,2009,02/01/10,6:30 PM,2010-01-02,Saturday,שבת,5
+16,16,127,H. Ramat Gan,0:3,M. Petah Tikva,2009/10,2009,03/01/10,6:30 PM,2010-01-03,Sunday,יום ראשון,6
+16,16,128,Hapoel Tel Aviv,4:3,B. Jerusalem,2009/10,2009,04/01/10,7:00 PM,2010-01-04,Monday,יום שני,0
+17,17,129,M. Tel Aviv,1:0,H. Petah Tikva,2009/10,2009,09/01/10,4:15 PM,2010-01-09,Saturday,שבת,5
+17,17,130,M. Ahi Nazareth,2:2,Bnei Yehuda,2009/10,2009,09/01/10,6:00 PM,2010-01-09,Saturday,שבת,5
+17,17,131,FC Ashdod,1:0,Hapoel Haifa,2009/10,2009,09/01/10,6:00 PM,2010-01-09,Saturday,שבת,5
+17,17,132,Maccabi Haifa,3:0,Hapoel Raanana,2009/10,2009,09/01/10,6:00 PM,2010-01-09,Saturday,שבת,5
+17,17,133,H. Beer Sheva,1:0,H. Ramat Gan,2009/10,2009,09/01/10,6:00 PM,2010-01-09,Saturday,שבת,5
+17,17,134,M. Petah Tikva,0:0,Hapoel Tel Aviv,2009/10,2009,09/01/10,6:30 PM,2010-01-09,Saturday,שבת,5
+17,17,135,Maccabi Netanya,1:0,Hapoel Acre,2009/10,2009,10/01/10,6:30 PM,2010-01-10,Sunday,יום ראשון,6
+17,17,136,B. Jerusalem,1:0,Bnei Sakhnin,2009/10,2009,11/01/10,7:00 PM,2010-01-11,Monday,יום שני,0
+18,18,137,B. Jerusalem,1:2,M. Petah Tikva,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,138,Hapoel Tel Aviv,4:1,H. Beer Sheva,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,139,H. Ramat Gan,0:5,Maccabi Haifa,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,140,Hapoel Raanana,1:1,Maccabi Netanya,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,141,Hapoel Acre,1:1,FC Ashdod,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,142,Hapoel Haifa,2:2,M. Ahi Nazareth,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,143,Bnei Yehuda,0:1,M. Tel Aviv,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+18,18,144,H. Petah Tikva,0:0,Bnei Sakhnin,2009/10,2009,16/01/10,12:00 AM,2010-01-16,Saturday,שבת,5
+19,19,145,M. Tel Aviv,1:0,Hapoel Haifa,2009/10,2009,23/01/10,4:10 PM,2010-01-23,Saturday,שבת,5
+19,19,146,Bnei Sakhnin,2:0,Bnei Yehuda,2009/10,2009,23/01/10,6:00 PM,2010-01-23,Saturday,שבת,5
+19,19,147,M. Ahi Nazareth,1:0,Hapoel Acre,2009/10,2009,23/01/10,6:00 PM,2010-01-23,Saturday,שבת,5
+19,19,148,FC Ashdod,0:0,Hapoel Raanana,2009/10,2009,23/01/10,6:00 PM,2010-01-23,Saturday,שבת,5
+19,19,149,Maccabi Netanya,2:3,H. Ramat Gan,2009/10,2009,23/01/10,6:00 PM,2010-01-23,Saturday,שבת,5
+19,19,150,H. Petah Tikva,0:0,B. Jerusalem,2009/10,2009,23/01/10,6:30 PM,2010-01-23,Saturday,שבת,5
+19,19,151,H. Beer Sheva,0:1,M. Petah Tikva,2009/10,2009,24/01/10,6:30 PM,2010-01-24,Sunday,יום ראשון,6
+19,19,152,Maccabi Haifa,0:0,Hapoel Tel Aviv,2009/10,2009,25/01/10,7:00 PM,2010-01-25,Monday,יום שני,0
+20,20,153,Bnei Yehuda,1:1,H. Petah Tikva,2009/10,2009,30/01/10,2:00 PM,2010-01-30,Saturday,שבת,5
+20,20,154,B. Jerusalem,1:1,H. Beer Sheva,2009/10,2009,30/01/10,4:15 PM,2010-01-30,Saturday,שבת,5
+20,20,155,Hapoel Acre,2:3,M. Tel Aviv,2009/10,2009,30/01/10,4:15 PM,2010-01-30,Saturday,שבת,5
+20,20,156,H. Ramat Gan,1:1,FC Ashdod,2009/10,2009,30/01/10,6:00 PM,2010-01-30,Saturday,שבת,5
+20,20,157,Hapoel Haifa,0:1,Bnei Sakhnin,2009/10,2009,30/01/10,6:00 PM,2010-01-30,Saturday,שבת,5
+20,20,158,Hapoel Tel Aviv,3:3,Maccabi Netanya,2009/10,2009,30/01/10,6:30 PM,2010-01-30,Saturday,שבת,5
+20,20,159,Hapoel Raanana,1:1,M. Ahi Nazareth,2009/10,2009,31/01/10,6:30 PM,2010-01-31,Sunday,יום ראשון,6
+20,20,160,M. Petah Tikva,0:1,Maccabi Haifa,2009/10,2009,01/02/10,7:00 PM,2010-02-01,Monday,יום שני,0
+21,21,161,Bnei Yehuda,0:0,B. Jerusalem,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,162,Bnei Sakhnin,1:0,Hapoel Acre,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,163,M. Tel Aviv,2:0,Hapoel Raanana,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,164,M. Ahi Nazareth,0:1,H. Ramat Gan,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,165,Maccabi Netanya,2:2,M. Petah Tikva,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,166,Maccabi Haifa,4:1,H. Beer Sheva,2009/10,2009,06/02/10,12:00 AM,2010-02-06,Saturday,שבת,5
+21,21,167,H. Petah Tikva,2:2,Hapoel Haifa,2009/10,2009,07/02/10,12:00 AM,2010-02-07,Sunday,יום ראשון,6
+21,21,168,FC Ashdod,0:4,Hapoel Tel Aviv,2009/10,2009,07/02/10,12:00 AM,2010-02-07,Sunday,יום ראשון,6
+22,22,169,H. Ramat Gan,1:4,M. Tel Aviv,2009/10,2009,13/02/10,4:00 PM,2010-02-13,Saturday,שבת,5
+22,22,170,H. Beer Sheva,2:0,Maccabi Netanya,2009/10,2009,13/02/10,6:00 PM,2010-02-13,Saturday,שבת,5
+22,22,171,M. Petah Tikva,1:1,FC Ashdod,2009/10,2009,13/02/10,6:00 PM,2010-02-13,Saturday,שבת,5
+22,22,172,Hapoel Raanana,0:1,Bnei Sakhnin,2009/10,2009,13/02/10,6:00 PM,2010-02-13,Saturday,שבת,5
+22,22,173,Hapoel Acre,0:0,H. Petah Tikva,2009/10,2009,13/02/10,6:00 PM,2010-02-13,Saturday,שבת,5
+22,22,174,Hapoel Tel Aviv,4:0,M. Ahi Nazareth,2009/10,2009,13/02/10,6:30 PM,2010-02-13,Saturday,שבת,5
+22,22,175,B. Jerusalem,0:3,Maccabi Haifa,2009/10,2009,14/02/10,7:00 PM,2010-02-14,Sunday,יום ראשון,6
+22,22,176,Hapoel Haifa,0:3,Bnei Yehuda,2009/10,2009,15/02/10,6:30 PM,2010-02-15,Monday,יום שני,0
+23,23,177,FC Ashdod,5:2,H. Beer Sheva,2009/10,2009,20/02/10,4:00 PM,2010-02-20,Saturday,שבת,5
+23,23,178,Bnei Yehuda,2:1,Hapoel Acre,2009/10,2009,20/02/10,6:00 PM,2010-02-20,Saturday,שבת,5
+23,23,179,H. Petah Tikva,2:1,Hapoel Raanana,2009/10,2009,20/02/10,6:00 PM,2010-02-20,Saturday,שבת,5
+23,23,180,M. Ahi Nazareth,1:2,M. Petah Tikva,2009/10,2009,20/02/10,6:00 PM,2010-02-20,Saturday,שבת,5
+23,23,181,Hapoel Haifa,3:2,B. Jerusalem,2009/10,2009,20/02/10,6:10 PM,2010-02-20,Saturday,שבת,5
+23,23,182,Maccabi Netanya,1:0,Maccabi Haifa,2009/10,2009,20/02/10,6:30 PM,2010-02-20,Saturday,שבת,5
+23,23,183,Bnei Sakhnin,3:1,H. Ramat Gan,2009/10,2009,21/02/10,6:30 PM,2010-02-21,Sunday,יום ראשון,6
+23,23,184,M. Tel Aviv,2:4,Hapoel Tel Aviv,2009/10,2009,22/02/10,7:00 PM,2010-02-22,Monday,יום שני,0
+24,24,185,B. Jerusalem,3:1,Maccabi Netanya,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,186,Maccabi Haifa,1:0,FC Ashdod,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,187,H. Beer Sheva,2:2,M. Ahi Nazareth,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,188,M. Petah Tikva,2:1,M. Tel Aviv,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,189,Hapoel Tel Aviv,1:0,Bnei Sakhnin,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,190,H. Ramat Gan,0:0,H. Petah Tikva,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,191,Hapoel Raanana,0:3,Bnei Yehuda,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+24,24,192,Hapoel Acre,2:2,Hapoel Haifa,2009/10,2009,27/02/10,12:00 AM,2010-02-27,Saturday,שבת,5
+25,25,193,Hapoel Acre,0:3,B. Jerusalem,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,194,Hapoel Haifa,3:1,Hapoel Raanana,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,195,Bnei Sakhnin,3:4,M. Petah Tikva,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,196,M. Tel Aviv,1:1,H. Beer Sheva,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,197,M. Ahi Nazareth,0:5,Maccabi Haifa,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,198,FC Ashdod,3:0,Maccabi Netanya,2009/10,2009,06/03/10,12:00 AM,2010-03-06,Saturday,שבת,5
+25,25,199,Bnei Yehuda,1:2,H. Ramat Gan,2009/10,2009,07/03/10,6:30 PM,2010-03-07,Sunday,יום ראשון,6
+25,25,200,H. Petah Tikva,1:1,Hapoel Tel Aviv,2009/10,2009,08/03/10,7:00 PM,2010-03-08,Monday,יום שני,0
+26,26,201,B. Jerusalem,2:0,FC Ashdod,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,202,Maccabi Netanya,5:0,M. Ahi Nazareth,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,203,M. Petah Tikva,0:0,H. Petah Tikva,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,204,Hapoel Tel Aviv,4:0,Bnei Yehuda,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,205,H. Ramat Gan,3:2,Hapoel Haifa,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,206,Hapoel Raanana,0:1,Hapoel Acre,2009/10,2009,13/03/10,12:00 AM,2010-03-13,Saturday,שבת,5
+26,26,207,H. Beer Sheva,1:0,Bnei Sakhnin,2009/10,2009,14/03/10,6:30 PM,2010-03-14,Sunday,יום ראשון,6
+26,26,208,Maccabi Haifa,1:0,M. Tel Aviv,2009/10,2009,15/03/10,7:00 PM,2010-03-15,Monday,יום שני,0
+27,27,209,Hapoel Raanana,1:3,B. Jerusalem,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,210,Hapoel Acre,1:0,H. Ramat Gan,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,211,Hapoel Haifa,1:2,Hapoel Tel Aviv,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,212,Bnei Yehuda,2:0,M. Petah Tikva,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,213,H. Petah Tikva,1:0,H. Beer Sheva,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,214,Bnei Sakhnin,2:1,Maccabi Haifa,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,215,M. Tel Aviv,2:2,Maccabi Netanya,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+27,27,216,M. Ahi Nazareth,1:0,FC Ashdod,2009/10,2009,20/03/10,12:00 AM,2010-03-20,Saturday,שבת,5
+28,28,217,B. Jerusalem,5:0,M. Ahi Nazareth,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,218,FC Ashdod,3:1,M. Tel Aviv,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,219,Maccabi Netanya,1:2,Bnei Sakhnin,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,220,Maccabi Haifa,3:0,H. Petah Tikva,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,221,H. Beer Sheva,0:0,Bnei Yehuda,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,222,M. Petah Tikva,2:2,Hapoel Haifa,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,223,Hapoel Tel Aviv,5:3,Hapoel Acre,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+28,28,224,H. Ramat Gan,1:0,Hapoel Raanana,2009/10,2009,27/03/10,12:00 AM,2010-03-27,Saturday,שבת,5
+29,29,225,H. Ramat Gan,0:0,B. Jerusalem,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,226,Hapoel Raanana,1:4,Hapoel Tel Aviv,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,227,Hapoel Acre,2:2,M. Petah Tikva,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,228,Hapoel Haifa,0:0,H. Beer Sheva,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,229,Bnei Yehuda,0:2,Maccabi Haifa,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,230,H. Petah Tikva,2:1,Maccabi Netanya,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,231,Bnei Sakhnin,1:0,FC Ashdod,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+29,29,232,M. Tel Aviv,0:1,M. Ahi Nazareth,2009/10,2009,03/04/10,12:00 AM,2010-04-03,Saturday,שבת,5
+30,30,233,B. Jerusalem,0:1,M. Tel Aviv,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,234,M. Ahi Nazareth,0:2,Bnei Sakhnin,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,235,FC Ashdod,2:1,H. Petah Tikva,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,236,Maccabi Netanya,1:1,Bnei Yehuda,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,237,Maccabi Haifa,0:0,Hapoel Haifa,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,238,H. Beer Sheva,3:2,Hapoel Acre,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,239,M. Petah Tikva,2:3,Hapoel Raanana,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5
+30,30,240,Hapoel Tel Aviv,3:1,H. Ramat Gan,2009/10,2009,10/04/10,12:00 AM,2010-04-10,Saturday,שבת,5

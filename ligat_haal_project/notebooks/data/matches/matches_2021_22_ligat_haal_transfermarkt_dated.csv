@@ -1,0 +1,183 @@
+﻿round,round_verified,round_original,home,score,away,season,season_year,match_date_raw,match_time_raw,match_date,day_of_week_en,day_of_week_he,day_of_week_num
+1,1,1,Hapoel Haifa,0:0,Maccabi Netanya,2021/22,2021,28/08/21,5:45 PM,2021-08-28,Saturday,שבת,5
+1,1,2,M. Petah Tikva,1:1,Kiryat Shmona,2021/22,2021,28/08/21,6:00 PM,2021-08-28,Saturday,שבת,5
+1,1,3,Hapoel Tel Aviv,2:1,FC Ashdod,2021/22,2021,28/08/21,7:30 PM,2021-08-28,Saturday,שבת,5
+1,1,4,Bnei Sakhnin,3:1,M. Tel Aviv,2021/22,2021,29/08/21,7:00 PM,2021-08-29,Sunday,יום ראשון,6
+1,1,5,Hapoel Hadera,0:0,Maccabi Haifa,2021/22,2021,29/08/21,7:30 PM,2021-08-29,Sunday,יום ראשון,6
+1,1,6,B. Jerusalem,0:2,H. Beer Sheva,2021/22,2021,29/08/21,7:45 PM,2021-08-29,Sunday,יום ראשון,6
+1,1,7,H. Nof HaGalil,0:0,H. Jerusalem,2021/22,2021,30/08/21,7:00 PM,2021-08-30,Monday,יום שני,0
+2,2,8,Kiryat Shmona,0:2,Hapoel Tel Aviv,2021/22,2021,11/09/21,5:00 PM,2021-09-11,Saturday,שבת,5
+2,2,9,Maccabi Netanya,1:3,H. Nof HaGalil,2021/22,2021,11/09/21,6:00 PM,2021-09-11,Saturday,שבת,5
+2,2,10,M. Tel Aviv,1:1,M. Petah Tikva,2021/22,2021,11/09/21,6:30 PM,2021-09-11,Saturday,שבת,5
+2,2,11,Maccabi Haifa,2:1,Bnei Sakhnin,2021/22,2021,11/09/21,7:30 PM,2021-09-11,Saturday,שבת,5
+2,2,12,FC Ashdod,1:3,Hapoel Haifa,2021/22,2021,12/09/21,6:00 PM,2021-09-12,Sunday,יום ראשון,6
+2,2,13,H. Beer Sheva,2:2,Hapoel Hadera,2021/22,2021,12/09/21,7:15 PM,2021-09-12,Sunday,יום ראשון,6
+2,2,14,H. Jerusalem,0:3,B. Jerusalem,2021/22,2021,13/09/21,7:30 PM,2021-09-13,Monday,יום שני,0
+3,3,15,Bnei Sakhnin,0:0,H. Beer Sheva,2021/22,2021,18/09/21,4:45 PM,2021-09-18,Saturday,שבת,5
+3,3,16,H. Nof HaGalil,2:0,FC Ashdod,2021/22,2021,18/09/21,6:00 PM,2021-09-18,Saturday,שבת,5
+3,3,17,M. Petah Tikva,1:1,Hapoel Tel Aviv,2021/22,2021,18/09/21,7:00 PM,2021-09-18,Saturday,שבת,5
+3,3,18,M. Tel Aviv,2:1,Maccabi Haifa,2021/22,2021,18/09/21,7:30 PM,2021-09-18,Saturday,שבת,5
+3,3,19,Hapoel Hadera,0:0,H. Jerusalem,2021/22,2021,19/09/21,6:00 PM,2021-09-19,Sunday,יום ראשון,6
+3,3,20,Hapoel Haifa,1:0,Kiryat Shmona,2021/22,2021,19/09/21,6:30 PM,2021-09-19,Sunday,יום ראשון,6
+3,3,21,B. Jerusalem,1:1,Maccabi Netanya,2021/22,2021,19/09/21,7:15 PM,2021-09-19,Sunday,יום ראשון,6
+4,4,22,H. Jerusalem,0:0,Bnei Sakhnin,2021/22,2021,25/09/21,4:45 PM,2021-09-25,Saturday,שבת,5
+4,4,23,Kiryat Shmona,1:0,H. Nof HaGalil,2021/22,2021,25/09/21,6:00 PM,2021-09-25,Saturday,שבת,5
+4,4,24,Hapoel Tel Aviv,0:2,Hapoel Haifa,2021/22,2021,25/09/21,7:00 PM,2021-09-25,Saturday,שבת,5
+4,4,25,H. Beer Sheva,2:0,M. Tel Aviv,2021/22,2021,25/09/21,7:30 PM,2021-09-25,Saturday,שבת,5
+4,4,26,Maccabi Netanya,0:2,Hapoel Hadera,2021/22,2021,26/09/21,6:00 PM,2021-09-26,Sunday,יום ראשון,6
+4,4,27,FC Ashdod,2:0,B. Jerusalem,2021/22,2021,26/09/21,6:30 PM,2021-09-26,Sunday,יום ראשון,6
+4,4,28,Maccabi Haifa,2:0,M. Petah Tikva,2021/22,2021,26/09/21,7:15 PM,2021-09-26,Sunday,יום ראשון,6
+5,5,29,H. Nof HaGalil,2:2,Hapoel Tel Aviv,2021/22,2021,02/10/21,5:00 PM,2021-10-02,Saturday,שבת,5
+5,5,30,M. Petah Tikva,2:0,Hapoel Haifa,2021/22,2021,02/10/21,6:00 PM,2021-10-02,Saturday,שבת,5
+5,5,31,B. Jerusalem,1:1,Kiryat Shmona,2021/22,2021,02/10/21,7:30 PM,2021-10-02,Saturday,שבת,5
+5,5,32,Bnei Sakhnin,1:3,Maccabi Netanya,2021/22,2021,02/10/21,8:00 PM,2021-10-02,Saturday,שבת,5
+5,5,33,FC Ashdod,1:2,Hapoel Hadera,2021/22,2021,03/10/21,6:00 PM,2021-10-03,Sunday,יום ראשון,6
+5,5,34,M. Tel Aviv,1:0,H. Jerusalem,2021/22,2021,03/10/21,7:15 PM,2021-10-03,Sunday,יום ראשון,6
+5,5,35,Maccabi Haifa,1:2,H. Beer Sheva,2021/22,2021,03/10/21,7:45 PM,2021-10-03,Sunday,יום ראשון,6
+6,6,36,H. Jerusalem,1:4,Maccabi Haifa,2021/22,2021,16/10/21,5:00 PM,2021-10-16,Saturday,שבת,5
+6,6,37,FC Ashdod,0:1,Bnei Sakhnin,2021/22,2021,16/10/21,5:45 PM,2021-10-16,Saturday,שבת,5
+6,6,38,Hapoel Haifa,3:1,H. Nof HaGalil,2021/22,2021,16/10/21,6:00 PM,2021-10-16,Saturday,שבת,5
+6,6,39,Maccabi Netanya,4:2,M. Tel Aviv,2021/22,2021,16/10/21,7:30 PM,2021-10-16,Saturday,שבת,5
+6,6,40,Kiryat Shmona,0:1,Hapoel Hadera,2021/22,2021,17/10/21,6:00 PM,2021-10-17,Sunday,יום ראשון,6
+6,6,41,H. Beer Sheva,1:0,M. Petah Tikva,2021/22,2021,17/10/21,7:15 PM,2021-10-17,Sunday,יום ראשון,6
+6,6,42,Hapoel Tel Aviv,1:0,B. Jerusalem,2021/22,2021,18/10/21,7:45 PM,2021-10-18,Monday,יום שני,0
+7,7,43,Hapoel Hadera,0:3,Hapoel Tel Aviv,2021/22,2021,23/10/21,5:00 PM,2021-10-23,Saturday,שבת,5
+7,7,44,Bnei Sakhnin,0:3,Kiryat Shmona,2021/22,2021,23/10/21,5:45 PM,2021-10-23,Saturday,שבת,5
+7,7,45,M. Petah Tikva,4:0,H. Nof HaGalil,2021/22,2021,23/10/21,6:30 PM,2021-10-23,Saturday,שבת,5
+7,7,46,H. Beer Sheva,3:1,H. Jerusalem,2021/22,2021,23/10/21,7:30 PM,2021-10-23,Saturday,שבת,5
+7,7,47,B. Jerusalem,2:1,Hapoel Haifa,2021/22,2021,24/10/21,7:15 PM,2021-10-24,Sunday,יום ראשון,6
+7,7,48,M. Tel Aviv,0:2,FC Ashdod,2021/22,2021,25/10/21,7:15 PM,2021-10-25,Monday,יום שני,0
+7,7,49,Maccabi Haifa,2:0,Maccabi Netanya,2021/22,2021,25/10/21,7:45 PM,2021-10-25,Monday,יום שני,0
+8,8,50,Kiryat Shmona,1:3,M. Tel Aviv,2021/22,2021,30/10/21,4:30 PM,2021-10-30,Saturday,שבת,5
+8,8,51,H. Jerusalem,1:0,M. Petah Tikva,2021/22,2021,30/10/21,6:00 PM,2021-10-30,Saturday,שבת,5
+8,8,52,Maccabi Netanya,1:1,H. Beer Sheva,2021/22,2021,30/10/21,7:00 PM,2021-10-30,Saturday,שבת,5
+8,8,53,FC Ashdod,2:2,Maccabi Haifa,2021/22,2021,30/10/21,7:30 PM,2021-10-30,Saturday,שבת,5
+8,8,54,Hapoel Haifa,3:0,Hapoel Hadera,2021/22,2021,31/10/21,6:00 PM,2021-10-31,Sunday,יום ראשון,6
+8,8,55,Hapoel Tel Aviv,0:3,Bnei Sakhnin,2021/22,2021,31/10/21,7:15 PM,2021-10-31,Sunday,יום ראשון,6
+8,8,56,H. Nof HaGalil,1:0,B. Jerusalem,2021/22,2021,01/11/21,7:15 PM,2021-11-01,Monday,יום שני,0
+9,9,57,H. Jerusalem,2:1,Maccabi Netanya,2021/22,2021,06/11/21,2:00 PM,2021-11-06,Saturday,שבת,5
+9,9,58,H. Beer Sheva,1:1,FC Ashdod,2021/22,2021,06/11/21,4:30 PM,2021-11-06,Saturday,שבת,5
+9,9,59,Bnei Sakhnin,2:2,Hapoel Haifa,2021/22,2021,06/11/21,5:00 PM,2021-11-06,Saturday,שבת,5
+9,9,60,M. Petah Tikva,0:3,B. Jerusalem,2021/22,2021,06/11/21,6:50 PM,2021-11-06,Saturday,שבת,5
+9,9,61,Hapoel Hadera,0:0,H. Nof HaGalil,2021/22,2021,07/11/21,6:00 PM,2021-11-07,Sunday,יום ראשון,6
+9,9,62,Maccabi Haifa,4:0,Kiryat Shmona,2021/22,2021,07/11/21,7:15 PM,2021-11-07,Sunday,יום ראשון,6
+9,9,63,M. Tel Aviv,1:1,Hapoel Tel Aviv,2021/22,2021,07/11/21,7:45 PM,2021-11-07,Sunday,יום ראשון,6
+10,10,64,Kiryat Shmona,1:2,H. Beer Sheva,2021/22,2021,27/11/21,2:00 PM,2021-11-27,Saturday,שבת,5
+10,10,65,H. Nof HaGalil,1:2,Bnei Sakhnin,2021/22,2021,27/11/21,4:15 PM,2021-11-27,Saturday,שבת,5
+10,10,66,Maccabi Netanya,2:0,M. Petah Tikva,2021/22,2021,27/11/21,4:30 PM,2021-11-27,Saturday,שבת,5
+10,10,67,FC Ashdod,1:0,H. Jerusalem,2021/22,2021,27/11/21,6:30 PM,2021-11-27,Saturday,שבת,5
+10,10,68,B. Jerusalem,0:0,Hapoel Hadera,2021/22,2021,27/11/21,6:50 PM,2021-11-27,Saturday,שבת,5
+10,10,69,Hapoel Haifa,1:3,M. Tel Aviv,2021/22,2021,28/11/21,7:15 PM,2021-11-28,Sunday,יום ראשון,6
+10,10,70,Hapoel Tel Aviv,1:3,Maccabi Haifa,2021/22,2021,28/11/21,7:45 PM,2021-11-28,Sunday,יום ראשון,6
+11,11,71,M. Petah Tikva,1:1,Hapoel Hadera,2021/22,2021,30/11/21,6:00 PM,2021-11-30,Tuesday,יום שלישי,1
+11,11,72,Maccabi Netanya,0:1,FC Ashdod,2021/22,2021,30/11/21,6:30 PM,2021-11-30,Tuesday,יום שלישי,1
+11,11,73,Bnei Sakhnin,2:0,B. Jerusalem,2021/22,2021,30/11/21,7:15 PM,2021-11-30,Tuesday,יום שלישי,1
+11,11,74,H. Jerusalem,0:1,Kiryat Shmona,2021/22,2021,01/12/21,6:00 PM,2021-12-01,Wednesday,יום רביעי,2
+11,11,75,M. Tel Aviv,1:1,H. Nof HaGalil,2021/22,2021,01/12/21,6:30 PM,2021-12-01,Wednesday,יום רביעי,2
+11,11,76,H. Beer Sheva,2:1,Hapoel Tel Aviv,2021/22,2021,01/12/21,7:15 PM,2021-12-01,Wednesday,יום רביעי,2
+11,11,77,Maccabi Haifa,5:1,Hapoel Haifa,2021/22,2021,02/12/21,7:30 PM,2021-12-02,Thursday,יום חמישי,3
+12,12,78,Hapoel Hadera,2:1,Bnei Sakhnin,2021/22,2021,04/12/21,2:00 PM,2021-12-04,Saturday,שבת,5
+12,12,79,M. Petah Tikva,0:1,FC Ashdod,2021/22,2021,04/12/21,4:30 PM,2021-12-04,Saturday,שבת,5
+12,12,80,Kiryat Shmona,2:1,Maccabi Netanya,2021/22,2021,04/12/21,6:50 PM,2021-12-04,Saturday,שבת,5
+12,12,81,Hapoel Tel Aviv,1:1,H. Jerusalem,2021/22,2021,05/12/21,6:30 PM,2021-12-05,Sunday,יום ראשון,6
+12,12,82,H. Nof HaGalil,0:4,Maccabi Haifa,2021/22,2021,05/12/21,7:15 PM,2021-12-05,Sunday,יום ראשון,6
+12,12,83,B. Jerusalem,1:2,M. Tel Aviv,2021/22,2021,05/12/21,7:45 PM,2021-12-05,Sunday,יום ראשון,6
+12,12,84,Hapoel Haifa,0:1,H. Beer Sheva,2021/22,2021,06/12/21,7:15 PM,2021-12-06,Monday,יום שני,0
+13,13,85,Bnei Sakhnin,1:0,M. Petah Tikva,2021/22,2021,11/12/21,2:00 PM,2021-12-11,Saturday,שבת,5
+13,13,86,H. Jerusalem,1:1,Hapoel Haifa,2021/22,2021,11/12/21,4:30 PM,2021-12-11,Saturday,שבת,5
+13,13,87,FC Ashdod,0:2,Kiryat Shmona,2021/22,2021,11/12/21,6:00 PM,2021-12-11,Saturday,שבת,5
+13,13,88,Maccabi Netanya,1:1,Hapoel Tel Aviv,2021/22,2021,11/12/21,6:50 PM,2021-12-11,Saturday,שבת,5
+13,13,89,H. Beer Sheva,2:0,H. Nof HaGalil,2021/22,2021,12/12/21,7:15 PM,2021-12-12,Sunday,יום ראשון,6
+13,13,90,M. Tel Aviv,3:0,Hapoel Hadera,2021/22,2021,13/12/21,7:15 PM,2021-12-13,Monday,יום שני,0
+13,13,91,Maccabi Haifa,2:1,B. Jerusalem,2021/22,2021,13/12/21,7:45 PM,2021-12-13,Monday,יום שני,0
+14,14,92,H. Jerusalem,3:1,H. Nof HaGalil,2021/22,2021,21/12/21,6:00 PM,2021-12-21,Tuesday,יום שלישי,1
+14,14,93,Maccabi Netanya,1:0,Hapoel Haifa,2021/22,2021,21/12/21,6:15 PM,2021-12-21,Tuesday,יום שלישי,1
+14,14,94,FC Ashdod,1:4,Hapoel Tel Aviv,2021/22,2021,21/12/21,6:45 PM,2021-12-21,Tuesday,יום שלישי,1
+14,14,95,Maccabi Haifa,1:0,Hapoel Hadera,2021/22,2021,21/12/21,7:30 PM,2021-12-21,Tuesday,יום שלישי,1
+14,14,96,Kiryat Shmona,1:0,M. Petah Tikva,2021/22,2021,22/12/21,6:00 PM,2021-12-22,Wednesday,יום רביעי,2
+14,14,97,M. Tel Aviv,1:1,Bnei Sakhnin,2021/22,2021,22/12/21,7:00 PM,2021-12-22,Wednesday,יום רביעי,2
+14,14,98,H. Beer Sheva,3:1,B. Jerusalem,2021/22,2021,22/12/21,7:30 PM,2021-12-22,Wednesday,יום רביעי,2
+15,15,99,Hapoel Haifa,2:1,FC Ashdod,2021/22,2021,25/12/21,2:00 PM,2021-12-25,Saturday,שבת,5
+15,15,100,Hapoel Tel Aviv,2:0,Kiryat Shmona,2021/22,2021,25/12/21,4:30 PM,2021-12-25,Saturday,שבת,5
+15,15,101,H. Nof HaGalil,0:1,Maccabi Netanya,2021/22,2021,25/12/21,5:00 PM,2021-12-25,Saturday,שבת,5
+15,15,102,Bnei Sakhnin,0:6,Maccabi Haifa,2021/22,2021,25/12/21,6:50 PM,2021-12-25,Saturday,שבת,5
+15,15,103,Hapoel Hadera,1:2,H. Beer Sheva,2021/22,2021,26/12/21,7:00 PM,2021-12-26,Sunday,יום ראשון,6
+15,15,104,B. Jerusalem,3:0,H. Jerusalem,2021/22,2021,26/12/21,7:30 PM,2021-12-26,Sunday,יום ראשון,6
+15,15,105,M. Petah Tikva,1:2,M. Tel Aviv,2021/22,2021,27/12/21,7:30 PM,2021-12-27,Monday,יום שני,0
+16,16,106,Hapoel Tel Aviv,2:1,M. Petah Tikva,2021/22,2021,01/01/22,2:00 PM,2022-01-01,Saturday,שבת,5
+16,16,107,Kiryat Shmona,2:2,Hapoel Haifa,2021/22,2021,01/01/22,4:30 PM,2022-01-01,Saturday,שבת,5
+16,16,108,H. Jerusalem,1:1,Hapoel Hadera,2021/22,2021,01/01/22,5:00 PM,2022-01-01,Saturday,שבת,5
+16,16,109,Maccabi Netanya,0:0,B. Jerusalem,2021/22,2021,01/01/22,6:50 PM,2022-01-01,Saturday,שבת,5
+16,16,110,FC Ashdod,3:0,H. Nof HaGalil,2021/22,2021,02/01/22,6:00 PM,2022-01-02,Sunday,יום ראשון,6
+16,16,111,H. Beer Sheva,3:0,Bnei Sakhnin,2021/22,2021,02/01/22,7:15 PM,2022-01-02,Sunday,יום ראשון,6
+16,16,112,Maccabi Haifa,3:2,M. Tel Aviv,2021/22,2021,03/01/22,7:30 PM,2022-01-03,Monday,יום שני,0
+17,17,113,Hapoel Haifa,0:2,Hapoel Tel Aviv,2021/22,2021,08/01/22,2:00 PM,2022-01-08,Saturday,שבת,5
+17,17,114,H. Nof HaGalil,2:6,Kiryat Shmona,2021/22,2021,08/01/22,4:30 PM,2022-01-08,Saturday,שבת,5
+17,17,115,M. Petah Tikva,0:4,Maccabi Haifa,2021/22,2021,08/01/22,4:45 PM,2022-01-08,Saturday,שבת,5
+17,17,116,M. Tel Aviv,1:0,H. Beer Sheva,2021/22,2021,08/01/22,7:00 PM,2022-01-08,Saturday,שבת,5
+17,17,117,Hapoel Hadera,1:1,Maccabi Netanya,2021/22,2021,09/01/22,6:00 PM,2022-01-09,Sunday,יום ראשון,6
+17,17,118,B. Jerusalem,0:2,FC Ashdod,2021/22,2021,09/01/22,7:15 PM,2022-01-09,Sunday,יום ראשון,6
+17,17,119,Bnei Sakhnin,2:1,H. Jerusalem,2021/22,2021,10/01/22,7:15 PM,2022-01-10,Monday,יום שני,0
+18,18,120,Hapoel Tel Aviv,2:2,H. Nof HaGalil,2021/22,2021,15/01/22,2:00 PM,2022-01-15,Saturday,שבת,5
+18,18,121,Hapoel Haifa,2:2,M. Petah Tikva,2021/22,2021,15/01/22,4:30 PM,2022-01-15,Saturday,שבת,5
+18,18,122,H. Jerusalem,1:3,M. Tel Aviv,2021/22,2021,15/01/22,6:50 PM,2022-01-15,Saturday,שבת,5
+18,18,123,Hapoel Hadera,2:1,FC Ashdod,2021/22,2021,16/01/22,6:00 PM,2022-01-16,Sunday,יום ראשון,6
+18,18,124,Kiryat Shmona,2:2,B. Jerusalem,2021/22,2021,16/01/22,7:00 PM,2022-01-16,Sunday,יום ראשון,6
+18,18,125,Maccabi Netanya,1:0,Bnei Sakhnin,2021/22,2021,17/01/22,7:00 PM,2022-01-17,Monday,יום שני,0
+18,18,126,H. Beer Sheva,1:2,Maccabi Haifa,2021/22,2021,17/01/22,7:30 PM,2022-01-17,Monday,יום שני,0
+19,19,127,H. Nof HaGalil,0:1,Hapoel Haifa,2021/22,2021,22/01/22,2:00 PM,2022-01-22,Saturday,שבת,5
+19,19,128,M. Tel Aviv,2:2,Maccabi Netanya,2021/22,2021,22/01/22,4:20 PM,2022-01-22,Saturday,שבת,5
+19,19,129,Hapoel Hadera,2:0,Kiryat Shmona,2021/22,2021,22/01/22,5:00 PM,2022-01-22,Saturday,שבת,5
+19,19,130,Maccabi Haifa,1:1,H. Jerusalem,2021/22,2021,22/01/22,6:50 PM,2022-01-22,Saturday,שבת,5
+19,19,131,Bnei Sakhnin,0:1,FC Ashdod,2021/22,2021,23/01/22,6:00 PM,2022-01-23,Sunday,יום ראשון,6
+19,19,132,M. Petah Tikva,0:1,H. Beer Sheva,2021/22,2021,23/01/22,7:15 PM,2022-01-23,Sunday,יום ראשון,6
+19,19,133,B. Jerusalem,0:2,Hapoel Tel Aviv,2021/22,2021,24/01/22,7:30 PM,2022-01-24,Monday,יום שני,0
+20,20,134,H. Jerusalem,0:1,H. Beer Sheva,2021/22,2021,29/01/22,2:00 PM,2022-01-29,Saturday,שבת,5
+20,20,135,FC Ashdod,1:3,M. Tel Aviv,2021/22,2021,29/01/22,4:30 PM,2022-01-29,Saturday,שבת,5
+20,20,136,H. Nof HaGalil,1:0,M. Petah Tikva,2021/22,2021,29/01/22,5:00 PM,2022-01-29,Saturday,שבת,5
+20,20,137,Hapoel Haifa,5:1,B. Jerusalem,2021/22,2021,29/01/22,6:50 PM,2022-01-29,Saturday,שבת,5
+20,20,138,Hapoel Tel Aviv,0:1,Hapoel Hadera,2021/22,2021,30/01/22,7:00 PM,2022-01-30,Sunday,יום ראשון,6
+20,20,139,Maccabi Netanya,1:1,Maccabi Haifa,2021/22,2021,30/01/22,7:30 PM,2022-01-30,Sunday,יום ראשון,6
+20,20,140,Kiryat Shmona,0:1,Bnei Sakhnin,2021/22,2021,31/01/22,7:00 PM,2022-01-31,Monday,יום שני,0
+21,21,141,Bnei Sakhnin,1:0,Hapoel Tel Aviv,2021/22,2021,05/02/22,2:00 PM,2022-02-05,Saturday,שבת,5
+21,21,142,M. Tel Aviv,1:0,Kiryat Shmona,2021/22,2021,05/02/22,4:30 PM,2022-02-05,Saturday,שבת,5
+21,21,143,M. Petah Tikva,3:1,H. Jerusalem,2021/22,2021,05/02/22,5:00 PM,2022-02-05,Saturday,שבת,5
+21,21,144,H. Beer Sheva,0:1,Maccabi Netanya,2021/22,2021,05/02/22,6:50 PM,2022-02-05,Saturday,שבת,5
+21,21,145,Hapoel Hadera,1:0,Hapoel Haifa,2021/22,2021,06/02/22,6:00 PM,2022-02-06,Sunday,יום ראשון,6
+21,21,146,B. Jerusalem,0:0,H. Nof HaGalil,2021/22,2021,06/02/22,7:15 PM,2022-02-06,Sunday,יום ראשון,6
+21,21,147,Maccabi Haifa,6:0,FC Ashdod,2021/22,2021,07/02/22,7:30 PM,2022-02-07,Monday,יום שני,0
+22,22,148,Maccabi Netanya,2:0,H. Jerusalem,2021/22,2021,12/02/22,2:00 PM,2022-02-12,Saturday,שבת,5
+22,22,149,FC Ashdod,1:1,H. Beer Sheva,2021/22,2021,12/02/22,4:30 PM,2022-02-12,Saturday,שבת,5
+22,22,150,H. Nof HaGalil,1:1,Hapoel Hadera,2021/22,2021,12/02/22,5:00 PM,2022-02-12,Saturday,שבת,5
+22,22,151,Hapoel Tel Aviv,2:3,M. Tel Aviv,2021/22,2021,12/02/22,7:00 PM,2022-02-12,Saturday,שבת,5
+22,22,152,Hapoel Haifa,1:1,Bnei Sakhnin,2021/22,2021,13/02/22,6:00 PM,2022-02-13,Sunday,יום ראשון,6
+22,22,153,B. Jerusalem,2:1,M. Petah Tikva,2021/22,2021,13/02/22,7:15 PM,2022-02-13,Sunday,יום ראשון,6
+22,22,154,Kiryat Shmona,2:1,Maccabi Haifa,2021/22,2021,14/02/22,7:15 PM,2022-02-14,Monday,יום שני,0
+23,23,155,M. Petah Tikva,1:1,Maccabi Netanya,2021/22,2021,19/02/22,2:00 PM,2022-02-19,Saturday,שבת,5
+23,23,156,H. Beer Sheva,0:0,Kiryat Shmona,2021/22,2021,19/02/22,4:30 PM,2022-02-19,Saturday,שבת,5
+23,23,157,H. Jerusalem,2:0,FC Ashdod,2021/22,2021,19/02/22,5:00 PM,2022-02-19,Saturday,שבת,5
+23,23,158,Hapoel Hadera,1:0,B. Jerusalem,2021/22,2021,19/02/22,6:50 PM,2022-02-19,Saturday,שבת,5
+23,23,159,Bnei Sakhnin,2:0,H. Nof HaGalil,2021/22,2021,20/02/22,6:00 PM,2022-02-20,Sunday,יום ראשון,6
+23,23,160,M. Tel Aviv,2:0,Hapoel Haifa,2021/22,2021,20/02/22,7:15 PM,2022-02-20,Sunday,יום ראשון,6
+23,23,161,Maccabi Haifa,2:0,Hapoel Tel Aviv,2021/22,2021,21/02/22,7:30 PM,2022-02-21,Monday,יום שני,0
+24,24,162,FC Ashdod,1:3,Maccabi Netanya,2021/22,2021,26/02/22,2:00 PM,2022-02-26,Saturday,שבת,5
+24,24,163,Hapoel Hadera,1:4,M. Petah Tikva,2021/22,2021,26/02/22,4:30 PM,2022-02-26,Saturday,שבת,5
+24,24,164,Hapoel Tel Aviv,1:1,H. Beer Sheva,2021/22,2021,26/02/22,5:00 PM,2022-02-26,Saturday,שבת,5
+24,24,165,Hapoel Haifa,0:1,Maccabi Haifa,2021/22,2021,26/02/22,7:00 PM,2022-02-26,Saturday,שבת,5
+24,24,166,Kiryat Shmona,0:0,H. Jerusalem,2021/22,2021,27/02/22,6:00 PM,2022-02-27,Sunday,יום ראשון,6
+24,24,167,B. Jerusalem,1:1,Bnei Sakhnin,2021/22,2021,27/02/22,7:15 PM,2022-02-27,Sunday,יום ראשון,6
+24,24,168,H. Nof HaGalil,1:3,M. Tel Aviv,2021/22,2021,28/02/22,7:15 PM,2022-02-28,Monday,יום שני,0
+25,25,169,Maccabi Haifa,1:1,H. Nof HaGalil,2021/22,2021,05/03/22,2:00 PM,2022-03-05,Saturday,שבת,5
+25,25,170,Maccabi Netanya,3:1,Kiryat Shmona,2021/22,2021,05/03/22,4:30 PM,2022-03-05,Saturday,שבת,5
+25,25,171,Bnei Sakhnin,1:0,Hapoel Hadera,2021/22,2021,05/03/22,5:00 PM,2022-03-05,Saturday,שבת,5
+25,25,172,H. Jerusalem,0:1,Hapoel Tel Aviv,2021/22,2021,05/03/22,6:50 PM,2022-03-05,Saturday,שבת,5
+25,25,173,FC Ashdod,3:4,M. Petah Tikva,2021/22,2021,06/03/22,6:00 PM,2022-03-06,Sunday,יום ראשון,6
+25,25,174,H. Beer Sheva,3:1,Hapoel Haifa,2021/22,2021,06/03/22,7:15 PM,2022-03-06,Sunday,יום ראשון,6
+25,25,175,M. Tel Aviv,3:1,B. Jerusalem,2021/22,2021,07/03/22,7:30 PM,2022-03-07,Monday,יום שני,0
+26,26,176,Kiryat Shmona,2:0,FC Ashdod,2021/22,2021,12/03/22,2:00 PM,2022-03-12,Saturday,שבת,5
+26,26,177,M. Petah Tikva,0:1,Bnei Sakhnin,2021/22,2021,12/03/22,6:00 PM,2022-03-12,Saturday,שבת,5
+26,26,178,Hapoel Hadera,0:2,M. Tel Aviv,2021/22,2021,12/03/22,6:00 PM,2022-03-12,Saturday,שבת,5
+26,26,179,Hapoel Tel Aviv,2:2,Maccabi Netanya,2021/22,2021,12/03/22,6:00 PM,2022-03-12,Saturday,שבת,5
+26,26,180,Hapoel Haifa,1:2,H. Jerusalem,2021/22,2021,13/03/22,6:00 PM,2022-03-13,Sunday,יום ראשון,6
+26,26,181,H. Nof HaGalil,0:2,H. Beer Sheva,2021/22,2021,13/03/22,7:15 PM,2022-03-13,Sunday,יום ראשון,6
+26,26,182,B. Jerusalem,0:1,Maccabi Haifa,2021/22,2021,14/03/22,7:30 PM,2022-03-14,Monday,יום שני,0
