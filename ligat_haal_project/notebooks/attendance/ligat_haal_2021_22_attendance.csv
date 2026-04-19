@@ -1,0 +1,183 @@
+﻿Season,Date,Matchday,HomeTeam,AwayTeam,Attendance
+2021/22,28/08/21,1,Hapoel Haifa,Maccabi Netanya,3100
+2021/22,28/08/21,1,Hapoel Tel Aviv,FC Ashdod,7900
+2021/22,28/08/21,1,Maccabi Petah Tikva,Ironi Kiryat Shmona,500
+2021/22,29/08/21,1,Beitar Jerusalem,Hapoel Beer Sheva,6500
+2021/22,29/08/21,1,Hapoel Hadera,Maccabi Haifa,6800
+2021/22,29/08/21,1,Ihud Bnei Sakhnin,Maccabi Tel Aviv,3500
+2021/22,30/08/21,1,Hapoel Nof HaGalil,Hapoel Jerusalem,400
+2021/22,11/09/21,2,Ironi Kiryat Shmona,Hapoel Tel Aviv,2000
+2021/22,11/09/21,2,Maccabi Haifa,Ihud Bnei Sakhnin,22313
+2021/22,11/09/21,2,Maccabi Netanya,Hapoel Nof HaGalil,2722
+2021/22,11/09/21,2,Maccabi Tel Aviv,Maccabi Petah Tikva,16842
+2021/22,12/09/21,2,FC Ashdod,Hapoel Haifa,300
+2021/22,12/09/21,2,Hapoel Beer Sheva,Hapoel Hadera,9143
+2021/22,13/09/21,2,Hapoel Jerusalem,Beitar Jerusalem,18000
+2021/22,18/09/21,3,Hapoel Nof HaGalil,FC Ashdod,120
+2021/22,18/09/21,3,Ihud Bnei Sakhnin,Hapoel Beer Sheva,5000
+2021/22,18/09/21,3,Maccabi Petah Tikva,Hapoel Tel Aviv,6000
+2021/22,18/09/21,3,Maccabi Tel Aviv,Maccabi Haifa,25705
+2021/22,19/09/21,3,Beitar Jerusalem,Maccabi Netanya,6500
+2021/22,19/09/21,3,Hapoel Hadera,Hapoel Jerusalem,950
+2021/22,19/09/21,3,Hapoel Haifa,Ironi Kiryat Shmona,2100
+2021/22,25/09/21,4,Hapoel Beer Sheva,Maccabi Tel Aviv,13219
+2021/22,25/09/21,4,Hapoel Jerusalem,Ihud Bnei Sakhnin,1742
+2021/22,25/09/21,4,Hapoel Tel Aviv,Hapoel Haifa,10800
+2021/22,25/09/21,4,Ironi Kiryat Shmona,Hapoel Nof HaGalil,400
+2021/22,26/09/21,4,FC Ashdod,Beitar Jerusalem,3864
+2021/22,26/09/21,4,Maccabi Haifa,Maccabi Petah Tikva,21230
+2021/22,26/09/21,4,Maccabi Netanya,Hapoel Hadera,2800
+2021/22,02/10/21,5,Beitar Jerusalem,Ironi Kiryat Shmona,3200
+2021/22,02/10/21,5,Hapoel Nof HaGalil,Hapoel Tel Aviv,2900
+2021/22,02/10/21,5,Ihud Bnei Sakhnin,Maccabi Netanya,2300
+2021/22,02/10/21,5,Maccabi Petah Tikva,Hapoel Haifa,1600
+2021/22,03/10/21,5,FC Ashdod,Hapoel Hadera,200
+2021/22,03/10/21,5,Maccabi Haifa,Hapoel Beer Sheva,26102
+2021/22,03/10/21,5,Maccabi Tel Aviv,Hapoel Jerusalem,14587
+2021/22,16/10/21,6,FC Ashdod,Ihud Bnei Sakhnin,362
+2021/22,16/10/21,6,Hapoel Haifa,Hapoel Nof HaGalil,2700
+2021/22,16/10/21,6,Hapoel Jerusalem,Maccabi Haifa,6500
+2021/22,16/10/21,6,Maccabi Netanya,Maccabi Tel Aviv,8800
+2021/22,17/10/21,6,Hapoel Beer Sheva,Maccabi Petah Tikva,10287
+2021/22,17/10/21,6,Ironi Kiryat Shmona,Hapoel Hadera,1987
+2021/22,18/10/21,6,Hapoel Tel Aviv,Beitar Jerusalem,19000
+2021/22,23/10/21,7,Hapoel Beer Sheva,Hapoel Jerusalem,10313
+2021/22,23/10/21,7,Hapoel Hadera,Hapoel Tel Aviv,5358
+2021/22,23/10/21,7,Ihud Bnei Sakhnin,Ironi Kiryat Shmona,2000
+2021/22,23/10/21,7,Maccabi Petah Tikva,Hapoel Nof HaGalil,860
+2021/22,24/10/21,7,Beitar Jerusalem,Hapoel Haifa,7000
+2021/22,25/10/21,7,Maccabi Haifa,Maccabi Netanya,22572
+2021/22,25/10/21,7,Maccabi Tel Aviv,FC Ashdod,17197
+2021/22,01/11/21,8,Hapoel Nof HaGalil,Beitar Jerusalem,3000
+2021/22,30/10/21,8,FC Ashdod,Maccabi Haifa,5140
+2021/22,30/10/21,8,Hapoel Jerusalem,Maccabi Petah Tikva,1472
+2021/22,30/10/21,8,Ironi Kiryat Shmona,Maccabi Tel Aviv,3000
+2021/22,30/10/21,8,Maccabi Netanya,Hapoel Beer Sheva,8000
+2021/22,31/10/21,8,Hapoel Haifa,Hapoel Hadera,2330
+2021/22,31/10/21,8,Hapoel Tel Aviv,Ihud Bnei Sakhnin,9750
+2021/22,06/11/21,9,Hapoel Beer Sheva,FC Ashdod,10228
+2021/22,06/11/21,9,Hapoel Jerusalem,Maccabi Netanya,3500
+2021/22,06/11/21,9,Ihud Bnei Sakhnin,Hapoel Haifa,3500
+2021/22,06/11/21,9,Maccabi Petah Tikva,Beitar Jerusalem,5000
+2021/22,07/11/21,9,Hapoel Hadera,Hapoel Nof HaGalil,900
+2021/22,07/11/21,9,Maccabi Haifa,Ironi Kiryat Shmona,19300
+2021/22,07/11/21,9,Maccabi Tel Aviv,Hapoel Tel Aviv,0
+2021/22,27/11/21,10,Beitar Jerusalem,Hapoel Hadera,7500
+2021/22,27/11/21,10,FC Ashdod,Hapoel Jerusalem,890
+2021/22,27/11/21,10,Hapoel Nof HaGalil,Ihud Bnei Sakhnin,2500
+2021/22,27/11/21,10,Ironi Kiryat Shmona,Hapoel Beer Sheva,1680
+2021/22,27/11/21,10,Maccabi Netanya,Maccabi Petah Tikva,3500
+2021/22,28/11/21,10,Hapoel Haifa,Maccabi Tel Aviv,6050
+2021/22,28/11/21,10,Hapoel Tel Aviv,Maccabi Haifa,13500
+2021/22,01/12/21,11,Hapoel Beer Sheva,Hapoel Tel Aviv,11262
+2021/22,01/12/21,11,Hapoel Jerusalem,Ironi Kiryat Shmona,500
+2021/22,01/12/21,11,Maccabi Tel Aviv,Hapoel Nof HaGalil,10240
+2021/22,02/12/21,11,Maccabi Haifa,Hapoel Haifa,0
+2021/22,30/11/21,11,Ihud Bnei Sakhnin,Beitar Jerusalem,8000
+2021/22,30/11/21,11,Maccabi Netanya,FC Ashdod,3133
+2021/22,30/11/21,11,Maccabi Petah Tikva,Hapoel Hadera,500
+2021/22,04/12/21,12,Hapoel Hadera,Ihud Bnei Sakhnin,1952
+2021/22,04/12/21,12,Ironi Kiryat Shmona,Maccabi Netanya,960
+2021/22,04/12/21,12,Maccabi Petah Tikva,FC Ashdod,450
+2021/22,05/12/21,12,Beitar Jerusalem,Maccabi Tel Aviv,9000
+2021/22,05/12/21,12,Hapoel Nof HaGalil,Maccabi Haifa,3700
+2021/22,05/12/21,12,Hapoel Tel Aviv,Hapoel Jerusalem,6200
+2021/22,06/12/21,12,Hapoel Haifa,Hapoel Beer Sheva,2700
+2021/22,11/12/21,13,FC Ashdod,Ironi Kiryat Shmona,517
+2021/22,11/12/21,13,Hapoel Jerusalem,Hapoel Haifa,1500
+2021/22,11/12/21,13,Ihud Bnei Sakhnin,Maccabi Petah Tikva,500
+2021/22,11/12/21,13,Maccabi Netanya,Hapoel Tel Aviv,6743
+2021/22,12/12/21,13,Hapoel Beer Sheva,Hapoel Nof HaGalil,9466
+2021/22,13/12/21,13,Maccabi Haifa,Beitar Jerusalem,0
+2021/22,13/12/21,13,Maccabi Tel Aviv,Hapoel Hadera,13042
+2021/22,21/12/21,14,FC Ashdod,Hapoel Tel Aviv,2500
+2021/22,21/12/21,14,Hapoel Jerusalem,Hapoel Nof HaGalil,800
+2021/22,21/12/21,14,Maccabi Haifa,Hapoel Hadera,16126
+2021/22,21/12/21,14,Maccabi Netanya,Hapoel Haifa,2011
+2021/22,22/12/21,14,Hapoel Beer Sheva,Beitar Jerusalem,12642
+2021/22,22/12/21,14,Ironi Kiryat Shmona,Maccabi Petah Tikva,300
+2021/22,22/12/21,14,Maccabi Tel Aviv,Ihud Bnei Sakhnin,10101
+2021/22,25/12/21,15,Hapoel Haifa,FC Ashdod,1200
+2021/22,25/12/21,15,Hapoel Nof HaGalil,Maccabi Netanya,1100
+2021/22,25/12/21,15,Hapoel Tel Aviv,Ironi Kiryat Shmona,9200
+2021/22,25/12/21,15,Ihud Bnei Sakhnin,Maccabi Haifa,12000
+2021/22,26/12/21,15,Beitar Jerusalem,Hapoel Jerusalem,15000
+2021/22,26/12/21,15,Hapoel Hadera,Hapoel Beer Sheva,2100
+2021/22,27/12/21,15,Maccabi Petah Tikva,Maccabi Tel Aviv,4741
+2021/22,01/01/22,16,Hapoel Jerusalem,Hapoel Hadera,600
+2021/22,01/01/22,16,Hapoel Tel Aviv,Maccabi Petah Tikva,8800
+2021/22,01/01/22,16,Ironi Kiryat Shmona,Hapoel Haifa,1150
+2021/22,01/01/22,16,Maccabi Netanya,Beitar Jerusalem,6983
+2021/22,02/01/22,16,FC Ashdod,Hapoel Nof HaGalil,162
+2021/22,02/01/22,16,Hapoel Beer Sheva,Ihud Bnei Sakhnin,10185
+2021/22,03/01/22,16,Maccabi Haifa,Maccabi Tel Aviv,0
+2021/22,08/01/22,17,Hapoel Haifa,Hapoel Tel Aviv,5400
+2021/22,08/01/22,17,Hapoel Nof HaGalil,Ironi Kiryat Shmona,500
+2021/22,08/01/22,17,Maccabi Petah Tikva,Maccabi Haifa,10200
+2021/22,08/01/22,17,Maccabi Tel Aviv,Hapoel Beer Sheva,21311
+2021/22,09/01/22,17,Beitar Jerusalem,FC Ashdod,5000
+2021/22,09/01/22,17,Hapoel Hadera,Maccabi Netanya,1500
+2021/22,10/01/22,17,Ihud Bnei Sakhnin,Hapoel Jerusalem,1200
+2021/22,15/01/22,18,Hapoel Haifa,Maccabi Petah Tikva,1500
+2021/22,15/01/22,18,Hapoel Jerusalem,Maccabi Tel Aviv,2500
+2021/22,15/01/22,18,Hapoel Tel Aviv,Hapoel Nof HaGalil,6900
+2021/22,16/01/22,18,Hapoel Hadera,FC Ashdod,500
+2021/22,16/01/22,18,Ironi Kiryat Shmona,Beitar Jerusalem,1200
+2021/22,17/01/22,18,Hapoel Beer Sheva,Maccabi Haifa,14641
+2021/22,17/01/22,18,Maccabi Netanya,Ihud Bnei Sakhnin,2014
+2021/22,22/01/22,19,Hapoel Hadera,Ironi Kiryat Shmona,800
+2021/22,22/01/22,19,Hapoel Nof HaGalil,Hapoel Haifa,800
+2021/22,22/01/22,19,Maccabi Haifa,Hapoel Jerusalem,21894
+2021/22,22/01/22,19,Maccabi Tel Aviv,Maccabi Netanya,19349
+2021/22,23/01/22,19,Ihud Bnei Sakhnin,FC Ashdod,692
+2021/22,23/01/22,19,Maccabi Petah Tikva,Hapoel Beer Sheva,1300
+2021/22,24/01/22,19,Beitar Jerusalem,Hapoel Tel Aviv,12000
+2021/22,29/01/22,20,FC Ashdod,Maccabi Tel Aviv,2561
+2021/22,29/01/22,20,Hapoel Haifa,Beitar Jerusalem,2300
+2021/22,29/01/22,20,Hapoel Jerusalem,Hapoel Beer Sheva,3000
+2021/22,29/01/22,20,Hapoel Nof HaGalil,Maccabi Petah Tikva,500
+2021/22,30/01/22,20,Hapoel Tel Aviv,Hapoel Hadera,7100
+2021/22,30/01/22,20,Maccabi Netanya,Maccabi Haifa,12300
+2021/22,31/01/22,20,Ironi Kiryat Shmona,Ihud Bnei Sakhnin,600
+2021/22,05/02/22,21,Hapoel Beer Sheva,Maccabi Netanya,10959
+2021/22,05/02/22,21,Ihud Bnei Sakhnin,Hapoel Tel Aviv,3000
+2021/22,05/02/22,21,Maccabi Petah Tikva,Hapoel Jerusalem,1200
+2021/22,05/02/22,21,Maccabi Tel Aviv,Ironi Kiryat Shmona,12702
+2021/22,06/02/22,21,Beitar Jerusalem,Hapoel Nof HaGalil,0
+2021/22,06/02/22,21,Hapoel Hadera,Hapoel Haifa,1200
+2021/22,07/02/22,21,Maccabi Haifa,FC Ashdod,25732
+2021/22,12/02/22,22,FC Ashdod,Hapoel Beer Sheva,1880
+2021/22,12/02/22,22,Hapoel Nof HaGalil,Hapoel Hadera,650
+2021/22,12/02/22,22,Hapoel Tel Aviv,Maccabi Tel Aviv,27200
+2021/22,12/02/22,22,Maccabi Netanya,Hapoel Jerusalem,7534
+2021/22,13/02/22,22,Beitar Jerusalem,Maccabi Petah Tikva,8000
+2021/22,13/02/22,22,Hapoel Haifa,Ihud Bnei Sakhnin,3500
+2021/22,14/02/22,22,Ironi Kiryat Shmona,Maccabi Haifa,5000
+2021/22,19/02/22,23,Hapoel Beer Sheva,Ironi Kiryat Shmona,9837
+2021/22,19/02/22,23,Hapoel Hadera,Beitar Jerusalem,6509
+2021/22,19/02/22,23,Hapoel Jerusalem,FC Ashdod,2000
+2021/22,19/02/22,23,Maccabi Petah Tikva,Maccabi Netanya,3000
+2021/22,20/02/22,23,Ihud Bnei Sakhnin,Hapoel Nof HaGalil,3000
+2021/22,20/02/22,23,Maccabi Tel Aviv,Hapoel Haifa,16365
+2021/22,21/02/22,23,Maccabi Haifa,Hapoel Tel Aviv,0
+2021/22,26/02/22,24,FC Ashdod,Maccabi Netanya,1092
+2021/22,26/02/22,24,Hapoel Hadera,Maccabi Petah Tikva,1200
+2021/22,26/02/22,24,Hapoel Haifa,Maccabi Haifa,26285
+2021/22,26/02/22,24,Hapoel Tel Aviv,Hapoel Beer Sheva,11600
+2021/22,27/02/22,24,Beitar Jerusalem,Ihud Bnei Sakhnin,13000
+2021/22,27/02/22,24,Ironi Kiryat Shmona,Hapoel Jerusalem,1000
+2021/22,28/02/22,24,Hapoel Nof HaGalil,Maccabi Tel Aviv,4300
+2021/22,05/03/22,25,Hapoel Jerusalem,Hapoel Tel Aviv,3490
+2021/22,05/03/22,25,Ihud Bnei Sakhnin,Hapoel Hadera,2900
+2021/22,05/03/22,25,Maccabi Haifa,Hapoel Nof HaGalil,0
+2021/22,05/03/22,25,Maccabi Netanya,Ironi Kiryat Shmona,7140
+2021/22,06/03/22,25,FC Ashdod,Maccabi Petah Tikva,537
+2021/22,06/03/22,25,Hapoel Beer Sheva,Hapoel Haifa,10529
+2021/22,07/03/22,25,Maccabi Tel Aviv,Beitar Jerusalem,27331
+2021/22,12/03/22,26,Hapoel Hadera,Maccabi Tel Aviv,7600
+2021/22,12/03/22,26,Hapoel Tel Aviv,Maccabi Netanya,7300
+2021/22,12/03/22,26,Ironi Kiryat Shmona,FC Ashdod,400
+2021/22,12/03/22,26,Maccabi Petah Tikva,Ihud Bnei Sakhnin,1500
+2021/22,13/03/22,26,Hapoel Haifa,Hapoel Jerusalem,1200
+2021/22,13/03/22,26,Hapoel Nof HaGalil,Hapoel Beer Sheva,1036
+2021/22,14/03/22,26,Beitar Jerusalem,Maccabi Haifa,15500

@@ -1,0 +1,183 @@
+﻿Season,Date,Matchday,HomeTeam,AwayTeam,Attendance
+2020/21,29/08/20,1,FC Ashdod,Ironi Kiryat Shmona,0
+2020/21,29/08/20,1,Hapoel Kfar Saba,Hapoel Tel Aviv,0
+2020/21,29/08/20,1,Ihud Bnei Sakhnin,Bnei Yehuda Tel Aviv,0
+2020/21,30/08/20,1,Hapoel Beer Sheva,Maccabi Netanya,0
+2020/21,30/08/20,1,Hapoel Hadera,Maccabi Haifa,0
+2020/21,30/08/20,1,Hapoel Haifa,Beitar Jerusalem,0
+2020/21,30/08/20,1,Maccabi Tel Aviv,Maccabi Petah Tikva,0
+2020/21,04/11/20,2,Beitar Jerusalem,Hapoel Hadera,0
+2020/21,12/09/20,2,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0
+2020/21,12/09/20,2,Ironi Kiryat Shmona,Hapoel Haifa,0
+2020/21,12/09/20,2,Maccabi Petah Tikva,Hapoel Kfar Saba,0
+2020/21,13/09/20,2,Hapoel Tel Aviv,FC Ashdod,0
+2020/21,13/09/20,2,Maccabi Haifa,Hapoel Beer Sheva,0
+2020/21,14/09/20,2,Maccabi Netanya,Ihud Bnei Sakhnin,0
+2020/21,08/12/20,3,Ihud Bnei Sakhnin,Maccabi Haifa,0
+2020/21,09/12/20,3,Hapoel Haifa,Hapoel Tel Aviv,0
+2020/21,16/12/20,3,Hapoel Hadera,Hapoel Beer Sheva,0
+2020/21,16/12/20,3,Maccabi Tel Aviv,Maccabi Netanya,0
+2020/21,17/12/20,3,Beitar Jerusalem,Ironi Kiryat Shmona,0
+2020/21,21/09/20,3,FC Ashdod,Maccabi Petah Tikva,0
+2020/21,21/09/20,3,Hapoel Kfar Saba,Bnei Yehuda Tel Aviv,0
+2020/21,01/11/20,4,Bnei Yehuda Tel Aviv,FC Ashdod,0
+2020/21,02/11/20,4,Hapoel Beer Sheva,Ihud Bnei Sakhnin,0
+2020/21,02/11/20,4,Maccabi Haifa,Maccabi Tel Aviv,0
+2020/21,31/10/20,4,Hapoel Tel Aviv,Beitar Jerusalem,0
+2020/21,31/10/20,4,Ironi Kiryat Shmona,Hapoel Hadera,0
+2020/21,31/10/20,4,Maccabi Netanya,Hapoel Kfar Saba,0
+2020/21,31/10/20,4,Maccabi Petah Tikva,Hapoel Haifa,0
+2020/21,24/11/20,5,Hapoel Haifa,Bnei Yehuda Tel Aviv,0
+2020/21,24/11/20,5,Hapoel Kfar Saba,Maccabi Haifa,0
+2020/21,24/11/20,5,Ironi Kiryat Shmona,Hapoel Tel Aviv,0
+2020/21,25/10/20,5,Maccabi Tel Aviv,Hapoel Beer Sheva,0
+2020/21,25/11/20,5,Beitar Jerusalem,Maccabi Petah Tikva,0
+2020/21,25/11/20,5,FC Ashdod,Maccabi Netanya,0
+2020/21,25/11/20,5,Hapoel Hadera,Ihud Bnei Sakhnin,0
+2020/21,07/11/20,6,Bnei Yehuda Tel Aviv,Beitar Jerusalem,0
+2020/21,07/11/20,6,Maccabi Haifa,FC Ashdod,0
+2020/21,07/11/20,6,Maccabi Netanya,Hapoel Haifa,0
+2020/21,08/11/20,6,Hapoel Beer Sheva,Hapoel Kfar Saba,0
+2020/21,08/11/20,6,Ihud Bnei Sakhnin,Maccabi Tel Aviv,0
+2020/21,08/11/20,6,Maccabi Petah Tikva,Ironi Kiryat Shmona,0
+2020/21,09/11/20,6,Hapoel Tel Aviv,Hapoel Hadera,0
+2020/21,21/11/20,7,FC Ashdod,Hapoel Beer Sheva,0
+2020/21,21/11/20,7,Hapoel Haifa,Maccabi Haifa,0
+2020/21,21/11/20,7,Hapoel Kfar Saba,Ihud Bnei Sakhnin,0
+2020/21,21/11/20,7,Hapoel Tel Aviv,Maccabi Petah Tikva,0
+2020/21,21/11/20,7,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,0
+2020/21,22/11/20,7,Beitar Jerusalem,Maccabi Netanya,0
+2020/21,22/11/20,7,Hapoel Hadera,Maccabi Tel Aviv,0
+2020/21,28/11/20,8,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,0
+2020/21,28/11/20,8,Ihud Bnei Sakhnin,FC Ashdod,0
+2020/21,28/11/20,8,Maccabi Petah Tikva,Hapoel Hadera,0
+2020/21,29/11/20,8,Maccabi Netanya,Ironi Kiryat Shmona,0
+2020/21,29/11/20,8,Maccabi Tel Aviv,Hapoel Kfar Saba,0
+2020/21,30/11/20,8,Hapoel Beer Sheva,Hapoel Haifa,0
+2020/21,30/11/20,8,Maccabi Haifa,Beitar Jerusalem,0
+2020/21,05/12/20,9,Hapoel Haifa,Ihud Bnei Sakhnin,0
+2020/21,05/12/20,9,Hapoel Tel Aviv,Maccabi Netanya,0
+2020/21,05/12/20,9,Ironi Kiryat Shmona,Maccabi Haifa,0
+2020/21,05/12/20,9,Maccabi Petah Tikva,Bnei Yehuda Tel Aviv,0
+2020/21,06/12/20,9,Hapoel Hadera,Hapoel Kfar Saba,0
+2020/21,07/12/20,9,Beitar Jerusalem,Hapoel Beer Sheva,0
+2020/21,07/12/20,9,FC Ashdod,Maccabi Tel Aviv,0
+2020/21,12/12/20,10,Bnei Yehuda Tel Aviv,Hapoel Hadera,0
+2020/21,12/12/20,10,Hapoel Kfar Saba,FC Ashdod,0
+2020/21,12/12/20,10,Maccabi Netanya,Maccabi Petah Tikva,0
+2020/21,13/12/20,10,Hapoel Beer Sheva,Ironi Kiryat Shmona,0
+2020/21,13/12/20,10,Maccabi Tel Aviv,Hapoel Haifa,0
+2020/21,14/12/20,10,Maccabi Haifa,Hapoel Tel Aviv,0
+2020/21,18/02/21,10,Ihud Bnei Sakhnin,Beitar Jerusalem,0
+2020/21,19/12/20,11,Bnei Yehuda Tel Aviv,Maccabi Netanya,0
+2020/21,19/12/20,11,Hapoel Hadera,FC Ashdod,0
+2020/21,19/12/20,11,Hapoel Haifa,Hapoel Kfar Saba,0
+2020/21,19/12/20,11,Maccabi Petah Tikva,Maccabi Haifa,0
+2020/21,20/12/20,11,Hapoel Tel Aviv,Hapoel Beer Sheva,0
+2020/21,20/12/20,11,Ironi Kiryat Shmona,Ihud Bnei Sakhnin,0
+2020/21,21/12/20,11,Beitar Jerusalem,Maccabi Tel Aviv,0
+2020/21,22/12/20,12,FC Ashdod,Hapoel Haifa,0
+2020/21,22/12/20,12,Hapoel Hadera,Maccabi Netanya,0
+2020/21,22/12/20,12,Maccabi Haifa,Bnei Yehuda Tel Aviv,0
+2020/21,23/12/20,12,Hapoel Beer Sheva,Maccabi Petah Tikva,0
+2020/21,23/12/20,12,Ihud Bnei Sakhnin,Hapoel Tel Aviv,0
+2020/21,24/12/20,12,Hapoel Kfar Saba,Beitar Jerusalem,0
+2020/21,24/12/20,12,Maccabi Tel Aviv,Ironi Kiryat Shmona,0
+2020/21,26/12/20,13,Hapoel Haifa,Hapoel Hadera,0
+2020/21,26/12/20,13,Maccabi Netanya,Maccabi Haifa,0
+2020/21,27/12/20,13,Bnei Yehuda Tel Aviv,Hapoel Beer Sheva,0
+2020/21,27/12/20,13,Ironi Kiryat Shmona,Hapoel Kfar Saba,0
+2020/21,27/12/20,13,Maccabi Petah Tikva,Ihud Bnei Sakhnin,0
+2020/21,28/12/20,13,Beitar Jerusalem,FC Ashdod,0
+2020/21,28/12/20,13,Hapoel Tel Aviv,Maccabi Tel Aviv,0
+2020/21,02/01/21,14,Beitar Jerusalem,Hapoel Haifa,0
+2020/21,02/01/21,14,Hapoel Tel Aviv,Hapoel Kfar Saba,0
+2020/21,02/01/21,14,Maccabi Haifa,Hapoel Hadera,0
+2020/21,02/01/21,14,Maccabi Netanya,Hapoel Beer Sheva,0
+2020/21,03/01/21,14,Bnei Yehuda Tel Aviv,Ihud Bnei Sakhnin,0
+2020/21,04/01/21,14,Maccabi Petah Tikva,Maccabi Tel Aviv,0
+2020/21,18/02/21,14,Ironi Kiryat Shmona,FC Ashdod,0
+2020/21,05/01/21,15,Hapoel Beer Sheva,Maccabi Haifa,0
+2020/21,05/01/21,15,Hapoel Haifa,Ironi Kiryat Shmona,0
+2020/21,06/01/21,15,Hapoel Hadera,Beitar Jerusalem,0
+2020/21,06/01/21,15,Ihud Bnei Sakhnin,Maccabi Netanya,0
+2020/21,07/01/21,15,FC Ashdod,Hapoel Tel Aviv,0
+2020/21,07/01/21,15,Hapoel Kfar Saba,Maccabi Petah Tikva,0
+2020/21,07/01/21,15,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,0
+2020/21,23/01/21,16,Hapoel Tel Aviv,Hapoel Haifa,0
+2020/21,23/01/21,16,Ironi Kiryat Shmona,Beitar Jerusalem,0
+2020/21,23/01/21,16,Maccabi Haifa,Ihud Bnei Sakhnin,0
+2020/21,23/01/21,16,Maccabi Netanya,Maccabi Tel Aviv,0
+2020/21,23/01/21,16,Maccabi Petah Tikva,FC Ashdod,0
+2020/21,24/01/21,16,Bnei Yehuda Tel Aviv,Hapoel Kfar Saba,0
+2020/21,25/01/21,16,Hapoel Beer Sheva,Hapoel Hadera,0
+2020/21,26/01/21,17,Beitar Jerusalem,Hapoel Tel Aviv,0
+2020/21,26/01/21,17,Hapoel Haifa,Maccabi Petah Tikva,0
+2020/21,27/01/21,17,FC Ashdod,Bnei Yehuda Tel Aviv,0
+2020/21,27/01/21,17,Hapoel Kfar Saba,Maccabi Netanya,0
+2020/21,27/01/21,17,Maccabi Tel Aviv,Maccabi Haifa,0
+2020/21,28/01/21,17,Hapoel Hadera,Ironi Kiryat Shmona,0
+2020/21,28/01/21,17,Ihud Bnei Sakhnin,Hapoel Beer Sheva,0
+2020/21,01/02/21,18,Bnei Yehuda Tel Aviv,Hapoel Haifa,0
+2020/21,01/02/21,18,Hapoel Beer Sheva,Maccabi Tel Aviv,0
+2020/21,01/02/21,18,Ihud Bnei Sakhnin,Hapoel Hadera,0
+2020/21,24/02/21,18,Maccabi Petah Tikva,Beitar Jerusalem,0
+2020/21,30/01/21,18,Maccabi Netanya,FC Ashdod,0
+2020/21,31/01/21,18,Hapoel Tel Aviv,Ironi Kiryat Shmona,0
+2020/21,31/01/21,18,Maccabi Haifa,Hapoel Kfar Saba,0
+2020/21,06/02/21,19,FC Ashdod,Maccabi Haifa,0
+2020/21,06/02/21,19,Hapoel Haifa,Maccabi Netanya,0
+2020/21,06/02/21,19,Hapoel Kfar Saba,Hapoel Beer Sheva,0
+2020/21,06/02/21,19,Maccabi Tel Aviv,Ihud Bnei Sakhnin,0
+2020/21,07/02/21,19,Hapoel Hadera,Hapoel Tel Aviv,0
+2020/21,10/03/21,19,Ironi Kiryat Shmona,Maccabi Petah Tikva,0
+2020/21,11/03/21,19,Beitar Jerusalem,Bnei Yehuda Tel Aviv,0
+2020/21,09/02/21,20,Hapoel Beer Sheva,FC Ashdod,0
+2020/21,09/02/21,20,Ihud Bnei Sakhnin,Hapoel Kfar Saba,0
+2020/21,10/02/21,20,Maccabi Haifa,Hapoel Haifa,0
+2020/21,10/02/21,20,Maccabi Petah Tikva,Hapoel Tel Aviv,0
+2020/21,10/02/21,20,Maccabi Tel Aviv,Hapoel Hadera,0
+2020/21,11/02/21,20,Maccabi Netanya,Beitar Jerusalem,0
+2020/21,24/02/21,20,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,0
+2020/21,13/02/21,21,FC Ashdod,Ihud Bnei Sakhnin,0
+2020/21,13/02/21,21,Hapoel Haifa,Hapoel Beer Sheva,0
+2020/21,13/02/21,21,Hapoel Kfar Saba,Maccabi Tel Aviv,0
+2020/21,14/02/21,21,Hapoel Hadera,Maccabi Petah Tikva,0
+2020/21,15/02/21,21,Beitar Jerusalem,Maccabi Haifa,0
+2020/21,15/02/21,21,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,0
+2020/21,15/02/21,21,Ironi Kiryat Shmona,Maccabi Netanya,0
+2020/21,01/03/21,22,Maccabi Tel Aviv,FC Ashdod,0
+2020/21,27/02/21,22,Bnei Yehuda Tel Aviv,Maccabi Petah Tikva,0
+2020/21,27/02/21,22,Hapoel Kfar Saba,Hapoel Hadera,0
+2020/21,27/02/21,22,Ihud Bnei Sakhnin,Hapoel Haifa,0
+2020/21,27/02/21,22,Maccabi Haifa,Ironi Kiryat Shmona,0
+2020/21,27/02/21,22,Maccabi Netanya,Hapoel Tel Aviv,0
+2020/21,28/02/21,22,Hapoel Beer Sheva,Beitar Jerusalem,0
+2020/21,02/03/21,23,Hapoel Hadera,Bnei Yehuda Tel Aviv,0
+2020/21,03/03/21,23,Hapoel Tel Aviv,Maccabi Haifa,0
+2020/21,03/03/21,23,Ironi Kiryat Shmona,Hapoel Beer Sheva,0
+2020/21,03/03/21,23,Maccabi Petah Tikva,Maccabi Netanya,0
+2020/21,04/03/21,23,Beitar Jerusalem,Ihud Bnei Sakhnin,0
+2020/21,04/03/21,23,FC Ashdod,Hapoel Kfar Saba,0
+2020/21,04/03/21,23,Hapoel Haifa,Maccabi Tel Aviv,0
+2020/21,06/03/21,24,Maccabi Haifa,Maccabi Petah Tikva,0
+2020/21,06/03/21,24,Maccabi Netanya,Bnei Yehuda Tel Aviv,0
+2020/21,07/03/21,24,Hapoel Beer Sheva,Hapoel Tel Aviv,0
+2020/21,07/03/21,24,Hapoel Kfar Saba,Hapoel Haifa,0
+2020/21,07/03/21,24,Ihud Bnei Sakhnin,Ironi Kiryat Shmona,0
+2020/21,08/03/21,24,FC Ashdod,Hapoel Hadera,0
+2020/21,08/03/21,24,Maccabi Tel Aviv,Beitar Jerusalem,0
+2020/21,13/03/21,25,Hapoel Haifa,FC Ashdod,800
+2020/21,13/03/21,25,Hapoel Tel Aviv,Ihud Bnei Sakhnin,1500
+2020/21,13/03/21,25,Ironi Kiryat Shmona,Maccabi Tel Aviv,500
+2020/21,13/03/21,25,Maccabi Netanya,Hapoel Hadera,950
+2020/21,14/03/21,25,Beitar Jerusalem,Hapoel Kfar Saba,1500
+2020/21,14/03/21,25,Bnei Yehuda Tel Aviv,Maccabi Haifa,1350
+2020/21,14/03/21,25,Maccabi Petah Tikva,Hapoel Beer Sheva,1500
+2020/21,20/03/21,26,FC Ashdod,Beitar Jerusalem,940
+2020/21,20/03/21,26,Hapoel Beer Sheva,Bnei Yehuda Tel Aviv,4000
+2020/21,20/03/21,26,Hapoel Kfar Saba,Ironi Kiryat Shmona,300
+2020/21,20/03/21,26,Ihud Bnei Sakhnin,Maccabi Petah Tikva,1000
+2020/21,20/03/21,26,Maccabi Haifa,Maccabi Netanya,5000
+2020/21,20/03/21,26,Maccabi Tel Aviv,Hapoel Tel Aviv,5000
+2020/21,22/03/21,26,Hapoel Hadera,Hapoel Haifa,450

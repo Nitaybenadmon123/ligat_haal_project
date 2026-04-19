@@ -1,0 +1,241 @@
+﻿Season,Date,Matchday,HomeTeam,AwayTeam,Attendance
+2009/10,22/08/09,1,Beitar Jerusalem,Hapoel Tel Aviv,16500
+2009/10,22/08/09,1,FC Ashdod,Bnei Yehuda Tel Aviv,2000
+2009/10,22/08/09,1,Hapoel Beer Sheva,Hapoel Raanana,5000
+2009/10,22/08/09,1,Maccabi Ahi Nazareth,Hapoel Petah Tikva,1000
+2009/10,22/08/09,1,Maccabi Haifa,Hapoel Acre,5000
+2009/10,22/08/09,1,Maccabi Netanya,Hapoel Haifa,3500
+2009/10,22/08/09,1,Maccabi Petah Tikva,Hapoel Ramat Gan,1200
+2009/10,22/08/09,1,Maccabi Tel Aviv,Ihud Bnei Sakhnin,8500
+2009/10,29/08/09,2,Hapoel Acre,Maccabi Netanya,200
+2009/10,29/08/09,2,Hapoel Haifa,FC Ashdod,4000
+2009/10,29/08/09,2,Hapoel Petah Tikva,Maccabi Tel Aviv,4000
+2009/10,29/08/09,2,Hapoel Raanana,Maccabi Haifa,3500
+2009/10,29/08/09,2,Hapoel Ramat Gan,Hapoel Beer Sheva,2000
+2009/10,29/08/09,2,Hapoel Tel Aviv,Maccabi Petah Tikva,8500
+2009/10,30/08/09,2,Bnei Yehuda Tel Aviv,Maccabi Ahi Nazareth,1000
+2009/10,31/08/09,2,Ihud Bnei Sakhnin,Beitar Jerusalem,4000
+2009/10,12/09/09,3,FC Ashdod,Hapoel Acre,2000
+2009/10,12/09/09,3,Ihud Bnei Sakhnin,Hapoel Petah Tikva,1300
+2009/10,12/09/09,3,Maccabi Ahi Nazareth,Hapoel Haifa,2000
+2009/10,12/09/09,3,Maccabi Haifa,Hapoel Ramat Gan,6000
+2009/10,12/09/09,3,Maccabi Netanya,Hapoel Raanana,2000
+2009/10,12/09/09,3,Maccabi Petah Tikva,Beitar Jerusalem,2500
+2009/10,13/09/09,3,Hapoel Beer Sheva,Hapoel Tel Aviv,10000
+2009/10,14/09/09,3,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,11000
+2009/10,21/09/09,4,Hapoel Tel Aviv,Maccabi Haifa,14000
+2009/10,26/09/09,4,Beitar Jerusalem,Hapoel Petah Tikva,6000
+2009/10,26/09/09,4,Bnei Yehuda Tel Aviv,Ihud Bnei Sakhnin,1500
+2009/10,26/09/09,4,Hapoel Acre,Maccabi Ahi Nazareth,400
+2009/10,26/09/09,4,Hapoel Haifa,Maccabi Tel Aviv,7000
+2009/10,26/09/09,4,Hapoel Raanana,FC Ashdod,450
+2009/10,26/09/09,4,Hapoel Ramat Gan,Maccabi Netanya,2000
+2009/10,26/09/09,4,Maccabi Petah Tikva,Hapoel Beer Sheva,1700
+2009/10,03/10/09,5,FC Ashdod,Hapoel Ramat Gan,1000
+2009/10,03/10/09,5,Hapoel Petah Tikva,Bnei Yehuda Tel Aviv,2500
+2009/10,03/10/09,5,Ihud Bnei Sakhnin,Hapoel Haifa,3000
+2009/10,03/10/09,5,Maccabi Ahi Nazareth,Hapoel Raanana,700
+2009/10,03/10/09,5,Maccabi Haifa,Maccabi Petah Tikva,8500
+2009/10,03/10/09,5,Maccabi Tel Aviv,Hapoel Acre,9000
+2009/10,04/10/09,5,Maccabi Netanya,Hapoel Tel Aviv,4000
+2009/10,05/10/09,5,Hapoel Beer Sheva,Beitar Jerusalem,8000
+2009/10,17/10/09,6,Hapoel Beer Sheva,Maccabi Haifa,10000
+2009/10,17/10/09,6,Hapoel Haifa,Hapoel Petah Tikva,4500
+2009/10,17/10/09,6,Hapoel Raanana,Maccabi Tel Aviv,4000
+2009/10,17/10/09,6,Hapoel Ramat Gan,Maccabi Ahi Nazareth,500
+2009/10,17/10/09,6,Hapoel Tel Aviv,FC Ashdod,6500
+2009/10,17/10/09,6,Maccabi Petah Tikva,Maccabi Netanya,1500
+2009/10,18/10/09,6,Hapoel Acre,Ihud Bnei Sakhnin,350
+2009/10,19/10/09,6,Beitar Jerusalem,Bnei Yehuda Tel Aviv,3500
+2009/10,24/10/09,7,Bnei Yehuda Tel Aviv,Hapoel Haifa,2500
+2009/10,24/10/09,7,FC Ashdod,Maccabi Petah Tikva,1500
+2009/10,24/10/09,7,Hapoel Petah Tikva,Hapoel Acre,2000
+2009/10,24/10/09,7,Ihud Bnei Sakhnin,Hapoel Raanana,1500
+2009/10,24/10/09,7,Maccabi Netanya,Hapoel Beer Sheva,2000
+2009/10,24/10/09,7,Maccabi Tel Aviv,Hapoel Ramat Gan,10000
+2009/10,25/10/09,7,Maccabi Ahi Nazareth,Hapoel Tel Aviv,3500
+2009/10,26/10/09,7,Maccabi Haifa,Beitar Jerusalem,14000
+2009/10,01/11/09,8,Hapoel Tel Aviv,Maccabi Tel Aviv,15000
+2009/10,02/11/09,8,Hapoel Beer Sheva,FC Ashdod,2500
+2009/10,31/10/09,8,Beitar Jerusalem,Hapoel Haifa,7000
+2009/10,31/10/09,8,Hapoel Acre,Bnei Yehuda Tel Aviv,800
+2009/10,31/10/09,8,Hapoel Raanana,Hapoel Petah Tikva,250
+2009/10,31/10/09,8,Hapoel Ramat Gan,Ihud Bnei Sakhnin,1000
+2009/10,31/10/09,8,Maccabi Haifa,Maccabi Netanya,4500
+2009/10,31/10/09,8,Maccabi Petah Tikva,Maccabi Ahi Nazareth,500
+2009/10,07/11/09,9,Bnei Yehuda Tel Aviv,Hapoel Raanana,4500
+2009/10,07/11/09,9,Hapoel Haifa,Hapoel Acre,3000
+2009/10,07/11/09,9,Hapoel Petah Tikva,Hapoel Ramat Gan,2000
+2009/10,07/11/09,9,Maccabi Ahi Nazareth,Hapoel Beer Sheva,1000
+2009/10,07/11/09,9,Maccabi Netanya,Beitar Jerusalem,4000
+2009/10,07/11/09,9,Maccabi Tel Aviv,Maccabi Petah Tikva,7000
+2009/10,08/11/09,9,Ihud Bnei Sakhnin,Hapoel Tel Aviv,3500
+2009/10,09/11/09,9,FC Ashdod,Maccabi Haifa,4500
+2009/10,21/11/09,10,Beitar Jerusalem,Hapoel Acre,5500
+2009/10,21/11/09,10,Hapoel Ramat Gan,Bnei Yehuda Tel Aviv,3000
+2009/10,21/11/09,10,Hapoel Tel Aviv,Hapoel Petah Tikva,9000
+2009/10,21/11/09,10,Maccabi Haifa,Maccabi Ahi Nazareth,6000
+2009/10,21/11/09,10,Maccabi Netanya,FC Ashdod,2200
+2009/10,21/11/09,10,Maccabi Petah Tikva,Ihud Bnei Sakhnin,500
+2009/10,22/11/09,10,Hapoel Raanana,Hapoel Haifa,300
+2009/10,23/11/09,10,Hapoel Beer Sheva,Maccabi Tel Aviv,6500
+2009/10,28/11/09,11,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,11000
+2009/10,28/11/09,11,FC Ashdod,Beitar Jerusalem,3000
+2009/10,28/11/09,11,Hapoel Haifa,Hapoel Ramat Gan,2000
+2009/10,28/11/09,11,Hapoel Petah Tikva,Maccabi Petah Tikva,3000
+2009/10,28/11/09,11,Ihud Bnei Sakhnin,Hapoel Beer Sheva,1500
+2009/10,28/11/09,11,Maccabi Ahi Nazareth,Maccabi Netanya,300
+2009/10,29/11/09,11,Hapoel Acre,Hapoel Raanana,100
+2009/10,30/11/09,11,Maccabi Tel Aviv,Maccabi Haifa,15000
+2009/10,05/12/09,12,Beitar Jerusalem,Hapoel Raanana,3000
+2009/10,05/12/09,12,Hapoel Beer Sheva,Hapoel Petah Tikva,2500
+2009/10,05/12/09,12,Hapoel Ramat Gan,Hapoel Acre,800
+2009/10,05/12/09,12,Maccabi Haifa,Ihud Bnei Sakhnin,6500
+2009/10,05/12/09,12,Maccabi Netanya,Maccabi Tel Aviv,4500
+2009/10,05/12/09,12,Maccabi Petah Tikva,Bnei Yehuda Tel Aviv,1200
+2009/10,06/12/09,12,FC Ashdod,Maccabi Ahi Nazareth,2000
+2009/10,07/12/09,12,Hapoel Tel Aviv,Hapoel Haifa,7500
+2009/10,12/12/09,13,Bnei Yehuda Tel Aviv,Hapoel Beer Sheva,3000
+2009/10,12/12/09,13,Hapoel Haifa,Maccabi Petah Tikva,2200
+2009/10,12/12/09,13,Hapoel Petah Tikva,Maccabi Haifa,2000
+2009/10,12/12/09,13,Hapoel Raanana,Hapoel Ramat Gan,300
+2009/10,12/12/09,13,Maccabi Ahi Nazareth,Beitar Jerusalem,800
+2009/10,13/12/09,13,Ihud Bnei Sakhnin,Maccabi Netanya,2000
+2009/10,14/12/09,13,Maccabi Tel Aviv,FC Ashdod,7500
+2009/10,29/12/09,13,Hapoel Acre,Hapoel Tel Aviv,1200
+2009/10,19/12/09,14,Beitar Jerusalem,Hapoel Ramat Gan,5000
+2009/10,19/12/09,14,FC Ashdod,Ihud Bnei Sakhnin,1500
+2009/10,19/12/09,14,Hapoel Beer Sheva,Hapoel Haifa,2500
+2009/10,19/12/09,14,Maccabi Ahi Nazareth,Maccabi Tel Aviv,700
+2009/10,19/12/09,14,Maccabi Netanya,Hapoel Petah Tikva,2000
+2009/10,19/12/09,14,Maccabi Petah Tikva,Hapoel Acre,200
+2009/10,20/12/09,14,Maccabi Haifa,Bnei Yehuda Tel Aviv,8500
+2009/10,21/12/09,14,Hapoel Tel Aviv,Hapoel Raanana,8000
+2009/10,26/12/09,15,Bnei Yehuda Tel Aviv,Maccabi Netanya,3000
+2009/10,26/12/09,15,Hapoel Acre,Hapoel Beer Sheva,200
+2009/10,26/12/09,15,Hapoel Petah Tikva,FC Ashdod,700
+2009/10,26/12/09,15,Hapoel Raanana,Maccabi Petah Tikva,200
+2009/10,26/12/09,15,Hapoel Ramat Gan,Hapoel Tel Aviv,4000
+2009/10,26/12/09,15,Maccabi Tel Aviv,Beitar Jerusalem,12500
+2009/10,27/12/09,15,Ihud Bnei Sakhnin,Maccabi Ahi Nazareth,5000
+2009/10,28/12/09,15,Hapoel Haifa,Maccabi Haifa,14000
+2009/10,02/01/10,16,Bnei Yehuda Tel Aviv,FC Ashdod,1500
+2009/10,02/01/10,16,Hapoel Acre,Maccabi Haifa,2000
+2009/10,02/01/10,16,Hapoel Haifa,Maccabi Netanya,2800
+2009/10,02/01/10,16,Hapoel Petah Tikva,Maccabi Ahi Nazareth,1500
+2009/10,02/01/10,16,Hapoel Raanana,Hapoel Beer Sheva,700
+2009/10,02/01/10,16,Ihud Bnei Sakhnin,Maccabi Tel Aviv,3500
+2009/10,03/01/10,16,Hapoel Ramat Gan,Maccabi Petah Tikva,300
+2009/10,04/01/10,16,Hapoel Tel Aviv,Beitar Jerusalem,15000
+2009/10,09/01/10,17,FC Ashdod,Hapoel Haifa,1000
+2009/10,09/01/10,17,Hapoel Beer Sheva,Hapoel Ramat Gan,3000
+2009/10,09/01/10,17,Maccabi Ahi Nazareth,Bnei Yehuda Tel Aviv,300
+2009/10,09/01/10,17,Maccabi Haifa,Hapoel Raanana,8000
+2009/10,09/01/10,17,Maccabi Petah Tikva,Hapoel Tel Aviv,3000
+2009/10,09/01/10,17,Maccabi Tel Aviv,Hapoel Petah Tikva,6000
+2009/10,10/01/10,17,Maccabi Netanya,Hapoel Acre,2000
+2009/10,11/01/10,17,Beitar Jerusalem,Ihud Bnei Sakhnin,8000
+2009/10,16/01/10,18,Beitar Jerusalem,Maccabi Petah Tikva,6000
+2009/10,16/01/10,18,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,6000
+2009/10,16/01/10,18,Hapoel Acre,FC Ashdod,150
+2009/10,16/01/10,18,Hapoel Haifa,Maccabi Ahi Nazareth,3500
+2009/10,16/01/10,18,Hapoel Petah Tikva,Ihud Bnei Sakhnin,2000
+2009/10,16/01/10,18,Hapoel Raanana,Maccabi Netanya,1000
+2009/10,16/01/10,18,Hapoel Ramat Gan,Maccabi Haifa,2500
+2009/10,16/01/10,18,Hapoel Tel Aviv,Hapoel Beer Sheva,9500
+2009/10,23/01/10,19,FC Ashdod,Hapoel Raanana,700
+2009/10,23/01/10,19,Hapoel Petah Tikva,Beitar Jerusalem,3500
+2009/10,23/01/10,19,Ihud Bnei Sakhnin,Bnei Yehuda Tel Aviv,0
+2009/10,23/01/10,19,Maccabi Ahi Nazareth,Hapoel Acre,1500
+2009/10,23/01/10,19,Maccabi Netanya,Hapoel Ramat Gan,1000
+2009/10,23/01/10,19,Maccabi Tel Aviv,Hapoel Haifa,7000
+2009/10,24/01/10,19,Hapoel Beer Sheva,Maccabi Petah Tikva,2500
+2009/10,25/01/10,19,Maccabi Haifa,Hapoel Tel Aviv,14000
+2009/10,01/02/10,20,Maccabi Petah Tikva,Maccabi Haifa,3000
+2009/10,30/01/10,20,Beitar Jerusalem,Hapoel Beer Sheva,4500
+2009/10,30/01/10,20,Bnei Yehuda Tel Aviv,Hapoel Petah Tikva,1000
+2009/10,30/01/10,20,Hapoel Acre,Maccabi Tel Aviv,3000
+2009/10,30/01/10,20,Hapoel Haifa,Ihud Bnei Sakhnin,4000
+2009/10,30/01/10,20,Hapoel Ramat Gan,FC Ashdod,350
+2009/10,30/01/10,20,Hapoel Tel Aviv,Maccabi Netanya,10500
+2009/10,31/01/10,20,Hapoel Raanana,Maccabi Ahi Nazareth,300
+2009/10,06/02/10,21,Bnei Yehuda Tel Aviv,Beitar Jerusalem,3000
+2009/10,06/02/10,21,Ihud Bnei Sakhnin,Hapoel Acre,3000
+2009/10,06/02/10,21,Maccabi Ahi Nazareth,Hapoel Ramat Gan,2000
+2009/10,06/02/10,21,Maccabi Haifa,Hapoel Beer Sheva,7000
+2009/10,06/02/10,21,Maccabi Netanya,Maccabi Petah Tikva,3000
+2009/10,06/02/10,21,Maccabi Tel Aviv,Hapoel Raanana,7000
+2009/10,07/02/10,21,FC Ashdod,Hapoel Tel Aviv,3500
+2009/10,07/02/10,21,Hapoel Petah Tikva,Hapoel Haifa,1200
+2009/10,13/02/10,22,Hapoel Acre,Hapoel Petah Tikva,200
+2009/10,13/02/10,22,Hapoel Beer Sheva,Maccabi Netanya,3500
+2009/10,13/02/10,22,Hapoel Raanana,Ihud Bnei Sakhnin,500
+2009/10,13/02/10,22,Hapoel Ramat Gan,Maccabi Tel Aviv,4500
+2009/10,13/02/10,22,Hapoel Tel Aviv,Maccabi Ahi Nazareth,10000
+2009/10,13/02/10,22,Maccabi Petah Tikva,FC Ashdod,800
+2009/10,14/02/10,22,Beitar Jerusalem,Maccabi Haifa,14000
+2009/10,15/02/10,22,Hapoel Haifa,Bnei Yehuda Tel Aviv,1500
+2009/10,20/02/10,23,Bnei Yehuda Tel Aviv,Hapoel Acre,1500
+2009/10,20/02/10,23,FC Ashdod,Hapoel Beer Sheva,2000
+2009/10,20/02/10,23,Hapoel Haifa,Beitar Jerusalem,4500
+2009/10,20/02/10,23,Hapoel Petah Tikva,Hapoel Raanana,1500
+2009/10,20/02/10,23,Maccabi Ahi Nazareth,Maccabi Petah Tikva,300
+2009/10,20/02/10,23,Maccabi Netanya,Maccabi Haifa,5000
+2009/10,21/02/10,23,Ihud Bnei Sakhnin,Hapoel Ramat Gan,3000
+2009/10,22/02/10,23,Maccabi Tel Aviv,Hapoel Tel Aviv,15000
+2009/10,27/02/10,24,Beitar Jerusalem,Maccabi Netanya,3000
+2009/10,27/02/10,24,Hapoel Acre,Hapoel Haifa,700
+2009/10,27/02/10,24,Hapoel Beer Sheva,Maccabi Ahi Nazareth,2000
+2009/10,27/02/10,24,Hapoel Raanana,Bnei Yehuda Tel Aviv,500
+2009/10,27/02/10,24,Hapoel Ramat Gan,Hapoel Petah Tikva,500
+2009/10,27/02/10,24,Hapoel Tel Aviv,Ihud Bnei Sakhnin,8500
+2009/10,27/02/10,24,Maccabi Haifa,FC Ashdod,7000
+2009/10,27/02/10,24,Maccabi Petah Tikva,Maccabi Tel Aviv,2000
+2009/10,06/03/10,25,FC Ashdod,Maccabi Netanya,1500
+2009/10,06/03/10,25,Hapoel Acre,Beitar Jerusalem,1400
+2009/10,06/03/10,25,Hapoel Haifa,Hapoel Raanana,3000
+2009/10,06/03/10,25,Ihud Bnei Sakhnin,Maccabi Petah Tikva,4000
+2009/10,06/03/10,25,Maccabi Ahi Nazareth,Maccabi Haifa,3000
+2009/10,06/03/10,25,Maccabi Tel Aviv,Hapoel Beer Sheva,9000
+2009/10,07/03/10,25,Bnei Yehuda Tel Aviv,Hapoel Ramat Gan,800
+2009/10,08/03/10,25,Hapoel Petah Tikva,Hapoel Tel Aviv,5000
+2009/10,13/03/10,26,Beitar Jerusalem,FC Ashdod,4000
+2009/10,13/03/10,26,Hapoel Raanana,Hapoel Acre,500
+2009/10,13/03/10,26,Hapoel Ramat Gan,Hapoel Haifa,800
+2009/10,13/03/10,26,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,10000
+2009/10,13/03/10,26,Maccabi Netanya,Maccabi Ahi Nazareth,800
+2009/10,13/03/10,26,Maccabi Petah Tikva,Hapoel Petah Tikva,5000
+2009/10,14/03/10,26,Hapoel Beer Sheva,Ihud Bnei Sakhnin,5500
+2009/10,15/03/10,26,Maccabi Haifa,Maccabi Tel Aviv,13000
+2009/10,20/03/10,27,Bnei Yehuda Tel Aviv,Maccabi Petah Tikva,1200
+2009/10,20/03/10,27,Hapoel Acre,Hapoel Ramat Gan,205
+2009/10,20/03/10,27,Hapoel Haifa,Hapoel Tel Aviv,4000
+2009/10,20/03/10,27,Hapoel Petah Tikva,Hapoel Beer Sheva,3500
+2009/10,20/03/10,27,Hapoel Raanana,Beitar Jerusalem,2000
+2009/10,20/03/10,27,Ihud Bnei Sakhnin,Maccabi Haifa,5000
+2009/10,20/03/10,27,Maccabi Ahi Nazareth,FC Ashdod,250
+2009/10,20/03/10,27,Maccabi Tel Aviv,Maccabi Netanya,3500
+2009/10,27/03/10,28,Beitar Jerusalem,Maccabi Ahi Nazareth,3000
+2009/10,27/03/10,28,FC Ashdod,Maccabi Tel Aviv,1200
+2009/10,27/03/10,28,Hapoel Beer Sheva,Bnei Yehuda Tel Aviv,2500
+2009/10,27/03/10,28,Hapoel Ramat Gan,Hapoel Raanana,600
+2009/10,27/03/10,28,Hapoel Tel Aviv,Hapoel Acre,11000
+2009/10,27/03/10,28,Maccabi Haifa,Hapoel Petah Tikva,14000
+2009/10,27/03/10,28,Maccabi Netanya,Ihud Bnei Sakhnin,1000
+2009/10,27/03/10,28,Maccabi Petah Tikva,Hapoel Haifa,1000
+2009/10,03/04/10,29,Bnei Yehuda Tel Aviv,Maccabi Haifa,5000
+2009/10,03/04/10,29,Hapoel Acre,Maccabi Petah Tikva,150
+2009/10,03/04/10,29,Hapoel Haifa,Hapoel Beer Sheva,2500
+2009/10,03/04/10,29,Hapoel Petah Tikva,Maccabi Netanya,2500
+2009/10,03/04/10,29,Hapoel Raanana,Hapoel Tel Aviv,3000
+2009/10,03/04/10,29,Hapoel Ramat Gan,Beitar Jerusalem,1500
+2009/10,03/04/10,29,Ihud Bnei Sakhnin,FC Ashdod,4000
+2009/10,03/04/10,29,Maccabi Tel Aviv,Maccabi Ahi Nazareth,3000
+2009/10,10/04/10,30,Beitar Jerusalem,Maccabi Tel Aviv,6000
+2009/10,10/04/10,30,FC Ashdod,Hapoel Petah Tikva,1500
+2009/10,10/04/10,30,Hapoel Beer Sheva,Hapoel Acre,2000
+2009/10,10/04/10,30,Hapoel Tel Aviv,Hapoel Ramat Gan,13000
+2009/10,10/04/10,30,Maccabi Ahi Nazareth,Ihud Bnei Sakhnin,1200
+2009/10,10/04/10,30,Maccabi Haifa,Hapoel Haifa,14000
+2009/10,10/04/10,30,Maccabi Netanya,Bnei Yehuda Tel Aviv,1000
+2009/10,10/04/10,30,Maccabi Petah Tikva,Hapoel Raanana,500
