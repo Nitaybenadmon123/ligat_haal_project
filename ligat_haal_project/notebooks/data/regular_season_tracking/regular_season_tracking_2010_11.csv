@@ -1,0 +1,481 @@
+﻿season,stage,round,team,points,position,goal_diff
+2010/11,regular,1,Maccabi Netanya,3,1,3
+2010/11,regular,1,H. Ashkelon,3,2,2
+2010/11,regular,1,Kiryat Shmona,3,3,2
+2010/11,regular,1,FC Ashdod,3,4,1
+2010/11,regular,1,H. Beer Sheva,3,5,1
+2010/11,regular,1,Hapoel Haifa,3,5,1
+2010/11,regular,1,Maccabi Haifa,3,5,1
+2010/11,regular,1,Bnei Yehuda,1,8,0
+2010/11,regular,1,H. Ramat Gan,1,8,0
+2010/11,regular,1,Hapoel Acre,0,10,-1
+2010/11,regular,1,Hapoel Tel Aviv,0,11,-1
+2010/11,regular,1,M. Petah Tikva,0,11,-1
+2010/11,regular,1,M. Tel Aviv,0,11,-1
+2010/11,regular,1,H. Petah Tikva,0,14,-2
+2010/11,regular,1,Bnei Sakhnin,0,15,-2
+2010/11,regular,1,B. Jerusalem,0,16,-3
+2010/11,regular,2,Hapoel Haifa,6,1,2
+2010/11,regular,2,Maccabi Haifa,6,2,2
+2010/11,regular,2,Maccabi Netanya,4,3,3
+2010/11,regular,2,Kiryat Shmona,4,4,2
+2010/11,regular,2,FC Ashdod,4,5,1
+2010/11,regular,2,Bnei Yehuda,4,6,1
+2010/11,regular,2,Hapoel Tel Aviv,3,7,3
+2010/11,regular,2,H. Beer Sheva,3,8,0
+2010/11,regular,2,M. Tel Aviv,3,8,0
+2010/11,regular,2,H. Ashkelon,3,10,-2
+2010/11,regular,2,Hapoel Acre,1,11,-1
+2010/11,regular,2,H. Ramat Gan,1,12,-1
+2010/11,regular,2,H. Petah Tikva,1,13,-2
+2010/11,regular,2,Bnei Sakhnin,1,14,-2
+2010/11,regular,2,M. Petah Tikva,0,15,-2
+2010/11,regular,2,B. Jerusalem,0,16,-4
+2010/11,regular,3,Hapoel Haifa,9,1,4
+2010/11,regular,3,Maccabi Netanya,7,2,5
+2010/11,regular,3,Kiryat Shmona,7,3,4
+2010/11,regular,3,Maccabi Haifa,7,4,2
+2010/11,regular,3,M. Tel Aviv,6,5,4
+2010/11,regular,3,Hapoel Tel Aviv,4,6,3
+2010/11,regular,3,H. Beer Sheva,4,7,0
+2010/11,regular,3,FC Ashdod,4,8,-1
+2010/11,regular,3,Bnei Yehuda,4,9,-1
+2010/11,regular,3,H. Ashkelon,4,10,-2
+2010/11,regular,3,M. Petah Tikva,3,11,-1
+2010/11,regular,3,Hapoel Acre,2,12,-1
+2010/11,regular,3,H. Ramat Gan,2,13,-1
+2010/11,regular,3,H. Petah Tikva,1,14,-4
+2010/11,regular,3,Bnei Sakhnin,1,15,-6
+2010/11,regular,3,B. Jerusalem,0,16,-5
+2010/11,regular,4,Kiryat Shmona,10,1,6
+2010/11,regular,4,Maccabi Haifa,10,2,3
+2010/11,regular,4,M. Tel Aviv,9,3,5
+2010/11,regular,4,Hapoel Haifa,9,4,3
+2010/11,regular,4,Maccabi Netanya,8,5,5
+2010/11,regular,4,H. Ashkelon,7,6,-1
+2010/11,regular,4,M. Petah Tikva,6,7,0
+2010/11,regular,4,H. Ramat Gan,5,8,0
+2010/11,regular,4,Hapoel Tel Aviv,4,9,1
+2010/11,regular,4,FC Ashdod,4,10,-2
+2010/11,regular,4,Bnei Yehuda,4,11,-2
+2010/11,regular,4,H. Beer Sheva,4,12,-4
+2010/11,regular,4,B. Jerusalem,3,13,-1
+2010/11,regular,4,Hapoel Acre,2,14,-2
+2010/11,regular,4,H. Petah Tikva,2,15,-4
+2010/11,regular,4,Bnei Sakhnin,1,16,-7
+2010/11,regular,5,Kiryat Shmona,13,1,7
+2010/11,regular,5,M. Tel Aviv,12,2,6
+2010/11,regular,5,Maccabi Haifa,11,3,3
+2010/11,regular,5,Hapoel Haifa,9,4,2
+2010/11,regular,5,Maccabi Netanya,8,5,3
+2010/11,regular,5,H. Ashkelon,8,6,-1
+2010/11,regular,5,Hapoel Tel Aviv,7,7,3
+2010/11,regular,5,M. Petah Tikva,7,8,0
+2010/11,regular,5,H. Beer Sheva,7,9,-3
+2010/11,regular,5,Hapoel Acre,5,10,-1
+2010/11,regular,5,H. Ramat Gan,5,11,-1
+2010/11,regular,5,FC Ashdod,5,12,-2
+2010/11,regular,5,Bnei Yehuda,5,13,-2
+2010/11,regular,5,B. Jerusalem,4,14,-1
+2010/11,regular,5,H. Petah Tikva,2,15,-5
+2010/11,regular,5,Bnei Sakhnin,1,16,-8
+2010/11,regular,6,Kiryat Shmona,16,1,10
+2010/11,regular,6,Maccabi Haifa,14,2,4
+2010/11,regular,6,M. Tel Aviv,12,3,5
+2010/11,regular,6,Maccabi Netanya,11,4,4
+2010/11,regular,6,Hapoel Tel Aviv,10,5,4
+2010/11,regular,6,M. Petah Tikva,10,6,3
+2010/11,regular,6,Hapoel Haifa,9,7,-1
+2010/11,regular,6,H. Ashkelon,9,8,-1
+2010/11,regular,6,Bnei Yehuda,8,9,-1
+2010/11,regular,6,H. Beer Sheva,8,10,-3
+2010/11,regular,6,Hapoel Acre,6,11,-1
+2010/11,regular,6,FC Ashdod,6,12,-2
+2010/11,regular,6,H. Ramat Gan,5,13,-2
+2010/11,regular,6,B. Jerusalem,4,14,-2
+2010/11,regular,6,H. Petah Tikva,2,15,-8
+2010/11,regular,6,Bnei Sakhnin,1,16,-9
+2010/11,regular,7,Kiryat Shmona,17,1,10
+2010/11,regular,7,M. Tel Aviv,15,2,7
+2010/11,regular,7,Maccabi Haifa,15,3,4
+2010/11,regular,7,Hapoel Tel Aviv,13,4,5
+2010/11,regular,7,Maccabi Netanya,12,5,4
+2010/11,regular,7,M. Petah Tikva,10,6,2
+2010/11,regular,7,H. Ashkelon,10,7,-1
+2010/11,regular,7,Hapoel Haifa,10,7,-1
+2010/11,regular,7,Hapoel Acre,9,9,1
+2010/11,regular,7,H. Beer Sheva,9,10,-3
+2010/11,regular,7,Bnei Yehuda,8,11,-3
+2010/11,regular,7,FC Ashdod,7,12,-2
+2010/11,regular,7,B. Jerusalem,5,13,-2
+2010/11,regular,7,H. Ramat Gan,5,14,-4
+2010/11,regular,7,H. Petah Tikva,3,15,-8
+2010/11,regular,7,Bnei Sakhnin,2,16,-9
+2010/11,regular,8,Maccabi Haifa,18,1,5
+2010/11,regular,8,Kiryat Shmona,17,2,7
+2010/11,regular,8,M. Tel Aviv,16,3,7
+2010/11,regular,8,Hapoel Tel Aviv,16,4,6
+2010/11,regular,8,Maccabi Netanya,15,5,8
+2010/11,regular,8,M. Petah Tikva,13,6,4
+2010/11,regular,8,Hapoel Acre,12,7,4
+2010/11,regular,8,Hapoel Haifa,11,8,-1
+2010/11,regular,8,Bnei Yehuda,11,9,-1
+2010/11,regular,8,FC Ashdod,10,10,1
+2010/11,regular,8,H. Ashkelon,10,11,-5
+2010/11,regular,8,H. Beer Sheva,9,12,-4
+2010/11,regular,8,B. Jerusalem,5,13,-5
+2010/11,regular,8,H. Ramat Gan,5,14,-6
+2010/11,regular,8,H. Petah Tikva,3,15,-9
+2010/11,regular,8,Bnei Sakhnin,2,16,-11
+2010/11,regular,9,M. Tel Aviv,19,1,9
+2010/11,regular,9,Hapoel Tel Aviv,19,2,8
+2010/11,regular,9,Kiryat Shmona,18,3,7
+2010/11,regular,9,Maccabi Haifa,18,4,3
+2010/11,regular,9,Hapoel Acre,15,5,6
+2010/11,regular,9,Maccabi Netanya,15,6,6
+2010/11,regular,9,Hapoel Haifa,14,7,0
+2010/11,regular,9,FC Ashdod,13,8,3
+2010/11,regular,9,M. Petah Tikva,13,8,3
+2010/11,regular,9,Bnei Yehuda,12,10,-1
+2010/11,regular,9,H. Beer Sheva,12,11,-2
+2010/11,regular,9,H. Ashkelon,10,12,-7
+2010/11,regular,9,H. Petah Tikva,6,13,-7
+2010/11,regular,9,B. Jerusalem,5,14,-7
+2010/11,regular,9,H. Ramat Gan,5,15,-8
+2010/11,regular,9,Bnei Sakhnin,2,16,-13
+2010/11,regular,10,Kiryat Shmona,21,1,10
+2010/11,regular,10,Maccabi Haifa,21,2,5
+2010/11,regular,10,Hapoel Tel Aviv,20,3,8
+2010/11,regular,10,M. Tel Aviv,19,4,7
+2010/11,regular,10,Hapoel Acre,18,5,8
+2010/11,regular,10,M. Petah Tikva,16,6,4
+2010/11,regular,10,Maccabi Netanya,15,7,3
+2010/11,regular,10,Hapoel Haifa,15,8,0
+2010/11,regular,10,FC Ashdod,14,9,3
+2010/11,regular,10,Bnei Yehuda,13,10,-1
+2010/11,regular,10,H. Beer Sheva,13,11,-2
+2010/11,regular,10,H. Ashkelon,10,12,-8
+2010/11,regular,10,B. Jerusalem,6,13,-7
+2010/11,regular,10,H. Petah Tikva,6,14,-8
+2010/11,regular,10,H. Ramat Gan,5,15,-10
+2010/11,regular,10,Bnei Sakhnin,5,16,-12
+2010/11,regular,11,Kiryat Shmona,24,1,11
+2010/11,regular,11,Hapoel Tel Aviv,23,2,10
+2010/11,regular,11,Maccabi Haifa,22,3,5
+2010/11,regular,11,Hapoel Acre,19,4,8
+2010/11,regular,11,M. Tel Aviv,19,5,6
+2010/11,regular,11,M. Petah Tikva,17,6,4
+2010/11,regular,11,Maccabi Netanya,16,7,3
+2010/11,regular,11,Hapoel Haifa,16,8,0
+2010/11,regular,11,H. Beer Sheva,16,9,-1
+2010/11,regular,11,FC Ashdod,14,10,2
+2010/11,regular,11,Bnei Yehuda,14,11,-1
+2010/11,regular,11,H. Ashkelon,10,12,-9
+2010/11,regular,11,B. Jerusalem,9,13,-6
+2010/11,regular,11,H. Petah Tikva,9,14,-7
+2010/11,regular,11,H. Ramat Gan,5,15,-11
+2010/11,regular,11,Bnei Sakhnin,5,16,-14
+2010/11,regular,12,Kiryat Shmona,25,1,11
+2010/11,regular,12,Maccabi Haifa,25,2,8
+2010/11,regular,12,Hapoel Tel Aviv,23,3,8
+2010/11,regular,12,M. Tel Aviv,22,4,8
+2010/11,regular,12,Hapoel Acre,19,5,7
+2010/11,regular,12,H. Beer Sheva,19,6,0
+2010/11,regular,12,M. Petah Tikva,18,7,4
+2010/11,regular,12,FC Ashdod,17,8,4
+2010/11,regular,12,Bnei Yehuda,17,9,1
+2010/11,regular,12,Maccabi Netanya,16,10,1
+2010/11,regular,12,Hapoel Haifa,16,11,-2
+2010/11,regular,12,B. Jerusalem,12,12,-4
+2010/11,regular,12,H. Ashkelon,10,13,-12
+2010/11,regular,12,H. Petah Tikva,9,14,-9
+2010/11,regular,12,Bnei Sakhnin,8,15,-13
+2010/11,regular,12,H. Ramat Gan,5,16,-12
+2010/11,regular,13,Maccabi Haifa,28,1,10
+2010/11,regular,13,Hapoel Tel Aviv,26,2,12
+2010/11,regular,13,Kiryat Shmona,26,3,11
+2010/11,regular,13,M. Tel Aviv,25,4,10
+2010/11,regular,13,M. Petah Tikva,21,5,6
+2010/11,regular,13,H. Beer Sheva,20,6,0
+2010/11,regular,13,Hapoel Acre,19,7,5
+2010/11,regular,13,Hapoel Haifa,19,8,0
+2010/11,regular,13,FC Ashdod,18,9,4
+2010/11,regular,13,Bnei Yehuda,17,10,-1
+2010/11,regular,13,Maccabi Netanya,16,11,-1
+2010/11,regular,13,B. Jerusalem,15,12,0
+2010/11,regular,13,H. Ashkelon,10,13,-16
+2010/11,regular,13,H. Petah Tikva,9,14,-13
+2010/11,regular,13,Bnei Sakhnin,8,15,-15
+2010/11,regular,13,H. Ramat Gan,6,16,-12
+2010/11,regular,14,Maccabi Haifa,31,1,11
+2010/11,regular,14,Hapoel Tel Aviv,29,2,13
+2010/11,regular,14,Kiryat Shmona,26,3,10
+2010/11,regular,14,M. Tel Aviv,26,4,10
+2010/11,regular,14,Hapoel Acre,22,5,8
+2010/11,regular,14,M. Petah Tikva,22,6,6
+2010/11,regular,14,Hapoel Haifa,22,7,2
+2010/11,regular,14,H. Beer Sheva,20,8,-1
+2010/11,regular,14,Maccabi Netanya,19,9,0
+2010/11,regular,14,FC Ashdod,18,10,2
+2010/11,regular,14,Bnei Yehuda,17,11,-2
+2010/11,regular,14,B. Jerusalem,15,12,-3
+2010/11,regular,14,H. Ashkelon,13,13,-15
+2010/11,regular,14,H. Petah Tikva,10,14,-13
+2010/11,regular,14,Bnei Sakhnin,8,15,-16
+2010/11,regular,14,H. Ramat Gan,7,16,-12
+2010/11,regular,15,Maccabi Haifa,34,1,14
+2010/11,regular,15,Hapoel Tel Aviv,32,2,17
+2010/11,regular,15,M. Tel Aviv,29,3,11
+2010/11,regular,15,Kiryat Shmona,26,4,9
+2010/11,regular,15,Hapoel Acre,25,5,9
+2010/11,regular,15,M. Petah Tikva,25,6,9
+2010/11,regular,15,Hapoel Haifa,22,7,0
+2010/11,regular,15,FC Ashdod,21,8,3
+2010/11,regular,15,H. Beer Sheva,20,9,-2
+2010/11,regular,15,Maccabi Netanya,19,10,-3
+2010/11,regular,15,B. Jerusalem,18,11,-2
+2010/11,regular,15,Bnei Yehuda,17,12,-5
+2010/11,regular,15,H. Petah Tikva,13,13,-11
+2010/11,regular,15,H. Ashkelon,13,14,-16
+2010/11,regular,15,Bnei Sakhnin,8,15,-17
+2010/11,regular,15,H. Ramat Gan,7,16,-16
+2010/11,regular,16,Maccabi Haifa,37,1,17
+2010/11,regular,16,Hapoel Tel Aviv,35,2,22
+2010/11,regular,16,M. Tel Aviv,29,3,8
+2010/11,regular,16,Kiryat Shmona,26,4,8
+2010/11,regular,16,M. Petah Tikva,25,5,8
+2010/11,regular,16,Hapoel Acre,25,6,7
+2010/11,regular,16,FC Ashdod,24,7,5
+2010/11,regular,16,H. Beer Sheva,23,8,-1
+2010/11,regular,16,Hapoel Haifa,22,9,-5
+2010/11,regular,16,Maccabi Netanya,20,10,-3
+2010/11,regular,16,B. Jerusalem,19,11,-2
+2010/11,regular,16,Bnei Yehuda,18,12,-5
+2010/11,regular,16,H. Ashkelon,16,13,-14
+2010/11,regular,16,H. Petah Tikva,13,14,-13
+2010/11,regular,16,Bnei Sakhnin,11,15,-16
+2010/11,regular,16,H. Ramat Gan,8,16,-16
+2010/11,regular,17,Maccabi Haifa,40,1,19
+2010/11,regular,17,Hapoel Tel Aviv,38,2,24
+2010/11,regular,17,M. Tel Aviv,32,3,9
+2010/11,regular,17,Kiryat Shmona,29,4,11
+2010/11,regular,17,Hapoel Acre,28,5,10
+2010/11,regular,17,M. Petah Tikva,25,6,6
+2010/11,regular,17,Hapoel Haifa,25,7,-3
+2010/11,regular,17,FC Ashdod,24,8,2
+2010/11,regular,17,H. Beer Sheva,24,9,-1
+2010/11,regular,17,Maccabi Netanya,23,10,-2
+2010/11,regular,17,B. Jerusalem,19,11,-3
+2010/11,regular,17,Bnei Yehuda,19,12,-5
+2010/11,regular,17,H. Ashkelon,16,13,-16
+2010/11,regular,17,H. Petah Tikva,13,14,-16
+2010/11,regular,17,Bnei Sakhnin,11,15,-17
+2010/11,regular,17,H. Ramat Gan,8,16,-18
+2010/11,regular,18,Hapoel Tel Aviv,41,1,27
+2010/11,regular,18,Maccabi Haifa,41,2,19
+2010/11,regular,18,M. Tel Aviv,35,3,11
+2010/11,regular,18,Kiryat Shmona,32,4,13
+2010/11,regular,18,M. Petah Tikva,28,5,8
+2010/11,regular,18,Hapoel Acre,28,6,7
+2010/11,regular,18,FC Ashdod,27,7,3
+2010/11,regular,18,H. Beer Sheva,25,8,-1
+2010/11,regular,18,Hapoel Haifa,25,9,-4
+2010/11,regular,18,Maccabi Netanya,23,10,-3
+2010/11,regular,18,Bnei Yehuda,22,11,-4
+2010/11,regular,18,B. Jerusalem,19,12,-5
+2010/11,regular,18,H. Ashkelon,19,13,-12
+2010/11,regular,18,H. Petah Tikva,13,14,-18
+2010/11,regular,18,Bnei Sakhnin,11,15,-19
+2010/11,regular,18,H. Ramat Gan,8,16,-22
+2010/11,regular,19,Maccabi Haifa,44,1,20
+2010/11,regular,19,Hapoel Tel Aviv,42,2,27
+2010/11,regular,19,M. Tel Aviv,38,3,14
+2010/11,regular,19,Kiryat Shmona,33,4,13
+2010/11,regular,19,Hapoel Acre,29,5,7
+2010/11,regular,19,M. Petah Tikva,28,6,7
+2010/11,regular,19,FC Ashdod,27,7,0
+2010/11,regular,19,Hapoel Haifa,26,8,-4
+2010/11,regular,19,H. Beer Sheva,25,9,-2
+2010/11,regular,19,Maccabi Netanya,24,10,-3
+2010/11,regular,19,B. Jerusalem,22,11,-4
+2010/11,regular,19,Bnei Yehuda,22,12,-5
+2010/11,regular,19,H. Ashkelon,20,13,-12
+2010/11,regular,19,H. Petah Tikva,14,14,-18
+2010/11,regular,19,Bnei Sakhnin,14,15,-18
+2010/11,regular,19,H. Ramat Gan,9,16,-22
+2010/11,regular,20,Hapoel Tel Aviv,45,1,28
+2010/11,regular,20,Maccabi Haifa,45,2,20
+2010/11,regular,20,M. Tel Aviv,41,3,15
+2010/11,regular,20,Kiryat Shmona,36,4,16
+2010/11,regular,20,M. Petah Tikva,31,5,9
+2010/11,regular,20,Hapoel Acre,30,6,7
+2010/11,regular,20,FC Ashdod,27,7,-2
+2010/11,regular,20,Hapoel Haifa,27,8,-4
+2010/11,regular,20,H. Beer Sheva,26,9,-2
+2010/11,regular,20,Bnei Yehuda,25,10,-3
+2010/11,regular,20,Maccabi Netanya,24,11,-4
+2010/11,regular,20,B. Jerusalem,23,12,-4
+2010/11,regular,20,H. Ashkelon,20,13,-14
+2010/11,regular,20,Bnei Sakhnin,15,14,-18
+2010/11,regular,20,H. Petah Tikva,14,15,-19
+2010/11,regular,20,H. Ramat Gan,9,16,-25
+2010/11,regular,21,Maccabi Haifa,48,1,21
+2010/11,regular,21,Hapoel Tel Aviv,46,2,28
+2010/11,regular,21,M. Tel Aviv,42,3,15
+2010/11,regular,21,Kiryat Shmona,36,4,14
+2010/11,regular,21,Hapoel Acre,33,5,8
+2010/11,regular,21,M. Petah Tikva,31,6,8
+2010/11,regular,21,Hapoel Haifa,30,7,-2
+2010/11,regular,21,H. Beer Sheva,29,8,3
+2010/11,regular,21,Maccabi Netanya,27,9,-2
+2010/11,regular,21,FC Ashdod,27,10,-7
+2010/11,regular,21,Bnei Yehuda,26,11,-3
+2010/11,regular,21,B. Jerusalem,24,12,-4
+2010/11,regular,21,H. Ashkelon,20,13,-15
+2010/11,regular,21,H. Petah Tikva,17,14,-18
+2010/11,regular,21,Bnei Sakhnin,15,15,-19
+2010/11,regular,21,H. Ramat Gan,9,16,-27
+2010/11,regular,22,Maccabi Haifa,51,1,22
+2010/11,regular,22,Hapoel Tel Aviv,49,2,30
+2010/11,regular,22,M. Tel Aviv,45,3,18
+2010/11,regular,22,Kiryat Shmona,39,4,15
+2010/11,regular,22,Hapoel Acre,33,5,7
+2010/11,regular,22,M. Petah Tikva,31,6,6
+2010/11,regular,22,Maccabi Netanya,30,7,-1
+2010/11,regular,22,Hapoel Haifa,30,8,-3
+2010/11,regular,22,H. Beer Sheva,29,9,1
+2010/11,regular,22,Bnei Yehuda,29,10,-2
+2010/11,regular,22,FC Ashdod,27,11,-8
+2010/11,regular,22,B. Jerusalem,24,12,-5
+2010/11,regular,22,H. Petah Tikva,20,13,-16
+2010/11,regular,22,H. Ashkelon,20,14,-16
+2010/11,regular,22,Bnei Sakhnin,18,15,-18
+2010/11,regular,22,H. Ramat Gan,9,16,-30
+2010/11,regular,23,Maccabi Haifa,54,1,24
+2010/11,regular,23,Hapoel Tel Aviv,52,2,33
+2010/11,regular,23,M. Tel Aviv,45,3,17
+2010/11,regular,23,Kiryat Shmona,40,4,15
+2010/11,regular,23,M. Petah Tikva,34,5,9
+2010/11,regular,23,Hapoel Acre,34,6,7
+2010/11,regular,23,Maccabi Netanya,33,7,2
+2010/11,regular,23,Hapoel Haifa,33,8,-2
+2010/11,regular,23,Bnei Yehuda,32,9,-1
+2010/11,regular,23,H. Beer Sheva,29,10,-2
+2010/11,regular,23,FC Ashdod,28,11,-8
+2010/11,regular,23,B. Jerusalem,25,12,-5
+2010/11,regular,23,H. Petah Tikva,20,13,-18
+2010/11,regular,23,H. Ashkelon,20,14,-19
+2010/11,regular,23,Bnei Sakhnin,18,15,-19
+2010/11,regular,23,H. Ramat Gan,9,16,-33
+2010/11,regular,24,Hapoel Tel Aviv,55,1,36
+2010/11,regular,24,Maccabi Haifa,54,2,21
+2010/11,regular,24,M. Tel Aviv,48,3,19
+2010/11,regular,24,Kiryat Shmona,40,4,13
+2010/11,regular,24,M. Petah Tikva,35,5,9
+2010/11,regular,24,Hapoel Acre,35,6,7
+2010/11,regular,24,Bnei Yehuda,35,7,1
+2010/11,regular,24,Maccabi Netanya,34,8,2
+2010/11,regular,24,Hapoel Haifa,34,9,-2
+2010/11,regular,24,H. Beer Sheva,30,10,-2
+2010/11,regular,24,FC Ashdod,29,11,-8
+2010/11,regular,24,B. Jerusalem,25,12,-6
+2010/11,regular,24,H. Petah Tikva,23,13,-17
+2010/11,regular,24,H. Ashkelon,20,14,-21
+2010/11,regular,24,Bnei Sakhnin,19,15,-19
+2010/11,regular,24,H. Ramat Gan,10,16,-33
+2010/11,regular,25,Maccabi Haifa,57,1,22
+2010/11,regular,25,Hapoel Tel Aviv,55,2,35
+2010/11,regular,25,M. Tel Aviv,49,3,19
+2010/11,regular,25,Kiryat Shmona,41,4,13
+2010/11,regular,25,M. Petah Tikva,38,5,13
+2010/11,regular,25,Bnei Yehuda,38,6,2
+2010/11,regular,25,Hapoel Haifa,37,7,0
+2010/11,regular,25,Hapoel Acre,36,8,7
+2010/11,regular,25,Maccabi Netanya,35,9,2
+2010/11,regular,25,H. Beer Sheva,30,10,-4
+2010/11,regular,25,FC Ashdod,29,11,-9
+2010/11,regular,25,B. Jerusalem,28,12,-5
+2010/11,regular,25,H. Petah Tikva,24,13,-17
+2010/11,regular,25,Bnei Sakhnin,20,14,-19
+2010/11,regular,25,H. Ashkelon,20,15,-25
+2010/11,regular,25,H. Ramat Gan,10,16,-34
+2010/11,regular,26,Maccabi Haifa,60,1,24
+2010/11,regular,26,Hapoel Tel Aviv,58,2,36
+2010/11,regular,26,M. Tel Aviv,49,3,15
+2010/11,regular,26,Kiryat Shmona,44,4,17
+2010/11,regular,26,M. Petah Tikva,39,5,13
+2010/11,regular,26,Bnei Yehuda,39,6,2
+2010/11,regular,26,Hapoel Acre,37,7,7
+2010/11,regular,26,Hapoel Haifa,37,8,-2
+2010/11,regular,26,Maccabi Netanya,36,9,2
+2010/11,regular,26,H. Beer Sheva,33,10,-3
+2010/11,regular,26,B. Jerusalem,29,11,-5
+2010/11,regular,26,FC Ashdod,29,12,-11
+2010/11,regular,26,H. Petah Tikva,27,13,-15
+2010/11,regular,26,Bnei Sakhnin,20,14,-20
+2010/11,regular,26,H. Ashkelon,20,15,-26
+2010/11,regular,26,H. Ramat Gan,11,16,-34
+2010/11,regular,27,Maccabi Haifa,63,1,27
+2010/11,regular,27,Hapoel Tel Aviv,59,2,36
+2010/11,regular,27,M. Tel Aviv,49,3,12
+2010/11,regular,27,Kiryat Shmona,45,4,17
+2010/11,regular,27,M. Petah Tikva,40,5,13
+2010/11,regular,27,Hapoel Acre,40,6,9
+2010/11,regular,27,Maccabi Netanya,39,7,5
+2010/11,regular,27,Bnei Yehuda,39,8,1
+2010/11,regular,27,Hapoel Haifa,37,9,-3
+2010/11,regular,27,H. Beer Sheva,33,10,-5
+2010/11,regular,27,B. Jerusalem,32,11,-4
+2010/11,regular,27,FC Ashdod,30,12,-11
+2010/11,regular,27,H. Petah Tikva,30,13,-14
+2010/11,regular,27,Bnei Sakhnin,21,14,-20
+2010/11,regular,27,H. Ashkelon,20,15,-29
+2010/11,regular,27,H. Ramat Gan,12,16,-34
+2010/11,regular,28,Maccabi Haifa,66,1,29
+2010/11,regular,28,Hapoel Tel Aviv,62,2,38
+2010/11,regular,28,M. Tel Aviv,49,3,10
+2010/11,regular,28,Kiryat Shmona,48,4,18
+2010/11,regular,28,Bnei Yehuda,42,5,3
+2010/11,regular,28,M. Petah Tikva,41,6,13
+2010/11,regular,28,Hapoel Acre,40,7,7
+2010/11,regular,28,Maccabi Netanya,40,8,5
+2010/11,regular,28,Hapoel Haifa,40,9,0
+2010/11,regular,28,H. Beer Sheva,33,10,-6
+2010/11,regular,28,FC Ashdod,33,11,-10
+2010/11,regular,28,B. Jerusalem,32,12,-5
+2010/11,regular,28,H. Petah Tikva,30,13,-16
+2010/11,regular,28,H. Ashkelon,23,14,-28
+2010/11,regular,28,Bnei Sakhnin,21,15,-23
+2010/11,regular,28,H. Ramat Gan,12,16,-35
+2010/11,regular,29,Maccabi Haifa,69,1,30
+2010/11,regular,29,Hapoel Tel Aviv,62,2,37
+2010/11,regular,29,M. Tel Aviv,50,3,10
+2010/11,regular,29,Kiryat Shmona,48,4,17
+2010/11,regular,29,Bnei Yehuda,45,5,4
+2010/11,regular,29,Maccabi Netanya,43,6,6
+2010/11,regular,29,M. Petah Tikva,42,7,13
+2010/11,regular,29,Hapoel Haifa,41,8,0
+2010/11,regular,29,Hapoel Acre,40,9,5
+2010/11,regular,29,B. Jerusalem,35,10,-3
+2010/11,regular,29,FC Ashdod,34,11,-10
+2010/11,regular,29,H. Beer Sheva,33,12,-7
+2010/11,regular,29,H. Petah Tikva,33,13,-14
+2010/11,regular,29,Bnei Sakhnin,24,14,-21
+2010/11,regular,29,H. Ashkelon,23,15,-30
+2010/11,regular,29,H. Ramat Gan,12,16,-37
+2010/11,regular,30,Maccabi Haifa,70,1,30
+2010/11,regular,30,Hapoel Tel Aviv,65,2,38
+2010/11,regular,30,M. Tel Aviv,50,3,8
+2010/11,regular,30,Kiryat Shmona,48,4,16
+2010/11,regular,30,Bnei Yehuda,48,5,6
+2010/11,regular,30,Maccabi Netanya,44,6,6
+2010/11,regular,30,Hapoel Haifa,44,7,1
+2010/11,regular,30,M. Petah Tikva,42,8,11
+2010/11,regular,30,Hapoel Acre,41,9,5
+2010/11,regular,30,B. Jerusalem,38,10,-2
+2010/11,regular,30,H. Beer Sheva,36,11,-5
+2010/11,regular,30,FC Ashdod,34,12,-13
+2010/11,regular,30,H. Petah Tikva,33,13,-15
+2010/11,regular,30,H. Ashkelon,26,14,-27
+2010/11,regular,30,Bnei Sakhnin,25,15,-21
+2010/11,regular,30,H. Ramat Gan,12,16,-38

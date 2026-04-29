@@ -1,0 +1,397 @@
+﻿season,stage,round,team,points,position,goal_diff
+2006/07,regular,1,H. Kfar Saba,3,1,3
+2006/07,regular,1,Maccabi Netanya,3,2,2
+2006/07,regular,1,B. Jerusalem,3,3,1
+2006/07,regular,1,FC Ashdod,3,4,1
+2006/07,regular,1,Bnei Yehuda,1,5,0
+2006/07,regular,1,Hapoel Tel Aviv,1,5,0
+2006/07,regular,1,Hakoah Amidar,1,7,0
+2006/07,regular,1,M. Petah Tikva,1,7,0
+2006/07,regular,1,Maccabi Herzlya,0,9,-1
+2006/07,regular,1,Maccabi Haifa,0,10,-2
+2006/07,regular,1,M. Tel Aviv,-2,11,-1
+2006/07,regular,1,H. Petah Tikva,-3,12,-3
+2006/07,regular,2,H. Kfar Saba,6,1,5
+2006/07,regular,2,B. Jerusalem,6,2,2
+2006/07,regular,2,M. Petah Tikva,4,3,3
+2006/07,regular,2,Maccabi Netanya,4,4,2
+2006/07,regular,2,Hakoah Amidar,4,5,1
+2006/07,regular,2,FC Ashdod,3,6,0
+2006/07,regular,2,Maccabi Haifa,3,7,-1
+2006/07,regular,2,Bnei Yehuda,1,8,-1
+2006/07,regular,2,Hapoel Tel Aviv,1,9,-1
+2006/07,regular,2,Maccabi Herzlya,0,10,-4
+2006/07,regular,2,H. Petah Tikva,-2,11,-3
+2006/07,regular,2,M. Tel Aviv,-2,11,-3
+2006/07,regular,3,B. Jerusalem,9,1,3
+2006/07,regular,3,H. Kfar Saba,6,2,4
+2006/07,regular,3,FC Ashdod,6,3,1
+2006/07,regular,3,Maccabi Haifa,6,4,0
+2006/07,regular,3,Maccabi Netanya,5,5,2
+2006/07,regular,3,Hapoel Tel Aviv,4,6,2
+2006/07,regular,3,M. Petah Tikva,4,7,2
+2006/07,regular,3,Bnei Yehuda,4,8,0
+2006/07,regular,3,Hakoah Amidar,4,9,-2
+2006/07,regular,3,Maccabi Herzlya,0,10,-5
+2006/07,regular,3,M. Tel Aviv,-1,11,-3
+2006/07,regular,3,H. Petah Tikva,-2,12,-4
+2006/07,regular,4,B. Jerusalem,10,1,3
+2006/07,regular,4,Maccabi Haifa,9,2,2
+2006/07,regular,4,H. Kfar Saba,7,3,4
+2006/07,regular,4,M. Petah Tikva,7,4,3
+2006/07,regular,4,Maccabi Netanya,6,5,2
+2006/07,regular,4,FC Ashdod,6,6,0
+2006/07,regular,4,Hapoel Tel Aviv,5,7,2
+2006/07,regular,4,Hakoah Amidar,5,8,-2
+2006/07,regular,4,Bnei Yehuda,4,9,-2
+2006/07,regular,4,M. Tel Aviv,2,10,-2
+2006/07,regular,4,Maccabi Herzlya,1,11,-5
+2006/07,regular,4,H. Petah Tikva,-2,12,-5
+2006/07,regular,5,M. Petah Tikva,10,1,4
+2006/07,regular,5,B. Jerusalem,10,2,1
+2006/07,regular,5,Maccabi Netanya,9,3,4
+2006/07,regular,5,FC Ashdod,9,4,3
+2006/07,regular,5,Maccabi Haifa,9,5,0
+2006/07,regular,5,Hapoel Tel Aviv,8,6,4
+2006/07,regular,5,H. Kfar Saba,7,7,1
+2006/07,regular,5,Bnei Yehuda,7,8,0
+2006/07,regular,5,Hakoah Amidar,5,9,-3
+2006/07,regular,5,Maccabi Herzlya,4,10,-4
+2006/07,regular,5,M. Tel Aviv,2,11,-3
+2006/07,regular,5,H. Petah Tikva,-2,12,-7
+2006/07,regular,6,B. Jerusalem,13,1,4
+2006/07,regular,6,FC Ashdod,12,2,5
+2006/07,regular,6,Hapoel Tel Aviv,11,3,6
+2006/07,regular,6,H. Kfar Saba,10,4,4
+2006/07,regular,6,M. Petah Tikva,10,5,1
+2006/07,regular,6,Maccabi Haifa,10,6,0
+2006/07,regular,6,Maccabi Netanya,9,7,2
+2006/07,regular,6,Bnei Yehuda,7,8,-4
+2006/07,regular,6,Hakoah Amidar,6,9,-3
+2006/07,regular,6,M. Tel Aviv,5,10,1
+2006/07,regular,6,Maccabi Herzlya,4,11,-7
+2006/07,regular,6,H. Petah Tikva,-2,12,-9
+2006/07,regular,7,B. Jerusalem,16,1,7
+2006/07,regular,7,Maccabi Netanya,12,2,3
+2006/07,regular,7,FC Ashdod,12,3,2
+2006/07,regular,7,H. Kfar Saba,11,4,4
+2006/07,regular,7,Hapoel Tel Aviv,11,5,4
+2006/07,regular,7,Maccabi Haifa,11,6,0
+2006/07,regular,7,M. Petah Tikva,10,7,0
+2006/07,regular,7,M. Tel Aviv,8,8,3
+2006/07,regular,7,Bnei Yehuda,8,9,-4
+2006/07,regular,7,Hakoah Amidar,6,10,-6
+2006/07,regular,7,Maccabi Herzlya,5,11,-7
+2006/07,regular,7,H. Petah Tikva,1,12,-6
+2006/07,regular,8,B. Jerusalem,17,1,7
+2006/07,regular,8,Hapoel Tel Aviv,14,2,5
+2006/07,regular,8,Maccabi Netanya,13,3,3
+2006/07,regular,8,M. Petah Tikva,13,4,1
+2006/07,regular,8,FC Ashdod,12,5,1
+2006/07,regular,8,Maccabi Haifa,12,6,0
+2006/07,regular,8,M. Tel Aviv,11,7,4
+2006/07,regular,8,H. Kfar Saba,11,8,3
+2006/07,regular,8,Bnei Yehuda,9,9,-4
+2006/07,regular,8,Hakoah Amidar,6,10,-7
+2006/07,regular,8,Maccabi Herzlya,6,10,-7
+2006/07,regular,8,H. Petah Tikva,2,12,-6
+2006/07,regular,9,Hapoel Tel Aviv,17,1,6
+2006/07,regular,9,B. Jerusalem,17,2,5
+2006/07,regular,9,M. Petah Tikva,16,3,3
+2006/07,regular,9,FC Ashdod,15,4,2
+2006/07,regular,9,Maccabi Haifa,15,5,1
+2006/07,regular,9,M. Tel Aviv,14,6,6
+2006/07,regular,9,Maccabi Netanya,13,7,2
+2006/07,regular,9,H. Kfar Saba,12,8,3
+2006/07,regular,9,Bnei Yehuda,9,9,-5
+2006/07,regular,9,Hakoah Amidar,7,10,-7
+2006/07,regular,9,Maccabi Herzlya,6,11,-9
+2006/07,regular,9,H. Petah Tikva,2,12,-7
+2006/07,regular,10,B. Jerusalem,20,1,7
+2006/07,regular,10,M. Petah Tikva,19,2,4
+2006/07,regular,10,FC Ashdod,18,3,3
+2006/07,regular,10,Hapoel Tel Aviv,17,4,5
+2006/07,regular,10,Maccabi Netanya,16,5,3
+2006/07,regular,10,Maccabi Haifa,16,6,1
+2006/07,regular,10,M. Tel Aviv,15,7,6
+2006/07,regular,10,H. Kfar Saba,15,8,4
+2006/07,regular,10,Bnei Yehuda,9,9,-6
+2006/07,regular,10,Hakoah Amidar,7,10,-8
+2006/07,regular,10,Maccabi Herzlya,6,11,-10
+2006/07,regular,10,H. Petah Tikva,2,12,-9
+2006/07,regular,11,B. Jerusalem,23,1,9
+2006/07,regular,11,M. Petah Tikva,22,2,5
+2006/07,regular,11,FC Ashdod,21,3,4
+2006/07,regular,11,M. Tel Aviv,18,4,7
+2006/07,regular,11,Hapoel Tel Aviv,17,5,4
+2006/07,regular,11,Maccabi Haifa,17,6,1
+2006/07,regular,11,H. Kfar Saba,16,7,4
+2006/07,regular,11,Maccabi Netanya,16,8,2
+2006/07,regular,11,Bnei Yehuda,9,9,-8
+2006/07,regular,11,Maccabi Herzlya,9,10,-9
+2006/07,regular,11,Hakoah Amidar,7,11,-9
+2006/07,regular,11,H. Petah Tikva,2,12,-10
+2006/07,regular,12,B. Jerusalem,24,1,9
+2006/07,regular,12,FC Ashdod,24,2,5
+2006/07,regular,12,M. Petah Tikva,23,3,5
+2006/07,regular,12,Hapoel Tel Aviv,20,4,6
+2006/07,regular,12,Maccabi Haifa,20,5,2
+2006/07,regular,12,M. Tel Aviv,19,6,7
+2006/07,regular,12,H. Kfar Saba,17,7,4
+2006/07,regular,12,Maccabi Netanya,16,8,1
+2006/07,regular,12,Bnei Yehuda,9,9,-10
+2006/07,regular,12,Maccabi Herzlya,9,10,-10
+2006/07,regular,12,Hakoah Amidar,8,11,-9
+2006/07,regular,12,H. Petah Tikva,3,12,-10
+2006/07,regular,13,B. Jerusalem,25,1,9
+2006/07,regular,13,FC Ashdod,25,2,5
+2006/07,regular,13,M. Petah Tikva,24,3,5
+2006/07,regular,13,Hapoel Tel Aviv,21,4,6
+2006/07,regular,13,Maccabi Haifa,21,5,2
+2006/07,regular,13,M. Tel Aviv,20,6,7
+2006/07,regular,13,H. Kfar Saba,18,7,4
+2006/07,regular,13,Maccabi Netanya,17,8,1
+2006/07,regular,13,Bnei Yehuda,10,9,-10
+2006/07,regular,13,Maccabi Herzlya,10,9,-10
+2006/07,regular,13,Hakoah Amidar,9,11,-9
+2006/07,regular,13,H. Petah Tikva,4,12,-10
+2006/07,regular,14,B. Jerusalem,28,1,11
+2006/07,regular,14,FC Ashdod,28,2,6
+2006/07,regular,14,Hapoel Tel Aviv,24,3,7
+2006/07,regular,14,M. Petah Tikva,24,4,4
+2006/07,regular,14,Maccabi Haifa,24,5,3
+2006/07,regular,14,M. Tel Aviv,21,6,7
+2006/07,regular,14,H. Kfar Saba,18,7,2
+2006/07,regular,14,Maccabi Netanya,18,8,1
+2006/07,regular,14,Bnei Yehuda,11,9,-10
+2006/07,regular,14,Maccabi Herzlya,11,9,-10
+2006/07,regular,14,Hakoah Amidar,9,11,-10
+2006/07,regular,14,H. Petah Tikva,4,12,-11
+2006/07,regular,15,B. Jerusalem,31,1,13
+2006/07,regular,15,FC Ashdod,29,2,6
+2006/07,regular,15,Hapoel Tel Aviv,27,3,9
+2006/07,regular,15,M. Petah Tikva,27,4,5
+2006/07,regular,15,Maccabi Haifa,24,5,2
+2006/07,regular,15,M. Tel Aviv,22,6,7
+2006/07,regular,15,Maccabi Netanya,21,7,2
+2006/07,regular,15,H. Kfar Saba,18,8,1
+2006/07,regular,15,Bnei Yehuda,14,9,-9
+2006/07,regular,15,Maccabi Herzlya,11,10,-12
+2006/07,regular,15,Hakoah Amidar,9,11,-12
+2006/07,regular,15,H. Petah Tikva,4,12,-12
+2006/07,regular,16,B. Jerusalem,32,1,13
+2006/07,regular,16,FC Ashdod,30,2,6
+2006/07,regular,16,Hapoel Tel Aviv,27,3,8
+2006/07,regular,16,M. Petah Tikva,27,4,4
+2006/07,regular,16,Maccabi Haifa,27,5,3
+2006/07,regular,16,M. Tel Aviv,25,6,8
+2006/07,regular,16,Maccabi Netanya,22,7,2
+2006/07,regular,16,H. Kfar Saba,19,8,1
+2006/07,regular,16,Bnei Yehuda,15,9,-9
+2006/07,regular,16,Hakoah Amidar,12,10,-11
+2006/07,regular,16,Maccabi Herzlya,11,11,-13
+2006/07,regular,16,H. Petah Tikva,5,12,-12
+2006/07,regular,17,B. Jerusalem,32,1,12
+2006/07,regular,17,Hapoel Tel Aviv,30,2,10
+2006/07,regular,17,FC Ashdod,30,3,5
+2006/07,regular,17,M. Petah Tikva,27,4,3
+2006/07,regular,17,Maccabi Haifa,27,5,2
+2006/07,regular,17,M. Tel Aviv,26,6,8
+2006/07,regular,17,Maccabi Netanya,25,7,3
+2006/07,regular,17,H. Kfar Saba,22,8,2
+2006/07,regular,17,Bnei Yehuda,16,9,-9
+2006/07,regular,17,Hakoah Amidar,15,10,-10
+2006/07,regular,17,Maccabi Herzlya,14,11,-12
+2006/07,regular,17,H. Petah Tikva,5,12,-14
+2006/07,regular,18,B. Jerusalem,35,1,14
+2006/07,regular,18,Hapoel Tel Aviv,31,2,10
+2006/07,regular,18,FC Ashdod,30,3,3
+2006/07,regular,18,Maccabi Netanya,28,4,5
+2006/07,regular,18,M. Tel Aviv,27,5,8
+2006/07,regular,18,M. Petah Tikva,27,6,1
+2006/07,regular,18,Maccabi Haifa,27,7,-2
+2006/07,regular,18,H. Kfar Saba,22,8,1
+2006/07,regular,18,Bnei Yehuda,19,9,-8
+2006/07,regular,18,Maccabi Herzlya,17,10,-8
+2006/07,regular,18,Hakoah Amidar,15,11,-11
+2006/07,regular,18,H. Petah Tikva,8,12,-13
+2006/07,regular,19,B. Jerusalem,38,1,17
+2006/07,regular,19,Hapoel Tel Aviv,32,2,10
+2006/07,regular,19,M. Tel Aviv,30,3,9
+2006/07,regular,19,FC Ashdod,30,4,2
+2006/07,regular,19,M. Petah Tikva,30,5,2
+2006/07,regular,19,Maccabi Netanya,29,6,5
+2006/07,regular,19,Maccabi Haifa,27,7,-5
+2006/07,regular,19,H. Kfar Saba,23,8,1
+2006/07,regular,19,Bnei Yehuda,20,9,-8
+2006/07,regular,19,Maccabi Herzlya,18,10,-8
+2006/07,regular,19,Hakoah Amidar,15,11,-12
+2006/07,regular,19,H. Petah Tikva,9,12,-13
+2006/07,regular,20,B. Jerusalem,39,1,17
+2006/07,regular,20,Hapoel Tel Aviv,33,2,10
+2006/07,regular,20,M. Tel Aviv,33,3,10
+2006/07,regular,20,FC Ashdod,31,4,2
+2006/07,regular,20,M. Petah Tikva,31,5,2
+2006/07,regular,20,Maccabi Netanya,30,6,5
+2006/07,regular,20,Maccabi Haifa,30,7,-3
+2006/07,regular,20,H. Kfar Saba,23,8,-1
+2006/07,regular,20,Bnei Yehuda,21,9,-8
+2006/07,regular,20,Maccabi Herzlya,18,10,-9
+2006/07,regular,20,Hakoah Amidar,18,11,-10
+2006/07,regular,20,H. Petah Tikva,9,12,-15
+2006/07,regular,21,B. Jerusalem,42,1,18
+2006/07,regular,21,Hapoel Tel Aviv,36,2,11
+2006/07,regular,21,M. Tel Aviv,34,3,10
+2006/07,regular,21,Maccabi Netanya,33,4,6
+2006/07,regular,21,FC Ashdod,31,5,1
+2006/07,regular,21,M. Petah Tikva,31,6,1
+2006/07,regular,21,Maccabi Haifa,31,7,-3
+2006/07,regular,21,H. Kfar Saba,26,8,1
+2006/07,regular,21,Bnei Yehuda,24,9,-7
+2006/07,regular,21,Maccabi Herzlya,18,10,-11
+2006/07,regular,21,Hakoah Amidar,18,11,-11
+2006/07,regular,21,H. Petah Tikva,9,12,-16
+2006/07,regular,22,B. Jerusalem,43,1,18
+2006/07,regular,22,Hapoel Tel Aviv,39,2,12
+2006/07,regular,22,M. Tel Aviv,37,3,11
+2006/07,regular,22,Maccabi Netanya,36,4,7
+2006/07,regular,22,FC Ashdod,34,5,4
+2006/07,regular,22,Maccabi Haifa,32,6,-3
+2006/07,regular,22,M. Petah Tikva,31,7,0
+2006/07,regular,22,H. Kfar Saba,27,8,1
+2006/07,regular,22,Bnei Yehuda,25,9,-7
+2006/07,regular,22,Maccabi Herzlya,18,10,-12
+2006/07,regular,22,Hakoah Amidar,18,11,-14
+2006/07,regular,22,H. Petah Tikva,9,12,-17
+2006/07,regular,23,B. Jerusalem,44,1,18
+2006/07,regular,23,Hapoel Tel Aviv,42,2,14
+2006/07,regular,23,M. Tel Aviv,38,3,11
+2006/07,regular,23,Maccabi Netanya,36,4,5
+2006/07,regular,23,FC Ashdod,35,5,4
+2006/07,regular,23,M. Petah Tikva,34,6,2
+2006/07,regular,23,Maccabi Haifa,32,7,-4
+2006/07,regular,23,H. Kfar Saba,28,8,1
+2006/07,regular,23,Bnei Yehuda,26,9,-7
+2006/07,regular,23,Hakoah Amidar,21,10,-13
+2006/07,regular,23,Maccabi Herzlya,18,11,-14
+2006/07,regular,23,H. Petah Tikva,10,12,-17
+2006/07,regular,24,B. Jerusalem,47,1,21
+2006/07,regular,24,Hapoel Tel Aviv,45,2,15
+2006/07,regular,24,M. Tel Aviv,41,3,12
+2006/07,regular,24,M. Petah Tikva,37,4,3
+2006/07,regular,24,Maccabi Netanya,36,5,4
+2006/07,regular,24,FC Ashdod,35,6,3
+2006/07,regular,24,Maccabi Haifa,32,7,-7
+2006/07,regular,24,H. Kfar Saba,31,8,3
+2006/07,regular,24,Bnei Yehuda,27,9,-7
+2006/07,regular,24,Hakoah Amidar,21,10,-14
+2006/07,regular,24,Maccabi Herzlya,18,11,-16
+2006/07,regular,24,H. Petah Tikva,11,12,-17
+2006/07,regular,25,B. Jerusalem,50,1,22
+2006/07,regular,25,Hapoel Tel Aviv,45,2,11
+2006/07,regular,25,M. Tel Aviv,44,3,13
+2006/07,regular,25,Maccabi Netanya,39,4,5
+2006/07,regular,25,M. Petah Tikva,37,5,2
+2006/07,regular,25,FC Ashdod,35,6,2
+2006/07,regular,25,Maccabi Haifa,35,7,-3
+2006/07,regular,25,H. Kfar Saba,32,8,3
+2006/07,regular,25,Bnei Yehuda,27,9,-10
+2006/07,regular,25,Hakoah Amidar,22,10,-14
+2006/07,regular,25,Maccabi Herzlya,21,11,-13
+2006/07,regular,25,H. Petah Tikva,11,12,-18
+2006/07,regular,26,B. Jerusalem,53,1,23
+2006/07,regular,26,Hapoel Tel Aviv,46,2,11
+2006/07,regular,26,M. Tel Aviv,44,3,12
+2006/07,regular,26,Maccabi Netanya,42,4,6
+2006/07,regular,26,M. Petah Tikva,38,5,2
+2006/07,regular,26,Maccabi Haifa,38,6,-2
+2006/07,regular,26,FC Ashdod,35,7,1
+2006/07,regular,26,H. Kfar Saba,32,8,2
+2006/07,regular,26,Bnei Yehuda,28,9,-10
+2006/07,regular,26,Maccabi Herzlya,24,10,-12
+2006/07,regular,26,Hakoah Amidar,23,11,-14
+2006/07,regular,26,H. Petah Tikva,11,12,-19
+2006/07,regular,27,B. Jerusalem,56,1,25
+2006/07,regular,27,M. Tel Aviv,47,2,14
+2006/07,regular,27,Hapoel Tel Aviv,47,3,11
+2006/07,regular,27,Maccabi Netanya,43,4,6
+2006/07,regular,27,Maccabi Haifa,39,5,-2
+2006/07,regular,27,FC Ashdod,38,6,4
+2006/07,regular,27,M. Petah Tikva,38,7,0
+2006/07,regular,27,H. Kfar Saba,33,8,2
+2006/07,regular,27,Bnei Yehuda,28,9,-12
+2006/07,regular,27,Maccabi Herzlya,27,10,-7
+2006/07,regular,27,Hakoah Amidar,23,11,-19
+2006/07,regular,27,H. Petah Tikva,11,12,-22
+2006/07,regular,28,B. Jerusalem,57,1,25
+2006/07,regular,28,M. Tel Aviv,48,2,14
+2006/07,regular,28,Hapoel Tel Aviv,48,3,11
+2006/07,regular,28,Maccabi Netanya,44,4,6
+2006/07,regular,28,Maccabi Haifa,42,5,-1
+2006/07,regular,28,M. Petah Tikva,39,6,0
+2006/07,regular,28,FC Ashdod,38,7,3
+2006/07,regular,28,H. Kfar Saba,34,8,2
+2006/07,regular,28,Bnei Yehuda,29,9,-12
+2006/07,regular,28,Maccabi Herzlya,28,10,-7
+2006/07,regular,28,Hakoah Amidar,23,11,-20
+2006/07,regular,28,H. Petah Tikva,14,12,-21
+2006/07,regular,29,B. Jerusalem,58,1,25
+2006/07,regular,29,M. Tel Aviv,48,2,13
+2006/07,regular,29,Hapoel Tel Aviv,48,3,8
+2006/07,regular,29,Maccabi Netanya,45,4,6
+2006/07,regular,29,Maccabi Haifa,45,5,4
+2006/07,regular,29,M. Petah Tikva,42,6,2
+2006/07,regular,29,FC Ashdod,38,7,1
+2006/07,regular,29,H. Kfar Saba,35,8,2
+2006/07,regular,29,Bnei Yehuda,32,9,-11
+2006/07,regular,29,Maccabi Herzlya,31,10,-4
+2006/07,regular,29,Hakoah Amidar,24,11,-20
+2006/07,regular,29,H. Petah Tikva,14,12,-26
+2006/07,regular,30,B. Jerusalem,61,1,27
+2006/07,regular,30,M. Tel Aviv,51,2,16
+2006/07,regular,30,Maccabi Netanya,48,3,9
+2006/07,regular,30,Hapoel Tel Aviv,48,4,7
+2006/07,regular,30,Maccabi Haifa,45,5,3
+2006/07,regular,30,M. Petah Tikva,45,6,3
+2006/07,regular,30,FC Ashdod,41,7,3
+2006/07,regular,30,H. Kfar Saba,35,8,0
+2006/07,regular,30,Bnei Yehuda,32,9,-14
+2006/07,regular,30,Maccabi Herzlya,31,10,-7
+2006/07,regular,30,Hakoah Amidar,27,11,-19
+2006/07,regular,30,H. Petah Tikva,14,12,-28
+2006/07,regular,31,B. Jerusalem,64,1,28
+2006/07,regular,31,M. Tel Aviv,54,2,18
+2006/07,regular,31,Maccabi Netanya,51,3,10
+2006/07,regular,31,Hapoel Tel Aviv,48,4,6
+2006/07,regular,31,M. Petah Tikva,46,5,3
+2006/07,regular,31,Maccabi Haifa,45,6,2
+2006/07,regular,31,FC Ashdod,41,7,2
+2006/07,regular,31,H. Kfar Saba,38,8,1
+2006/07,regular,31,Bnei Yehuda,35,9,-13
+2006/07,regular,31,Maccabi Herzlya,31,10,-8
+2006/07,regular,31,Hakoah Amidar,27,11,-21
+2006/07,regular,31,H. Petah Tikva,15,12,-28
+2006/07,regular,32,B. Jerusalem,67,1,29
+2006/07,regular,32,M. Tel Aviv,54,2,17
+2006/07,regular,32,Maccabi Netanya,54,3,11
+2006/07,regular,32,Hapoel Tel Aviv,51,4,10
+2006/07,regular,32,Maccabi Haifa,48,5,4
+2006/07,regular,32,M. Petah Tikva,47,6,3
+2006/07,regular,32,FC Ashdod,41,7,0
+2006/07,regular,32,H. Kfar Saba,39,8,1
+2006/07,regular,32,Bnei Yehuda,35,9,-15
+2006/07,regular,32,Maccabi Herzlya,34,10,-6
+2006/07,regular,32,Hakoah Amidar,27,11,-22
+2006/07,regular,32,H. Petah Tikva,15,12,-32
+2006/07,regular,33,B. Jerusalem,67,1,28
+2006/07,regular,33,Maccabi Netanya,57,2,12
+2006/07,regular,33,M. Tel Aviv,54,3,14
+2006/07,regular,33,Hapoel Tel Aviv,54,4,13
+2006/07,regular,33,Maccabi Haifa,51,5,6
+2006/07,regular,33,M. Petah Tikva,50,6,4
+2006/07,regular,33,FC Ashdod,42,7,0
+2006/07,regular,33,H. Kfar Saba,40,8,1
+2006/07,regular,33,Bnei Yehuda,35,9,-16
+2006/07,regular,33,Maccabi Herzlya,34,10,-8
+2006/07,regular,33,Hakoah Amidar,28,11,-22
+2006/07,regular,33,H. Petah Tikva,16,12,-32

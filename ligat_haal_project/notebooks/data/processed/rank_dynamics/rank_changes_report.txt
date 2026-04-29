@@ -1,0 +1,552 @@
+Season 2015/16:
+  Notes:
+    - Points halved before playoff groups: True
+    - Carry points before playoffs: int(round(pts / 2)) unless legacy exception above applies
+    - Regular season ended after TM round 26
+    - Playoff fixture source where applicable: betexplorer
+    - Subgroup tables after the split: ranks are within the championship or relegation cohort only (not comparable to pre-split global rank 1–N).
+    - Points from the regular season are halved for playoff carry points; goal difference from the regular phase is carried for tie-breaks within each mini-league.
+    - Other split-era seasons: carry points mapped with int(round(pts / 2)) before playoff fixtures.
+  [regular] Regular: after round 2 vs after round 1
+    B. Jerusalem: rank 8 -> 10
+    Bnei Sakhnin: rank 10 -> 13
+    Bnei Yehuda: rank 1 -> 6
+    H. Beer Sheva: rank 2 -> 7
+    H. Kfar Saba: rank 6 -> 4
+    Hapoel Acre: rank 11 -> 8
+    Hapoel Haifa: rank 4 -> 9
+    Hapoel Raanana: rank 7 -> 3
+    Hapoel Tel Aviv: rank 9 -> 12
+    Kiryat Shmona: rank 13 -> 5
+    M. Petah Tikva: rank 5 -> 1
+    M. Tel Aviv: rank 3 -> 2
+    Maccabi Netanya: rank 12 -> 11
+  [regular] Regular: after round 3 vs after round 2
+    B. Jerusalem: rank 10 -> 9
+    Bnei Yehuda: rank 6 -> 10
+    H. Beer Sheva: rank 7 -> 3
+    H. Kfar Saba: rank 4 -> 7
+    Hapoel Acre: rank 8 -> 4
+    Hapoel Haifa: rank 9 -> 8
+    Hapoel Raanana: rank 3 -> 6
+  [regular] Regular: after round 4 vs after round 3
+    B. Jerusalem: rank 9 -> 12
+    Bnei Sakhnin: rank 13 -> 9
+    Bnei Yehuda: rank 10 -> 5
+    H. Beer Sheva: rank 3 -> 2
+    H. Kfar Saba: rank 7 -> 10
+    Hapoel Acre: rank 4 -> 6
+    Hapoel Haifa: rank 8 -> 11
+    Hapoel Raanana: rank 6 -> 3
+    Hapoel Tel Aviv: rank 12 -> 8
+    Kiryat Shmona: rank 5 -> 7
+    M. Tel Aviv: rank 2 -> 4
+    Maccabi Netanya: rank 11 -> 13
+  [regular] Regular: after round 5 vs after round 4
+    B. Jerusalem: rank 12 -> 10
+    Bnei Sakhnin: rank 9 -> 6
+    Bnei Yehuda: rank 5 -> 11
+    H. Beer Sheva: rank 2 -> 7
+    H. Kfar Saba: rank 10 -> 12
+    Hapoel Acre: rank 6 -> 3
+    Hapoel Haifa: rank 11 -> 8
+    Hapoel Raanana: rank 3 -> 4
+    Hapoel Tel Aviv: rank 8 -> 5
+    Kiryat Shmona: rank 7 -> 9
+    M. Tel Aviv: rank 4 -> 2
+  [regular] Regular: after round 6 vs after round 5
+    B. Jerusalem: rank 10 -> 5
+    Bnei Sakhnin: rank 6 -> 9
+    Bnei Yehuda: rank 11 -> 12
+    H. Beer Sheva: rank 7 -> 3
+    H. Kfar Saba: rank 12 -> 13
+    Hapoel Acre: rank 3 -> 7
+    Hapoel Haifa: rank 8 -> 10
+    Hapoel Raanana: rank 4 -> 8
+    Hapoel Tel Aviv: rank 5 -> 6
+    Kiryat Shmona: rank 9 -> 4
+    M. Petah Tikva: rank 1 -> 2
+    M. Tel Aviv: rank 2 -> 1
+    Maccabi Netanya: rank 13 -> 11
+  [regular] Regular: after round 7 vs after round 6
+    B. Jerusalem: rank 5 -> 7
+    Bnei Sakhnin: rank 9 -> 6
+    Bnei Yehuda: rank 12 -> 8
+    H. Beer Sheva: rank 3 -> 2
+    H. Kfar Saba: rank 13 -> 11
+    Hapoel Acre: rank 7 -> 10
+    Hapoel Haifa: rank 10 -> 12
+    Hapoel Raanana: rank 8 -> 5
+    Hapoel Tel Aviv: rank 6 -> 9
+    Kiryat Shmona: rank 4 -> 3
+    M. Petah Tikva: rank 2 -> 4
+    Maccabi Netanya: rank 11 -> 13
+  [regular] Regular: after round 8 vs after round 7
+    B. Jerusalem: rank 7 -> 5
+    Bnei Sakhnin: rank 6 -> 7
+    H. Beer Sheva: rank 2 -> 1
+    H. Kfar Saba: rank 11 -> 9
+    Hapoel Acre: rank 10 -> 11
+    Hapoel Haifa: rank 12 -> 13
+    Hapoel Raanana: rank 5 -> 3
+    Hapoel Tel Aviv: rank 9 -> 10
+    Kiryat Shmona: rank 3 -> 4
+    M. Petah Tikva: rank 4 -> 6
+    M. Tel Aviv: rank 1 -> 2
+    Maccabi Haifa: rank 14 -> 12
+    Maccabi Netanya: rank 13 -> 14
+  [regular] Regular: after round 9 vs after round 8
+    B. Jerusalem: rank 5 -> 3
+    Bnei Sakhnin: rank 7 -> 8
+    Bnei Yehuda: rank 8 -> 7
+    H. Kfar Saba: rank 9 -> 12
+    Hapoel Acre: rank 11 -> 10
+    Hapoel Haifa: rank 13 -> 9
+    Hapoel Raanana: rank 3 -> 5
+    Hapoel Tel Aviv: rank 10 -> 13
+    Maccabi Haifa: rank 12 -> 11
+  [regular] Regular: after round 10 vs after round 9
+    Bnei Sakhnin: rank 8 -> 9
+    Bnei Yehuda: rank 7 -> 6
+    Hapoel Acre: rank 10 -> 8
+    Hapoel Haifa: rank 9 -> 11
+    Hapoel Tel Aviv: rank 13 -> 10
+    M. Petah Tikva: rank 6 -> 7
+    Maccabi Haifa: rank 11 -> 13
+  [regular] Regular: after round 11 vs after round 10
+    Bnei Sakhnin: rank 9 -> 10
+    Bnei Yehuda: rank 6 -> 7
+    H. Beer Sheva: rank 1 -> 2
+    H. Kfar Saba: rank 12 -> 8
+    Hapoel Acre: rank 8 -> 9
+    Hapoel Haifa: rank 11 -> 13
+    Hapoel Raanana: rank 5 -> 4
+    Hapoel Tel Aviv: rank 10 -> 12
+    Kiryat Shmona: rank 4 -> 6
+    M. Petah Tikva: rank 7 -> 5
+    M. Tel Aviv: rank 2 -> 1
+    Maccabi Haifa: rank 13 -> 11
+  [regular] Regular: after round 12 vs after round 11
+    Bnei Sakhnin: rank 10 -> 7
+    Bnei Yehuda: rank 7 -> 9
+    H. Kfar Saba: rank 8 -> 11
+    Hapoel Acre: rank 9 -> 12
+    Hapoel Raanana: rank 4 -> 5
+    Hapoel Tel Aviv: rank 12 -> 10
+    M. Petah Tikva: rank 5 -> 4
+    Maccabi Haifa: rank 11 -> 8
+  [regular] Regular: after round 13 vs after round 12
+    Kiryat Shmona: rank 6 -> 8
+    Maccabi Haifa: rank 8 -> 6
+  [regular] Regular: after round 14 vs after round 13
+    Bnei Sakhnin: rank 7 -> 10
+    Bnei Yehuda: rank 9 -> 7
+    Hapoel Acre: rank 12 -> 13
+    Hapoel Haifa: rank 13 -> 12
+    Hapoel Tel Aviv: rank 10 -> 8
+    Kiryat Shmona: rank 8 -> 9
+  [regular] Regular: after round 15 vs after round 14
+    Bnei Sakhnin: rank 10 -> 12
+    H. Beer Sheva: rank 2 -> 1
+    H. Kfar Saba: rank 11 -> 9
+    Hapoel Haifa: rank 12 -> 10
+    Hapoel Raanana: rank 5 -> 4
+    Hapoel Tel Aviv: rank 8 -> 11
+    Kiryat Shmona: rank 9 -> 8
+    M. Petah Tikva: rank 4 -> 5
+    M. Tel Aviv: rank 1 -> 2
+  [regular] Regular: after round 16 vs after round 15
+    Bnei Sakhnin: rank 12 -> 13
+    H. Kfar Saba: rank 9 -> 12
+    Hapoel Acre: rank 13 -> 11
+    Hapoel Haifa: rank 10 -> 9
+    Hapoel Tel Aviv: rank 11 -> 10
+  [regular] Regular: after round 17 vs after round 16
+    Bnei Sakhnin: rank 13 -> 12
+    Bnei Yehuda: rank 7 -> 8
+    H. Kfar Saba: rank 12 -> 13
+    Hapoel Raanana: rank 4 -> 5
+    Kiryat Shmona: rank 8 -> 7
+    M. Petah Tikva: rank 5 -> 4
+  [regular] Regular: after round 18 vs after round 17
+    Bnei Sakhnin: rank 12 -> 11
+    Bnei Yehuda: rank 8 -> 10
+    H. Kfar Saba: rank 13 -> 12
+    Hapoel Acre: rank 11 -> 13
+    Hapoel Haifa: rank 9 -> 8
+    Hapoel Tel Aviv: rank 10 -> 9
+  [regular] Regular: after round 19 vs after round 18
+    Bnei Sakhnin: rank 11 -> 12
+    Bnei Yehuda: rank 10 -> 8
+    H. Kfar Saba: rank 12 -> 10
+    Hapoel Haifa: rank 8 -> 9
+    Hapoel Raanana: rank 5 -> 6
+    Hapoel Tel Aviv: rank 9 -> 11
+    Maccabi Haifa: rank 6 -> 5
+  [regular] Regular: after round 20 vs after round 19
+    Bnei Sakhnin: rank 12 -> 10
+    H. Kfar Saba: rank 10 -> 9
+    Hapoel Haifa: rank 9 -> 11
+    Hapoel Raanana: rank 6 -> 4
+    Hapoel Tel Aviv: rank 11 -> 12
+    M. Petah Tikva: rank 4 -> 5
+    Maccabi Haifa: rank 5 -> 6
+  [regular] Regular: after round 21 vs after round 20
+    M. Petah Tikva: rank 5 -> 6
+    Maccabi Haifa: rank 6 -> 5
+  [regular] Regular: after round 22 vs after round 21
+    Bnei Sakhnin: rank 10 -> 9
+    Bnei Yehuda: rank 8 -> 6
+    H. Kfar Saba: rank 9 -> 10
+    Kiryat Shmona: rank 7 -> 8
+    M. Petah Tikva: rank 6 -> 7
+  [regular] Regular: after round 23 vs after round 22
+    Bnei Sakhnin: rank 9 -> 7
+    H. Kfar Saba: rank 10 -> 8
+    Hapoel Acre: rank 13 -> 12
+    Hapoel Haifa: rank 11 -> 13
+    Hapoel Tel Aviv: rank 12 -> 11
+    Kiryat Shmona: rank 8 -> 10
+    M. Petah Tikva: rank 7 -> 9
+  [regular] Regular: after round 24 vs after round 23
+    Bnei Sakhnin: rank 7 -> 5
+    Bnei Yehuda: rank 6 -> 7
+    H. Kfar Saba: rank 8 -> 9
+    M. Petah Tikva: rank 9 -> 8
+    Maccabi Haifa: rank 5 -> 6
+  [regular] Regular: after round 25 vs after round 24
+    Hapoel Acre: rank 12 -> 11
+    Hapoel Tel Aviv: rank 11 -> 12
+  [regular] Regular: after round 26 vs after round 25
+    Hapoel Acre: rank 11 -> 10
+    Hapoel Raanana: rank 4 -> 6
+    Kiryat Shmona: rank 10 -> 11
+    Maccabi Haifa: rank 6 -> 4
+  [championship_playoff] championship playoff: after mini-league round 27 vs halved-carry table (before any playoff match)
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 28 vs after mini-league round 27
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 29 vs after mini-league round 28
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 30 vs after mini-league round 29
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 31 vs after mini-league round 30
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 32 vs after mini-league round 31
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 33 vs after mini-league round 32
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 34 vs after mini-league round 33
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 35 vs after mini-league round 34
+    B. Jerusalem: rank 3 -> 4
+    Maccabi Haifa: rank 4 -> 3
+  [championship_playoff] championship playoff: after mini-league round 36 vs after mini-league round 35
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 27 vs halved-carry table (before any playoff match)
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 28 vs after mini-league round 27
+    Kiryat Shmona: rank 3 -> 2
+    M. Petah Tikva: rank 2 -> 3
+  [relegation_playoff] relegation playoff: after mini-league round 29 vs after mini-league round 28
+    H. Kfar Saba: rank 4 -> 5
+    Hapoel Tel Aviv: rank 5 -> 3
+    M. Petah Tikva: rank 3 -> 4
+  [relegation_playoff] relegation playoff: after mini-league round 30 vs after mini-league round 29
+    H. Kfar Saba: rank 5 -> 6
+    Hapoel Acre: rank 6 -> 7
+    Hapoel Haifa: rank 7 -> 5
+  [relegation_playoff] relegation playoff: after mini-league round 31 vs after mini-league round 30
+    Hapoel Haifa: rank 5 -> 4
+    Hapoel Tel Aviv: rank 3 -> 2
+    Kiryat Shmona: rank 2 -> 3
+    M. Petah Tikva: rank 4 -> 5
+  [relegation_playoff] relegation playoff: after mini-league round 32 vs after mini-league round 31
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 33 vs after mini-league round 32
+    No ranking changes in this round
+
+Season 2009/10:
+  Notes:
+    - Points halved before playoff groups: True
+    - SPECIAL (2009/10 or 2010/11): חוק הקיזוז — carry points truncated with integer division pts // 2
+    - Regular season ended after TM round 30
+    - Playoff fixture source where applicable: betexplorer
+    - Subgroup tables after the split: ranks are within the championship or relegation cohort only (not comparable to pre-split global rank 1–N).
+    - Points from the regular season are halved for playoff carry points; goal difference from the regular phase is carried for tie-breaks within each mini-league.
+    - חוק הקיזוז seasons (2009/10, 2010/11): carry points halved with integer truncation (pts // 2).
+  [regular] Regular: after round 2 vs after round 1
+    B. Jerusalem: rank 9 -> 11
+    Bnei Sakhnin: rank 15 -> 14
+    FC Ashdod: rank 16 -> 7
+    H. Beer Sheva: rank 3 -> 4
+    H. Petah Tikva: rank 4 -> 6
+    H. Ramat Gan: rank 7 -> 8
+    Hapoel Acre: rank 11 -> 12
+    Hapoel Raanana: rank 12 -> 15
+    M. Ahi Nazareth: rank 13 -> 16
+    M. Petah Tikva: rank 8 -> 9
+    Maccabi Haifa: rank 6 -> 3
+    Maccabi Netanya: rank 14 -> 13
+  [regular] Regular: after round 3 vs after round 2
+    B. Jerusalem: rank 11 -> 7
+    Bnei Sakhnin: rank 14 -> 8
+    Bnei Yehuda: rank 1 -> 2
+    FC Ashdod: rank 7 -> 5
+    H. Beer Sheva: rank 4 -> 9
+    H. Petah Tikva: rank 6 -> 10
+    H. Ramat Gan: rank 8 -> 12
+    Hapoel Acre: rank 12 -> 14
+    Hapoel Haifa: rank 5 -> 4
+    Hapoel Tel Aviv: rank 10 -> 6
+    M. Petah Tikva: rank 9 -> 13
+    M. Tel Aviv: rank 2 -> 3
+    Maccabi Haifa: rank 3 -> 1
+    Maccabi Netanya: rank 13 -> 11
+  [regular] Regular: after round 4 vs after round 3
+    B. Jerusalem: rank 7 -> 4
+    Bnei Sakhnin: rank 8 -> 10
+    FC Ashdod: rank 5 -> 6
+    H. Beer Sheva: rank 9 -> 11
+    H. Petah Tikva: rank 10 -> 13
+    H. Ramat Gan: rank 12 -> 9
+    Hapoel Acre: rank 14 -> 16
+    Hapoel Haifa: rank 4 -> 3
+    Hapoel Tel Aviv: rank 6 -> 8
+    M. Ahi Nazareth: rank 16 -> 12
+    M. Petah Tikva: rank 13 -> 7
+    M. Tel Aviv: rank 3 -> 5
+    Maccabi Netanya: rank 11 -> 14
+  [regular] Regular: after round 5 vs after round 4
+    Bnei Sakhnin: rank 10 -> 12
+    Bnei Yehuda: rank 2 -> 3
+    FC Ashdod: rank 6 -> 7
+    H. Beer Sheva: rank 11 -> 8
+    Hapoel Acre: rank 16 -> 14
+    Hapoel Haifa: rank 3 -> 2
+    Hapoel Tel Aviv: rank 8 -> 5
+    M. Ahi Nazareth: rank 12 -> 10
+    M. Petah Tikva: rank 7 -> 11
+    M. Tel Aviv: rank 5 -> 6
+    Maccabi Netanya: rank 14 -> 16
+  [regular] Regular: after round 6 vs after round 5
+    Bnei Sakhnin: rank 12 -> 14
+    Bnei Yehuda: rank 3 -> 5
+    H. Beer Sheva: rank 8 -> 9
+    H. Petah Tikva: rank 13 -> 10
+    H. Ramat Gan: rank 9 -> 11
+    Hapoel Acre: rank 14 -> 15
+    Hapoel Raanana: rank 15 -> 16
+    Hapoel Tel Aviv: rank 5 -> 6
+    M. Ahi Nazareth: rank 10 -> 8
+    M. Petah Tikva: rank 11 -> 13
+    M. Tel Aviv: rank 6 -> 3
+    Maccabi Netanya: rank 16 -> 12
+  [regular] Regular: after round 7 vs after round 6
+    B. Jerusalem: rank 4 -> 6
+    Bnei Yehuda: rank 5 -> 3
+    H. Ramat Gan: rank 11 -> 12
+    Hapoel Haifa: rank 2 -> 5
+    Hapoel Tel Aviv: rank 6 -> 4
+    M. Tel Aviv: rank 3 -> 2
+    Maccabi Netanya: rank 12 -> 11
+  [regular] Regular: after round 8 vs after round 7
+    B. Jerusalem: rank 6 -> 4
+    FC Ashdod: rank 7 -> 8
+    H. Beer Sheva: rank 9 -> 7
+    H. Petah Tikva: rank 10 -> 12
+    H. Ramat Gan: rank 12 -> 9
+    Hapoel Acre: rank 15 -> 16
+    Hapoel Haifa: rank 5 -> 6
+    Hapoel Raanana: rank 16 -> 15
+    Hapoel Tel Aviv: rank 4 -> 2
+    M. Ahi Nazareth: rank 8 -> 11
+    M. Petah Tikva: rank 13 -> 10
+    M. Tel Aviv: rank 2 -> 5
+    Maccabi Netanya: rank 11 -> 13
+  [regular] Regular: after round 9 vs after round 8
+    B. Jerusalem: rank 4 -> 5
+    Bnei Sakhnin: rank 14 -> 15
+    FC Ashdod: rank 8 -> 10
+    H. Beer Sheva: rank 7 -> 6
+    H. Ramat Gan: rank 9 -> 8
+    Hapoel Acre: rank 16 -> 14
+    Hapoel Haifa: rank 6 -> 7
+    Hapoel Raanana: rank 15 -> 16
+    M. Ahi Nazareth: rank 11 -> 13
+    M. Petah Tikva: rank 10 -> 9
+    M. Tel Aviv: rank 5 -> 4
+    Maccabi Netanya: rank 13 -> 11
+  [regular] Regular: after round 10 vs after round 9
+    Bnei Sakhnin: rank 15 -> 13
+    FC Ashdod: rank 10 -> 7
+    H. Petah Tikva: rank 12 -> 15
+    H. Ramat Gan: rank 8 -> 10
+    Hapoel Acre: rank 14 -> 11
+    Hapoel Haifa: rank 7 -> 8
+    Hapoel Raanana: rank 16 -> 14
+    M. Ahi Nazareth: rank 13 -> 16
+    Maccabi Netanya: rank 11 -> 12
+  [regular] Regular: after round 11 vs after round 10
+    B. Jerusalem: rank 5 -> 6
+    Bnei Yehuda: rank 3 -> 4
+    FC Ashdod: rank 7 -> 5
+    H. Beer Sheva: rank 6 -> 7
+    H. Ramat Gan: rank 10 -> 11
+    Hapoel Acre: rank 11 -> 12
+    M. Petah Tikva: rank 9 -> 10
+    M. Tel Aviv: rank 4 -> 3
+    Maccabi Netanya: rank 12 -> 9
+  [regular] Regular: after round 12 vs after round 11
+    Bnei Yehuda: rank 4 -> 3
+    H. Ramat Gan: rank 11 -> 10
+    Hapoel Acre: rank 12 -> 11
+    Hapoel Haifa: rank 8 -> 9
+    M. Petah Tikva: rank 10 -> 12
+    M. Tel Aviv: rank 3 -> 4
+    Maccabi Netanya: rank 9 -> 8
+  [regular] Regular: after round 13 vs after round 12
+    B. Jerusalem: rank 6 -> 5
+    Bnei Sakhnin: rank 13 -> 14
+    FC Ashdod: rank 5 -> 7
+    H. Beer Sheva: rank 7 -> 6
+    Hapoel Raanana: rank 14 -> 13
+  [regular] Regular: after round 14 vs after round 13
+    Bnei Sakhnin: rank 14 -> 13
+    Bnei Yehuda: rank 3 -> 4
+    H. Beer Sheva: rank 6 -> 9
+    H. Petah Tikva: rank 15 -> 16
+    H. Ramat Gan: rank 10 -> 11
+    Hapoel Acre: rank 11 -> 10
+    Hapoel Haifa: rank 9 -> 8
+    Hapoel Raanana: rank 13 -> 14
+    M. Ahi Nazareth: rank 16 -> 15
+    M. Tel Aviv: rank 4 -> 3
+    Maccabi Netanya: rank 8 -> 6
+  [regular] Regular: after round 15 vs after round 14
+    FC Ashdod: rank 7 -> 8
+    H. Beer Sheva: rank 9 -> 6
+    Hapoel Haifa: rank 8 -> 9
+    Hapoel Raanana: rank 14 -> 12
+    M. Petah Tikva: rank 12 -> 14
+    Maccabi Netanya: rank 6 -> 7
+  [regular] Regular: after round 16 vs after round 15
+    Bnei Sakhnin: rank 13 -> 15
+    FC Ashdod: rank 8 -> 6
+    H. Beer Sheva: rank 6 -> 7
+    H. Petah Tikva: rank 16 -> 14
+    Hapoel Raanana: rank 12 -> 13
+    M. Ahi Nazareth: rank 15 -> 16
+    M. Petah Tikva: rank 14 -> 12
+    Maccabi Netanya: rank 7 -> 8
+  [regular] Regular: after round 17 vs after round 16
+    H. Ramat Gan: rank 11 -> 12
+    M. Petah Tikva: rank 12 -> 11
+  [regular] Regular: after round 18 vs after round 17
+    B. Jerusalem: rank 5 -> 6
+    FC Ashdod: rank 6 -> 5
+    H. Beer Sheva: rank 7 -> 8
+    H. Petah Tikva: rank 14 -> 13
+    H. Ramat Gan: rank 12 -> 14
+    Hapoel Acre: rank 10 -> 11
+    Hapoel Raanana: rank 13 -> 12
+    M. Petah Tikva: rank 11 -> 10
+    Maccabi Netanya: rank 8 -> 7
+  [regular] Regular: after round 19 vs after round 18
+    Bnei Sakhnin: rank 15 -> 12
+    H. Petah Tikva: rank 13 -> 15
+    H. Ramat Gan: rank 14 -> 11
+    Hapoel Acre: rank 11 -> 13
+    Hapoel Raanana: rank 12 -> 14
+  [regular] Regular: after round 20 vs after round 19
+    Bnei Sakhnin: rank 12 -> 11
+    H. Petah Tikva: rank 15 -> 14
+    H. Ramat Gan: rank 11 -> 12
+    Hapoel Acre: rank 13 -> 16
+    Hapoel Raanana: rank 14 -> 13
+    M. Ahi Nazareth: rank 16 -> 15
+  [regular] Regular: after round 21 vs after round 20
+    B. Jerusalem: rank 6 -> 5
+    Bnei Sakhnin: rank 11 -> 9
+    FC Ashdod: rank 5 -> 6
+    H. Petah Tikva: rank 14 -> 13
+    Hapoel Haifa: rank 9 -> 10
+    Hapoel Raanana: rank 13 -> 14
+    M. Petah Tikva: rank 10 -> 11
+  [regular] Regular: after round 22 vs after round 21
+    B. Jerusalem: rank 5 -> 6
+    FC Ashdod: rank 6 -> 5
+    H. Beer Sheva: rank 8 -> 7
+    Hapoel Acre: rank 16 -> 14
+    Hapoel Haifa: rank 10 -> 11
+    Hapoel Raanana: rank 14 -> 15
+    M. Ahi Nazareth: rank 15 -> 16
+    M. Petah Tikva: rank 11 -> 10
+    Maccabi Netanya: rank 7 -> 8
+  [regular] Regular: after round 23 vs after round 22
+    B. Jerusalem: rank 6 -> 7
+    H. Beer Sheva: rank 7 -> 8
+    H. Petah Tikva: rank 13 -> 12
+    H. Ramat Gan: rank 12 -> 13
+    Maccabi Netanya: rank 8 -> 6
+  [regular] Regular: after round 24 vs after round 23
+    B. Jerusalem: rank 7 -> 6
+    Bnei Sakhnin: rank 9 -> 10
+    Hapoel Raanana: rank 15 -> 16
+    M. Ahi Nazareth: rank 16 -> 15
+    M. Petah Tikva: rank 10 -> 9
+    Maccabi Netanya: rank 6 -> 7
+  [regular] Regular: after round 25 vs after round 24
+    Bnei Sakhnin: rank 10 -> 11
+    H. Petah Tikva: rank 12 -> 13
+    H. Ramat Gan: rank 13 -> 12
+    Hapoel Haifa: rank 11 -> 10
+    M. Petah Tikva: rank 9 -> 7
+    Maccabi Netanya: rank 7 -> 9
+  [regular] Regular: after round 26 vs after round 25
+    B. Jerusalem: rank 6 -> 5
+    FC Ashdod: rank 5 -> 6
+    H. Beer Sheva: rank 8 -> 7
+    M. Petah Tikva: rank 7 -> 9
+    Maccabi Netanya: rank 9 -> 8
+  [regular] Regular: after round 27 vs after round 26
+    Bnei Sakhnin: rank 11 -> 10
+    H. Beer Sheva: rank 7 -> 8
+    Hapoel Haifa: rank 10 -> 11
+    Maccabi Netanya: rank 8 -> 7
+  [regular] Regular: after round 28 vs after round 27
+    B. Jerusalem: rank 5 -> 4
+    Bnei Sakhnin: rank 10 -> 9
+    Bnei Yehuda: rank 4 -> 5
+    H. Beer Sheva: rank 8 -> 7
+    H. Ramat Gan: rank 12 -> 11
+    Hapoel Haifa: rank 11 -> 12
+    M. Petah Tikva: rank 9 -> 10
+    Maccabi Netanya: rank 7 -> 8
+  [regular] Regular: after round 29 vs after round 28
+    Bnei Sakhnin: rank 9 -> 7
+    H. Beer Sheva: rank 7 -> 8
+    Maccabi Netanya: rank 8 -> 9
+  [regular] Regular: after round 30 vs after round 29
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 1 vs halved-carry table (before any playoff match)
+    Hapoel Tel Aviv: rank 2 -> 1
+    Maccabi Haifa: rank 1 -> 2
+  [championship_playoff] championship playoff: after mini-league round 2 vs after mini-league round 1
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 3 vs after mini-league round 2
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 4 vs after mini-league round 3
+    No ranking changes in this round
+  [championship_playoff] championship playoff: after mini-league round 5 vs after mini-league round 4
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 1 vs halved-carry table (before any playoff match)
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 2 vs after mini-league round 1
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 3 vs after mini-league round 2
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 4 vs after mini-league round 3
+    No ranking changes in this round
+  [relegation_playoff] relegation playoff: after mini-league round 5 vs after mini-league round 4
+    No ranking changes in this round

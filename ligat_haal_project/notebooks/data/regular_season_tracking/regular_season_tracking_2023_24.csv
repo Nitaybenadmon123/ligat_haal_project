@@ -1,0 +1,365 @@
+﻿season,stage,round,team,points,position,goal_diff
+2023/24,regular,1,M. Tel Aviv,3,1,3
+2023/24,regular,1,H. Beer Sheva,3,2,3
+2023/24,regular,1,Hapoel Haifa,3,3,1
+2023/24,regular,1,Maccabi Haifa,1,4,1
+2023/24,regular,1,H. Jerusalem,1,5,0
+2023/24,regular,1,M. Bnei Reineh,1,5,0
+2023/24,regular,1,M. Petah Tikva,1,5,0
+2023/24,regular,1,Maccabi Netanya,1,5,0
+2023/24,regular,1,Bnei Sakhnin,0,9,0
+2023/24,regular,1,Hapoel Tel Aviv,0,9,0
+2023/24,regular,1,H. Petah Tikva,0,11,-1
+2023/24,regular,1,FC Ashdod,0,12,-3
+2023/24,regular,1,Hapoel Hadera,0,13,-3
+2023/24,regular,1,B. Jerusalem,-5,14,-1
+2023/24,regular,2,M. Tel Aviv,6,1,6
+2023/24,regular,2,H. Beer Sheva,4,2,3
+2023/24,regular,2,Maccabi Haifa,4,3,2
+2023/24,regular,2,Hapoel Haifa,4,4,1
+2023/24,regular,2,Hapoel Tel Aviv,3,5,2
+2023/24,regular,2,M. Petah Tikva,2,6,0
+2023/24,regular,2,M. Bnei Reineh,2,7,0
+2023/24,regular,2,Bnei Sakhnin,1,8,0
+2023/24,regular,2,H. Jerusalem,1,9,-1
+2023/24,regular,2,H. Petah Tikva,1,9,-1
+2023/24,regular,2,Maccabi Netanya,1,11,-2
+2023/24,regular,2,FC Ashdod,0,12,-4
+2023/24,regular,2,Hapoel Hadera,0,13,-6
+2023/24,regular,2,B. Jerusalem,-2,14,0
+2023/24,regular,3,M. Tel Aviv,7,1,6
+2023/24,regular,3,Hapoel Haifa,7,2,3
+2023/24,regular,3,H. Beer Sheva,5,3,3
+2023/24,regular,3,M. Petah Tikva,5,4,1
+2023/24,regular,3,Hapoel Tel Aviv,4,5,2
+2023/24,regular,3,Maccabi Haifa,4,6,1
+2023/24,regular,3,Maccabi Netanya,4,7,1
+2023/24,regular,3,Bnei Sakhnin,4,8,1
+2023/24,regular,3,M. Bnei Reineh,3,9,0
+2023/24,regular,3,B. Jerusalem,1,10,2
+2023/24,regular,3,H. Jerusalem,1,11,-2
+2023/24,regular,3,H. Petah Tikva,1,12,-4
+2023/24,regular,3,FC Ashdod,0,13,-6
+2023/24,regular,3,Hapoel Hadera,0,14,-8
+2023/24,regular,4,M. Tel Aviv,10,1,11
+2023/24,regular,4,Hapoel Haifa,10,2,4
+2023/24,regular,4,M. Petah Tikva,6,3,1
+2023/24,regular,4,M. Bnei Reineh,6,4,1
+2023/24,regular,4,H. Beer Sheva,5,5,2
+2023/24,regular,4,Maccabi Haifa,5,6,1
+2023/24,regular,4,Maccabi Netanya,5,7,1
+2023/24,regular,4,Bnei Sakhnin,5,8,1
+2023/24,regular,4,H. Petah Tikva,4,9,-3
+2023/24,regular,4,Hapoel Tel Aviv,4,10,-3
+2023/24,regular,4,H. Jerusalem,2,11,-2
+2023/24,regular,4,B. Jerusalem,1,12,1
+2023/24,regular,4,FC Ashdod,1,13,-6
+2023/24,regular,4,Hapoel Hadera,0,14,-9
+2023/24,regular,5,M. Tel Aviv,13,1,13
+2023/24,regular,5,Hapoel Haifa,10,2,3
+2023/24,regular,5,M. Petah Tikva,9,3,5
+2023/24,regular,5,M. Bnei Reineh,9,4,2
+2023/24,regular,5,H. Beer Sheva,8,5,5
+2023/24,regular,5,Maccabi Haifa,8,6,2
+2023/24,regular,5,Hapoel Tel Aviv,7,7,0
+2023/24,regular,5,Maccabi Netanya,5,8,0
+2023/24,regular,5,Bnei Sakhnin,5,9,-3
+2023/24,regular,5,H. Petah Tikva,4,10,-5
+2023/24,regular,5,Hapoel Hadera,3,11,-8
+2023/24,regular,5,H. Jerusalem,2,12,-5
+2023/24,regular,5,B. Jerusalem,1,13,-2
+2023/24,regular,5,FC Ashdod,1,14,-7
+2023/24,regular,6,M. Tel Aviv,16,1,14
+2023/24,regular,6,Hapoel Haifa,13,2,4
+2023/24,regular,6,Maccabi Haifa,11,3,3
+2023/24,regular,6,M. Bnei Reineh,10,4,2
+2023/24,regular,6,M. Petah Tikva,9,5,2
+2023/24,regular,6,H. Beer Sheva,8,6,4
+2023/24,regular,6,Hapoel Tel Aviv,7,7,-1
+2023/24,regular,6,H. Petah Tikva,7,8,-4
+2023/24,regular,6,Maccabi Netanya,6,9,0
+2023/24,regular,6,Bnei Sakhnin,6,10,-3
+2023/24,regular,6,Hapoel Hadera,6,11,-5
+2023/24,regular,6,H. Jerusalem,2,12,-6
+2023/24,regular,6,FC Ashdod,2,13,-7
+2023/24,regular,6,B. Jerusalem,1,14,-3
+2023/24,regular,7,M. Tel Aviv,16,1,13
+2023/24,regular,7,Maccabi Haifa,14,2,4
+2023/24,regular,7,Hapoel Haifa,14,3,4
+2023/24,regular,7,M. Bnei Reineh,13,4,4
+2023/24,regular,7,M. Petah Tikva,12,5,3
+2023/24,regular,7,Bnei Sakhnin,9,6,-2
+2023/24,regular,7,H. Beer Sheva,8,7,3
+2023/24,regular,7,H. Petah Tikva,8,8,-4
+2023/24,regular,7,Hapoel Tel Aviv,7,9,-2
+2023/24,regular,7,Maccabi Netanya,6,10,-1
+2023/24,regular,7,Hapoel Hadera,6,11,-7
+2023/24,regular,7,FC Ashdod,5,12,-6
+2023/24,regular,7,B. Jerusalem,4,13,-2
+2023/24,regular,7,H. Jerusalem,2,14,-7
+2023/24,regular,8,M. Tel Aviv,19,1,14
+2023/24,regular,8,Hapoel Haifa,17,2,5
+2023/24,regular,8,M. Bnei Reineh,16,3,7
+2023/24,regular,8,Maccabi Haifa,15,4,4
+2023/24,regular,8,M. Petah Tikva,12,5,0
+2023/24,regular,8,Maccabi Netanya,9,6,0
+2023/24,regular,8,Bnei Sakhnin,9,7,-3
+2023/24,regular,8,H. Petah Tikva,9,8,-4
+2023/24,regular,8,H. Beer Sheva,8,9,2
+2023/24,regular,8,Hapoel Tel Aviv,8,10,-2
+2023/24,regular,8,Hapoel Hadera,7,11,-7
+2023/24,regular,8,FC Ashdod,6,12,-6
+2023/24,regular,8,B. Jerusalem,5,13,-2
+2023/24,regular,8,H. Jerusalem,2,14,-8
+2023/24,regular,9,M. Tel Aviv,22,1,15
+2023/24,regular,9,Maccabi Haifa,18,2,7
+2023/24,regular,9,Hapoel Haifa,17,3,2
+2023/24,regular,9,M. Bnei Reineh,16,4,6
+2023/24,regular,9,M. Petah Tikva,12,5,-3
+2023/24,regular,9,H. Beer Sheva,11,6,5
+2023/24,regular,9,Hapoel Tel Aviv,11,7,-1
+2023/24,regular,9,Bnei Sakhnin,10,8,-3
+2023/24,regular,9,Hapoel Hadera,10,9,-6
+2023/24,regular,9,Maccabi Netanya,9,10,-1
+2023/24,regular,9,FC Ashdod,9,11,-4
+2023/24,regular,9,H. Petah Tikva,9,12,-5
+2023/24,regular,9,B. Jerusalem,6,13,-2
+2023/24,regular,9,H. Jerusalem,2,14,-10
+2023/24,regular,10,M. Tel Aviv,25,1,16
+2023/24,regular,10,Maccabi Haifa,21,2,11
+2023/24,regular,10,M. Bnei Reineh,19,3,7
+2023/24,regular,10,Hapoel Haifa,18,4,2
+2023/24,regular,10,Hapoel Tel Aviv,14,5,1
+2023/24,regular,10,M. Petah Tikva,12,6,-5
+2023/24,regular,10,H. Beer Sheva,11,7,4
+2023/24,regular,10,Bnei Sakhnin,11,8,-3
+2023/24,regular,10,Hapoel Hadera,10,9,-7
+2023/24,regular,10,B. Jerusalem,9,10,1
+2023/24,regular,10,Maccabi Netanya,9,11,-4
+2023/24,regular,10,H. Petah Tikva,9,12,-6
+2023/24,regular,10,FC Ashdod,9,13,-8
+2023/24,regular,10,H. Jerusalem,5,14,-9
+2023/24,regular,11,M. Tel Aviv,28,1,17
+2023/24,regular,11,Maccabi Haifa,24,2,15
+2023/24,regular,11,Hapoel Haifa,21,3,3
+2023/24,regular,11,M. Bnei Reineh,20,4,7
+2023/24,regular,11,Hapoel Tel Aviv,17,5,4
+2023/24,regular,11,Bnei Sakhnin,14,6,-2
+2023/24,regular,11,H. Beer Sheva,12,7,4
+2023/24,regular,11,M. Petah Tikva,12,8,-6
+2023/24,regular,11,B. Jerusalem,10,9,1
+2023/24,regular,11,Hapoel Hadera,10,10,-11
+2023/24,regular,11,Maccabi Netanya,9,11,-5
+2023/24,regular,11,FC Ashdod,9,12,-9
+2023/24,regular,11,H. Petah Tikva,9,12,-9
+2023/24,regular,11,H. Jerusalem,6,14,-9
+2023/24,regular,12,M. Tel Aviv,31,1,18
+2023/24,regular,12,Maccabi Haifa,27,2,16
+2023/24,regular,12,Hapoel Haifa,21,3,-1
+2023/24,regular,12,M. Bnei Reineh,20,4,6
+2023/24,regular,12,Hapoel Tel Aviv,17,5,3
+2023/24,regular,12,H. Beer Sheva,15,6,8
+2023/24,regular,12,M. Petah Tikva,15,7,-4
+2023/24,regular,12,Bnei Sakhnin,14,8,-3
+2023/24,regular,12,Hapoel Hadera,13,9,-10
+2023/24,regular,12,Maccabi Netanya,12,10,-4
+2023/24,regular,12,B. Jerusalem,10,11,0
+2023/24,regular,12,H. Jerusalem,9,12,-8
+2023/24,regular,12,FC Ashdod,9,13,-10
+2023/24,regular,12,H. Petah Tikva,9,14,-11
+2023/24,regular,13,M. Tel Aviv,34,1,19
+2023/24,regular,13,Maccabi Haifa,28,2,16
+2023/24,regular,13,Hapoel Haifa,21,3,-2
+2023/24,regular,13,M. Bnei Reineh,20,4,5
+2023/24,regular,13,H. Beer Sheva,18,5,10
+2023/24,regular,13,Hapoel Tel Aviv,18,6,3
+2023/24,regular,13,Bnei Sakhnin,17,7,-2
+2023/24,regular,13,Maccabi Netanya,15,8,-1
+2023/24,regular,13,M. Petah Tikva,15,9,-5
+2023/24,regular,13,B. Jerusalem,13,10,1
+2023/24,regular,13,Hapoel Hadera,13,11,-13
+2023/24,regular,13,H. Jerusalem,12,12,-7
+2023/24,regular,13,FC Ashdod,9,13,-12
+2023/24,regular,13,H. Petah Tikva,9,13,-12
+2023/24,regular,14,M. Tel Aviv,37,1,22
+2023/24,regular,14,Maccabi Haifa,29,2,16
+2023/24,regular,14,Hapoel Haifa,24,3,-1
+2023/24,regular,14,H. Beer Sheva,21,4,12
+2023/24,regular,14,M. Bnei Reineh,20,5,3
+2023/24,regular,14,Hapoel Tel Aviv,19,6,3
+2023/24,regular,14,Maccabi Netanya,18,7,1
+2023/24,regular,14,Bnei Sakhnin,18,8,-2
+2023/24,regular,14,H. Jerusalem,15,9,-5
+2023/24,regular,14,M. Petah Tikva,15,10,-7
+2023/24,regular,14,B. Jerusalem,13,11,0
+2023/24,regular,14,Hapoel Hadera,13,12,-15
+2023/24,regular,14,H. Petah Tikva,10,13,-12
+2023/24,regular,14,FC Ashdod,9,14,-15
+2023/24,regular,15,M. Tel Aviv,38,1,22
+2023/24,regular,15,Maccabi Haifa,32,2,17
+2023/24,regular,15,Hapoel Haifa,27,3,2
+2023/24,regular,15,H. Beer Sheva,24,4,14
+2023/24,regular,15,Maccabi Netanya,21,5,2
+2023/24,regular,15,M. Bnei Reineh,20,6,1
+2023/24,regular,15,Hapoel Tel Aviv,19,7,2
+2023/24,regular,15,Bnei Sakhnin,19,8,-2
+2023/24,regular,15,H. Jerusalem,15,9,-6
+2023/24,regular,15,M. Petah Tikva,15,10,-10
+2023/24,regular,15,B. Jerusalem,14,11,0
+2023/24,regular,15,Hapoel Hadera,14,12,-15
+2023/24,regular,15,H. Petah Tikva,11,13,-12
+2023/24,regular,15,FC Ashdod,10,14,-15
+2023/24,regular,16,M. Tel Aviv,39,1,22
+2023/24,regular,16,Maccabi Haifa,35,2,22
+2023/24,regular,16,Hapoel Haifa,30,3,3
+2023/24,regular,16,H. Beer Sheva,27,4,18
+2023/24,regular,16,M. Bnei Reineh,21,5,1
+2023/24,regular,16,Maccabi Netanya,21,6,0
+2023/24,regular,16,Bnei Sakhnin,20,7,-2
+2023/24,regular,16,Hapoel Tel Aviv,19,8,-2
+2023/24,regular,16,B. Jerusalem,17,9,3
+2023/24,regular,16,H. Jerusalem,16,10,-6
+2023/24,regular,16,M. Petah Tikva,15,11,-15
+2023/24,regular,16,H. Petah Tikva,14,12,-10
+2023/24,regular,16,Hapoel Hadera,14,13,-18
+2023/24,regular,16,FC Ashdod,10,14,-16
+2023/24,regular,17,M. Tel Aviv,42,1,24
+2023/24,regular,17,Maccabi Haifa,38,2,25
+2023/24,regular,17,Hapoel Haifa,33,3,5
+2023/24,regular,17,H. Beer Sheva,30,4,20
+2023/24,regular,17,M. Bnei Reineh,24,5,2
+2023/24,regular,17,Maccabi Netanya,24,6,1
+2023/24,regular,17,Bnei Sakhnin,20,7,-5
+2023/24,regular,17,Hapoel Tel Aviv,19,8,-4
+2023/24,regular,17,B. Jerusalem,17,9,2
+2023/24,regular,17,H. Jerusalem,16,10,-7
+2023/24,regular,17,M. Petah Tikva,15,11,-16
+2023/24,regular,17,H. Petah Tikva,14,12,-12
+2023/24,regular,17,Hapoel Hadera,14,13,-20
+2023/24,regular,17,FC Ashdod,13,14,-15
+2023/24,regular,18,M. Tel Aviv,43,1,24
+2023/24,regular,18,Maccabi Haifa,41,2,29
+2023/24,regular,18,Hapoel Haifa,34,3,5
+2023/24,regular,18,H. Beer Sheva,33,4,21
+2023/24,regular,18,M. Bnei Reineh,25,5,2
+2023/24,regular,18,Maccabi Netanya,24,6,-3
+2023/24,regular,18,Bnei Sakhnin,21,7,-5
+2023/24,regular,18,B. Jerusalem,20,8,3
+2023/24,regular,18,Hapoel Tel Aviv,19,9,-5
+2023/24,regular,18,H. Jerusalem,16,10,-8
+2023/24,regular,18,M. Petah Tikva,16,11,-16
+2023/24,regular,18,H. Petah Tikva,15,12,-12
+2023/24,regular,18,Hapoel Hadera,15,13,-20
+2023/24,regular,18,FC Ashdod,14,14,-15
+2023/24,regular,19,M. Tel Aviv,46,1,25
+2023/24,regular,19,Maccabi Haifa,41,2,28
+2023/24,regular,19,Hapoel Haifa,37,3,6
+2023/24,regular,19,H. Beer Sheva,36,4,22
+2023/24,regular,19,M. Bnei Reineh,25,5,1
+2023/24,regular,19,Maccabi Netanya,24,6,-4
+2023/24,regular,19,Bnei Sakhnin,24,7,-4
+2023/24,regular,19,B. Jerusalem,21,8,3
+2023/24,regular,19,Hapoel Tel Aviv,19,9,-6
+2023/24,regular,19,M. Petah Tikva,19,10,-15
+2023/24,regular,19,FC Ashdod,17,11,-14
+2023/24,regular,19,H. Jerusalem,16,12,-9
+2023/24,regular,19,H. Petah Tikva,16,13,-12
+2023/24,regular,19,Hapoel Hadera,15,14,-21
+2023/24,regular,20,M. Tel Aviv,46,1,23
+2023/24,regular,20,Maccabi Haifa,44,2,30
+2023/24,regular,20,Hapoel Haifa,40,3,8
+2023/24,regular,20,H. Beer Sheva,39,4,24
+2023/24,regular,20,M. Bnei Reineh,28,5,2
+2023/24,regular,20,Maccabi Netanya,24,6,-5
+2023/24,regular,20,Bnei Sakhnin,24,7,-6
+2023/24,regular,20,Hapoel Tel Aviv,22,8,-4
+2023/24,regular,20,M. Petah Tikva,22,9,-14
+2023/24,regular,20,B. Jerusalem,21,10,2
+2023/24,regular,20,H. Jerusalem,19,11,-8
+2023/24,regular,20,FC Ashdod,17,12,-16
+2023/24,regular,20,H. Petah Tikva,16,13,-14
+2023/24,regular,20,Hapoel Hadera,15,14,-22
+2023/24,regular,21,Maccabi Haifa,47,1,32
+2023/24,regular,21,M. Tel Aviv,47,2,23
+2023/24,regular,21,H. Beer Sheva,42,3,26
+2023/24,regular,21,Hapoel Haifa,40,4,7
+2023/24,regular,21,M. Bnei Reineh,28,5,1
+2023/24,regular,21,Bnei Sakhnin,25,6,-6
+2023/24,regular,21,M. Petah Tikva,25,7,-13
+2023/24,regular,21,Maccabi Netanya,24,8,-7
+2023/24,regular,21,Hapoel Tel Aviv,22,9,-5
+2023/24,regular,21,H. Jerusalem,22,10,-7
+2023/24,regular,21,B. Jerusalem,21,11,0
+2023/24,regular,21,FC Ashdod,20,12,-14
+2023/24,regular,21,Hapoel Hadera,18,13,-21
+2023/24,regular,21,H. Petah Tikva,16,14,-16
+2023/24,regular,22,M. Tel Aviv,50,1,27
+2023/24,regular,22,Maccabi Haifa,48,2,32
+2023/24,regular,22,H. Beer Sheva,43,3,26
+2023/24,regular,22,Hapoel Haifa,41,4,7
+2023/24,regular,22,M. Bnei Reineh,29,5,1
+2023/24,regular,22,Bnei Sakhnin,28,6,-5
+2023/24,regular,22,M. Petah Tikva,26,7,-13
+2023/24,regular,22,Maccabi Netanya,24,8,-11
+2023/24,regular,22,Hapoel Tel Aviv,23,9,-5
+2023/24,regular,22,H. Jerusalem,23,10,-7
+2023/24,regular,22,B. Jerusalem,21,11,-1
+2023/24,regular,22,FC Ashdod,21,12,-14
+2023/24,regular,22,Hapoel Hadera,21,13,-19
+2023/24,regular,22,H. Petah Tikva,16,14,-18
+2023/24,regular,23,M. Tel Aviv,53,1,28
+2023/24,regular,23,Maccabi Haifa,51,2,37
+2023/24,regular,23,H. Beer Sheva,43,3,25
+2023/24,regular,23,Hapoel Haifa,41,4,6
+2023/24,regular,23,Bnei Sakhnin,31,5,-4
+2023/24,regular,23,M. Bnei Reineh,30,6,1
+2023/24,regular,23,M. Petah Tikva,29,7,-10
+2023/24,regular,23,Maccabi Netanya,25,8,-11
+2023/24,regular,23,H. Jerusalem,24,9,-7
+2023/24,regular,23,Hapoel Tel Aviv,23,10,-8
+2023/24,regular,23,B. Jerusalem,22,11,-1
+2023/24,regular,23,Hapoel Hadera,22,12,-19
+2023/24,regular,23,FC Ashdod,21,13,-19
+2023/24,regular,23,H. Petah Tikva,17,14,-18
+2023/24,regular,24,M. Tel Aviv,56,1,32
+2023/24,regular,24,Maccabi Haifa,54,2,38
+2023/24,regular,24,H. Beer Sheva,46,3,26
+2023/24,regular,24,Hapoel Haifa,44,4,7
+2023/24,regular,24,Bnei Sakhnin,32,5,-4
+2023/24,regular,24,M. Bnei Reineh,30,6,0
+2023/24,regular,24,M. Petah Tikva,29,7,-14
+2023/24,regular,24,H. Jerusalem,27,8,-6
+2023/24,regular,24,Maccabi Netanya,25,9,-12
+2023/24,regular,24,Hapoel Tel Aviv,24,10,-8
+2023/24,regular,24,B. Jerusalem,22,11,-2
+2023/24,regular,24,FC Ashdod,22,12,-19
+2023/24,regular,24,Hapoel Hadera,22,13,-20
+2023/24,regular,24,H. Petah Tikva,18,14,-18
+2023/24,regular,25,M. Tel Aviv,59,1,33
+2023/24,regular,25,Maccabi Haifa,54,2,37
+2023/24,regular,25,Hapoel Haifa,47,3,8
+2023/24,regular,25,H. Beer Sheva,46,4,25
+2023/24,regular,25,M. Bnei Reineh,33,5,1
+2023/24,regular,25,Bnei Sakhnin,32,6,-5
+2023/24,regular,25,M. Petah Tikva,30,7,-14
+2023/24,regular,25,H. Jerusalem,28,8,-6
+2023/24,regular,25,Maccabi Netanya,28,9,-10
+2023/24,regular,25,Hapoel Tel Aviv,25,10,-8
+2023/24,regular,25,Hapoel Hadera,25,11,-19
+2023/24,regular,25,B. Jerusalem,22,12,-3
+2023/24,regular,25,FC Ashdod,22,13,-21
+2023/24,regular,25,H. Petah Tikva,19,14,-18
+2023/24,regular,26,M. Tel Aviv,62,1,35
+2023/24,regular,26,Maccabi Haifa,55,2,37
+2023/24,regular,26,H. Beer Sheva,49,3,26
+2023/24,regular,26,Hapoel Haifa,47,4,6
+2023/24,regular,26,M. Bnei Reineh,34,5,1
+2023/24,regular,26,Bnei Sakhnin,33,6,-5
+2023/24,regular,26,H. Jerusalem,31,7,-5
+2023/24,regular,26,M. Petah Tikva,30,8,-17
+2023/24,regular,26,Maccabi Netanya,28,9,-12
+2023/24,regular,26,Hapoel Hadera,28,10,-17
+2023/24,regular,26,Hapoel Tel Aviv,26,11,-8
+2023/24,regular,26,B. Jerusalem,25,12,0
+2023/24,regular,26,FC Ashdod,22,13,-22
+2023/24,regular,26,H. Petah Tikva,19,14,-19

@@ -1,0 +1,39 @@
+﻿season,league_size,method,regular_rank,team,points_after,goal_diff_after,relegation_pool_rank_worst_first,regular_final_file,relegation_wiki_file,points_first_place,team_last_safe_above_relegation,points_last_safe_above_relegation,gap_points_leader_to_last_safe
+2006/07,12,regular_table_bottom_2,12.0,H. Petah Tikva,16,-32,1,regular_final_table_2006_07.csv,,67.0,Maccabi Herzlya,34.0,33.0
+2006/07,12,regular_table_bottom_2,11.0,Hakoah Amidar,28,-22,2,regular_final_table_2006_07.csv,,67.0,Maccabi Herzlya,34.0,33.0
+2007/08,12,regular_table_bottom_2,12.0,Maccabi Herzlya,30,-19,1,regular_final_table_2007_08.csv,,67.0,M. Petah Tikva,37.0,30.0
+2007/08,12,regular_table_bottom_2,11.0,H. Kfar Saba,37,-17,2,regular_final_table_2007_08.csv,,67.0,M. Petah Tikva,37.0,30.0
+2008/09,12,regular_table_bottom_2,12.0,Kiryat Shmona,27,-20,1,regular_final_table_2008_09.csv,,67.0,H. Petah Tikva,31.0,36.0
+2008/09,12,regular_table_bottom_2,11.0,Hakoah Amidar,29,-20,2,regular_final_table_2008_09.csv,,67.0,H. Petah Tikva,31.0,36.0
+2009/10,16,relegation_playoff_carried_plus_wiki,,M. Ahi Nazareth,28,-48,1,regular_final_table_2009_10.csv,playoffs_relegation_2009_10_ligat_haal_wikipedia.csv,,,,
+2009/10,16,relegation_playoff_carried_plus_wiki,,Hapoel Raanana,28,-25,2,regular_final_table_2009_10.csv,playoffs_relegation_2009_10_ligat_haal_wikipedia.csv,,,,
+2010/11,16,relegation_playoff_carried_plus_wiki,,H. Ramat Gan,18,-41,1,regular_final_table_2010_11.csv,playoffs_relegation_2010_11_ligat_haal_wikipedia.csv,,,,
+2010/11,16,relegation_playoff_carried_plus_wiki,,H. Ashkelon,32,-33,2,regular_final_table_2010_11.csv,playoffs_relegation_2010_11_ligat_haal_wikipedia.csv,,,,
+2011/12,16,relegation_playoff_carried_plus_wiki,,H. Petah Tikva,26,-19,1,regular_final_table_2011_12.csv,playoffs_relegation_2011_12_ligat_haal_wikipedia.csv,,,,
+2011/12,16,relegation_playoff_carried_plus_wiki,,H Rishon leZion,27,-31,2,regular_final_table_2011_12.csv,playoffs_relegation_2011_12_ligat_haal_wikipedia.csv,,,,
+2012/13,14,relegation_playoff_carried_plus_wiki,,H. Ramat Gan,30,-10,1,regular_final_table_2012_13.csv,playoffs_relegation_2012_13_ligat_haal_wikipedia.csv,,,,
+2012/13,14,relegation_playoff_carried_plus_wiki,,Maccabi Netanya,35,-12,2,regular_final_table_2012_13.csv,playoffs_relegation_2012_13_ligat_haal_wikipedia.csv,,,,
+2013/14,14,relegation_playoff_carried_plus_wiki,,Bnei Yehuda,31,-13,1,regular_final_table_2013_14.csv,playoffs_relegation_2013_14_ligat_haal_wikipedia.csv,,,,
+2013/14,14,relegation_playoff_carried_plus_wiki,,Ramat haSharon,33,-30,2,regular_final_table_2013_14.csv,playoffs_relegation_2013_14_ligat_haal_wikipedia.csv,,,,
+2014/15,14,relegation_playoff_carried_plus_wiki,,FC Ashdod,31,-19,1,regular_final_table_2014_15.csv,playoffs_relegation_2014_15_ligat_haal_wikipedia.csv,,,,
+2014/15,14,relegation_playoff_carried_plus_wiki,,H. Petah Tikva,32,-16,2,regular_final_table_2014_15.csv,playoffs_relegation_2014_15_ligat_haal_wikipedia.csv,,,,
+2015/16,14,relegation_playoff_carried_plus_wiki,,Maccabi Netanya,12,-36,1,regular_final_table_2015_16.csv,playoffs_relegation_2015_16_ligat_haal_wikipedia.csv,,,,
+2015/16,14,relegation_playoff_carried_plus_wiki,,Hapoel Acre,34,-21,2,regular_final_table_2015_16.csv,playoffs_relegation_2015_16_ligat_haal_wikipedia.csv,,,,
+2016/17,14,relegation_playoff_carried_plus_wiki,,Hapoel Tel Aviv,29,-5,1,regular_final_table_2016_17.csv,playoffs_relegation_2016_17_ligat_haal_wikipedia.csv,,,,
+2016/17,14,relegation_playoff_carried_plus_wiki,,H. Kfar Saba,31,-17,2,regular_final_table_2016_17.csv,playoffs_relegation_2016_17_ligat_haal_wikipedia.csv,,,,
+2017/18,14,relegation_playoff_carried_plus_wiki,,Hapoel Acre,20,-41,1,regular_final_table_2017_18.csv,playoffs_relegation_2017_18_ligat_haal_wikipedia.csv,,,,
+2017/18,14,relegation_playoff_carried_plus_wiki,,H. Ashkelon,21,-28,2,regular_final_table_2017_18.csv,playoffs_relegation_2017_18_ligat_haal_wikipedia.csv,,,,
+2018/19,14,relegation_playoff_carried_plus_wiki,,Bnei Sakhnin,27,-23,1,regular_final_table_2018_19.csv,playoffs_relegation_2018_19_ligat_haal_wikipedia.csv,,,,
+2018/19,14,relegation_playoff_carried_plus_wiki,,M. Petah Tikva,36,-18,2,regular_final_table_2018_19.csv,playoffs_relegation_2018_19_ligat_haal_wikipedia.csv,,,,
+2019/20,14,relegation_playoff_carried_plus_wiki,,Hapoel Raanana,17,-35,1,regular_final_table_2019_20.csv,playoffs_relegation_2019_20_ligat_haal_wikipedia.csv,,,,
+2019/20,14,relegation_playoff_carried_plus_wiki,,Ness Ziona,32,-23,2,regular_final_table_2019_20.csv,playoffs_relegation_2019_20_ligat_haal_wikipedia.csv,,,,
+2020/21,14,relegation_playoff_carried_plus_wiki,,H. Kfar Saba,24,-23,1,regular_final_table_2020_21.csv,playoffs_relegation_2020_21_ligat_haal_wikipedia.csv,,,,
+2020/21,14,relegation_playoff_carried_plus_wiki,,Bnei Yehuda,33,-19,2,regular_final_table_2020_21.csv,playoffs_relegation_2020_21_ligat_haal_wikipedia.csv,,,,
+2021/22,14,relegation_playoff_carried_plus_wiki,,H. Nof HaGalil,27,-28,1,regular_final_table_2021_22.csv,playoffs_relegation_2021_22_ligat_haal_wikipedia.csv,,,,
+2021/22,14,relegation_playoff_carried_plus_wiki,,M. Petah Tikva,27,-15,2,regular_final_table_2021_22.csv,playoffs_relegation_2021_22_ligat_haal_wikipedia.csv,,,,
+2022/23,14,relegation_playoff_carried_plus_wiki,,Ness Ziona,25,-25,1,regular_final_table_2022_23.csv,playoffs_relegation_2022_23_ligat_haal_wikipedia.csv,,,,
+2022/23,14,relegation_playoff_carried_plus_wiki,,Kiryat Shmona,32,-9,2,regular_final_table_2022_23.csv,playoffs_relegation_2022_23_ligat_haal_wikipedia.csv,,,,
+2023/24,14,relegation_playoff_carried_plus_wiki,,H. Petah Tikva,24,-26,1,regular_final_table_2023_24.csv,playoffs_relegation_2023_24_ligat_haal_wikipedia.csv,,,,
+2023/24,14,relegation_playoff_carried_plus_wiki,,Hapoel Tel Aviv,33,-16,2,regular_final_table_2023_24.csv,playoffs_relegation_2023_24_ligat_haal_wikipedia.csv,,,,
+2024/25,14,relegation_playoff_carried_plus_wiki,,Hapoel Hadera,27,-26,1,regular_final_table_2024_25.csv,playoffs_relegation_2024_25_ligat_haal_wikipedia.csv,,,,
+2024/25,14,relegation_playoff_carried_plus_wiki,,M. Petah Tikva,33,-19,2,regular_final_table_2024_25.csv,playoffs_relegation_2024_25_ligat_haal_wikipedia.csv,,,,

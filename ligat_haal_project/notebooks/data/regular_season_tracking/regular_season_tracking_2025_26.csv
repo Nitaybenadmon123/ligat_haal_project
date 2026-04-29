@@ -1,0 +1,155 @@
+﻿season,stage,round,team,points,position,goal_diff
+2025/26,regular,1,M. Tel Aviv,3,1,4
+2025/26,regular,1,Maccabi Haifa,3,1,4
+2025/26,regular,1,H. Beer Sheva,3,3,2
+2025/26,regular,1,B. Jerusalem,3,4,1
+2025/26,regular,1,FC Ashdod,3,4,1
+2025/26,regular,1,Hapoel Tel Aviv,1,6,1
+2025/26,regular,1,Bnei Sakhnin,0,7,-1
+2025/26,regular,1,H. Jerusalem,0,7,-1
+2025/26,regular,1,Kiryat Shmona,0,7,-1
+2025/26,regular,1,Hapoel Haifa,0,10,-1
+2025/26,regular,1,Maccabi Netanya,0,11,-2
+2025/26,regular,1,H. Petah Tikva,0,12,-4
+2025/26,regular,1,M. Bnei Reineh,0,12,-4
+2025/26,regular,1,Ironi Tiberias,-5,14,1
+2025/26,regular,2,H. Beer Sheva,6,1,9
+2025/26,regular,2,M. Tel Aviv,6,2,8
+2025/26,regular,2,Maccabi Haifa,4,3,4
+2025/26,regular,2,B. Jerusalem,4,4,1
+2025/26,regular,2,Bnei Sakhnin,3,5,0
+2025/26,regular,2,FC Ashdod,3,5,0
+2025/26,regular,2,Hapoel Haifa,3,7,0
+2025/26,regular,2,Hapoel Tel Aviv,2,8,1
+2025/26,regular,2,Kiryat Shmona,1,9,-1
+2025/26,regular,2,M. Bnei Reineh,1,10,-4
+2025/26,regular,2,H. Petah Tikva,1,11,-4
+2025/26,regular,2,H. Jerusalem,0,12,-2
+2025/26,regular,2,Maccabi Netanya,0,13,-6
+2025/26,regular,2,Ironi Tiberias,-5,14,-6
+2025/26,regular,3,H. Beer Sheva,9,1,13
+2025/26,regular,3,M. Tel Aviv,9,2,11
+2025/26,regular,3,Maccabi Haifa,7,3,8
+2025/26,regular,3,Hapoel Haifa,6,4,2
+2025/26,regular,3,Hapoel Tel Aviv,5,5,2
+2025/26,regular,3,Kiryat Shmona,4,6,1
+2025/26,regular,3,B. Jerusalem,4,7,0
+2025/26,regular,3,H. Petah Tikva,4,8,-2
+2025/26,regular,3,Bnei Sakhnin,3,9,-2
+2025/26,regular,3,FC Ashdod,3,10,-4
+2025/26,regular,3,M. Bnei Reineh,1,11,-6
+2025/26,regular,3,H. Jerusalem,0,12,-6
+2025/26,regular,3,Maccabi Netanya,0,13,-8
+2025/26,regular,3,Ironi Tiberias,-5,14,-9
+2025/26,regular,4,H. Beer Sheva,12,1,15
+2025/26,regular,4,M. Tel Aviv,12,2,12
+2025/26,regular,4,Maccabi Haifa,8,3,8
+2025/26,regular,4,Hapoel Tel Aviv,8,4,6
+2025/26,regular,4,H. Petah Tikva,7,5,3
+2025/26,regular,4,Hapoel Haifa,7,6,2
+2025/26,regular,4,B. Jerusalem,7,7,1
+2025/26,regular,4,Kiryat Shmona,4,8,0
+2025/26,regular,4,Bnei Sakhnin,3,9,-4
+2025/26,regular,4,Maccabi Netanya,3,10,-5
+2025/26,regular,4,FC Ashdod,3,11,-8
+2025/26,regular,4,M. Bnei Reineh,1,12,-11
+2025/26,regular,4,H. Jerusalem,0,13,-7
+2025/26,regular,4,Ironi Tiberias,-5,14,-12
+2025/26,regular,5,H. Beer Sheva,15,1,16
+2025/26,regular,5,M. Tel Aviv,13,2,12
+2025/26,regular,5,Hapoel Tel Aviv,11,3,7
+2025/26,regular,5,B. Jerusalem,10,4,3
+2025/26,regular,5,Maccabi Haifa,8,5,7
+2025/26,regular,5,H. Petah Tikva,7,6,1
+2025/26,regular,5,Hapoel Haifa,7,7,1
+2025/26,regular,5,Maccabi Netanya,6,8,-4
+2025/26,regular,5,FC Ashdod,6,9,-7
+2025/26,regular,5,Kiryat Shmona,4,10,-1
+2025/26,regular,5,Bnei Sakhnin,4,11,-4
+2025/26,regular,5,M. Bnei Reineh,1,12,-13
+2025/26,regular,5,H. Jerusalem,0,13,-8
+2025/26,regular,5,Ironi Tiberias,-2,14,-10
+2025/26,regular,6,H. Beer Sheva,18,1,17
+2025/26,regular,6,M. Tel Aviv,14,2,12
+2025/26,regular,6,B. Jerusalem,13,3,6
+2025/26,regular,6,Hapoel Tel Aviv,11,4,6
+2025/26,regular,6,Maccabi Haifa,9,5,7
+2025/26,regular,6,FC Ashdod,9,6,-5
+2025/26,regular,6,Hapoel Haifa,8,7,1
+2025/26,regular,6,H. Petah Tikva,7,8,-2
+2025/26,regular,6,Bnei Sakhnin,7,9,-3
+2025/26,regular,6,Maccabi Netanya,6,10,-5
+2025/26,regular,6,Kiryat Shmona,5,11,-1
+2025/26,regular,6,Ironi Tiberias,1,12,-9
+2025/26,regular,6,M. Bnei Reineh,1,13,-15
+2025/26,regular,6,H. Jerusalem,0,14,-9
+2025/26,regular,7,H. Beer Sheva,18,1,16
+2025/26,regular,7,M. Tel Aviv,17,2,15
+2025/26,regular,7,B. Jerusalem,14,3,6
+2025/26,regular,7,Hapoel Tel Aviv,11,4,3
+2025/26,regular,7,Hapoel Haifa,11,5,2
+2025/26,regular,7,Bnei Sakhnin,10,6,-1
+2025/26,regular,7,FC Ashdod,10,7,-5
+2025/26,regular,7,Maccabi Haifa,9,8,6
+2025/26,regular,7,Maccabi Netanya,9,9,-4
+2025/26,regular,7,Kiryat Shmona,8,10,0
+2025/26,regular,7,H. Petah Tikva,8,11,-2
+2025/26,regular,7,H. Jerusalem,1,12,-9
+2025/26,regular,7,Ironi Tiberias,1,13,-11
+2025/26,regular,7,M. Bnei Reineh,1,14,-16
+2025/26,regular,8,H. Beer Sheva,21,1,17
+2025/26,regular,8,M. Tel Aviv,20,2,17
+2025/26,regular,8,B. Jerusalem,17,3,7
+2025/26,regular,8,Maccabi Netanya,12,4,-2
+2025/26,regular,8,Hapoel Tel Aviv,11,5,1
+2025/26,regular,8,Hapoel Haifa,11,6,1
+2025/26,regular,8,Bnei Sakhnin,11,7,-1
+2025/26,regular,8,FC Ashdod,11,8,-5
+2025/26,regular,8,Maccabi Haifa,10,9,6
+2025/26,regular,8,H. Petah Tikva,9,10,-2
+2025/26,regular,8,Kiryat Shmona,8,11,-2
+2025/26,regular,8,H. Jerusalem,2,12,-9
+2025/26,regular,8,Ironi Tiberias,2,13,-11
+2025/26,regular,8,M. Bnei Reineh,1,14,-17
+2025/26,regular,9,H. Beer Sheva,24,1,18
+2025/26,regular,9,M. Tel Aviv,23,2,19
+2025/26,regular,9,B. Jerusalem,17,3,6
+2025/26,regular,9,Maccabi Netanya,15,4,-1
+2025/26,regular,9,Hapoel Tel Aviv,14,5,3
+2025/26,regular,9,FC Ashdod,14,6,-2
+2025/26,regular,9,Bnei Sakhnin,12,7,-1
+2025/26,regular,9,Maccabi Haifa,11,8,6
+2025/26,regular,9,Hapoel Haifa,11,9,-2
+2025/26,regular,9,H. Petah Tikva,10,10,-2
+2025/26,regular,9,Kiryat Shmona,8,11,-3
+2025/26,regular,9,H. Jerusalem,3,12,-9
+2025/26,regular,9,Ironi Tiberias,2,13,-13
+2025/26,regular,9,M. Bnei Reineh,1,14,-19
+2025/26,regular,10,H. Beer Sheva,25,1,18
+2025/26,regular,10,M. Tel Aviv,23,2,15
+2025/26,regular,10,B. Jerusalem,20,3,10
+2025/26,regular,10,Maccabi Netanya,18,4,0
+2025/26,regular,10,Hapoel Tel Aviv,15,5,3
+2025/26,regular,10,FC Ashdod,15,6,-2
+2025/26,regular,10,Bnei Sakhnin,13,7,-1
+2025/26,regular,10,Maccabi Haifa,12,8,6
+2025/26,regular,10,Hapoel Haifa,12,9,-2
+2025/26,regular,10,H. Petah Tikva,11,10,-2
+2025/26,regular,10,Kiryat Shmona,11,11,-2
+2025/26,regular,10,H. Jerusalem,4,12,-9
+2025/26,regular,10,Ironi Tiberias,2,13,-14
+2025/26,regular,10,M. Bnei Reineh,1,14,-20
+2025/26,regular,11,H. Beer Sheva,28,1,19
+2025/26,regular,11,M. Tel Aviv,24,2,15
+2025/26,regular,11,B. Jerusalem,23,3,12
+2025/26,regular,11,Hapoel Tel Aviv,18,4,5
+2025/26,regular,11,Maccabi Netanya,18,5,-2
+2025/26,regular,11,FC Ashdod,16,6,-2
+2025/26,regular,11,Maccabi Haifa,13,7,6
+2025/26,regular,11,Bnei Sakhnin,13,8,-3
+2025/26,regular,11,H. Petah Tikva,12,9,-2
+2025/26,regular,11,Hapoel Haifa,12,10,-3
+2025/26,regular,11,Kiryat Shmona,11,11,-3
+2025/26,regular,11,H. Jerusalem,7,12,-8
+2025/26,regular,11,Ironi Tiberias,5,13,-12
+2025/26,regular,11,M. Bnei Reineh,1,14,-22

@@ -1,0 +1,20 @@
+﻿season,league_size,lowest_safe_team,lowest_safe_points,lowest_safe_goal_diff,best_relegated_team,best_relegated_points,best_relegated_goal_diff,points_gap_survival,gd_gap_survival
+2006/07,12,Maccabi Herzlya,34,-8,Hakoah Amidar,28,-22,6,14
+2007/08,12,M. Petah Tikva,37,-11,H. Kfar Saba,37,-17,0,6
+2008/09,12,H. Petah Tikva,31,-12,Hakoah Amidar,29,-20,2,8
+2009/10,6,H. Ramat Gan,22,-15,Hapoel Raanana,18,-25,4,10
+2010/11,6,H. Petah Tikva,22,-16,H. Ashkelon,19,-33,3,17
+2011/12,8,M. Petah Tikva,40,-18,H Rishon leZion,27,-31,13,13
+2012/13,8,Bnei Sakhnin,37,2,Maccabi Netanya,35,-5,2,7
+2013/14,8,M. Petah Tikva,33,-18,Ramat haSharon,33,-34,0,16
+2014/15,8,Hapoel Haifa,34,-22,H. Petah Tikva,32,-16,2,-6
+2015/16,8,Hapoel Haifa,34,-10,Hapoel Acre,34,-21,0,11
+2016/17,8,H. Ashkelon,32,-18,H. Kfar Saba,31,-17,1,-1
+2017/18,8,FC Ashdod,28,-19,H. Ashkelon,21,-28,7,9
+2018/19,8,FC Ashdod,37,-20,M. Petah Tikva,36,-18,1,-2
+2019/20,8,Kiryat Shmona,32,-13,Ness Ziona,32,-23,0,10
+2020/21,8,Bnei Sakhnin,34,-23,Bnei Yehuda,33,-19,1,-4
+2021/22,8,H. Jerusalem,33,-16,M. Petah Tikva,27,-15,6,-1
+2022/23,8,Hapoel Hadera,34,-18,Kiryat Shmona,32,-9,2,-9
+2023/24,8,Hapoel Hadera,36,-21,Hapoel Tel Aviv,33,-16,3,-5
+2024/25,8,Ironi Tiberias,35,-17,M. Petah Tikva,33,-19,2,2

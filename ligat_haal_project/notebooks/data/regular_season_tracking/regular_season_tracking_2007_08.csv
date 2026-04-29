@@ -1,0 +1,397 @@
+﻿season,stage,round,team,points,position,goal_diff
+2007/08,regular,1,B. Jerusalem,3,1,3
+2007/08,regular,1,Kiryat Shmona,3,1,3
+2007/08,regular,1,Bnei Sakhnin,3,3,1
+2007/08,regular,1,H. Kfar Saba,3,3,1
+2007/08,regular,1,FC Ashdod,1,5,0
+2007/08,regular,1,M. Tel Aviv,1,5,0
+2007/08,regular,1,Hapoel Tel Aviv,1,7,0
+2007/08,regular,1,Maccabi Netanya,1,7,0
+2007/08,regular,1,M. Petah Tikva,0,9,-1
+2007/08,regular,1,Maccabi Haifa,0,9,-1
+2007/08,regular,1,Bnei Yehuda,0,11,-3
+2007/08,regular,1,Maccabi Herzlya,0,11,-3
+2007/08,regular,2,B. Jerusalem,6,1,4
+2007/08,regular,2,Kiryat Shmona,4,2,3
+2007/08,regular,2,FC Ashdod,4,3,1
+2007/08,regular,2,Maccabi Netanya,4,3,1
+2007/08,regular,2,Bnei Sakhnin,4,5,1
+2007/08,regular,2,H. Kfar Saba,4,5,1
+2007/08,regular,2,M. Petah Tikva,3,7,0
+2007/08,regular,2,M. Tel Aviv,1,8,-1
+2007/08,regular,2,Hapoel Tel Aviv,1,9,-1
+2007/08,regular,2,Bnei Yehuda,1,10,-3
+2007/08,regular,2,Maccabi Haifa,0,11,-2
+2007/08,regular,2,Maccabi Herzlya,0,12,-4
+2007/08,regular,3,B. Jerusalem,9,1,6
+2007/08,regular,3,Kiryat Shmona,7,2,4
+2007/08,regular,3,Bnei Sakhnin,7,3,2
+2007/08,regular,3,H. Kfar Saba,7,4,2
+2007/08,regular,3,M. Petah Tikva,6,5,1
+2007/08,regular,3,FC Ashdod,4,6,0
+2007/08,regular,3,Maccabi Netanya,4,6,0
+2007/08,regular,3,Hapoel Tel Aviv,2,8,-1
+2007/08,regular,3,Bnei Yehuda,2,9,-3
+2007/08,regular,3,M. Tel Aviv,1,10,-2
+2007/08,regular,3,Maccabi Haifa,0,11,-3
+2007/08,regular,3,Maccabi Herzlya,0,12,-6
+2007/08,regular,4,B. Jerusalem,10,1,6
+2007/08,regular,4,M. Petah Tikva,9,2,3
+2007/08,regular,4,Bnei Sakhnin,8,3,2
+2007/08,regular,4,H. Kfar Saba,8,4,2
+2007/08,regular,4,Maccabi Netanya,7,5,5
+2007/08,regular,4,Kiryat Shmona,7,6,2
+2007/08,regular,4,Bnei Yehuda,5,7,-1
+2007/08,regular,4,FC Ashdod,4,8,-5
+2007/08,regular,4,Maccabi Haifa,3,9,0
+2007/08,regular,4,Hapoel Tel Aviv,3,10,-1
+2007/08,regular,4,M. Tel Aviv,1,11,-5
+2007/08,regular,4,Maccabi Herzlya,0,12,-8
+2007/08,regular,5,B. Jerusalem,13,1,11
+2007/08,regular,5,Maccabi Netanya,10,2,6
+2007/08,regular,5,Kiryat Shmona,10,3,3
+2007/08,regular,5,M. Petah Tikva,9,4,2
+2007/08,regular,5,Bnei Yehuda,8,5,2
+2007/08,regular,5,H. Kfar Saba,8,6,1
+2007/08,regular,5,Bnei Sakhnin,8,7,-1
+2007/08,regular,5,Maccabi Haifa,6,8,1
+2007/08,regular,5,FC Ashdod,4,9,-10
+2007/08,regular,5,Hapoel Tel Aviv,3,10,-3
+2007/08,regular,5,Maccabi Herzlya,3,11,-6
+2007/08,regular,5,M. Tel Aviv,1,12,-6
+2007/08,regular,6,B. Jerusalem,16,1,12
+2007/08,regular,6,Maccabi Netanya,13,2,8
+2007/08,regular,6,Bnei Sakhnin,11,3,0
+2007/08,regular,6,Kiryat Shmona,10,4,2
+2007/08,regular,6,Maccabi Haifa,9,5,2
+2007/08,regular,6,M. Petah Tikva,9,6,1
+2007/08,regular,6,H. Kfar Saba,8,7,0
+2007/08,regular,6,Bnei Yehuda,8,8,-1
+2007/08,regular,6,FC Ashdod,7,9,-7
+2007/08,regular,6,Maccabi Herzlya,6,10,-5
+2007/08,regular,6,Hapoel Tel Aviv,3,11,-4
+2007/08,regular,6,M. Tel Aviv,1,12,-8
+2007/08,regular,7,B. Jerusalem,19,1,14
+2007/08,regular,7,Maccabi Netanya,16,2,9
+2007/08,regular,7,Bnei Sakhnin,14,3,1
+2007/08,regular,7,M. Petah Tikva,12,4,2
+2007/08,regular,7,Kiryat Shmona,11,5,2
+2007/08,regular,7,FC Ashdod,10,6,-5
+2007/08,regular,7,Maccabi Haifa,9,7,1
+2007/08,regular,7,H. Kfar Saba,9,8,0
+2007/08,regular,7,Bnei Yehuda,8,9,-2
+2007/08,regular,7,Maccabi Herzlya,6,10,-6
+2007/08,regular,7,Hapoel Tel Aviv,3,11,-6
+2007/08,regular,7,M. Tel Aviv,1,12,-10
+2007/08,regular,8,B. Jerusalem,20,1,14
+2007/08,regular,8,Maccabi Netanya,17,2,9
+2007/08,regular,8,M. Petah Tikva,15,3,3
+2007/08,regular,8,Bnei Sakhnin,15,4,1
+2007/08,regular,8,Kiryat Shmona,12,5,2
+2007/08,regular,8,Maccabi Haifa,10,6,1
+2007/08,regular,8,H. Kfar Saba,10,7,0
+2007/08,regular,8,FC Ashdod,10,8,-6
+2007/08,regular,8,Maccabi Herzlya,9,9,-5
+2007/08,regular,8,Bnei Yehuda,8,10,-4
+2007/08,regular,8,M. Tel Aviv,4,11,-8
+2007/08,regular,8,Hapoel Tel Aviv,3,12,-7
+2007/08,regular,9,B. Jerusalem,21,1,14
+2007/08,regular,9,Bnei Sakhnin,18,2,4
+2007/08,regular,9,Maccabi Netanya,17,3,8
+2007/08,regular,9,M. Petah Tikva,16,4,3
+2007/08,regular,9,Maccabi Haifa,13,5,4
+2007/08,regular,9,Kiryat Shmona,13,6,2
+2007/08,regular,9,H. Kfar Saba,13,7,1
+2007/08,regular,9,Maccabi Herzlya,10,8,-5
+2007/08,regular,9,FC Ashdod,10,9,-9
+2007/08,regular,9,Bnei Yehuda,8,10,-7
+2007/08,regular,9,Hapoel Tel Aviv,6,11,-6
+2007/08,regular,9,M. Tel Aviv,4,12,-9
+2007/08,regular,10,B. Jerusalem,24,1,15
+2007/08,regular,10,M. Petah Tikva,19,2,5
+2007/08,regular,10,Bnei Sakhnin,18,3,2
+2007/08,regular,10,Maccabi Netanya,17,4,7
+2007/08,regular,10,Maccabi Haifa,16,5,6
+2007/08,regular,10,H. Kfar Saba,16,6,3
+2007/08,regular,10,Kiryat Shmona,16,7,3
+2007/08,regular,10,Maccabi Herzlya,10,8,-7
+2007/08,regular,10,FC Ashdod,10,9,-11
+2007/08,regular,10,Bnei Yehuda,8,10,-8
+2007/08,regular,10,M. Tel Aviv,7,11,-7
+2007/08,regular,10,Hapoel Tel Aviv,6,12,-8
+2007/08,regular,11,B. Jerusalem,27,1,19
+2007/08,regular,11,M. Petah Tikva,22,2,7
+2007/08,regular,11,Bnei Sakhnin,21,3,3
+2007/08,regular,11,Maccabi Netanya,20,4,8
+2007/08,regular,11,Maccabi Haifa,19,5,7
+2007/08,regular,11,Kiryat Shmona,19,6,4
+2007/08,regular,11,H. Kfar Saba,16,7,-1
+2007/08,regular,11,Maccabi Herzlya,10,8,-8
+2007/08,regular,11,FC Ashdod,10,9,-13
+2007/08,regular,11,Bnei Yehuda,8,10,-9
+2007/08,regular,11,M. Tel Aviv,7,11,-8
+2007/08,regular,11,Hapoel Tel Aviv,6,12,-9
+2007/08,regular,12,B. Jerusalem,30,1,22
+2007/08,regular,12,Maccabi Netanya,23,2,9
+2007/08,regular,12,M. Petah Tikva,23,3,7
+2007/08,regular,12,Kiryat Shmona,22,4,6
+2007/08,regular,12,Bnei Sakhnin,22,5,3
+2007/08,regular,12,Maccabi Haifa,20,6,7
+2007/08,regular,12,H. Kfar Saba,17,7,-1
+2007/08,regular,12,FC Ashdod,11,8,-13
+2007/08,regular,12,Maccabi Herzlya,10,9,-10
+2007/08,regular,12,M. Tel Aviv,8,10,-8
+2007/08,regular,12,Bnei Yehuda,8,11,-12
+2007/08,regular,12,Hapoel Tel Aviv,6,12,-10
+2007/08,regular,13,B. Jerusalem,33,1,23
+2007/08,regular,13,Maccabi Netanya,24,2,9
+2007/08,regular,13,Maccabi Haifa,23,3,10
+2007/08,regular,13,M. Petah Tikva,23,4,6
+2007/08,regular,13,Kiryat Shmona,23,5,6
+2007/08,regular,13,Bnei Sakhnin,23,6,3
+2007/08,regular,13,H. Kfar Saba,20,7,1
+2007/08,regular,13,M. Tel Aviv,11,8,-7
+2007/08,regular,13,Maccabi Herzlya,11,9,-10
+2007/08,regular,13,FC Ashdod,11,10,-16
+2007/08,regular,13,Bnei Yehuda,8,11,-14
+2007/08,regular,13,Hapoel Tel Aviv,6,12,-11
+2007/08,regular,14,B. Jerusalem,34,1,23
+2007/08,regular,14,Maccabi Netanya,25,2,9
+2007/08,regular,14,Maccabi Haifa,24,3,10
+2007/08,regular,14,M. Petah Tikva,24,4,6
+2007/08,regular,14,Kiryat Shmona,24,5,6
+2007/08,regular,14,Bnei Sakhnin,24,6,3
+2007/08,regular,14,H. Kfar Saba,20,7,-2
+2007/08,regular,14,M. Tel Aviv,14,8,-4
+2007/08,regular,14,Maccabi Herzlya,12,9,-10
+2007/08,regular,14,FC Ashdod,12,10,-16
+2007/08,regular,14,Hapoel Tel Aviv,9,11,-10
+2007/08,regular,14,Bnei Yehuda,8,12,-15
+2007/08,regular,15,B. Jerusalem,34,1,22
+2007/08,regular,15,Maccabi Netanya,28,2,12
+2007/08,regular,15,Maccabi Haifa,27,3,12
+2007/08,regular,15,Kiryat Shmona,27,4,7
+2007/08,regular,15,Bnei Sakhnin,27,5,4
+2007/08,regular,15,M. Petah Tikva,24,6,5
+2007/08,regular,15,H. Kfar Saba,23,7,-1
+2007/08,regular,15,Maccabi Herzlya,15,8,-9
+2007/08,regular,15,M. Tel Aviv,14,9,-6
+2007/08,regular,15,FC Ashdod,12,10,-19
+2007/08,regular,15,Hapoel Tel Aviv,9,11,-11
+2007/08,regular,15,Bnei Yehuda,8,12,-16
+2007/08,regular,16,B. Jerusalem,37,1,23
+2007/08,regular,16,Maccabi Haifa,30,2,15
+2007/08,regular,16,Maccabi Netanya,29,3,12
+2007/08,regular,16,Kiryat Shmona,28,4,7
+2007/08,regular,16,Bnei Sakhnin,28,5,4
+2007/08,regular,16,M. Petah Tikva,25,6,5
+2007/08,regular,16,H. Kfar Saba,23,7,-4
+2007/08,regular,16,M. Tel Aviv,15,8,-6
+2007/08,regular,16,Maccabi Herzlya,15,9,-10
+2007/08,regular,16,Hapoel Tel Aviv,12,10,-10
+2007/08,regular,16,FC Ashdod,12,11,-20
+2007/08,regular,16,Bnei Yehuda,9,12,-16
+2007/08,regular,17,B. Jerusalem,40,1,24
+2007/08,regular,17,Maccabi Netanya,32,2,13
+2007/08,regular,17,Maccabi Haifa,31,3,15
+2007/08,regular,17,Bnei Sakhnin,31,4,5
+2007/08,regular,17,Kiryat Shmona,29,5,7
+2007/08,regular,17,M. Petah Tikva,25,6,4
+2007/08,regular,17,H. Kfar Saba,24,7,-4
+2007/08,regular,17,Maccabi Herzlya,16,8,-10
+2007/08,regular,17,M. Tel Aviv,15,9,-7
+2007/08,regular,17,Hapoel Tel Aviv,12,10,-11
+2007/08,regular,17,Bnei Yehuda,12,11,-15
+2007/08,regular,17,FC Ashdod,12,12,-21
+2007/08,regular,18,B. Jerusalem,41,1,24
+2007/08,regular,18,Maccabi Netanya,35,2,15
+2007/08,regular,18,Kiryat Shmona,32,3,8
+2007/08,regular,18,Maccabi Haifa,31,4,13
+2007/08,regular,18,Bnei Sakhnin,31,5,2
+2007/08,regular,18,M. Petah Tikva,28,6,5
+2007/08,regular,18,H. Kfar Saba,24,7,-5
+2007/08,regular,18,Maccabi Herzlya,19,8,-7
+2007/08,regular,18,M. Tel Aviv,16,9,-7
+2007/08,regular,18,Hapoel Tel Aviv,13,10,-11
+2007/08,regular,18,FC Ashdod,13,11,-21
+2007/08,regular,18,Bnei Yehuda,12,12,-16
+2007/08,regular,19,B. Jerusalem,44,1,25
+2007/08,regular,19,Maccabi Netanya,36,2,15
+2007/08,regular,19,Kiryat Shmona,33,3,8
+2007/08,regular,19,Bnei Sakhnin,32,4,2
+2007/08,regular,19,Maccabi Haifa,31,5,12
+2007/08,regular,19,M. Petah Tikva,28,6,4
+2007/08,regular,19,H. Kfar Saba,25,7,-5
+2007/08,regular,19,Maccabi Herzlya,20,8,-7
+2007/08,regular,19,M. Tel Aviv,19,9,-3
+2007/08,regular,19,Hapoel Tel Aviv,16,10,-10
+2007/08,regular,19,FC Ashdod,14,11,-21
+2007/08,regular,19,Bnei Yehuda,12,12,-20
+2007/08,regular,20,B. Jerusalem,47,1,28
+2007/08,regular,20,Maccabi Netanya,39,2,16
+2007/08,regular,20,Maccabi Haifa,34,3,13
+2007/08,regular,20,Kiryat Shmona,33,4,5
+2007/08,regular,20,Bnei Sakhnin,32,5,0
+2007/08,regular,20,M. Petah Tikva,29,6,4
+2007/08,regular,20,H. Kfar Saba,25,7,-6
+2007/08,regular,20,Maccabi Herzlya,21,8,-7
+2007/08,regular,20,M. Tel Aviv,19,9,-5
+2007/08,regular,20,Hapoel Tel Aviv,19,10,-8
+2007/08,regular,20,FC Ashdod,17,11,-19
+2007/08,regular,20,Bnei Yehuda,12,12,-21
+2007/08,regular,21,B. Jerusalem,50,1,30
+2007/08,regular,21,Maccabi Netanya,39,2,14
+2007/08,regular,21,Bnei Sakhnin,35,3,1
+2007/08,regular,21,Maccabi Haifa,34,4,11
+2007/08,regular,21,Kiryat Shmona,34,5,5
+2007/08,regular,21,M. Petah Tikva,29,6,3
+2007/08,regular,21,H. Kfar Saba,28,7,-4
+2007/08,regular,21,M. Tel Aviv,22,8,-3
+2007/08,regular,21,Hapoel Tel Aviv,22,9,-6
+2007/08,regular,21,Maccabi Herzlya,21,10,-9
+2007/08,regular,21,FC Ashdod,17,11,-21
+2007/08,regular,21,Bnei Yehuda,13,12,-21
+2007/08,regular,22,B. Jerusalem,51,1,30
+2007/08,regular,22,Maccabi Netanya,40,2,14
+2007/08,regular,22,Kiryat Shmona,37,3,6
+2007/08,regular,22,Bnei Sakhnin,36,4,1
+2007/08,regular,22,Maccabi Haifa,35,5,11
+2007/08,regular,22,M. Petah Tikva,30,6,3
+2007/08,regular,22,H. Kfar Saba,29,7,-4
+2007/08,regular,22,M. Tel Aviv,23,8,-3
+2007/08,regular,22,Hapoel Tel Aviv,22,9,-7
+2007/08,regular,22,Maccabi Herzlya,22,10,-9
+2007/08,regular,22,FC Ashdod,18,11,-21
+2007/08,regular,22,Bnei Yehuda,14,12,-21
+2007/08,regular,23,B. Jerusalem,54,1,31
+2007/08,regular,23,Maccabi Netanya,41,2,14
+2007/08,regular,23,Kiryat Shmona,40,3,8
+2007/08,regular,23,Bnei Sakhnin,37,4,1
+2007/08,regular,23,Maccabi Haifa,35,5,10
+2007/08,regular,23,M. Petah Tikva,30,6,0
+2007/08,regular,23,H. Kfar Saba,30,7,-4
+2007/08,regular,23,M. Tel Aviv,26,8,-2
+2007/08,regular,23,Maccabi Herzlya,23,9,-9
+2007/08,regular,23,Hapoel Tel Aviv,22,10,-8
+2007/08,regular,23,FC Ashdod,21,11,-18
+2007/08,regular,23,Bnei Yehuda,14,12,-23
+2007/08,regular,24,B. Jerusalem,57,1,35
+2007/08,regular,24,Maccabi Netanya,41,2,12
+2007/08,regular,24,Kiryat Shmona,40,3,7
+2007/08,regular,24,Bnei Sakhnin,40,4,2
+2007/08,regular,24,Maccabi Haifa,38,5,12
+2007/08,regular,24,M. Petah Tikva,30,6,-4
+2007/08,regular,24,H. Kfar Saba,30,7,-6
+2007/08,regular,24,M. Tel Aviv,26,8,-3
+2007/08,regular,24,Maccabi Herzlya,26,9,-8
+2007/08,regular,24,Hapoel Tel Aviv,25,10,-7
+2007/08,regular,24,FC Ashdod,24,11,-16
+2007/08,regular,24,Bnei Yehuda,14,12,-24
+2007/08,regular,25,B. Jerusalem,60,1,39
+2007/08,regular,25,Maccabi Netanya,44,2,13
+2007/08,regular,25,Maccabi Haifa,41,3,13
+2007/08,regular,25,Kiryat Shmona,40,4,6
+2007/08,regular,25,Bnei Sakhnin,40,5,0
+2007/08,regular,25,M. Petah Tikva,30,6,-5
+2007/08,regular,25,H. Kfar Saba,30,7,-10
+2007/08,regular,25,M. Tel Aviv,29,8,-1
+2007/08,regular,25,Hapoel Tel Aviv,28,9,-6
+2007/08,regular,25,Maccabi Herzlya,26,10,-9
+2007/08,regular,25,FC Ashdod,24,11,-18
+2007/08,regular,25,Bnei Yehuda,17,12,-22
+2007/08,regular,26,B. Jerusalem,61,1,39
+2007/08,regular,26,Maccabi Netanya,45,2,13
+2007/08,regular,26,Kiryat Shmona,43,3,7
+2007/08,regular,26,Bnei Sakhnin,43,4,1
+2007/08,regular,26,Maccabi Haifa,41,5,12
+2007/08,regular,26,H. Kfar Saba,31,6,-10
+2007/08,regular,26,M. Tel Aviv,30,7,-1
+2007/08,regular,26,M. Petah Tikva,30,8,-6
+2007/08,regular,26,Hapoel Tel Aviv,28,9,-7
+2007/08,regular,26,FC Ashdod,27,10,-17
+2007/08,regular,26,Maccabi Herzlya,26,11,-11
+2007/08,regular,26,Bnei Yehuda,20,12,-20
+2007/08,regular,27,B. Jerusalem,61,1,37
+2007/08,regular,27,Maccabi Netanya,46,2,13
+2007/08,regular,27,Kiryat Shmona,46,3,9
+2007/08,regular,27,Bnei Sakhnin,46,4,5
+2007/08,regular,27,Maccabi Haifa,41,5,11
+2007/08,regular,27,M. Tel Aviv,31,6,-1
+2007/08,regular,27,Hapoel Tel Aviv,31,7,-5
+2007/08,regular,27,H. Kfar Saba,31,8,-12
+2007/08,regular,27,M. Petah Tikva,30,9,-10
+2007/08,regular,27,Maccabi Herzlya,29,10,-9
+2007/08,regular,27,FC Ashdod,27,11,-19
+2007/08,regular,27,Bnei Yehuda,23,12,-19
+2007/08,regular,28,B. Jerusalem,64,1,39
+2007/08,regular,28,Maccabi Netanya,49,2,16
+2007/08,regular,28,Kiryat Shmona,49,3,11
+2007/08,regular,28,Bnei Sakhnin,49,4,7
+2007/08,regular,28,Maccabi Haifa,42,5,11
+2007/08,regular,28,M. Tel Aviv,31,6,-3
+2007/08,regular,28,Hapoel Tel Aviv,31,7,-8
+2007/08,regular,28,M. Petah Tikva,31,8,-10
+2007/08,regular,28,H. Kfar Saba,31,9,-14
+2007/08,regular,28,Maccabi Herzlya,29,10,-11
+2007/08,regular,28,FC Ashdod,27,11,-21
+2007/08,regular,28,Bnei Yehuda,26,12,-17
+2007/08,regular,29,B. Jerusalem,64,1,38
+2007/08,regular,29,Maccabi Netanya,52,2,18
+2007/08,regular,29,Kiryat Shmona,49,3,9
+2007/08,regular,29,Bnei Sakhnin,49,4,5
+2007/08,regular,29,Maccabi Haifa,42,5,10
+2007/08,regular,29,M. Tel Aviv,34,6,-1
+2007/08,regular,29,Hapoel Tel Aviv,34,7,-6
+2007/08,regular,29,H. Kfar Saba,34,8,-13
+2007/08,regular,29,M. Petah Tikva,31,9,-11
+2007/08,regular,29,FC Ashdod,30,10,-20
+2007/08,regular,29,Maccabi Herzlya,29,11,-13
+2007/08,regular,29,Bnei Yehuda,29,12,-16
+2007/08,regular,30,B. Jerusalem,64,1,37
+2007/08,regular,30,Maccabi Netanya,55,2,19
+2007/08,regular,30,Kiryat Shmona,50,3,9
+2007/08,regular,30,Bnei Sakhnin,49,4,4
+2007/08,regular,30,Maccabi Haifa,43,5,10
+2007/08,regular,30,Hapoel Tel Aviv,37,6,-5
+2007/08,regular,30,M. Tel Aviv,35,7,-1
+2007/08,regular,30,M. Petah Tikva,34,8,-10
+2007/08,regular,30,H. Kfar Saba,34,9,-14
+2007/08,regular,30,Bnei Yehuda,32,10,-15
+2007/08,regular,30,Maccabi Herzlya,30,11,-13
+2007/08,regular,30,FC Ashdod,30,12,-21
+2007/08,regular,31,B. Jerusalem,67,1,40
+2007/08,regular,31,Maccabi Netanya,55,2,16
+2007/08,regular,31,Bnei Sakhnin,52,3,6
+2007/08,regular,31,Kiryat Shmona,50,4,7
+2007/08,regular,31,Maccabi Haifa,44,5,10
+2007/08,regular,31,M. Tel Aviv,38,6,0
+2007/08,regular,31,Hapoel Tel Aviv,38,7,-5
+2007/08,regular,31,Bnei Yehuda,35,8,-12
+2007/08,regular,31,M. Petah Tikva,34,9,-11
+2007/08,regular,31,H. Kfar Saba,34,10,-17
+2007/08,regular,31,FC Ashdod,33,11,-19
+2007/08,regular,31,Maccabi Herzlya,30,12,-15
+2007/08,regular,32,B. Jerusalem,67,1,39
+2007/08,regular,32,Maccabi Netanya,58,2,17
+2007/08,regular,32,Kiryat Shmona,53,3,8
+2007/08,regular,32,Bnei Sakhnin,52,4,5
+2007/08,regular,32,Maccabi Haifa,47,5,13
+2007/08,regular,32,M. Tel Aviv,41,6,1
+2007/08,regular,32,Hapoel Tel Aviv,41,7,-4
+2007/08,regular,32,FC Ashdod,36,8,-18
+2007/08,regular,32,Bnei Yehuda,35,9,-13
+2007/08,regular,32,M. Petah Tikva,34,10,-12
+2007/08,regular,32,H. Kfar Saba,34,11,-18
+2007/08,regular,32,Maccabi Herzlya,30,12,-18
+2007/08,regular,33,B. Jerusalem,67,1,38
+2007/08,regular,33,Maccabi Netanya,58,2,16
+2007/08,regular,33,Kiryat Shmona,56,3,9
+2007/08,regular,33,Bnei Sakhnin,55,4,6
+2007/08,regular,33,Maccabi Haifa,47,5,11
+2007/08,regular,33,M. Tel Aviv,41,6,0
+2007/08,regular,33,Hapoel Tel Aviv,41,7,-5
+2007/08,regular,33,FC Ashdod,39,8,-16
+2007/08,regular,33,Bnei Yehuda,38,9,-12
+2007/08,regular,33,M. Petah Tikva,37,10,-11
+2007/08,regular,33,H. Kfar Saba,37,11,-17
+2007/08,regular,33,Maccabi Herzlya,30,12,-19

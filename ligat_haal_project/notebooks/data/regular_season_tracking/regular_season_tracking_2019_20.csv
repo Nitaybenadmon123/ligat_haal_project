@@ -1,0 +1,365 @@
+﻿season,stage,round,team,points,position,goal_diff
+2019/20,regular,1,M. Tel Aviv,3,1,2
+2019/20,regular,1,Maccabi Haifa,3,2,1
+2019/20,regular,1,Bnei Yehuda,3,3,1
+2019/20,regular,1,Hapoel Haifa,3,4,1
+2019/20,regular,1,FC Ashdod,1,5,0
+2019/20,regular,1,Hapoel Hadera,1,5,0
+2019/20,regular,1,B. Jerusalem,1,7,0
+2019/20,regular,1,H. Beer Sheva,1,7,0
+2019/20,regular,1,Hapoel Tel Aviv,1,7,0
+2019/20,regular,1,Maccabi Netanya,1,7,0
+2019/20,regular,1,Hapoel Raanana,0,11,-1
+2019/20,regular,1,Kiryat Shmona,0,12,-1
+2019/20,regular,1,H. Kfar Saba,0,13,-1
+2019/20,regular,1,Ness Ziona,0,14,-2
+2019/20,regular,2,H. Beer Sheva,4,1,3
+2019/20,regular,2,Maccabi Netanya,4,1,3
+2019/20,regular,2,M. Tel Aviv,4,3,2
+2019/20,regular,2,Maccabi Haifa,4,4,1
+2019/20,regular,2,FC Ashdod,4,5,1
+2019/20,regular,2,Bnei Yehuda,4,6,1
+2019/20,regular,2,Hapoel Haifa,4,7,1
+2019/20,regular,2,H. Kfar Saba,3,8,1
+2019/20,regular,2,Hapoel Raanana,3,9,0
+2019/20,regular,2,B. Jerusalem,1,10,-1
+2019/20,regular,2,Hapoel Tel Aviv,1,10,-1
+2019/20,regular,2,Hapoel Hadera,1,12,-3
+2019/20,regular,2,Kiryat Shmona,0,13,-3
+2019/20,regular,2,Ness Ziona,0,14,-5
+2019/20,regular,3,Maccabi Haifa,7,1,3
+2019/20,regular,3,Hapoel Haifa,7,2,3
+2019/20,regular,3,M. Tel Aviv,7,2,3
+2019/20,regular,3,H. Beer Sheva,5,4,3
+2019/20,regular,3,Maccabi Netanya,5,5,3
+2019/20,regular,3,FC Ashdod,5,6,1
+2019/20,regular,3,Bnei Yehuda,5,7,1
+2019/20,regular,3,Hapoel Hadera,4,8,1
+2019/20,regular,3,H. Kfar Saba,3,9,0
+2019/20,regular,3,Hapoel Raanana,3,10,-4
+2019/20,regular,3,Hapoel Tel Aviv,2,11,-1
+2019/20,regular,3,B. Jerusalem,1,12,-3
+2019/20,regular,3,Ness Ziona,1,13,-5
+2019/20,regular,3,Kiryat Shmona,0,14,-5
+2019/20,regular,4,M. Tel Aviv,10,1,4
+2019/20,regular,4,H. Beer Sheva,8,2,6
+2019/20,regular,4,Bnei Yehuda,8,3,2
+2019/20,regular,4,Hapoel Hadera,7,4,2
+2019/20,regular,4,Maccabi Haifa,7,5,2
+2019/20,regular,4,Hapoel Haifa,7,6,2
+2019/20,regular,4,Maccabi Netanya,6,7,3
+2019/20,regular,4,FC Ashdod,6,8,1
+2019/20,regular,4,H. Kfar Saba,4,9,0
+2019/20,regular,4,B. Jerusalem,4,10,-1
+2019/20,regular,4,Hapoel Raanana,4,11,-4
+2019/20,regular,4,Hapoel Tel Aviv,2,12,-4
+2019/20,regular,4,Ness Ziona,1,13,-6
+2019/20,regular,4,Kiryat Shmona,0,14,-7
+2019/20,regular,5,M. Tel Aviv,13,1,8
+2019/20,regular,5,H. Beer Sheva,11,2,7
+2019/20,regular,5,Maccabi Haifa,10,3,5
+2019/20,regular,5,Bnei Yehuda,9,4,2
+2019/20,regular,5,Hapoel Hadera,8,5,2
+2019/20,regular,5,Hapoel Haifa,8,6,2
+2019/20,regular,5,FC Ashdod,7,7,1
+2019/20,regular,5,Maccabi Netanya,6,8,0
+2019/20,regular,5,H. Kfar Saba,5,9,0
+2019/20,regular,5,Hapoel Raanana,4,10,-5
+2019/20,regular,5,B. Jerusalem,4,11,-5
+2019/20,regular,5,Hapoel Tel Aviv,3,12,-4
+2019/20,regular,5,Ness Ziona,2,13,-6
+2019/20,regular,5,Kiryat Shmona,1,14,-7
+2019/20,regular,6,H. Beer Sheva,14,1,10
+2019/20,regular,6,M. Tel Aviv,14,2,8
+2019/20,regular,6,Maccabi Haifa,13,3,8
+2019/20,regular,6,Hapoel Hadera,9,4,2
+2019/20,regular,6,Bnei Yehuda,9,5,1
+2019/20,regular,6,H. Kfar Saba,8,6,1
+2019/20,regular,6,Hapoel Haifa,8,7,-1
+2019/20,regular,6,FC Ashdod,7,8,-1
+2019/20,regular,6,B. Jerusalem,7,9,-2
+2019/20,regular,6,Maccabi Netanya,6,10,-3
+2019/20,regular,6,Hapoel Raanana,5,11,-5
+2019/20,regular,6,Hapoel Tel Aviv,4,12,-4
+2019/20,regular,6,Kiryat Shmona,4,13,-5
+2019/20,regular,6,Ness Ziona,2,14,-9
+2019/20,regular,7,H. Beer Sheva,17,1,11
+2019/20,regular,7,M. Tel Aviv,17,2,9
+2019/20,regular,7,Maccabi Haifa,14,3,8
+2019/20,regular,7,Hapoel Hadera,12,4,3
+2019/20,regular,7,B. Jerusalem,10,5,2
+2019/20,regular,7,Bnei Yehuda,10,6,1
+2019/20,regular,7,Hapoel Haifa,9,7,-1
+2019/20,regular,7,H. Kfar Saba,8,8,0
+2019/20,regular,7,FC Ashdod,7,9,-2
+2019/20,regular,7,Hapoel Tel Aviv,7,10,-3
+2019/20,regular,7,Maccabi Netanya,6,11,-4
+2019/20,regular,7,Hapoel Raanana,6,12,-5
+2019/20,regular,7,Kiryat Shmona,4,13,-6
+2019/20,regular,7,Ness Ziona,2,14,-13
+2019/20,regular,8,M. Tel Aviv,20,1,11
+2019/20,regular,8,Maccabi Haifa,17,2,11
+2019/20,regular,8,H. Beer Sheva,17,3,9
+2019/20,regular,8,B. Jerusalem,13,4,4
+2019/20,regular,8,Hapoel Hadera,13,5,3
+2019/20,regular,8,Hapoel Haifa,12,6,2
+2019/20,regular,8,FC Ashdod,10,7,0
+2019/20,regular,8,Bnei Yehuda,10,8,-1
+2019/20,regular,8,H. Kfar Saba,8,9,-3
+2019/20,regular,8,Kiryat Shmona,7,10,-5
+2019/20,regular,8,Hapoel Tel Aviv,7,11,-6
+2019/20,regular,8,Hapoel Raanana,6,12,-6
+2019/20,regular,8,Maccabi Netanya,6,13,-6
+2019/20,regular,8,Ness Ziona,3,14,-13
+2019/20,regular,9,M. Tel Aviv,23,1,13
+2019/20,regular,9,Maccabi Haifa,20,2,12
+2019/20,regular,9,H. Beer Sheva,20,3,11
+2019/20,regular,9,B. Jerusalem,16,4,5
+2019/20,regular,9,Hapoel Haifa,15,5,3
+2019/20,regular,9,Hapoel Hadera,14,6,3
+2019/20,regular,9,FC Ashdod,11,7,0
+2019/20,regular,9,Bnei Yehuda,11,8,-1
+2019/20,regular,9,H. Kfar Saba,8,9,-4
+2019/20,regular,9,Kiryat Shmona,7,10,-6
+2019/20,regular,9,Hapoel Tel Aviv,7,11,-7
+2019/20,regular,9,Hapoel Raanana,6,12,-8
+2019/20,regular,9,Maccabi Netanya,6,13,-8
+2019/20,regular,9,Ness Ziona,4,14,-13
+2019/20,regular,10,M. Tel Aviv,26,1,16
+2019/20,regular,10,Maccabi Haifa,23,2,14
+2019/20,regular,10,H. Beer Sheva,20,3,10
+2019/20,regular,10,B. Jerusalem,16,4,3
+2019/20,regular,10,Hapoel Hadera,15,5,3
+2019/20,regular,10,Hapoel Haifa,15,6,0
+2019/20,regular,10,Bnei Yehuda,14,7,1
+2019/20,regular,10,FC Ashdod,11,8,-2
+2019/20,regular,10,Hapoel Tel Aviv,10,9,-6
+2019/20,regular,10,H. Kfar Saba,9,10,-4
+2019/20,regular,10,Maccabi Netanya,9,11,-7
+2019/20,regular,10,Kiryat Shmona,7,12,-7
+2019/20,regular,10,Ness Ziona,7,13,-12
+2019/20,regular,10,Hapoel Raanana,6,14,-9
+2019/20,regular,11,M. Tel Aviv,29,1,17
+2019/20,regular,11,Maccabi Haifa,26,2,17
+2019/20,regular,11,H. Beer Sheva,20,3,9
+2019/20,regular,11,B. Jerusalem,19,4,4
+2019/20,regular,11,Bnei Yehuda,17,5,2
+2019/20,regular,11,Hapoel Hadera,15,6,0
+2019/20,regular,11,Hapoel Haifa,15,7,-2
+2019/20,regular,11,FC Ashdod,12,8,-2
+2019/20,regular,11,Maccabi Netanya,12,9,-5
+2019/20,regular,11,H. Kfar Saba,10,10,-4
+2019/20,regular,11,Hapoel Tel Aviv,10,11,-7
+2019/20,regular,11,Ness Ziona,8,12,-12
+2019/20,regular,11,Kiryat Shmona,7,13,-8
+2019/20,regular,11,Hapoel Raanana,7,14,-9
+2019/20,regular,12,M. Tel Aviv,32,1,20
+2019/20,regular,12,Maccabi Haifa,27,2,17
+2019/20,regular,12,H. Beer Sheva,23,3,10
+2019/20,regular,12,B. Jerusalem,22,4,6
+2019/20,regular,12,Bnei Yehuda,18,5,2
+2019/20,regular,12,Hapoel Haifa,18,6,-1
+2019/20,regular,12,Hapoel Hadera,15,7,-2
+2019/20,regular,12,Maccabi Netanya,15,8,-4
+2019/20,regular,12,FC Ashdod,13,9,-2
+2019/20,regular,12,H. Kfar Saba,10,10,-5
+2019/20,regular,12,Hapoel Tel Aviv,10,11,-10
+2019/20,regular,12,Hapoel Raanana,8,12,-9
+2019/20,regular,12,Ness Ziona,8,13,-13
+2019/20,regular,12,Kiryat Shmona,7,14,-9
+2019/20,regular,13,M. Tel Aviv,33,1,20
+2019/20,regular,13,Maccabi Haifa,30,2,19
+2019/20,regular,13,H. Beer Sheva,23,3,8
+2019/20,regular,13,B. Jerusalem,23,4,6
+2019/20,regular,13,Hapoel Haifa,21,5,2
+2019/20,regular,13,Bnei Yehuda,18,6,-1
+2019/20,regular,13,Maccabi Netanya,16,7,-4
+2019/20,regular,13,Hapoel Hadera,15,8,-3
+2019/20,regular,13,FC Ashdod,14,9,-2
+2019/20,regular,13,Hapoel Tel Aviv,13,10,-9
+2019/20,regular,13,H. Kfar Saba,11,11,-5
+2019/20,regular,13,Kiryat Shmona,10,12,-8
+2019/20,regular,13,Hapoel Raanana,9,13,-9
+2019/20,regular,13,Ness Ziona,8,14,-14
+2019/20,regular,14,M. Tel Aviv,34,1,20
+2019/20,regular,14,Maccabi Haifa,31,2,19
+2019/20,regular,14,B. Jerusalem,26,3,7
+2019/20,regular,14,H. Beer Sheva,23,4,7
+2019/20,regular,14,Hapoel Haifa,21,5,0
+2019/20,regular,14,Maccabi Netanya,19,6,0
+2019/20,regular,14,Hapoel Hadera,18,7,-1
+2019/20,regular,14,Bnei Yehuda,18,8,-2
+2019/20,regular,14,H. Kfar Saba,14,9,-3
+2019/20,regular,14,FC Ashdod,14,10,-4
+2019/20,regular,14,Kiryat Shmona,13,11,-7
+2019/20,regular,14,Hapoel Tel Aviv,13,12,-13
+2019/20,regular,14,Hapoel Raanana,10,13,-9
+2019/20,regular,14,Ness Ziona,9,14,-14
+2019/20,regular,15,M. Tel Aviv,37,1,23
+2019/20,regular,15,Maccabi Haifa,34,2,22
+2019/20,regular,15,B. Jerusalem,29,3,9
+2019/20,regular,15,H. Beer Sheva,26,4,8
+2019/20,regular,15,Hapoel Haifa,21,5,-3
+2019/20,regular,15,Maccabi Netanya,19,6,-1
+2019/20,regular,15,Hapoel Hadera,18,7,-2
+2019/20,regular,15,Bnei Yehuda,18,8,-5
+2019/20,regular,15,Kiryat Shmona,16,9,-4
+2019/20,regular,15,FC Ashdod,15,10,-4
+2019/20,regular,15,H. Kfar Saba,14,11,-6
+2019/20,regular,15,Hapoel Tel Aviv,14,12,-13
+2019/20,regular,15,Ness Ziona,12,13,-13
+2019/20,regular,15,Hapoel Raanana,10,14,-11
+2019/20,regular,16,M. Tel Aviv,40,1,27
+2019/20,regular,16,Maccabi Haifa,37,2,23
+2019/20,regular,16,B. Jerusalem,32,3,12
+2019/20,regular,16,H. Beer Sheva,29,4,9
+2019/20,regular,16,Bnei Yehuda,21,5,-2
+2019/20,regular,16,Hapoel Haifa,21,6,-6
+2019/20,regular,16,Hapoel Hadera,19,7,-2
+2019/20,regular,16,Maccabi Netanya,19,8,-4
+2019/20,regular,16,Hapoel Tel Aviv,17,9,-12
+2019/20,regular,16,Kiryat Shmona,16,10,-5
+2019/20,regular,16,FC Ashdod,15,11,-5
+2019/20,regular,16,H. Kfar Saba,14,12,-10
+2019/20,regular,16,Ness Ziona,12,13,-14
+2019/20,regular,16,Hapoel Raanana,11,14,-11
+2019/20,regular,17,M. Tel Aviv,43,1,28
+2019/20,regular,17,Maccabi Haifa,37,2,22
+2019/20,regular,17,B. Jerusalem,33,3,12
+2019/20,regular,17,H. Beer Sheva,29,4,8
+2019/20,regular,17,Hapoel Hadera,22,5,0
+2019/20,regular,17,Maccabi Netanya,22,6,-3
+2019/20,regular,17,Bnei Yehuda,21,7,-3
+2019/20,regular,17,Hapoel Haifa,21,8,-8
+2019/20,regular,17,Hapoel Tel Aviv,20,9,-11
+2019/20,regular,17,FC Ashdod,18,10,-2
+2019/20,regular,17,Kiryat Shmona,17,11,-5
+2019/20,regular,17,Ness Ziona,15,12,-13
+2019/20,regular,17,H. Kfar Saba,14,13,-11
+2019/20,regular,17,Hapoel Raanana,11,14,-14
+2019/20,regular,18,M. Tel Aviv,44,1,28
+2019/20,regular,18,Maccabi Haifa,40,2,24
+2019/20,regular,18,B. Jerusalem,34,3,12
+2019/20,regular,18,H. Beer Sheva,29,4,7
+2019/20,regular,18,Hapoel Hadera,25,5,1
+2019/20,regular,18,Hapoel Haifa,24,6,-7
+2019/20,regular,18,Hapoel Tel Aviv,23,7,-10
+2019/20,regular,18,Maccabi Netanya,22,8,-5
+2019/20,regular,18,Bnei Yehuda,21,9,-4
+2019/20,regular,18,FC Ashdod,18,10,-3
+2019/20,regular,18,Kiryat Shmona,17,11,-6
+2019/20,regular,18,H. Kfar Saba,17,12,-10
+2019/20,regular,18,Ness Ziona,15,13,-14
+2019/20,regular,18,Hapoel Raanana,14,14,-13
+2019/20,regular,19,M. Tel Aviv,47,1,31
+2019/20,regular,19,Maccabi Haifa,43,2,28
+2019/20,regular,19,B. Jerusalem,37,3,14
+2019/20,regular,19,H. Beer Sheva,32,4,8
+2019/20,regular,19,Hapoel Tel Aviv,26,5,-8
+2019/20,regular,19,Hapoel Hadera,25,6,-2
+2019/20,regular,19,Bnei Yehuda,24,7,-3
+2019/20,regular,19,Hapoel Haifa,24,8,-8
+2019/20,regular,19,Maccabi Netanya,22,9,-7
+2019/20,regular,19,FC Ashdod,21,10,-2
+2019/20,regular,19,Kiryat Shmona,17,11,-7
+2019/20,regular,19,H. Kfar Saba,17,12,-11
+2019/20,regular,19,Ness Ziona,15,13,-18
+2019/20,regular,19,Hapoel Raanana,14,14,-15
+2019/20,regular,20,M. Tel Aviv,50,1,33
+2019/20,regular,20,Maccabi Haifa,46,2,30
+2019/20,regular,20,B. Jerusalem,40,3,15
+2019/20,regular,20,H. Beer Sheva,33,4,8
+2019/20,regular,20,Hapoel Tel Aviv,29,5,-7
+2019/20,regular,20,Hapoel Hadera,25,6,-3
+2019/20,regular,20,Maccabi Netanya,25,7,-6
+2019/20,regular,20,Hapoel Haifa,25,8,-8
+2019/20,regular,20,Bnei Yehuda,24,9,-5
+2019/20,regular,20,FC Ashdod,21,10,-4
+2019/20,regular,20,Kiryat Shmona,18,11,-7
+2019/20,regular,20,H. Kfar Saba,17,12,-12
+2019/20,regular,20,Hapoel Raanana,15,13,-15
+2019/20,regular,20,Ness Ziona,15,14,-19
+2019/20,regular,21,M. Tel Aviv,51,1,33
+2019/20,regular,21,Maccabi Haifa,46,2,29
+2019/20,regular,21,B. Jerusalem,40,3,13
+2019/20,regular,21,H. Beer Sheva,34,4,8
+2019/20,regular,21,Hapoel Tel Aviv,29,5,-8
+2019/20,regular,21,Hapoel Hadera,28,6,-2
+2019/20,regular,21,Hapoel Haifa,28,7,-7
+2019/20,regular,21,Bnei Yehuda,27,8,-3
+2019/20,regular,21,Maccabi Netanya,26,9,-6
+2019/20,regular,21,FC Ashdod,22,10,-4
+2019/20,regular,21,H. Kfar Saba,20,11,-11
+2019/20,regular,21,Kiryat Shmona,19,12,-7
+2019/20,regular,21,Hapoel Raanana,16,13,-15
+2019/20,regular,21,Ness Ziona,15,14,-20
+2019/20,regular,22,M. Tel Aviv,54,1,34
+2019/20,regular,22,Maccabi Haifa,49,2,34
+2019/20,regular,22,B. Jerusalem,40,3,12
+2019/20,regular,22,H. Beer Sheva,35,4,8
+2019/20,regular,22,Hapoel Hadera,31,5,-1
+2019/20,regular,22,Hapoel Haifa,31,6,-6
+2019/20,regular,22,Hapoel Tel Aviv,29,7,-13
+2019/20,regular,22,Bnei Yehuda,27,8,-4
+2019/20,regular,22,Maccabi Netanya,27,9,-6
+2019/20,regular,22,FC Ashdod,25,10,-2
+2019/20,regular,22,H. Kfar Saba,23,11,-10
+2019/20,regular,22,Kiryat Shmona,19,12,-8
+2019/20,regular,22,Hapoel Raanana,16,13,-16
+2019/20,regular,22,Ness Ziona,15,14,-22
+2019/20,regular,23,M. Tel Aviv,55,1,34
+2019/20,regular,23,Maccabi Haifa,49,2,32
+2019/20,regular,23,B. Jerusalem,43,3,14
+2019/20,regular,23,H. Beer Sheva,38,4,11
+2019/20,regular,23,Hapoel Hadera,34,5,1
+2019/20,regular,23,Hapoel Haifa,32,6,-6
+2019/20,regular,23,Hapoel Tel Aviv,32,7,-11
+2019/20,regular,23,Bnei Yehuda,30,8,-3
+2019/20,regular,23,Maccabi Netanya,30,9,-5
+2019/20,regular,23,FC Ashdod,25,10,-3
+2019/20,regular,23,H. Kfar Saba,23,11,-12
+2019/20,regular,23,Kiryat Shmona,19,12,-10
+2019/20,regular,23,Hapoel Raanana,16,13,-17
+2019/20,regular,23,Ness Ziona,15,14,-25
+2019/20,regular,24,M. Tel Aviv,58,1,37
+2019/20,regular,24,Maccabi Haifa,52,2,33
+2019/20,regular,24,B. Jerusalem,43,3,13
+2019/20,regular,24,H. Beer Sheva,41,4,12
+2019/20,regular,24,Hapoel Tel Aviv,35,5,-10
+2019/20,regular,24,Hapoel Hadera,34,6,0
+2019/20,regular,24,Hapoel Haifa,33,7,-6
+2019/20,regular,24,Maccabi Netanya,31,8,-5
+2019/20,regular,24,Bnei Yehuda,30,9,-4
+2019/20,regular,24,FC Ashdod,28,10,-1
+2019/20,regular,24,H. Kfar Saba,23,11,-14
+2019/20,regular,24,Kiryat Shmona,19,12,-13
+2019/20,regular,24,Ness Ziona,18,13,-22
+2019/20,regular,24,Hapoel Raanana,16,14,-20
+2019/20,regular,25,M. Tel Aviv,61,1,40
+2019/20,regular,25,Maccabi Haifa,55,2,34
+2019/20,regular,25,B. Jerusalem,46,3,16
+2019/20,regular,25,H. Beer Sheva,44,4,14
+2019/20,regular,25,Hapoel Haifa,36,5,-4
+2019/20,regular,25,Hapoel Tel Aviv,35,6,-13
+2019/20,regular,25,Hapoel Hadera,34,7,-3
+2019/20,regular,25,Bnei Yehuda,33,8,-3
+2019/20,regular,25,Maccabi Netanya,31,9,-8
+2019/20,regular,25,FC Ashdod,28,10,-2
+2019/20,regular,25,H. Kfar Saba,23,11,-16
+2019/20,regular,25,Kiryat Shmona,22,12,-10
+2019/20,regular,25,Ness Ziona,18,13,-24
+2019/20,regular,25,Hapoel Raanana,16,14,-21
+2019/20,regular,26,M. Tel Aviv,64,1,41
+2019/20,regular,26,Maccabi Haifa,58,2,38
+2019/20,regular,26,B. Jerusalem,49,3,17
+2019/20,regular,26,H. Beer Sheva,44,4,10
+2019/20,regular,26,Hapoel Tel Aviv,38,5,-12
+2019/20,regular,26,Hapoel Haifa,37,6,-4
+2019/20,regular,26,Bnei Yehuda,34,7,-3
+2019/20,regular,26,Hapoel Hadera,34,8,-4
+2019/20,regular,26,Maccabi Netanya,31,9,-9
+2019/20,regular,26,FC Ashdod,28,10,-3
+2019/20,regular,26,H. Kfar Saba,26,11,-13
+2019/20,regular,26,Kiryat Shmona,22,12,-11
+2019/20,regular,26,Ness Ziona,21,13,-23
+2019/20,regular,26,Hapoel Raanana,16,14,-24

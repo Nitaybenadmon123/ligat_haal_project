@@ -1,0 +1,365 @@
+﻿season,stage,round,team,points,position,goal_diff
+2017/18,regular,1,B. Jerusalem,3,1,3
+2017/18,regular,1,Hapoel Haifa,3,2,2
+2017/18,regular,1,Bnei Yehuda,3,3,2
+2017/18,regular,1,Bnei Sakhnin,3,4,1
+2017/18,regular,1,M. Petah Tikva,3,4,1
+2017/18,regular,1,H. Beer Sheva,1,6,0
+2017/18,regular,1,Maccabi Netanya,1,6,0
+2017/18,regular,1,Hapoel Raanana,1,8,0
+2017/18,regular,1,Kiryat Shmona,1,8,0
+2017/18,regular,1,FC Ashdod,0,10,-1
+2017/18,regular,1,H. Ashkelon,0,11,-2
+2017/18,regular,1,Maccabi Haifa,0,12,-2
+2017/18,regular,1,M. Tel Aviv,0,13,-3
+2017/18,regular,1,Hapoel Acre,-2,14,-1
+2017/18,regular,2,B. Jerusalem,6,1,6
+2017/18,regular,2,Hapoel Haifa,6,2,4
+2017/18,regular,2,Bnei Sakhnin,6,3,2
+2017/18,regular,2,Bnei Yehuda,4,4,2
+2017/18,regular,2,Maccabi Haifa,3,5,0
+2017/18,regular,2,M. Petah Tikva,3,6,-1
+2017/18,regular,2,M. Tel Aviv,3,7,-2
+2017/18,regular,2,Maccabi Netanya,2,8,0
+2017/18,regular,2,Hapoel Raanana,1,9,-1
+2017/18,regular,2,Kiryat Shmona,1,9,-1
+2017/18,regular,2,H. Ashkelon,1,11,-2
+2017/18,regular,2,H. Beer Sheva,1,11,-2
+2017/18,regular,2,FC Ashdod,0,13,-4
+2017/18,regular,2,Hapoel Acre,-1,14,-1
+2017/18,regular,3,B. Jerusalem,9,1,7
+2017/18,regular,3,Hapoel Haifa,9,2,5
+2017/18,regular,3,Bnei Sakhnin,6,3,0
+2017/18,regular,3,M. Tel Aviv,6,3,0
+2017/18,regular,3,Maccabi Netanya,5,5,3
+2017/18,regular,3,Bnei Yehuda,4,6,1
+2017/18,regular,3,Kiryat Shmona,4,7,1
+2017/18,regular,3,H. Beer Sheva,4,8,-1
+2017/18,regular,3,M. Petah Tikva,3,9,-2
+2017/18,regular,3,Maccabi Haifa,3,9,-2
+2017/18,regular,3,Hapoel Acre,2,11,1
+2017/18,regular,3,H. Ashkelon,1,12,-3
+2017/18,regular,3,Hapoel Raanana,1,13,-4
+2017/18,regular,3,FC Ashdod,0,14,-6
+2017/18,regular,4,B. Jerusalem,10,1,7
+2017/18,regular,4,Hapoel Haifa,10,2,5
+2017/18,regular,4,M. Tel Aviv,9,3,1
+2017/18,regular,4,Kiryat Shmona,7,4,3
+2017/18,regular,4,Bnei Sakhnin,7,5,0
+2017/18,regular,4,H. Beer Sheva,7,5,0
+2017/18,regular,4,Maccabi Haifa,6,7,0
+2017/18,regular,4,Maccabi Netanya,5,8,2
+2017/18,regular,4,Bnei Yehuda,4,9,0
+2017/18,regular,4,H. Ashkelon,4,10,-2
+2017/18,regular,4,M. Petah Tikva,3,11,-4
+2017/18,regular,4,Hapoel Acre,2,12,0
+2017/18,regular,4,Hapoel Raanana,1,13,-6
+2017/18,regular,4,FC Ashdod,1,14,-6
+2017/18,regular,5,B. Jerusalem,11,1,7
+2017/18,regular,5,Hapoel Haifa,11,2,5
+2017/18,regular,5,M. Tel Aviv,10,3,1
+2017/18,regular,5,Maccabi Netanya,8,4,5
+2017/18,regular,5,Kiryat Shmona,8,5,3
+2017/18,regular,5,H. Beer Sheva,8,6,0
+2017/18,regular,5,H. Ashkelon,7,7,1
+2017/18,regular,5,Maccabi Haifa,7,8,0
+2017/18,regular,5,Bnei Sakhnin,7,9,-1
+2017/18,regular,5,M. Petah Tikva,6,10,-3
+2017/18,regular,5,Bnei Yehuda,5,11,0
+2017/18,regular,5,Hapoel Acre,3,12,0
+2017/18,regular,5,Hapoel Raanana,1,13,-9
+2017/18,regular,5,FC Ashdod,1,14,-9
+2017/18,regular,6,Hapoel Haifa,14,1,6
+2017/18,regular,6,Maccabi Netanya,11,2,9
+2017/18,regular,6,B. Jerusalem,11,3,6
+2017/18,regular,6,H. Beer Sheva,11,4,2
+2017/18,regular,6,M. Tel Aviv,11,5,1
+2017/18,regular,6,Maccabi Haifa,10,6,1
+2017/18,regular,6,Bnei Sakhnin,10,7,0
+2017/18,regular,6,Kiryat Shmona,8,8,2
+2017/18,regular,6,H. Ashkelon,8,9,1
+2017/18,regular,6,Bnei Yehuda,8,10,1
+2017/18,regular,6,M. Petah Tikva,6,11,-7
+2017/18,regular,6,Hapoel Acre,3,12,-2
+2017/18,regular,6,Hapoel Raanana,1,13,-10
+2017/18,regular,6,FC Ashdod,1,14,-10
+2017/18,regular,7,Hapoel Haifa,17,1,10
+2017/18,regular,7,B. Jerusalem,14,2,9
+2017/18,regular,7,H. Beer Sheva,14,3,4
+2017/18,regular,7,M. Tel Aviv,14,4,3
+2017/18,regular,7,Maccabi Netanya,11,5,6
+2017/18,regular,7,Maccabi Haifa,11,6,1
+2017/18,regular,7,Bnei Sakhnin,11,7,0
+2017/18,regular,7,Kiryat Shmona,9,8,2
+2017/18,regular,7,H. Ashkelon,9,9,1
+2017/18,regular,7,Bnei Yehuda,8,10,-1
+2017/18,regular,7,M. Petah Tikva,7,11,-7
+2017/18,regular,7,Hapoel Acre,3,12,-6
+2017/18,regular,7,FC Ashdod,2,13,-10
+2017/18,regular,7,Hapoel Raanana,1,14,-12
+2017/18,regular,8,Hapoel Haifa,20,1,11
+2017/18,regular,8,B. Jerusalem,17,2,10
+2017/18,regular,8,H. Beer Sheva,17,3,5
+2017/18,regular,8,Maccabi Netanya,14,4,8
+2017/18,regular,8,M. Tel Aviv,14,5,2
+2017/18,regular,8,Maccabi Haifa,11,6,0
+2017/18,regular,8,Bnei Sakhnin,11,7,-1
+2017/18,regular,8,M. Petah Tikva,10,8,-5
+2017/18,regular,8,Kiryat Shmona,9,9,0
+2017/18,regular,8,H. Ashkelon,9,10,-1
+2017/18,regular,8,Bnei Yehuda,8,11,-2
+2017/18,regular,8,FC Ashdod,5,12,-9
+2017/18,regular,8,Hapoel Raanana,4,13,-10
+2017/18,regular,8,Hapoel Acre,3,14,-8
+2017/18,regular,9,Hapoel Haifa,23,1,13
+2017/18,regular,9,B. Jerusalem,20,2,12
+2017/18,regular,9,H. Beer Sheva,20,3,7
+2017/18,regular,9,M. Tel Aviv,17,4,5
+2017/18,regular,9,Maccabi Netanya,15,5,8
+2017/18,regular,9,Kiryat Shmona,12,6,1
+2017/18,regular,9,Bnei Sakhnin,12,7,-1
+2017/18,regular,9,Maccabi Haifa,11,8,-1
+2017/18,regular,9,Bnei Yehuda,11,9,-1
+2017/18,regular,9,M. Petah Tikva,10,10,-6
+2017/18,regular,9,H. Ashkelon,9,11,-3
+2017/18,regular,9,FC Ashdod,5,12,-11
+2017/18,regular,9,Hapoel Raanana,4,13,-12
+2017/18,regular,9,Hapoel Acre,3,14,-11
+2017/18,regular,10,Hapoel Haifa,23,1,11
+2017/18,regular,10,H. Beer Sheva,23,2,9
+2017/18,regular,10,B. Jerusalem,20,3,11
+2017/18,regular,10,M. Tel Aviv,20,4,6
+2017/18,regular,10,Maccabi Netanya,18,5,10
+2017/18,regular,10,Maccabi Haifa,14,6,1
+2017/18,regular,10,Bnei Yehuda,14,7,0
+2017/18,regular,10,Kiryat Shmona,13,8,1
+2017/18,regular,10,Bnei Sakhnin,12,9,-3
+2017/18,regular,10,H. Ashkelon,10,10,-3
+2017/18,regular,10,M. Petah Tikva,10,11,-8
+2017/18,regular,10,Hapoel Acre,6,12,-10
+2017/18,regular,10,FC Ashdod,5,13,-12
+2017/18,regular,10,Hapoel Raanana,4,14,-13
+2017/18,regular,11,Hapoel Haifa,24,1,11
+2017/18,regular,11,H. Beer Sheva,24,2,9
+2017/18,regular,11,B. Jerusalem,21,3,11
+2017/18,regular,11,M. Tel Aviv,21,4,6
+2017/18,regular,11,Maccabi Netanya,19,5,10
+2017/18,regular,11,Kiryat Shmona,16,6,2
+2017/18,regular,11,Maccabi Haifa,15,7,1
+2017/18,regular,11,Bnei Sakhnin,15,8,-2
+2017/18,regular,11,Bnei Yehuda,14,9,-1
+2017/18,regular,11,M. Petah Tikva,13,10,-5
+2017/18,regular,11,H. Ashkelon,10,11,-4
+2017/18,regular,11,Hapoel Raanana,7,12,-12
+2017/18,regular,11,Hapoel Acre,6,13,-13
+2017/18,regular,11,FC Ashdod,5,14,-13
+2017/18,regular,12,Hapoel Haifa,27,1,12
+2017/18,regular,12,H. Beer Sheva,27,2,11
+2017/18,regular,12,B. Jerusalem,24,3,13
+2017/18,regular,12,M. Tel Aviv,22,4,6
+2017/18,regular,12,Maccabi Netanya,20,5,10
+2017/18,regular,12,Bnei Yehuda,17,6,2
+2017/18,regular,12,Kiryat Shmona,16,7,0
+2017/18,regular,12,Maccabi Haifa,15,8,0
+2017/18,regular,12,Bnei Sakhnin,15,9,-5
+2017/18,regular,12,M. Petah Tikva,14,10,-5
+2017/18,regular,12,H. Ashkelon,11,11,-4
+2017/18,regular,12,Hapoel Raanana,8,12,-12
+2017/18,regular,12,FC Ashdod,6,13,-13
+2017/18,regular,12,Hapoel Acre,6,14,-15
+2017/18,regular,13,H. Beer Sheva,30,1,13
+2017/18,regular,13,Hapoel Haifa,28,2,12
+2017/18,regular,13,B. Jerusalem,27,3,14
+2017/18,regular,13,M. Tel Aviv,23,4,6
+2017/18,regular,13,Maccabi Netanya,20,5,9
+2017/18,regular,13,Bnei Yehuda,20,6,3
+2017/18,regular,13,Kiryat Shmona,19,7,4
+2017/18,regular,13,Maccabi Haifa,16,8,0
+2017/18,regular,13,M. Petah Tikva,15,9,-5
+2017/18,regular,13,Bnei Sakhnin,15,10,-7
+2017/18,regular,13,H. Ashkelon,12,11,-4
+2017/18,regular,13,Hapoel Raanana,8,12,-13
+2017/18,regular,13,FC Ashdod,7,13,-13
+2017/18,regular,13,Hapoel Acre,6,14,-19
+2017/18,regular,14,H. Beer Sheva,30,1,12
+2017/18,regular,14,Hapoel Haifa,29,2,12
+2017/18,regular,14,B. Jerusalem,27,3,13
+2017/18,regular,14,M. Tel Aviv,26,4,7
+2017/18,regular,14,Maccabi Netanya,23,5,10
+2017/18,regular,14,Bnei Yehuda,23,6,5
+2017/18,regular,14,Kiryat Shmona,19,7,2
+2017/18,regular,14,Bnei Sakhnin,18,8,-6
+2017/18,regular,14,Maccabi Haifa,16,9,-2
+2017/18,regular,14,M. Petah Tikva,16,10,-5
+2017/18,regular,14,H. Ashkelon,13,11,-4
+2017/18,regular,14,Hapoel Raanana,11,12,-11
+2017/18,regular,14,FC Ashdod,8,13,-13
+2017/18,regular,14,Hapoel Acre,6,14,-20
+2017/18,regular,15,H. Beer Sheva,33,1,14
+2017/18,regular,15,Hapoel Haifa,32,2,14
+2017/18,regular,15,B. Jerusalem,30,3,15
+2017/18,regular,15,M. Tel Aviv,29,4,8
+2017/18,regular,15,Maccabi Netanya,26,5,13
+2017/18,regular,15,Bnei Yehuda,26,6,7
+2017/18,regular,15,Kiryat Shmona,19,7,1
+2017/18,regular,15,Bnei Sakhnin,19,8,-6
+2017/18,regular,15,Maccabi Haifa,16,9,-4
+2017/18,regular,15,M. Petah Tikva,16,10,-7
+2017/18,regular,15,H. Ashkelon,13,11,-6
+2017/18,regular,15,Hapoel Raanana,12,12,-11
+2017/18,regular,15,FC Ashdod,8,13,-15
+2017/18,regular,15,Hapoel Acre,6,14,-23
+2017/18,regular,16,H. Beer Sheva,36,1,15
+2017/18,regular,16,Hapoel Haifa,35,2,15
+2017/18,regular,16,B. Jerusalem,33,3,16
+2017/18,regular,16,M. Tel Aviv,32,4,9
+2017/18,regular,16,Maccabi Netanya,27,5,13
+2017/18,regular,16,Bnei Yehuda,26,6,6
+2017/18,regular,16,Kiryat Shmona,19,7,0
+2017/18,regular,16,Bnei Sakhnin,19,8,-7
+2017/18,regular,16,Maccabi Haifa,16,9,-5
+2017/18,regular,16,M. Petah Tikva,16,10,-8
+2017/18,regular,16,H. Ashkelon,13,11,-7
+2017/18,regular,16,Hapoel Raanana,13,12,-11
+2017/18,regular,16,FC Ashdod,11,13,-14
+2017/18,regular,16,Hapoel Acre,9,14,-22
+2017/18,regular,17,H. Beer Sheva,37,1,15
+2017/18,regular,17,B. Jerusalem,36,2,18
+2017/18,regular,17,Hapoel Haifa,35,3,13
+2017/18,regular,17,M. Tel Aviv,35,4,12
+2017/18,regular,17,Maccabi Netanya,27,5,10
+2017/18,regular,17,Bnei Yehuda,27,6,6
+2017/18,regular,17,Bnei Sakhnin,22,7,-6
+2017/18,regular,17,Kiryat Shmona,19,8,-2
+2017/18,regular,17,Maccabi Haifa,19,8,-2
+2017/18,regular,17,M. Petah Tikva,19,10,-6
+2017/18,regular,17,H. Ashkelon,16,11,-6
+2017/18,regular,17,Hapoel Raanana,13,12,-14
+2017/18,regular,17,FC Ashdod,11,13,-15
+2017/18,regular,17,Hapoel Acre,9,14,-23
+2017/18,regular,18,H. Beer Sheva,38,1,15
+2017/18,regular,18,M. Tel Aviv,38,2,14
+2017/18,regular,18,B. Jerusalem,37,3,18
+2017/18,regular,18,Hapoel Haifa,36,4,13
+2017/18,regular,18,Bnei Yehuda,30,5,7
+2017/18,regular,18,Maccabi Netanya,28,6,10
+2017/18,regular,18,M. Petah Tikva,22,7,-4
+2017/18,regular,18,Bnei Sakhnin,22,8,-8
+2017/18,regular,18,Kiryat Shmona,20,9,-2
+2017/18,regular,18,Maccabi Haifa,19,10,-4
+2017/18,regular,18,H. Ashkelon,16,11,-7
+2017/18,regular,18,Hapoel Raanana,16,12,-13
+2017/18,regular,18,FC Ashdod,12,13,-15
+2017/18,regular,18,Hapoel Acre,9,14,-24
+2017/18,regular,19,M. Tel Aviv,41,1,16
+2017/18,regular,19,H. Beer Sheva,41,2,16
+2017/18,regular,19,B. Jerusalem,40,3,20
+2017/18,regular,19,Hapoel Haifa,36,4,11
+2017/18,regular,19,Bnei Yehuda,31,5,7
+2017/18,regular,19,Maccabi Netanya,29,6,10
+2017/18,regular,19,Kiryat Shmona,23,7,0
+2017/18,regular,19,M. Petah Tikva,23,8,-4
+2017/18,regular,19,Bnei Sakhnin,22,9,-10
+2017/18,regular,19,Maccabi Haifa,20,10,-4
+2017/18,regular,19,Hapoel Raanana,17,11,-13
+2017/18,regular,19,H. Ashkelon,16,12,-9
+2017/18,regular,19,FC Ashdod,13,13,-15
+2017/18,regular,19,Hapoel Acre,9,14,-25
+2017/18,regular,20,H. Beer Sheva,44,1,18
+2017/18,regular,20,M. Tel Aviv,42,2,16
+2017/18,regular,20,B. Jerusalem,40,3,19
+2017/18,regular,20,Hapoel Haifa,39,4,12
+2017/18,regular,20,Maccabi Netanya,32,5,11
+2017/18,regular,20,Bnei Yehuda,32,6,7
+2017/18,regular,20,Kiryat Shmona,26,7,1
+2017/18,regular,20,M. Petah Tikva,24,8,-4
+2017/18,regular,20,Bnei Sakhnin,22,9,-11
+2017/18,regular,20,Maccabi Haifa,21,10,-4
+2017/18,regular,20,Hapoel Raanana,17,11,-15
+2017/18,regular,20,H. Ashkelon,16,12,-10
+2017/18,regular,20,FC Ashdod,16,13,-14
+2017/18,regular,20,Hapoel Acre,9,14,-26
+2017/18,regular,21,M. Tel Aviv,45,1,17
+2017/18,regular,21,H. Beer Sheva,44,2,17
+2017/18,regular,21,B. Jerusalem,43,3,21
+2017/18,regular,21,Hapoel Haifa,42,4,13
+2017/18,regular,21,Maccabi Netanya,35,5,12
+2017/18,regular,21,Bnei Yehuda,33,6,7
+2017/18,regular,21,M. Petah Tikva,27,7,-1
+2017/18,regular,21,Kiryat Shmona,26,8,0
+2017/18,regular,21,Bnei Sakhnin,22,9,-12
+2017/18,regular,21,Maccabi Haifa,21,10,-6
+2017/18,regular,21,FC Ashdod,17,11,-14
+2017/18,regular,21,Hapoel Raanana,17,12,-16
+2017/18,regular,21,H. Ashkelon,16,13,-13
+2017/18,regular,21,Hapoel Acre,12,14,-25
+2017/18,regular,22,M. Tel Aviv,48,1,19
+2017/18,regular,22,H. Beer Sheva,47,2,19
+2017/18,regular,22,B. Jerusalem,46,3,23
+2017/18,regular,22,Hapoel Haifa,43,4,13
+2017/18,regular,22,Maccabi Netanya,36,5,12
+2017/18,regular,22,Bnei Yehuda,36,6,8
+2017/18,regular,22,M. Petah Tikva,27,7,-2
+2017/18,regular,22,Kiryat Shmona,26,8,-4
+2017/18,regular,22,Maccabi Haifa,24,9,-2
+2017/18,regular,22,Bnei Sakhnin,23,10,-12
+2017/18,regular,22,Hapoel Raanana,18,11,-16
+2017/18,regular,22,FC Ashdod,17,12,-16
+2017/18,regular,22,H. Ashkelon,16,13,-15
+2017/18,regular,22,Hapoel Acre,12,14,-27
+2017/18,regular,23,H. Beer Sheva,50,1,22
+2017/18,regular,23,B. Jerusalem,49,2,25
+2017/18,regular,23,M. Tel Aviv,48,3,18
+2017/18,regular,23,Hapoel Haifa,46,4,15
+2017/18,regular,23,Maccabi Netanya,36,5,10
+2017/18,regular,23,Bnei Yehuda,36,6,6
+2017/18,regular,23,Kiryat Shmona,29,7,-3
+2017/18,regular,23,M. Petah Tikva,27,8,-5
+2017/18,regular,23,Bnei Sakhnin,26,9,-11
+2017/18,regular,23,Maccabi Haifa,24,10,-3
+2017/18,regular,23,Hapoel Raanana,21,11,-15
+2017/18,regular,23,FC Ashdod,20,12,-15
+2017/18,regular,23,H. Ashkelon,16,13,-16
+2017/18,regular,23,Hapoel Acre,12,14,-28
+2017/18,regular,24,M. Tel Aviv,51,1,22
+2017/18,regular,24,H. Beer Sheva,51,2,22
+2017/18,regular,24,B. Jerusalem,50,3,25
+2017/18,regular,24,Hapoel Haifa,46,4,11
+2017/18,regular,24,Maccabi Netanya,39,5,11
+2017/18,regular,24,Bnei Yehuda,39,6,7
+2017/18,regular,24,M. Petah Tikva,30,7,-4
+2017/18,regular,24,Kiryat Shmona,29,8,-4
+2017/18,regular,24,Bnei Sakhnin,29,9,-9
+2017/18,regular,24,Maccabi Haifa,24,10,-4
+2017/18,regular,24,Hapoel Raanana,24,11,-14
+2017/18,regular,24,FC Ashdod,20,12,-16
+2017/18,regular,24,H. Ashkelon,16,13,-18
+2017/18,regular,24,Hapoel Acre,12,14,-29
+2017/18,regular,25,H. Beer Sheva,54,1,23
+2017/18,regular,25,B. Jerusalem,53,2,28
+2017/18,regular,25,M. Tel Aviv,52,3,22
+2017/18,regular,25,Hapoel Haifa,49,4,14
+2017/18,regular,25,Maccabi Netanya,42,5,13
+2017/18,regular,25,Bnei Yehuda,40,6,7
+2017/18,regular,25,M. Petah Tikva,33,7,-3
+2017/18,regular,25,Bnei Sakhnin,30,8,-9
+2017/18,regular,25,Kiryat Shmona,29,9,-5
+2017/18,regular,25,Maccabi Haifa,24,10,-7
+2017/18,regular,25,Hapoel Raanana,24,11,-15
+2017/18,regular,25,FC Ashdod,21,12,-16
+2017/18,regular,25,H. Ashkelon,16,13,-20
+2017/18,regular,25,Hapoel Acre,12,14,-32
+2017/18,regular,26,H. Beer Sheva,57,1,25
+2017/18,regular,26,B. Jerusalem,56,2,30
+2017/18,regular,26,M. Tel Aviv,55,3,24
+2017/18,regular,26,Hapoel Haifa,52,4,15
+2017/18,regular,26,Maccabi Netanya,45,5,14
+2017/18,regular,26,Bnei Yehuda,40,6,6
+2017/18,regular,26,M. Petah Tikva,33,7,-5
+2017/18,regular,26,Kiryat Shmona,32,8,-2
+2017/18,regular,26,Bnei Sakhnin,30,9,-11
+2017/18,regular,26,Maccabi Haifa,25,10,-7
+2017/18,regular,26,Hapoel Raanana,24,11,-17
+2017/18,regular,26,FC Ashdod,21,12,-17
+2017/18,regular,26,H. Ashkelon,17,13,-20
+2017/18,regular,26,Hapoel Acre,12,14,-35

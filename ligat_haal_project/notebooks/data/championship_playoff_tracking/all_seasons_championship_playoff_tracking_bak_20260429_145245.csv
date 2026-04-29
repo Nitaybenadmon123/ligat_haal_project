@@ -1,0 +1,841 @@
+﻿season,stage,round,team,points,position,goal_diff
+2009/10,championship_playoff,31,Maccabi Haifa,42,1,54
+2009/10,championship_playoff,31,Hapoel Tel Aviv,39,2,55
+2009/10,championship_playoff,31,M. Tel Aviv,29,3,17
+2009/10,championship_playoff,31,B. Jerusalem,23,4,9
+2009/10,championship_playoff,31,Bnei Yehuda,23,5,6
+2009/10,championship_playoff,31,FC Ashdod,22,6,-1
+2009/10,championship_playoff,32,Hapoel Tel Aviv,42,1,56
+2009/10,championship_playoff,32,Maccabi Haifa,42,2,53
+2009/10,championship_playoff,32,M. Tel Aviv,30,3,17
+2009/10,championship_playoff,32,B. Jerusalem,26,4,10
+2009/10,championship_playoff,32,Bnei Yehuda,24,5,6
+2009/10,championship_playoff,32,FC Ashdod,22,6,-2
+2009/10,championship_playoff,33,Hapoel Tel Aviv,45,1,60
+2009/10,championship_playoff,33,Maccabi Haifa,45,2,55
+2009/10,championship_playoff,33,M. Tel Aviv,30,3,15
+2009/10,championship_playoff,33,Bnei Yehuda,27,4,8
+2009/10,championship_playoff,33,B. Jerusalem,26,5,8
+2009/10,championship_playoff,33,FC Ashdod,22,6,-6
+2009/10,championship_playoff,34,Maccabi Haifa,48,1,56
+2009/10,championship_playoff,34,Hapoel Tel Aviv,46,2,60
+2009/10,championship_playoff,34,M. Tel Aviv,31,3,15
+2009/10,championship_playoff,34,Bnei Yehuda,30,4,9
+2009/10,championship_playoff,34,B. Jerusalem,26,5,7
+2009/10,championship_playoff,34,FC Ashdod,22,6,-7
+2009/10,championship_playoff,35,Hapoel Tel Aviv,49,1,61
+2009/10,championship_playoff,35,Maccabi Haifa,49,2,56
+2009/10,championship_playoff,35,M. Tel Aviv,34,3,17
+2009/10,championship_playoff,35,Bnei Yehuda,31,4,9
+2009/10,championship_playoff,35,B. Jerusalem,26,5,6
+2009/10,championship_playoff,35,FC Ashdod,22,6,-9
+2010/11,championship_playoff,31,Hapoel Tel Aviv,36,1,39
+2010/11,championship_playoff,31,Maccabi Haifa,35,2,29
+2010/11,championship_playoff,31,M. Tel Aviv,28,3,10
+2010/11,championship_playoff,31,Maccabi Netanya,25,4,7
+2010/11,championship_playoff,31,Bnei Yehuda,24,5,20
+2010/11,championship_playoff,31,Kiryat Shmona,24,6,14
+2010/11,championship_playoff,32,Maccabi Haifa,38,1,31
+2010/11,championship_playoff,32,Hapoel Tel Aviv,36,2,37
+2010/11,championship_playoff,32,M. Tel Aviv,31,3,12
+2010/11,championship_playoff,32,Maccabi Netanya,26,4,7
+2010/11,championship_playoff,32,Kiryat Shmona,25,5,14
+2010/11,championship_playoff,32,Bnei Yehuda,24,6,18
+2010/11,championship_playoff,33,Maccabi Haifa,41,1,33
+2010/11,championship_playoff,33,Hapoel Tel Aviv,37,2,37
+2010/11,championship_playoff,33,M. Tel Aviv,31,3,10
+2010/11,championship_playoff,33,Bnei Yehuda,27,4,19
+2010/11,championship_playoff,33,Maccabi Netanya,27,5,7
+2010/11,championship_playoff,33,Kiryat Shmona,25,6,13
+2010/11,championship_playoff,34,Maccabi Haifa,44,1,35
+2010/11,championship_playoff,34,Hapoel Tel Aviv,38,2,37
+2010/11,championship_playoff,34,M. Tel Aviv,32,3,10
+2010/11,championship_playoff,34,Bnei Yehuda,30,4,23
+2010/11,championship_playoff,34,Maccabi Netanya,27,5,3
+2010/11,championship_playoff,34,Kiryat Shmona,25,6,11
+2010/11,championship_playoff,35,Maccabi Haifa,45,1,35
+2010/11,championship_playoff,35,Hapoel Tel Aviv,38,2,36
+2010/11,championship_playoff,35,M. Tel Aviv,35,3,13
+2010/11,championship_playoff,35,Bnei Yehuda,31,4,23
+2010/11,championship_playoff,35,Kiryat Shmona,28,5,12
+2010/11,championship_playoff,35,Maccabi Netanya,27,6,0
+2012/13,championship_playoff,27,M. Tel Aviv,62,1,1
+2012/13,championship_playoff,27,Maccabi Haifa,52,2,1
+2012/13,championship_playoff,27,Hapoel Tel Aviv,45,3,1
+2012/13,championship_playoff,27,Kiryat Shmona,43,4,-1
+2012/13,championship_playoff,27,Bnei Yehuda,38,5,-1
+2012/13,championship_playoff,27,Ramat haSharon,37,6,-1
+2012/13,championship_playoff,28,M. Tel Aviv,63,1,1
+2012/13,championship_playoff,28,Maccabi Haifa,53,2,1
+2012/13,championship_playoff,28,Hapoel Tel Aviv,48,3,2
+2012/13,championship_playoff,28,Kiryat Shmona,44,4,-1
+2012/13,championship_playoff,28,Bnei Yehuda,39,5,-1
+2012/13,championship_playoff,28,Ramat haSharon,37,6,-2
+2012/13,championship_playoff,29,M. Tel Aviv,66,1,3
+2012/13,championship_playoff,29,Maccabi Haifa,56,2,7
+2012/13,championship_playoff,29,Hapoel Tel Aviv,51,3,3
+2012/13,championship_playoff,29,Kiryat Shmona,44,4,-3
+2012/13,championship_playoff,29,Bnei Yehuda,39,5,-2
+2012/13,championship_playoff,29,Ramat haSharon,37,6,-8
+2012/13,championship_playoff,30,M. Tel Aviv,69,1,5
+2012/13,championship_playoff,30,Maccabi Haifa,59,2,8
+2012/13,championship_playoff,30,Hapoel Tel Aviv,51,3,1
+2012/13,championship_playoff,30,Kiryat Shmona,44,4,-4
+2012/13,championship_playoff,30,Bnei Yehuda,42,5,1
+2012/13,championship_playoff,30,Ramat haSharon,37,6,-11
+2012/13,championship_playoff,31,M. Tel Aviv,70,1,5
+2012/13,championship_playoff,31,Maccabi Haifa,60,2,8
+2012/13,championship_playoff,31,Hapoel Tel Aviv,52,3,1
+2012/13,championship_playoff,31,Kiryat Shmona,47,4,-3
+2012/13,championship_playoff,31,Bnei Yehuda,43,5,1
+2012/13,championship_playoff,31,Ramat haSharon,37,6,-12
+2012/13,championship_playoff,32,M. Tel Aviv,73,1,7
+2012/13,championship_playoff,32,Maccabi Haifa,60,2,7
+2012/13,championship_playoff,32,Hapoel Tel Aviv,52,3,-2
+2012/13,championship_playoff,32,Kiryat Shmona,50,4,0
+2012/13,championship_playoff,32,Bnei Yehuda,46,5,2
+2012/13,championship_playoff,32,Ramat haSharon,37,6,-14
+2012/13,championship_playoff,33,M. Tel Aviv,74,1,7
+2012/13,championship_playoff,33,Maccabi Haifa,61,2,7
+2012/13,championship_playoff,33,Hapoel Tel Aviv,55,3,0
+2012/13,championship_playoff,33,Kiryat Shmona,50,4,-1
+2012/13,championship_playoff,33,Bnei Yehuda,49,5,3
+2012/13,championship_playoff,33,Ramat haSharon,37,6,-16
+2012/13,championship_playoff,34,M. Tel Aviv,77,1,8
+2012/13,championship_playoff,34,Maccabi Haifa,61,2,6
+2012/13,championship_playoff,34,Hapoel Tel Aviv,58,3,1
+2012/13,championship_playoff,34,Kiryat Shmona,50,4,-2
+2012/13,championship_playoff,34,Bnei Yehuda,49,5,2
+2012/13,championship_playoff,34,Ramat haSharon,40,6,-15
+2012/13,championship_playoff,35,M. Tel Aviv,80,1,10
+2012/13,championship_playoff,35,Maccabi Haifa,64,2,7
+2012/13,championship_playoff,35,Hapoel Tel Aviv,58,3,-1
+2012/13,championship_playoff,35,Bnei Yehuda,52,4,3
+2012/13,championship_playoff,35,Kiryat Shmona,50,5,-3
+2012/13,championship_playoff,35,Ramat haSharon,40,6,-16
+2012/13,championship_playoff,36,M. Tel Aviv,80,1,7
+2012/13,championship_playoff,36,Maccabi Haifa,67,2,8
+2012/13,championship_playoff,36,Hapoel Tel Aviv,58,3,-2
+2012/13,championship_playoff,36,Bnei Yehuda,55,4,6
+2012/13,championship_playoff,36,Kiryat Shmona,53,5,-2
+2012/13,championship_playoff,36,Ramat haSharon,40,6,-17
+2013/14,championship_playoff,27,M. Tel Aviv,67,1,40
+2013/14,championship_playoff,27,H. Beer Sheva,62,2,31
+2013/14,championship_playoff,27,Kiryat Shmona,47,3,13
+2013/14,championship_playoff,27,Maccabi Haifa,44,4,8
+2013/14,championship_playoff,27,Hapoel Tel Aviv,40,5,13
+2013/14,championship_playoff,27,Bnei Sakhnin,40,6,3
+2013/14,championship_playoff,28,M. Tel Aviv,70,1,42
+2013/14,championship_playoff,28,H. Beer Sheva,62,2,29
+2013/14,championship_playoff,28,Kiryat Shmona,50,3,16
+2013/14,championship_playoff,28,Maccabi Haifa,44,4,4
+2013/14,championship_playoff,28,Hapoel Tel Aviv,43,5,17
+2013/14,championship_playoff,28,Bnei Sakhnin,40,6,0
+2013/14,championship_playoff,29,M. Tel Aviv,71,1,42
+2013/14,championship_playoff,29,H. Beer Sheva,63,2,29
+2013/14,championship_playoff,29,Kiryat Shmona,51,3,16
+2013/14,championship_playoff,29,Hapoel Tel Aviv,44,4,17
+2013/14,championship_playoff,29,Maccabi Haifa,44,5,3
+2013/14,championship_playoff,29,Bnei Sakhnin,43,6,1
+2013/14,championship_playoff,30,M. Tel Aviv,74,1,43
+2013/14,championship_playoff,30,H. Beer Sheva,63,2,27
+2013/14,championship_playoff,30,Kiryat Shmona,54,3,18
+2013/14,championship_playoff,30,Hapoel Tel Aviv,47,4,20
+2013/14,championship_playoff,30,Maccabi Haifa,44,5,2
+2013/14,championship_playoff,30,Bnei Sakhnin,43,6,-2
+2013/14,championship_playoff,31,M. Tel Aviv,74,1,42
+2013/14,championship_playoff,31,H. Beer Sheva,63,2,26
+2013/14,championship_playoff,31,Kiryat Shmona,55,3,18
+2013/14,championship_playoff,31,Hapoel Tel Aviv,48,4,20
+2013/14,championship_playoff,31,Maccabi Haifa,47,5,3
+2013/14,championship_playoff,31,Bnei Sakhnin,46,6,-1
+2013/14,championship_playoff,32,M. Tel Aviv,74,1,40
+2013/14,championship_playoff,32,H. Beer Sheva,64,2,26
+2013/14,championship_playoff,32,Kiryat Shmona,58,3,20
+2013/14,championship_playoff,32,Hapoel Tel Aviv,51,4,22
+2013/14,championship_playoff,32,Maccabi Haifa,47,5,1
+2013/14,championship_playoff,32,Bnei Sakhnin,47,6,-1
+2013/14,championship_playoff,33,M. Tel Aviv,77,1,41
+2013/14,championship_playoff,33,H. Beer Sheva,64,2,25
+2013/14,championship_playoff,33,Kiryat Shmona,61,3,22
+2013/14,championship_playoff,33,Hapoel Tel Aviv,52,4,22
+2013/14,championship_playoff,33,Maccabi Haifa,48,5,1
+2013/14,championship_playoff,33,Bnei Sakhnin,47,6,-3
+2013/14,championship_playoff,34,M. Tel Aviv,80,1,43
+2013/14,championship_playoff,34,H. Beer Sheva,67,2,26
+2013/14,championship_playoff,34,Kiryat Shmona,61,3,20
+2013/14,championship_playoff,34,Hapoel Tel Aviv,52,4,21
+2013/14,championship_playoff,34,Maccabi Haifa,51,5,3
+2013/14,championship_playoff,34,Bnei Sakhnin,47,6,-5
+2013/14,championship_playoff,35,M. Tel Aviv,81,1,43
+2013/14,championship_playoff,35,H. Beer Sheva,67,2,23
+2013/14,championship_playoff,35,Kiryat Shmona,64,3,23
+2013/14,championship_playoff,35,Hapoel Tel Aviv,55,4,23
+2013/14,championship_playoff,35,Maccabi Haifa,52,5,3
+2013/14,championship_playoff,35,Bnei Sakhnin,47,6,-7
+2013/14,championship_playoff,36,M. Tel Aviv,84,1,46
+2013/14,championship_playoff,36,H. Beer Sheva,68,2,23
+2013/14,championship_playoff,36,Kiryat Shmona,64,3,21
+2013/14,championship_playoff,36,Hapoel Tel Aviv,58,4,25
+2013/14,championship_playoff,36,Maccabi Haifa,53,5,3
+2013/14,championship_playoff,36,Bnei Sakhnin,47,6,-10
+2014/15,championship_playoff,27,M. Tel Aviv,57,1,34
+2014/15,championship_playoff,27,H. Beer Sheva,52,2,26
+2014/15,championship_playoff,27,Kiryat Shmona,47,3,12
+2014/15,championship_playoff,27,B. Jerusalem,43,4,10
+2014/15,championship_playoff,27,M. Petah Tikva,39,5,-5
+2014/15,championship_playoff,27,Maccabi Haifa,37,6,8
+2014/15,championship_playoff,28,M. Tel Aviv,60,1,36
+2014/15,championship_playoff,28,H. Beer Sheva,52,2,24
+2014/15,championship_playoff,28,Kiryat Shmona,50,3,13
+2014/15,championship_playoff,28,B. Jerusalem,43,4,9
+2014/15,championship_playoff,28,Maccabi Haifa,40,5,9
+2014/15,championship_playoff,28,M. Petah Tikva,39,6,-6
+2014/15,championship_playoff,29,M. Tel Aviv,61,1,36
+2014/15,championship_playoff,29,H. Beer Sheva,53,2,24
+2014/15,championship_playoff,29,Kiryat Shmona,51,3,13
+2014/15,championship_playoff,29,B. Jerusalem,44,4,9
+2014/15,championship_playoff,29,Maccabi Haifa,41,5,9
+2014/15,championship_playoff,29,M. Petah Tikva,40,6,-6
+2014/15,championship_playoff,30,M. Tel Aviv,64,1,39
+2014/15,championship_playoff,30,H. Beer Sheva,54,2,24
+2014/15,championship_playoff,30,Kiryat Shmona,52,3,13
+2014/15,championship_playoff,30,B. Jerusalem,44,4,6
+2014/15,championship_playoff,30,Maccabi Haifa,42,5,9
+2014/15,championship_playoff,30,M. Petah Tikva,41,6,-6
+2014/15,championship_playoff,31,M. Tel Aviv,65,1,39
+2014/15,championship_playoff,31,H. Beer Sheva,55,2,24
+2014/15,championship_playoff,31,Kiryat Shmona,55,3,14
+2014/15,championship_playoff,31,B. Jerusalem,45,4,6
+2014/15,championship_playoff,31,Maccabi Haifa,42,5,8
+2014/15,championship_playoff,31,M. Petah Tikva,42,6,-6
+2014/15,championship_playoff,32,M. Tel Aviv,66,1,39
+2014/15,championship_playoff,32,H. Beer Sheva,58,2,25
+2014/15,championship_playoff,32,Kiryat Shmona,58,3,15
+2014/15,championship_playoff,32,B. Jerusalem,45,4,5
+2014/15,championship_playoff,32,Maccabi Haifa,43,5,8
+2014/15,championship_playoff,32,M. Petah Tikva,42,6,-7
+2014/15,championship_playoff,33,M. Tel Aviv,67,1,39
+2014/15,championship_playoff,33,Kiryat Shmona,61,2,17
+2014/15,championship_playoff,33,H. Beer Sheva,59,3,25
+2014/15,championship_playoff,33,B. Jerusalem,46,4,5
+2014/15,championship_playoff,33,Maccabi Haifa,44,5,8
+2014/15,championship_playoff,33,M. Petah Tikva,42,6,-9
+2014/15,championship_playoff,34,M. Tel Aviv,70,1,40
+2014/15,championship_playoff,34,Kiryat Shmona,61,2,16
+2014/15,championship_playoff,34,H. Beer Sheva,59,3,21
+2014/15,championship_playoff,34,B. Jerusalem,49,4,6
+2014/15,championship_playoff,34,Maccabi Haifa,47,5,12
+2014/15,championship_playoff,34,M. Petah Tikva,42,6,-10
+2014/15,championship_playoff,35,M. Tel Aviv,70,1,37
+2014/15,championship_playoff,35,Kiryat Shmona,64,2,18
+2014/15,championship_playoff,35,H. Beer Sheva,59,3,19
+2014/15,championship_playoff,35,B. Jerusalem,52,4,9
+2014/15,championship_playoff,35,Maccabi Haifa,47,5,11
+2014/15,championship_playoff,35,M. Petah Tikva,45,6,-9
+2014/15,championship_playoff,36,M. Tel Aviv,70,1,35
+2014/15,championship_playoff,36,Kiryat Shmona,64,2,15
+2014/15,championship_playoff,36,H. Beer Sheva,62,3,23
+2014/15,championship_playoff,36,B. Jerusalem,52,4,5
+2014/15,championship_playoff,36,Maccabi Haifa,50,5,14
+2014/15,championship_playoff,36,M. Petah Tikva,48,6,-7
+2015/16,championship_playoff,27,H. Beer Sheva,65,1,31
+2015/16,championship_playoff,27,M. Tel Aviv,64,2,40
+2015/16,championship_playoff,27,B. Jerusalem,54,3,20
+2015/16,championship_playoff,27,Maccabi Haifa,38,4,7
+2015/16,championship_playoff,27,Hapoel Raanana,37,5,-2
+2015/16,championship_playoff,27,Bnei Sakhnin,36,6,6
+2015/16,championship_playoff,28,H. Beer Sheva,66,1,31
+2015/16,championship_playoff,28,M. Tel Aviv,65,2,40
+2015/16,championship_playoff,28,B. Jerusalem,54,3,18
+2015/16,championship_playoff,28,Hapoel Raanana,40,4,1
+2015/16,championship_playoff,28,Bnei Sakhnin,39,5,8
+2015/16,championship_playoff,28,Maccabi Haifa,38,6,4
+2015/16,championship_playoff,29,H. Beer Sheva,69,1,33
+2015/16,championship_playoff,29,M. Tel Aviv,68,2,43
+2015/16,championship_playoff,29,B. Jerusalem,54,3,16
+2015/16,championship_playoff,29,Bnei Sakhnin,40,4,8
+2015/16,championship_playoff,29,Hapoel Raanana,40,5,-2
+2015/16,championship_playoff,29,Maccabi Haifa,39,6,4
+2015/16,championship_playoff,30,M. Tel Aviv,71,1,44
+2015/16,championship_playoff,30,H. Beer Sheva,70,2,33
+2015/16,championship_playoff,30,B. Jerusalem,54,3,15
+2015/16,championship_playoff,30,Bnei Sakhnin,43,4,9
+2015/16,championship_playoff,30,Maccabi Haifa,40,5,4
+2015/16,championship_playoff,30,Hapoel Raanana,40,6,-3
+2015/16,championship_playoff,31,H. Beer Sheva,73,1,36
+2015/16,championship_playoff,31,M. Tel Aviv,72,2,44
+2015/16,championship_playoff,31,B. Jerusalem,57,3,16
+2015/16,championship_playoff,31,Bnei Sakhnin,43,4,6
+2015/16,championship_playoff,31,Maccabi Haifa,41,5,4
+2015/16,championship_playoff,31,Hapoel Raanana,40,6,-4
+2015/16,championship_playoff,32,H. Beer Sheva,76,1,39
+2015/16,championship_playoff,32,M. Tel Aviv,73,2,44
+2015/16,championship_playoff,32,B. Jerusalem,57,3,15
+2015/16,championship_playoff,32,Bnei Sakhnin,44,4,6
+2015/16,championship_playoff,32,Maccabi Haifa,44,5,5
+2015/16,championship_playoff,32,Hapoel Raanana,40,6,-7
+2015/16,championship_playoff,33,H. Beer Sheva,77,1,39
+2015/16,championship_playoff,33,M. Tel Aviv,74,2,44
+2015/16,championship_playoff,33,B. Jerusalem,57,3,12
+2015/16,championship_playoff,33,Bnei Sakhnin,47,4,9
+2015/16,championship_playoff,33,Maccabi Haifa,47,5,7
+2015/16,championship_playoff,33,Hapoel Raanana,40,6,-9
+2015/16,championship_playoff,34,H. Beer Sheva,80,1,41
+2015/16,championship_playoff,34,M. Tel Aviv,75,2,44
+2015/16,championship_playoff,34,B. Jerusalem,57,3,10
+2015/16,championship_playoff,34,Maccabi Haifa,50,4,8
+2015/16,championship_playoff,34,Bnei Sakhnin,47,5,8
+2015/16,championship_playoff,34,Hapoel Raanana,41,6,-9
+2015/16,championship_playoff,35,H. Beer Sheva,80,1,40
+2015/16,championship_playoff,35,M. Tel Aviv,78,2,46
+2015/16,championship_playoff,35,B. Jerusalem,57,3,8
+2015/16,championship_playoff,35,Maccabi Haifa,53,4,9
+2015/16,championship_playoff,35,Bnei Sakhnin,48,5,8
+2015/16,championship_playoff,35,Hapoel Raanana,42,6,-9
+2015/16,championship_playoff,36,H. Beer Sheva,83,1,42
+2015/16,championship_playoff,36,M. Tel Aviv,81,2,52
+2015/16,championship_playoff,36,B. Jerusalem,60,3,9
+2015/16,championship_playoff,36,Maccabi Haifa,53,4,3
+2015/16,championship_playoff,36,Bnei Sakhnin,48,5,6
+2015/16,championship_playoff,36,Hapoel Raanana,42,6,-10
+2016/17,championship_playoff,27,H. Beer Sheva,62,1,45
+2016/17,championship_playoff,27,M. Tel Aviv,59,2,29
+2016/17,championship_playoff,27,M. Petah Tikva,48,3,12
+2016/17,championship_playoff,27,B. Jerusalem,43,4,8
+2016/17,championship_playoff,27,Bnei Sakhnin,39,5,-3
+2016/17,championship_playoff,27,Maccabi Haifa,38,6,1
+2016/17,championship_playoff,28,H. Beer Sheva,65,1,46
+2016/17,championship_playoff,28,M. Tel Aviv,59,2,28
+2016/17,championship_playoff,28,M. Petah Tikva,48,3,11
+2016/17,championship_playoff,28,B. Jerusalem,43,4,7
+2016/17,championship_playoff,28,Bnei Sakhnin,42,5,-2
+2016/17,championship_playoff,28,Maccabi Haifa,41,6,2
+2016/17,championship_playoff,29,H. Beer Sheva,68,1,47
+2016/17,championship_playoff,29,M. Tel Aviv,62,2,31
+2016/17,championship_playoff,29,M. Petah Tikva,48,3,10
+2016/17,championship_playoff,29,B. Jerusalem,46,4,10
+2016/17,championship_playoff,29,Bnei Sakhnin,42,5,-5
+2016/17,championship_playoff,29,Maccabi Haifa,41,6,-1
+2016/17,championship_playoff,30,H. Beer Sheva,71,1,49
+2016/17,championship_playoff,30,M. Tel Aviv,65,2,33
+2016/17,championship_playoff,30,M. Petah Tikva,48,3,8
+2016/17,championship_playoff,30,B. Jerusalem,46,4,8
+2016/17,championship_playoff,30,Bnei Sakhnin,45,5,-4
+2016/17,championship_playoff,30,Maccabi Haifa,41,6,-2
+2016/17,championship_playoff,31,H. Beer Sheva,74,1,51
+2016/17,championship_playoff,31,M. Tel Aviv,66,2,33
+2016/17,championship_playoff,31,M. Petah Tikva,48,3,7
+2016/17,championship_playoff,31,B. Jerusalem,47,4,8
+2016/17,championship_playoff,31,Bnei Sakhnin,45,5,-6
+2016/17,championship_playoff,31,Maccabi Haifa,44,6,-1
+2016/17,championship_playoff,32,H. Beer Sheva,77,1,52
+2016/17,championship_playoff,32,M. Tel Aviv,69,2,35
+2016/17,championship_playoff,32,B. Jerusalem,50,3,9
+2016/17,championship_playoff,32,M. Petah Tikva,48,4,6
+2016/17,championship_playoff,32,Bnei Sakhnin,45,5,-8
+2016/17,championship_playoff,32,Maccabi Haifa,44,6,-2
+2016/17,championship_playoff,33,H. Beer Sheva,80,1,53
+2016/17,championship_playoff,33,M. Tel Aviv,69,2,34
+2016/17,championship_playoff,33,B. Jerusalem,53,3,11
+2016/17,championship_playoff,33,M. Petah Tikva,51,4,7
+2016/17,championship_playoff,33,Bnei Sakhnin,45,5,-9
+2016/17,championship_playoff,33,Maccabi Haifa,44,6,-4
+2016/17,championship_playoff,34,H. Beer Sheva,81,1,53
+2016/17,championship_playoff,34,M. Tel Aviv,72,2,36
+2016/17,championship_playoff,34,B. Jerusalem,56,3,15
+2016/17,championship_playoff,34,M. Petah Tikva,52,4,7
+2016/17,championship_playoff,34,Bnei Sakhnin,45,5,-13
+2016/17,championship_playoff,34,Maccabi Haifa,44,6,-6
+2016/17,championship_playoff,35,H. Beer Sheva,82,1,53
+2016/17,championship_playoff,35,M. Tel Aviv,72,2,35
+2016/17,championship_playoff,35,B. Jerusalem,57,3,15
+2016/17,championship_playoff,35,M. Petah Tikva,55,4,8
+2016/17,championship_playoff,35,Bnei Sakhnin,48,5,-12
+2016/17,championship_playoff,35,Maccabi Haifa,44,6,-7
+2016/17,championship_playoff,36,H. Beer Sheva,85,1,55
+2016/17,championship_playoff,36,M. Tel Aviv,72,2,33
+2016/17,championship_playoff,36,B. Jerusalem,60,3,17
+2016/17,championship_playoff,36,M. Petah Tikva,56,4,8
+2016/17,championship_playoff,36,Bnei Sakhnin,48,5,-14
+2016/17,championship_playoff,36,Maccabi Haifa,45,6,-7
+2017/18,championship_playoff,27,H. Beer Sheva,60,1,26
+2017/18,championship_playoff,27,B. Jerusalem,59,2,32
+2017/18,championship_playoff,27,M. Tel Aviv,55,3,23
+2017/18,championship_playoff,27,Hapoel Haifa,55,4,16
+2017/18,championship_playoff,27,Maccabi Netanya,45,5,12
+2017/18,championship_playoff,27,Bnei Yehuda,40,6,5
+2017/18,championship_playoff,28,H. Beer Sheva,63,1,28
+2017/18,championship_playoff,28,B. Jerusalem,59,2,30
+2017/18,championship_playoff,28,M. Tel Aviv,55,3,20
+2017/18,championship_playoff,28,Hapoel Haifa,55,4,13
+2017/18,championship_playoff,28,Maccabi Netanya,48,5,15
+2017/18,championship_playoff,28,Bnei Yehuda,43,6,8
+2017/18,championship_playoff,29,H. Beer Sheva,66,1,29
+2017/18,championship_playoff,29,B. Jerusalem,60,2,30
+2017/18,championship_playoff,29,Hapoel Haifa,56,3,13
+2017/18,championship_playoff,29,M. Tel Aviv,55,4,19
+2017/18,championship_playoff,29,Maccabi Netanya,49,5,15
+2017/18,championship_playoff,29,Bnei Yehuda,44,6,8
+2017/18,championship_playoff,30,H. Beer Sheva,67,1,29
+2017/18,championship_playoff,30,B. Jerusalem,63,2,31
+2017/18,championship_playoff,30,Hapoel Haifa,57,3,13
+2017/18,championship_playoff,30,M. Tel Aviv,55,4,18
+2017/18,championship_playoff,30,Maccabi Netanya,52,5,17
+2017/18,championship_playoff,30,Bnei Yehuda,44,6,6
+2017/18,championship_playoff,31,H. Beer Sheva,70,1,33
+2017/18,championship_playoff,31,B. Jerusalem,66,2,32
+2017/18,championship_playoff,31,M. Tel Aviv,58,3,20
+2017/18,championship_playoff,31,Hapoel Haifa,57,4,12
+2017/18,championship_playoff,31,Maccabi Netanya,52,5,13
+2017/18,championship_playoff,31,Bnei Yehuda,44,6,4
+2017/18,championship_playoff,32,H. Beer Sheva,71,1,33
+2017/18,championship_playoff,32,B. Jerusalem,66,2,29
+2017/18,championship_playoff,32,M. Tel Aviv,59,3,20
+2017/18,championship_playoff,32,Hapoel Haifa,58,4,12
+2017/18,championship_playoff,32,Maccabi Netanya,55,5,16
+2017/18,championship_playoff,32,Bnei Yehuda,45,6,4
+2017/18,championship_playoff,33,H. Beer Sheva,74,1,36
+2017/18,championship_playoff,33,B. Jerusalem,66,2,26
+2017/18,championship_playoff,33,M. Tel Aviv,62,3,22
+2017/18,championship_playoff,33,Hapoel Haifa,61,4,13
+2017/18,championship_playoff,33,Maccabi Netanya,55,5,14
+2017/18,championship_playoff,33,Bnei Yehuda,45,6,3
+2017/18,championship_playoff,34,H. Beer Sheva,74,1,35
+2017/18,championship_playoff,34,B. Jerusalem,67,2,26
+2017/18,championship_playoff,34,M. Tel Aviv,65,3,23
+2017/18,championship_playoff,34,Hapoel Haifa,61,4,12
+2017/18,championship_playoff,34,Maccabi Netanya,58,5,15
+2017/18,championship_playoff,34,Bnei Yehuda,46,6,3
+2017/18,championship_playoff,35,H. Beer Sheva,77,1,38
+2017/18,championship_playoff,35,M. Tel Aviv,68,2,25
+2017/18,championship_playoff,35,B. Jerusalem,67,3,24
+2017/18,championship_playoff,35,Hapoel Haifa,61,4,9
+2017/18,championship_playoff,35,Maccabi Netanya,58,5,10
+2017/18,championship_playoff,35,Bnei Yehuda,49,6,8
+2017/18,championship_playoff,36,H. Beer Sheva,80,1,43
+2017/18,championship_playoff,36,M. Tel Aviv,71,2,27
+2017/18,championship_playoff,36,B. Jerusalem,68,3,24
+2017/18,championship_playoff,36,Hapoel Haifa,62,4,9
+2017/18,championship_playoff,36,Maccabi Netanya,58,5,5
+2017/18,championship_playoff,36,Bnei Yehuda,49,6,6
+2018/19,championship_playoff,27,M. Tel Aviv,69,1,47
+2018/19,championship_playoff,27,Maccabi Haifa,44,2,5
+2018/19,championship_playoff,27,Maccabi Netanya,43,3,4
+2018/19,championship_playoff,27,H. Beer Sheva,42,4,5
+2018/19,championship_playoff,27,Bnei Yehuda,40,5,16
+2018/19,championship_playoff,27,Hapoel Hadera,33,6,-13
+2018/19,championship_playoff,28,M. Tel Aviv,72,1,48
+2018/19,championship_playoff,28,H. Beer Sheva,45,2,8
+2018/19,championship_playoff,28,Maccabi Netanya,44,3,4
+2018/19,championship_playoff,28,Maccabi Haifa,44,4,4
+2018/19,championship_playoff,28,Bnei Yehuda,41,5,16
+2018/19,championship_playoff,28,Hapoel Hadera,33,6,-16
+2018/19,championship_playoff,29,M. Tel Aviv,75,1,51
+2018/19,championship_playoff,29,H. Beer Sheva,48,2,9
+2018/19,championship_playoff,29,Maccabi Haifa,44,3,2
+2018/19,championship_playoff,29,Maccabi Netanya,44,4,1
+2018/19,championship_playoff,29,Bnei Yehuda,41,5,15
+2018/19,championship_playoff,29,Hapoel Hadera,36,6,-14
+2018/19,championship_playoff,30,M. Tel Aviv,76,1,51
+2018/19,championship_playoff,30,H. Beer Sheva,49,2,9
+2018/19,championship_playoff,30,Maccabi Haifa,47,3,3
+2018/19,championship_playoff,30,Bnei Yehuda,44,4,16
+2018/19,championship_playoff,30,Maccabi Netanya,44,5,0
+2018/19,championship_playoff,30,Hapoel Hadera,36,6,-15
+2018/19,championship_playoff,31,M. Tel Aviv,79,1,53
+2018/19,championship_playoff,31,Maccabi Haifa,50,2,4
+2018/19,championship_playoff,31,H. Beer Sheva,49,3,8
+2018/19,championship_playoff,31,Maccabi Netanya,47,4,1
+2018/19,championship_playoff,31,Bnei Yehuda,44,5,14
+2018/19,championship_playoff,31,Hapoel Hadera,36,6,-16
+2018/19,championship_playoff,32,M. Tel Aviv,82,1,54
+2018/19,championship_playoff,32,Maccabi Haifa,51,2,4
+2018/19,championship_playoff,32,Maccabi Netanya,50,3,3
+2018/19,championship_playoff,32,H. Beer Sheva,49,4,6
+2018/19,championship_playoff,32,Bnei Yehuda,45,5,14
+2018/19,championship_playoff,32,Hapoel Hadera,36,6,-17
+2018/19,championship_playoff,33,M. Tel Aviv,82,1,53
+2018/19,championship_playoff,33,Maccabi Haifa,54,2,6
+2018/19,championship_playoff,33,Maccabi Netanya,53,3,4
+2018/19,championship_playoff,33,H. Beer Sheva,49,4,4
+2018/19,championship_playoff,33,Bnei Yehuda,48,5,15
+2018/19,championship_playoff,33,Hapoel Hadera,36,6,-18
+2018/19,championship_playoff,34,M. Tel Aviv,85,1,56
+2018/19,championship_playoff,34,Maccabi Haifa,54,2,4
+2018/19,championship_playoff,34,Maccabi Netanya,53,3,1
+2018/19,championship_playoff,34,H. Beer Sheva,52,4,5
+2018/19,championship_playoff,34,Bnei Yehuda,48,5,14
+2018/19,championship_playoff,34,Hapoel Hadera,39,6,-16
+2018/19,championship_playoff,35,M. Tel Aviv,86,1,56
+2018/19,championship_playoff,35,H. Beer Sheva,55,2,6
+2018/19,championship_playoff,35,Maccabi Haifa,55,3,4
+2018/19,championship_playoff,35,Maccabi Netanya,53,4,-1
+2018/19,championship_playoff,35,Bnei Yehuda,51,5,16
+2018/19,championship_playoff,35,Hapoel Hadera,39,6,-17
+2018/19,championship_playoff,36,M. Tel Aviv,89,1,60
+2018/19,championship_playoff,36,Maccabi Haifa,58,2,5
+2018/19,championship_playoff,36,H. Beer Sheva,55,3,2
+2018/19,championship_playoff,36,Maccabi Netanya,53,4,-2
+2018/19,championship_playoff,36,Bnei Yehuda,51,5,15
+2018/19,championship_playoff,36,Hapoel Hadera,42,6,-16
+2019/20,championship_playoff,27,M. Tel Aviv,67,1,43
+2019/20,championship_playoff,27,Maccabi Haifa,58,2,37
+2019/20,championship_playoff,27,B. Jerusalem,50,3,17
+2019/20,championship_playoff,27,H. Beer Sheva,45,4,10
+2019/20,championship_playoff,27,Hapoel Tel Aviv,41,5,-11
+2019/20,championship_playoff,27,Hapoel Haifa,37,6,-6
+2019/20,championship_playoff,28,M. Tel Aviv,70,1,45
+2019/20,championship_playoff,28,Maccabi Haifa,58,2,35
+2019/20,championship_playoff,28,B. Jerusalem,50,3,14
+2019/20,championship_playoff,28,H. Beer Sheva,46,4,10
+2019/20,championship_playoff,28,Hapoel Tel Aviv,44,5,-8
+2019/20,championship_playoff,28,Hapoel Haifa,38,6,-6
+2019/20,championship_playoff,29,M. Tel Aviv,71,1,45
+2019/20,championship_playoff,29,Maccabi Haifa,59,2,35
+2019/20,championship_playoff,29,B. Jerusalem,51,3,14
+2019/20,championship_playoff,29,H. Beer Sheva,47,4,10
+2019/20,championship_playoff,29,Hapoel Tel Aviv,45,5,-8
+2019/20,championship_playoff,29,Hapoel Haifa,39,6,-6
+2019/20,championship_playoff,30,M. Tel Aviv,72,1,45
+2019/20,championship_playoff,30,Maccabi Haifa,60,2,35
+2019/20,championship_playoff,30,B. Jerusalem,52,3,14
+2019/20,championship_playoff,30,H. Beer Sheva,48,4,10
+2019/20,championship_playoff,30,Hapoel Tel Aviv,45,5,-12
+2019/20,championship_playoff,30,Hapoel Haifa,42,6,-2
+2019/20,championship_playoff,31,M. Tel Aviv,75,1,47
+2019/20,championship_playoff,31,Maccabi Haifa,63,2,36
+2019/20,championship_playoff,31,B. Jerusalem,53,3,14
+2019/20,championship_playoff,31,H. Beer Sheva,48,4,9
+2019/20,championship_playoff,31,Hapoel Tel Aviv,45,5,-14
+2019/20,championship_playoff,31,Hapoel Haifa,43,6,-2
+2019/20,championship_playoff,32,M. Tel Aviv,78,1,50
+2019/20,championship_playoff,32,Maccabi Haifa,66,2,38
+2019/20,championship_playoff,32,B. Jerusalem,54,3,14
+2019/20,championship_playoff,32,H. Beer Sheva,49,4,9
+2019/20,championship_playoff,32,Hapoel Tel Aviv,45,5,-16
+2019/20,championship_playoff,32,Hapoel Haifa,43,6,-5
+2019/20,championship_playoff,33,M. Tel Aviv,81,1,53
+2019/20,championship_playoff,33,Maccabi Haifa,69,2,39
+2019/20,championship_playoff,33,B. Jerusalem,55,3,14
+2019/20,championship_playoff,33,H. Beer Sheva,49,4,8
+2019/20,championship_playoff,33,Hapoel Tel Aviv,45,5,-19
+2019/20,championship_playoff,33,Hapoel Haifa,44,6,-5
+2019/20,championship_playoff,34,M. Tel Aviv,84,1,54
+2019/20,championship_playoff,34,Maccabi Haifa,72,2,42
+2019/20,championship_playoff,34,B. Jerusalem,55,3,13
+2019/20,championship_playoff,34,H. Beer Sheva,49,4,7
+2019/20,championship_playoff,34,Hapoel Tel Aviv,48,5,-18
+2019/20,championship_playoff,34,Hapoel Haifa,44,6,-8
+2019/20,championship_playoff,35,M. Tel Aviv,87,1,55
+2019/20,championship_playoff,35,Maccabi Haifa,72,2,41
+2019/20,championship_playoff,35,B. Jerusalem,58,3,16
+2019/20,championship_playoff,35,H. Beer Sheva,52,4,9
+2019/20,championship_playoff,35,Hapoel Tel Aviv,48,5,-21
+2019/20,championship_playoff,35,Hapoel Haifa,44,6,-10
+2019/20,championship_playoff,36,M. Tel Aviv,87,1,53
+2019/20,championship_playoff,36,Maccabi Haifa,73,2,41
+2019/20,championship_playoff,36,B. Jerusalem,59,3,16
+2019/20,championship_playoff,36,H. Beer Sheva,55,4,11
+2019/20,championship_playoff,36,Hapoel Tel Aviv,48,5,-24
+2019/20,championship_playoff,36,Hapoel Haifa,47,6,-7
+2020/21,championship_playoff,27,M. Tel Aviv,61,1,28
+2020/21,championship_playoff,27,Maccabi Haifa,60,2,32
+2020/21,championship_playoff,27,FC Ashdod,44,3,12
+2020/21,championship_playoff,27,Kiryat Shmona,39,4,-2
+2020/21,championship_playoff,27,M. Petah Tikva,38,5,1
+2020/21,championship_playoff,27,H. Beer Sheva,37,6,1
+2020/21,championship_playoff,28,M. Tel Aviv,62,1,28
+2020/21,championship_playoff,28,Maccabi Haifa,61,2,32
+2020/21,championship_playoff,28,FC Ashdod,47,3,13
+2020/21,championship_playoff,28,M. Petah Tikva,41,4,3
+2020/21,championship_playoff,28,Kiryat Shmona,39,5,-4
+2020/21,championship_playoff,28,H. Beer Sheva,37,6,0
+2020/21,championship_playoff,29,M. Tel Aviv,65,1,30
+2020/21,championship_playoff,29,Maccabi Haifa,64,2,35
+2020/21,championship_playoff,29,FC Ashdod,47,3,10
+2020/21,championship_playoff,29,M. Petah Tikva,41,4,1
+2020/21,championship_playoff,29,Kiryat Shmona,40,5,-4
+2020/21,championship_playoff,29,H. Beer Sheva,38,6,0
+2020/21,championship_playoff,30,Maccabi Haifa,67,1,39
+2020/21,championship_playoff,30,M. Tel Aviv,66,2,30
+2020/21,championship_playoff,30,FC Ashdod,48,3,10
+2020/21,championship_playoff,30,M. Petah Tikva,42,4,1
+2020/21,championship_playoff,30,Kiryat Shmona,40,5,-8
+2020/21,championship_playoff,30,H. Beer Sheva,39,6,0
+2020/21,championship_playoff,31,Maccabi Haifa,68,1,39
+2020/21,championship_playoff,31,M. Tel Aviv,66,2,28
+2020/21,championship_playoff,31,FC Ashdod,49,3,10
+2020/21,championship_playoff,31,M. Petah Tikva,43,4,1
+2020/21,championship_playoff,31,Kiryat Shmona,43,5,-6
+2020/21,championship_playoff,31,H. Beer Sheva,40,6,0
+2020/21,championship_playoff,32,Maccabi Haifa,71,1,40
+2020/21,championship_playoff,32,M. Tel Aviv,67,2,28
+2020/21,championship_playoff,32,FC Ashdod,50,3,10
+2020/21,championship_playoff,32,Kiryat Shmona,44,4,-6
+2020/21,championship_playoff,32,M. Petah Tikva,43,5,0
+2020/21,championship_playoff,32,H. Beer Sheva,41,6,0
+2020/21,championship_playoff,33,Maccabi Haifa,72,1,40
+2020/21,championship_playoff,33,M. Tel Aviv,68,2,28
+2020/21,championship_playoff,33,FC Ashdod,51,3,10
+2020/21,championship_playoff,33,M. Petah Tikva,46,4,1
+2020/21,championship_playoff,33,Kiryat Shmona,44,5,-7
+2020/21,championship_playoff,33,H. Beer Sheva,42,6,0
+2020/21,championship_playoff,34,Maccabi Haifa,75,1,42
+2020/21,championship_playoff,34,M. Tel Aviv,71,2,31
+2020/21,championship_playoff,34,FC Ashdod,51,3,8
+2020/21,championship_playoff,34,M. Petah Tikva,46,4,-2
+2020/21,championship_playoff,34,H. Beer Sheva,45,5,1
+2020/21,championship_playoff,34,Kiryat Shmona,44,6,-8
+2020/21,championship_playoff,35,Maccabi Haifa,76,1,42
+2020/21,championship_playoff,35,M. Tel Aviv,74,2,32
+2020/21,championship_playoff,35,FC Ashdod,51,3,7
+2020/21,championship_playoff,35,H. Beer Sheva,48,4,3
+2020/21,championship_playoff,35,M. Petah Tikva,46,5,-4
+2020/21,championship_playoff,35,Kiryat Shmona,45,6,-8
+2020/21,championship_playoff,36,Maccabi Haifa,79,1,43
+2020/21,championship_playoff,36,M. Tel Aviv,75,2,32
+2020/21,championship_playoff,36,FC Ashdod,54,3,9
+2020/21,championship_playoff,36,H. Beer Sheva,48,4,2
+2020/21,championship_playoff,36,M. Petah Tikva,46,5,-6
+2020/21,championship_playoff,36,Kiryat Shmona,46,6,-8
+2021/22,championship_playoff,27,Maccabi Haifa,62,1,46
+2021/22,championship_playoff,27,H. Beer Sheva,58,2,25
+2021/22,championship_playoff,27,M. Tel Aviv,54,3,17
+2021/22,championship_playoff,27,Bnei Sakhnin,43,4,-1
+2021/22,championship_playoff,27,Maccabi Netanya,40,5,4
+2021/22,championship_playoff,27,Hapoel Tel Aviv,38,6,2
+2021/22,championship_playoff,28,Maccabi Haifa,65,1,48
+2021/22,championship_playoff,28,H. Beer Sheva,58,2,23
+2021/22,championship_playoff,28,M. Tel Aviv,55,3,17
+2021/22,championship_playoff,28,Bnei Sakhnin,43,4,-2
+2021/22,championship_playoff,28,Maccabi Netanya,41,5,4
+2021/22,championship_playoff,28,Hapoel Tel Aviv,41,6,3
+2021/22,championship_playoff,29,Maccabi Haifa,66,1,48
+2021/22,championship_playoff,29,H. Beer Sheva,59,2,23
+2021/22,championship_playoff,29,M. Tel Aviv,56,3,17
+2021/22,championship_playoff,29,Bnei Sakhnin,44,4,-2
+2021/22,championship_playoff,29,Maccabi Netanya,42,5,4
+2021/22,championship_playoff,29,Hapoel Tel Aviv,42,6,3
+2021/22,championship_playoff,30,Maccabi Haifa,69,1,49
+2021/22,championship_playoff,30,H. Beer Sheva,62,2,24
+2021/22,championship_playoff,30,M. Tel Aviv,56,3,16
+2021/22,championship_playoff,30,Hapoel Tel Aviv,45,4,5
+2021/22,championship_playoff,30,Bnei Sakhnin,44,5,-3
+2021/22,championship_playoff,30,Maccabi Netanya,42,6,2
+2021/22,championship_playoff,31,Maccabi Haifa,69,1,46
+2021/22,championship_playoff,31,H. Beer Sheva,63,2,24
+2021/22,championship_playoff,31,M. Tel Aviv,59,3,21
+2021/22,championship_playoff,31,Maccabi Netanya,45,4,5
+2021/22,championship_playoff,31,Hapoel Tel Aviv,45,5,0
+2021/22,championship_playoff,31,Bnei Sakhnin,45,6,-3
+2021/22,championship_playoff,32,Maccabi Haifa,72,1,48
+2021/22,championship_playoff,32,H. Beer Sheva,63,2,21
+2021/22,championship_playoff,32,M. Tel Aviv,59,3,20
+2021/22,championship_playoff,32,Maccabi Netanya,48,4,8
+2021/22,championship_playoff,32,Bnei Sakhnin,48,5,-2
+2021/22,championship_playoff,32,Hapoel Tel Aviv,45,6,-2
+2021/22,championship_playoff,33,Maccabi Haifa,72,1,47
+2021/22,championship_playoff,33,H. Beer Sheva,66,2,22
+2021/22,championship_playoff,33,M. Tel Aviv,62,3,21
+2021/22,championship_playoff,33,Bnei Sakhnin,49,4,-2
+2021/22,championship_playoff,33,Maccabi Netanya,48,5,7
+2021/22,championship_playoff,33,Hapoel Tel Aviv,46,6,-2
+2021/22,championship_playoff,34,Maccabi Haifa,72,1,45
+2021/22,championship_playoff,34,H. Beer Sheva,66,2,21
+2021/22,championship_playoff,34,M. Tel Aviv,65,3,23
+2021/22,championship_playoff,34,Maccabi Netanya,51,4,10
+2021/22,championship_playoff,34,Hapoel Tel Aviv,49,5,-1
+2021/22,championship_playoff,34,Bnei Sakhnin,49,6,-5
+2021/22,championship_playoff,35,Maccabi Haifa,75,1,48
+2021/22,championship_playoff,35,H. Beer Sheva,67,2,21
+2021/22,championship_playoff,35,M. Tel Aviv,66,3,23
+2021/22,championship_playoff,35,Maccabi Netanya,52,4,10
+2021/22,championship_playoff,35,Hapoel Tel Aviv,50,5,-1
+2021/22,championship_playoff,35,Bnei Sakhnin,49,6,-8
+2021/22,championship_playoff,36,Maccabi Haifa,78,1,52
+2021/22,championship_playoff,36,H. Beer Sheva,70,2,23
+2021/22,championship_playoff,36,M. Tel Aviv,69,3,25
+2021/22,championship_playoff,36,Maccabi Netanya,52,4,6
+2021/22,championship_playoff,36,Hapoel Tel Aviv,50,5,-3
+2021/22,championship_playoff,36,Bnei Sakhnin,49,6,-10
+2022/23,championship_playoff,27,Maccabi Haifa,62,1,28
+2022/23,championship_playoff,27,H. Beer Sheva,58,2,34
+2022/23,championship_playoff,27,M. Tel Aviv,55,3,40
+2022/23,championship_playoff,27,Maccabi Netanya,37,4,-7
+2022/23,championship_playoff,27,H. Jerusalem,36,5,3
+2022/23,championship_playoff,27,FC Ashdod,36,6,1
+2022/23,championship_playoff,28,Maccabi Haifa,65,1,29
+2022/23,championship_playoff,28,M. Tel Aviv,58,2,42
+2022/23,championship_playoff,28,H. Beer Sheva,58,3,33
+2022/23,championship_playoff,28,FC Ashdod,39,4,2
+2022/23,championship_playoff,28,Maccabi Netanya,37,5,-8
+2022/23,championship_playoff,28,H. Jerusalem,36,6,1
+2022/23,championship_playoff,29,Maccabi Haifa,66,1,29
+2022/23,championship_playoff,29,H. Beer Sheva,61,2,35
+2022/23,championship_playoff,29,M. Tel Aviv,59,3,42
+2022/23,championship_playoff,29,H. Jerusalem,39,4,3
+2022/23,championship_playoff,29,FC Ashdod,39,5,0
+2022/23,championship_playoff,29,Maccabi Netanya,37,6,-10
+2022/23,championship_playoff,30,Maccabi Haifa,69,1,32
+2022/23,championship_playoff,30,M. Tel Aviv,62,2,43
+2022/23,championship_playoff,30,H. Beer Sheva,61,3,34
+2022/23,championship_playoff,30,H. Jerusalem,42,4,4
+2022/23,championship_playoff,30,FC Ashdod,39,5,-1
+2022/23,championship_playoff,30,Maccabi Netanya,37,6,-13
+2022/23,championship_playoff,31,Maccabi Haifa,69,1,31
+2022/23,championship_playoff,31,M. Tel Aviv,63,2,43
+2022/23,championship_playoff,31,H. Beer Sheva,62,3,34
+2022/23,championship_playoff,31,H. Jerusalem,45,4,5
+2022/23,championship_playoff,31,FC Ashdod,40,5,-1
+2022/23,championship_playoff,31,Maccabi Netanya,38,6,-13
+2022/23,championship_playoff,32,Maccabi Haifa,72,1,32
+2022/23,championship_playoff,32,H. Beer Sheva,65,2,35
+2022/23,championship_playoff,32,M. Tel Aviv,64,3,43
+2022/23,championship_playoff,32,H. Jerusalem,45,4,4
+2022/23,championship_playoff,32,FC Ashdod,40,5,-2
+2022/23,championship_playoff,32,Maccabi Netanya,39,6,-13
+2022/23,championship_playoff,33,Maccabi Haifa,72,1,31
+2022/23,championship_playoff,33,H. Beer Sheva,68,2,36
+2022/23,championship_playoff,33,M. Tel Aviv,67,3,44
+2022/23,championship_playoff,33,H. Jerusalem,45,4,3
+2022/23,championship_playoff,33,Maccabi Netanya,42,5,-11
+2022/23,championship_playoff,33,FC Ashdod,40,6,-4
+2022/23,championship_playoff,34,Maccabi Haifa,75,1,33
+2022/23,championship_playoff,34,H. Beer Sheva,71,2,37
+2022/23,championship_playoff,34,M. Tel Aviv,67,3,42
+2022/23,championship_playoff,34,H. Jerusalem,45,4,0
+2022/23,championship_playoff,34,Maccabi Netanya,45,5,-8
+2022/23,championship_playoff,34,FC Ashdod,40,6,-5
+2022/23,championship_playoff,35,Maccabi Haifa,78,1,37
+2022/23,championship_playoff,35,H. Beer Sheva,71,2,34
+2022/23,championship_playoff,35,M. Tel Aviv,70,3,45
+2022/23,championship_playoff,35,H. Jerusalem,45,4,-1
+2022/23,championship_playoff,35,Maccabi Netanya,45,5,-12
+2022/23,championship_playoff,35,FC Ashdod,43,6,-4
+2022/23,championship_playoff,36,Maccabi Haifa,81,1,42
+2022/23,championship_playoff,36,H. Beer Sheva,74,2,36
+2022/23,championship_playoff,36,M. Tel Aviv,73,3,46
+2022/23,championship_playoff,36,H. Jerusalem,45,4,-6
+2022/23,championship_playoff,36,Maccabi Netanya,45,5,-14
+2022/23,championship_playoff,36,FC Ashdod,43,6,-5
+2023/24,championship_playoff,27,M. Tel Aviv,65,1,37
+2023/24,championship_playoff,27,Maccabi Haifa,55,2,36
+2023/24,championship_playoff,27,H. Beer Sheva,52,3,27
+2023/24,championship_playoff,27,Hapoel Haifa,47,4,5
+2023/24,championship_playoff,27,M. Bnei Reineh,37,5,2
+2023/24,championship_playoff,27,Bnei Sakhnin,33,6,-7
+2023/24,championship_playoff,28,M. Tel Aviv,66,1,37
+2023/24,championship_playoff,28,Maccabi Haifa,56,2,36
+2023/24,championship_playoff,28,H. Beer Sheva,52,3,26
+2023/24,championship_playoff,28,Hapoel Haifa,47,4,4
+2023/24,championship_playoff,28,M. Bnei Reineh,40,5,3
+2023/24,championship_playoff,28,Bnei Sakhnin,36,6,-6
+2023/24,championship_playoff,29,M. Tel Aviv,66,1,36
+2023/24,championship_playoff,29,Maccabi Haifa,59,2,37
+2023/24,championship_playoff,29,H. Beer Sheva,55,3,27
+2023/24,championship_playoff,29,Hapoel Haifa,50,4,6
+2023/24,championship_playoff,29,M. Bnei Reineh,40,5,1
+2023/24,championship_playoff,29,Bnei Sakhnin,36,6,-7
+2023/24,championship_playoff,30,M. Tel Aviv,69,1,40
+2023/24,championship_playoff,30,Maccabi Haifa,62,2,40
+2023/24,championship_playoff,30,H. Beer Sheva,55,3,24
+2023/24,championship_playoff,30,Hapoel Haifa,50,4,2
+2023/24,championship_playoff,30,M. Bnei Reineh,43,5,3
+2023/24,championship_playoff,30,Bnei Sakhnin,36,6,-9
+2023/24,championship_playoff,31,M. Tel Aviv,72,1,41
+2023/24,championship_playoff,31,Maccabi Haifa,65,2,42
+2023/24,championship_playoff,31,H. Beer Sheva,58,3,25
+2023/24,championship_playoff,31,Hapoel Haifa,50,4,0
+2023/24,championship_playoff,31,M. Bnei Reineh,43,5,2
+2023/24,championship_playoff,31,Bnei Sakhnin,36,6,-10
+2023/24,championship_playoff,32,M. Tel Aviv,73,1,41
+2023/24,championship_playoff,32,Maccabi Haifa,68,2,46
+2023/24,championship_playoff,32,H. Beer Sheva,58,3,23
+2023/24,championship_playoff,32,Hapoel Haifa,53,4,2
+2023/24,championship_playoff,32,M. Bnei Reineh,43,5,-2
+2023/24,championship_playoff,32,Bnei Sakhnin,37,6,-10
+2023/24,championship_playoff,33,M. Tel Aviv,76,1,42
+2023/24,championship_playoff,33,Maccabi Haifa,68,2,45
+2023/24,championship_playoff,33,H. Beer Sheva,61,3,24
+2023/24,championship_playoff,33,Hapoel Haifa,53,4,1
+2023/24,championship_playoff,33,M. Bnei Reineh,43,5,-3
+2023/24,championship_playoff,33,Bnei Sakhnin,40,6,-9
+2023/24,championship_playoff,34,M. Tel Aviv,79,1,45
+2023/24,championship_playoff,34,Maccabi Haifa,71,2,46
+2023/24,championship_playoff,34,H. Beer Sheva,61,3,21
+2023/24,championship_playoff,34,Hapoel Haifa,56,4,2
+2023/24,championship_playoff,34,M. Bnei Reineh,43,5,-4
+2023/24,championship_playoff,34,Bnei Sakhnin,40,6,-10
+2023/24,championship_playoff,35,M. Tel Aviv,82,1,48
+2023/24,championship_playoff,35,Maccabi Haifa,74,2,49
+2023/24,championship_playoff,35,H. Beer Sheva,61,3,18
+2023/24,championship_playoff,35,Hapoel Haifa,56,4,-1
+2023/24,championship_playoff,35,M. Bnei Reineh,44,5,-4
+2023/24,championship_playoff,35,Bnei Sakhnin,41,6,-10
+2023/24,championship_playoff,36,M. Tel Aviv,85,1,50
+2023/24,championship_playoff,36,Maccabi Haifa,74,2,47
+2023/24,championship_playoff,36,H. Beer Sheva,61,3,15
+2023/24,championship_playoff,36,Hapoel Haifa,59,4,1
+2023/24,championship_playoff,36,M. Bnei Reineh,44,5,-6
+2023/24,championship_playoff,36,Bnei Sakhnin,44,6,-7
+2024/25,championship_playoff,27,H. Beer Sheva,61,1,36
+2024/25,championship_playoff,27,M. Tel Aviv,60,2,32
+2024/25,championship_playoff,27,Maccabi Haifa,48,3,22
+2024/25,championship_playoff,27,B. Jerusalem,47,4,14
+2024/25,championship_playoff,27,Hapoel Haifa,41,5,5
+2024/25,championship_playoff,27,Maccabi Netanya,37,6,0
+2024/25,championship_playoff,28,M. Tel Aviv,63,1,34
+2024/25,championship_playoff,28,H. Beer Sheva,61,2,34
+2024/25,championship_playoff,28,Maccabi Haifa,51,3,24
+2024/25,championship_playoff,28,B. Jerusalem,50,4,15
+2024/25,championship_playoff,28,Hapoel Haifa,41,5,3
+2024/25,championship_playoff,28,Maccabi Netanya,37,6,-1
+2024/25,championship_playoff,29,M. Tel Aviv,66,1,37
+2024/25,championship_playoff,29,H. Beer Sheva,64,2,37
+2024/25,championship_playoff,29,Maccabi Haifa,51,3,21
+2024/25,championship_playoff,29,B. Jerusalem,50,4,14
+2024/25,championship_playoff,29,Hapoel Haifa,44,5,4
+2024/25,championship_playoff,29,Maccabi Netanya,37,6,-4
+2024/25,championship_playoff,30,H. Beer Sheva,67,1,39
+2024/25,championship_playoff,30,M. Tel Aviv,67,2,37
+2024/25,championship_playoff,30,Maccabi Haifa,52,3,21
+2024/25,championship_playoff,30,B. Jerusalem,50,4,12
+2024/25,championship_playoff,30,Hapoel Haifa,45,5,4
+2024/25,championship_playoff,30,Maccabi Netanya,38,6,-4
+2024/25,championship_playoff,31,H. Beer Sheva,70,1,40
+2024/25,championship_playoff,31,M. Tel Aviv,67,2,35
+2024/25,championship_playoff,31,Maccabi Haifa,55,3,22
+2024/25,championship_playoff,31,B. Jerusalem,53,4,14
+2024/25,championship_playoff,31,Hapoel Haifa,45,5,3
+2024/25,championship_playoff,31,Maccabi Netanya,38,6,-5
+2024/25,championship_playoff,32,H. Beer Sheva,70,1,39
+2024/25,championship_playoff,32,M. Tel Aviv,70,2,37
+2024/25,championship_playoff,32,Maccabi Haifa,58,3,23
+2024/25,championship_playoff,32,B. Jerusalem,53,4,13
+2024/25,championship_playoff,32,Hapoel Haifa,45,5,1
+2024/25,championship_playoff,32,Maccabi Netanya,41,6,-4
+2024/25,championship_playoff,33,H. Beer Sheva,71,1,39
+2024/25,championship_playoff,33,M. Tel Aviv,71,2,37
+2024/25,championship_playoff,33,Maccabi Haifa,58,3,19
+2024/25,championship_playoff,33,B. Jerusalem,53,4,10
+2024/25,championship_playoff,33,Hapoel Haifa,48,5,5
+2024/25,championship_playoff,33,Maccabi Netanya,44,6,-1
+2024/25,championship_playoff,34,M. Tel Aviv,74,1,42
+2024/25,championship_playoff,34,H. Beer Sheva,74,2,42
+2024/25,championship_playoff,34,Maccabi Haifa,58,3,16
+2024/25,championship_playoff,34,B. Jerusalem,53,4,9
+2024/25,championship_playoff,34,Hapoel Haifa,51,5,6
+2024/25,championship_playoff,34,Maccabi Netanya,44,6,-6
+2024/25,championship_playoff,35,M. Tel Aviv,77,1,45
+2024/25,championship_playoff,35,H. Beer Sheva,75,2,42
+2024/25,championship_playoff,35,Maccabi Haifa,58,3,13
+2024/25,championship_playoff,35,B. Jerusalem,54,4,9
+2024/25,championship_playoff,35,Hapoel Haifa,52,5,6
+2024/25,championship_playoff,35,Maccabi Netanya,45,6,-6
+2024/25,championship_playoff,36,M. Tel Aviv,80,1,50
+2024/25,championship_playoff,36,H. Beer Sheva,78,2,47
+2024/25,championship_playoff,36,Maccabi Haifa,61,3,14
+2024/25,championship_playoff,36,B. Jerusalem,54,4,4
+2024/25,championship_playoff,36,Hapoel Haifa,52,5,1
+2024/25,championship_playoff,36,Maccabi Netanya,45,6,-7
