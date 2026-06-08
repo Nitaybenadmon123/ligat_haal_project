@@ -1,0 +1,686 @@
+﻿season,stage,local_round,global_round,leader,leader_points,runner_up,runner_up_points,gap_1st_2nd,remaining_rounds,points_available,is_title_decided_after_round,title_decision_method
+2006/07,regular,1,1,H. Kfar Saba,3.0,Maccabi Netanya,3.0,0.0,32,96,False,full_season_no_playoff
+2006/07,regular,2,2,H. Kfar Saba,6.0,B. Jerusalem,6.0,0.0,31,93,False,full_season_no_playoff
+2006/07,regular,3,3,B. Jerusalem,9.0,H. Kfar Saba,6.0,3.0,30,90,False,full_season_no_playoff
+2006/07,regular,4,4,B. Jerusalem,10.0,Maccabi Haifa,9.0,1.0,29,87,False,full_season_no_playoff
+2006/07,regular,5,5,M. Petah Tikva,10.0,B. Jerusalem,10.0,0.0,28,84,False,full_season_no_playoff
+2006/07,regular,6,6,B. Jerusalem,13.0,FC Ashdod,12.0,1.0,27,81,False,full_season_no_playoff
+2006/07,regular,7,7,B. Jerusalem,16.0,Maccabi Netanya,12.0,4.0,26,78,False,full_season_no_playoff
+2006/07,regular,8,8,B. Jerusalem,17.0,Hapoel Tel Aviv,14.0,3.0,25,75,False,full_season_no_playoff
+2006/07,regular,9,9,Hapoel Tel Aviv,17.0,B. Jerusalem,17.0,0.0,24,72,False,full_season_no_playoff
+2006/07,regular,10,10,B. Jerusalem,20.0,M. Petah Tikva,19.0,1.0,23,69,False,full_season_no_playoff
+2006/07,regular,11,11,B. Jerusalem,23.0,M. Petah Tikva,22.0,1.0,22,66,False,full_season_no_playoff
+2006/07,regular,12,12,B. Jerusalem,24.0,FC Ashdod,24.0,0.0,21,63,False,full_season_no_playoff
+2006/07,regular,13,13,B. Jerusalem,25.0,FC Ashdod,25.0,0.0,20,60,False,full_season_no_playoff
+2006/07,regular,14,14,B. Jerusalem,28.0,FC Ashdod,28.0,0.0,19,57,False,full_season_no_playoff
+2006/07,regular,15,15,B. Jerusalem,31.0,FC Ashdod,29.0,2.0,18,54,False,full_season_no_playoff
+2006/07,regular,16,16,B. Jerusalem,32.0,FC Ashdod,30.0,2.0,17,51,False,full_season_no_playoff
+2006/07,regular,17,17,B. Jerusalem,32.0,Hapoel Tel Aviv,30.0,2.0,16,48,False,full_season_no_playoff
+2006/07,regular,18,18,B. Jerusalem,35.0,Hapoel Tel Aviv,31.0,4.0,15,45,False,full_season_no_playoff
+2006/07,regular,19,19,B. Jerusalem,38.0,Hapoel Tel Aviv,32.0,6.0,14,42,False,full_season_no_playoff
+2006/07,regular,20,20,B. Jerusalem,39.0,Hapoel Tel Aviv,33.0,6.0,13,39,False,full_season_no_playoff
+2006/07,regular,21,21,B. Jerusalem,42.0,Hapoel Tel Aviv,36.0,6.0,12,36,False,full_season_no_playoff
+2006/07,regular,22,22,B. Jerusalem,43.0,Hapoel Tel Aviv,39.0,4.0,11,33,False,full_season_no_playoff
+2006/07,regular,23,23,B. Jerusalem,44.0,Hapoel Tel Aviv,42.0,2.0,10,30,False,full_season_no_playoff
+2006/07,regular,24,24,B. Jerusalem,47.0,Hapoel Tel Aviv,45.0,2.0,9,27,False,full_season_no_playoff
+2006/07,regular,25,25,B. Jerusalem,50.0,Hapoel Tel Aviv,45.0,5.0,8,24,False,full_season_no_playoff
+2006/07,regular,26,26,B. Jerusalem,53.0,Hapoel Tel Aviv,46.0,7.0,7,21,False,full_season_no_playoff
+2006/07,regular,27,27,B. Jerusalem,56.0,M. Tel Aviv,47.0,9.0,6,18,False,full_season_no_playoff
+2006/07,regular,28,28,B. Jerusalem,57.0,M. Tel Aviv,48.0,9.0,5,15,False,full_season_no_playoff
+2006/07,regular,29,29,B. Jerusalem,58.0,M. Tel Aviv,48.0,10.0,4,12,False,full_season_no_playoff
+2006/07,regular,30,30,B. Jerusalem,61.0,M. Tel Aviv,51.0,10.0,3,9,True,full_season_no_playoff
+2006/07,regular,31,31,B. Jerusalem,64.0,M. Tel Aviv,54.0,10.0,2,6,True,full_season_no_playoff
+2006/07,regular,32,32,B. Jerusalem,67.0,M. Tel Aviv,54.0,13.0,1,3,True,full_season_no_playoff
+2006/07,regular,33,33,B. Jerusalem,67.0,Maccabi Netanya,57.0,10.0,0,0,True,full_season_no_playoff
+2007/08,regular,1,1,B. Jerusalem,3.0,Kiryat Shmona,3.0,0.0,32,96,False,full_season_no_playoff
+2007/08,regular,2,2,B. Jerusalem,6.0,Kiryat Shmona,4.0,2.0,31,93,False,full_season_no_playoff
+2007/08,regular,3,3,B. Jerusalem,9.0,Kiryat Shmona,7.0,2.0,30,90,False,full_season_no_playoff
+2007/08,regular,4,4,B. Jerusalem,10.0,M. Petah Tikva,9.0,1.0,29,87,False,full_season_no_playoff
+2007/08,regular,5,5,B. Jerusalem,13.0,Maccabi Netanya,10.0,3.0,28,84,False,full_season_no_playoff
+2007/08,regular,6,6,B. Jerusalem,16.0,Maccabi Netanya,13.0,3.0,27,81,False,full_season_no_playoff
+2007/08,regular,7,7,B. Jerusalem,19.0,Maccabi Netanya,16.0,3.0,26,78,False,full_season_no_playoff
+2007/08,regular,8,8,B. Jerusalem,20.0,Maccabi Netanya,17.0,3.0,25,75,False,full_season_no_playoff
+2007/08,regular,9,9,B. Jerusalem,21.0,Bnei Sakhnin,18.0,3.0,24,72,False,full_season_no_playoff
+2007/08,regular,10,10,B. Jerusalem,24.0,M. Petah Tikva,19.0,5.0,23,69,False,full_season_no_playoff
+2007/08,regular,11,11,B. Jerusalem,27.0,M. Petah Tikva,22.0,5.0,22,66,False,full_season_no_playoff
+2007/08,regular,12,12,B. Jerusalem,30.0,Maccabi Netanya,23.0,7.0,21,63,False,full_season_no_playoff
+2007/08,regular,13,13,B. Jerusalem,33.0,Maccabi Netanya,24.0,9.0,20,60,False,full_season_no_playoff
+2007/08,regular,14,14,B. Jerusalem,34.0,Maccabi Netanya,25.0,9.0,19,57,False,full_season_no_playoff
+2007/08,regular,15,15,B. Jerusalem,34.0,Maccabi Netanya,28.0,6.0,18,54,False,full_season_no_playoff
+2007/08,regular,16,16,B. Jerusalem,37.0,Maccabi Haifa,30.0,7.0,17,51,False,full_season_no_playoff
+2007/08,regular,17,17,B. Jerusalem,40.0,Maccabi Netanya,32.0,8.0,16,48,False,full_season_no_playoff
+2007/08,regular,18,18,B. Jerusalem,41.0,Maccabi Netanya,35.0,6.0,15,45,False,full_season_no_playoff
+2007/08,regular,19,19,B. Jerusalem,44.0,Maccabi Netanya,36.0,8.0,14,42,False,full_season_no_playoff
+2007/08,regular,20,20,B. Jerusalem,47.0,Maccabi Netanya,39.0,8.0,13,39,False,full_season_no_playoff
+2007/08,regular,21,21,B. Jerusalem,50.0,Maccabi Netanya,39.0,11.0,12,36,False,full_season_no_playoff
+2007/08,regular,22,22,B. Jerusalem,51.0,Maccabi Netanya,40.0,11.0,11,33,False,full_season_no_playoff
+2007/08,regular,23,23,B. Jerusalem,54.0,Maccabi Netanya,41.0,13.0,10,30,False,full_season_no_playoff
+2007/08,regular,24,24,B. Jerusalem,57.0,Maccabi Netanya,41.0,16.0,9,27,False,full_season_no_playoff
+2007/08,regular,25,25,B. Jerusalem,60.0,Maccabi Netanya,44.0,16.0,8,24,False,full_season_no_playoff
+2007/08,regular,26,26,B. Jerusalem,61.0,Maccabi Netanya,45.0,16.0,7,21,False,full_season_no_playoff
+2007/08,regular,27,27,B. Jerusalem,61.0,Maccabi Netanya,46.0,15.0,6,18,False,full_season_no_playoff
+2007/08,regular,28,28,B. Jerusalem,64.0,Maccabi Netanya,49.0,15.0,5,15,False,full_season_no_playoff
+2007/08,regular,29,29,B. Jerusalem,64.0,Maccabi Netanya,52.0,12.0,4,12,False,full_season_no_playoff
+2007/08,regular,30,30,B. Jerusalem,64.0,Maccabi Netanya,55.0,9.0,3,9,False,full_season_no_playoff
+2007/08,regular,31,31,B. Jerusalem,67.0,Maccabi Netanya,55.0,12.0,2,6,True,full_season_no_playoff
+2007/08,regular,32,32,B. Jerusalem,67.0,Maccabi Netanya,58.0,9.0,1,3,True,full_season_no_playoff
+2007/08,regular,33,33,B. Jerusalem,67.0,Maccabi Netanya,58.0,9.0,0,0,True,full_season_no_playoff
+2008/09,regular,1,1,Maccabi Haifa,3.0,M. Tel Aviv,3.0,0.0,32,96,False,full_season_no_playoff
+2008/09,regular,2,2,Maccabi Netanya,4.0,Maccabi Haifa,4.0,0.0,31,93,False,full_season_no_playoff
+2008/09,regular,3,3,Maccabi Netanya,7.0,Maccabi Haifa,7.0,0.0,30,90,False,full_season_no_playoff
+2008/09,regular,4,4,Maccabi Netanya,10.0,Maccabi Haifa,8.0,2.0,29,87,False,full_season_no_playoff
+2008/09,regular,5,5,Maccabi Netanya,13.0,Maccabi Haifa,11.0,2.0,28,84,False,full_season_no_playoff
+2008/09,regular,6,6,Maccabi Haifa,14.0,Maccabi Netanya,14.0,0.0,27,81,False,full_season_no_playoff
+2008/09,regular,7,7,Maccabi Haifa,17.0,Maccabi Netanya,17.0,0.0,26,78,False,full_season_no_playoff
+2008/09,regular,8,8,Maccabi Haifa,20.0,Maccabi Netanya,18.0,2.0,25,75,False,full_season_no_playoff
+2008/09,regular,9,9,Maccabi Netanya,21.0,Maccabi Haifa,20.0,1.0,24,72,False,full_season_no_playoff
+2008/09,regular,10,10,Maccabi Haifa,21.0,Maccabi Netanya,21.0,0.0,23,69,False,full_season_no_playoff
+2008/09,regular,11,11,Maccabi Haifa,24.0,Maccabi Netanya,24.0,0.0,22,66,False,full_season_no_playoff
+2008/09,regular,12,12,Maccabi Haifa,27.0,Maccabi Netanya,25.0,2.0,21,63,False,full_season_no_playoff
+2008/09,regular,13,13,Maccabi Haifa,28.0,Maccabi Netanya,26.0,2.0,20,60,False,full_season_no_playoff
+2008/09,regular,14,14,Maccabi Haifa,31.0,Maccabi Netanya,27.0,4.0,19,57,False,full_season_no_playoff
+2008/09,regular,15,15,Maccabi Haifa,32.0,Maccabi Netanya,28.0,4.0,18,54,False,full_season_no_playoff
+2008/09,regular,16,16,Maccabi Haifa,32.0,Maccabi Netanya,31.0,1.0,17,51,False,full_season_no_playoff
+2008/09,regular,17,17,Maccabi Haifa,35.0,Hapoel Tel Aviv,31.0,4.0,16,48,False,full_season_no_playoff
+2008/09,regular,18,18,Maccabi Haifa,36.0,Maccabi Netanya,32.0,4.0,15,45,False,full_season_no_playoff
+2008/09,regular,19,19,Maccabi Haifa,39.0,Hapoel Tel Aviv,34.0,5.0,14,42,False,full_season_no_playoff
+2008/09,regular,20,20,Maccabi Haifa,39.0,Maccabi Netanya,36.0,3.0,13,39,False,full_season_no_playoff
+2008/09,regular,21,21,Maccabi Haifa,39.0,Hapoel Tel Aviv,38.0,1.0,12,36,False,full_season_no_playoff
+2008/09,regular,22,22,Maccabi Haifa,42.0,Hapoel Tel Aviv,41.0,1.0,11,33,False,full_season_no_playoff
+2008/09,regular,23,23,Maccabi Haifa,45.0,Hapoel Tel Aviv,41.0,4.0,10,30,False,full_season_no_playoff
+2008/09,regular,24,24,Maccabi Haifa,46.0,Hapoel Tel Aviv,44.0,2.0,9,27,False,full_season_no_playoff
+2008/09,regular,25,25,Maccabi Haifa,49.0,Hapoel Tel Aviv,47.0,2.0,8,24,False,full_season_no_playoff
+2008/09,regular,26,26,Maccabi Haifa,52.0,Hapoel Tel Aviv,50.0,2.0,7,21,False,full_season_no_playoff
+2008/09,regular,27,27,Hapoel Tel Aviv,53.0,Maccabi Haifa,53.0,0.0,6,18,False,full_season_no_playoff
+2008/09,regular,28,28,Maccabi Haifa,56.0,Hapoel Tel Aviv,54.0,2.0,5,15,False,full_season_no_playoff
+2008/09,regular,29,29,Hapoel Tel Aviv,57.0,Maccabi Haifa,57.0,0.0,4,12,False,full_season_no_playoff
+2008/09,regular,30,30,Maccabi Haifa,60.0,Hapoel Tel Aviv,58.0,2.0,3,9,False,full_season_no_playoff
+2008/09,regular,31,31,Maccabi Haifa,63.0,Hapoel Tel Aviv,58.0,5.0,2,6,False,full_season_no_playoff
+2008/09,regular,32,32,Maccabi Haifa,66.0,Hapoel Tel Aviv,61.0,5.0,1,3,True,full_season_no_playoff
+2008/09,regular,33,33,Maccabi Haifa,67.0,Hapoel Tel Aviv,61.0,6.0,0,0,True,full_season_no_playoff
+2009/10,regular,1,1,Bnei Yehuda,3.0,M. Tel Aviv,3.0,0.0,34,102,False,full_season_with_championship_playoff
+2009/10,regular,2,2,Bnei Yehuda,6.0,M. Tel Aviv,6.0,0.0,33,99,False,full_season_with_championship_playoff
+2009/10,regular,3,3,Maccabi Haifa,9.0,Bnei Yehuda,7.0,2.0,32,96,False,full_season_with_championship_playoff
+2009/10,regular,4,4,Maccabi Haifa,12.0,Bnei Yehuda,10.0,2.0,31,93,False,full_season_with_championship_playoff
+2009/10,regular,5,5,Maccabi Haifa,15.0,Hapoel Haifa,12.0,3.0,30,90,False,full_season_with_championship_playoff
+2009/10,regular,6,6,Maccabi Haifa,18.0,Hapoel Haifa,12.0,6.0,29,87,False,full_season_with_championship_playoff
+2009/10,regular,7,7,Maccabi Haifa,21.0,M. Tel Aviv,14.0,7.0,28,84,False,full_season_with_championship_playoff
+2009/10,regular,8,8,Maccabi Haifa,24.0,Hapoel Tel Aviv,15.0,9.0,27,81,False,full_season_with_championship_playoff
+2009/10,regular,9,9,Maccabi Haifa,27.0,Hapoel Tel Aviv,18.0,9.0,26,78,False,full_season_with_championship_playoff
+2009/10,regular,10,10,Maccabi Haifa,30.0,Hapoel Tel Aviv,21.0,9.0,25,75,False,full_season_with_championship_playoff
+2009/10,regular,11,11,Maccabi Haifa,30.0,Hapoel Tel Aviv,24.0,6.0,24,72,False,full_season_with_championship_playoff
+2009/10,regular,12,12,Maccabi Haifa,33.0,Hapoel Tel Aviv,27.0,6.0,23,69,False,full_season_with_championship_playoff
+2009/10,regular,13,13,Maccabi Haifa,36.0,Hapoel Tel Aviv,28.0,8.0,22,66,False,full_season_with_championship_playoff
+2009/10,regular,14,14,Maccabi Haifa,39.0,Hapoel Tel Aviv,31.0,8.0,21,63,False,full_season_with_championship_playoff
+2009/10,regular,15,15,Maccabi Haifa,42.0,Hapoel Tel Aviv,34.0,8.0,20,60,False,full_season_with_championship_playoff
+2009/10,regular,16,16,Maccabi Haifa,45.0,Hapoel Tel Aviv,37.0,8.0,19,57,False,full_season_with_championship_playoff
+2009/10,regular,17,17,Maccabi Haifa,48.0,Hapoel Tel Aviv,38.0,10.0,18,54,False,full_season_with_championship_playoff
+2009/10,regular,18,18,Maccabi Haifa,51.0,Hapoel Tel Aviv,41.0,10.0,17,51,False,full_season_with_championship_playoff
+2009/10,regular,19,19,Maccabi Haifa,52.0,Hapoel Tel Aviv,42.0,10.0,16,48,False,full_season_with_championship_playoff
+2009/10,regular,20,20,Maccabi Haifa,55.0,Hapoel Tel Aviv,43.0,12.0,15,45,False,full_season_with_championship_playoff
+2009/10,regular,21,21,Maccabi Haifa,58.0,Hapoel Tel Aviv,46.0,12.0,14,42,False,full_season_with_championship_playoff
+2009/10,regular,22,22,Maccabi Haifa,61.0,Hapoel Tel Aviv,49.0,12.0,13,39,False,full_season_with_championship_playoff
+2009/10,regular,23,23,Maccabi Haifa,61.0,Hapoel Tel Aviv,52.0,9.0,12,36,False,full_season_with_championship_playoff
+2009/10,regular,24,24,Maccabi Haifa,64.0,Hapoel Tel Aviv,55.0,9.0,11,33,False,full_season_with_championship_playoff
+2009/10,regular,25,25,Maccabi Haifa,67.0,Hapoel Tel Aviv,56.0,11.0,10,30,False,full_season_with_championship_playoff
+2009/10,regular,26,26,Maccabi Haifa,70.0,Hapoel Tel Aviv,59.0,11.0,9,27,False,full_season_with_championship_playoff
+2009/10,regular,27,27,Maccabi Haifa,70.0,Hapoel Tel Aviv,62.0,8.0,8,24,False,full_season_with_championship_playoff
+2009/10,regular,28,28,Maccabi Haifa,73.0,Hapoel Tel Aviv,65.0,8.0,7,21,False,full_season_with_championship_playoff
+2009/10,regular,29,29,Maccabi Haifa,76.0,Hapoel Tel Aviv,68.0,8.0,6,18,False,full_season_with_championship_playoff
+2009/10,regular,30,30,Maccabi Haifa,77.0,Hapoel Tel Aviv,71.0,6.0,5,15,False,full_season_with_championship_playoff
+2009/10,championship_playoff,1,31,Maccabi Haifa,42.0,Hapoel Tel Aviv,39.0,3.0,4,12,False,full_season_with_championship_playoff
+2009/10,championship_playoff,2,32,Hapoel Tel Aviv,42.0,Maccabi Haifa,42.0,0.0,3,9,False,full_season_with_championship_playoff
+2009/10,championship_playoff,3,33,Hapoel Tel Aviv,45.0,Maccabi Haifa,45.0,0.0,2,6,False,full_season_with_championship_playoff
+2009/10,championship_playoff,4,34,Maccabi Haifa,48.0,Hapoel Tel Aviv,46.0,2.0,1,3,False,full_season_with_championship_playoff
+2009/10,championship_playoff,5,35,Hapoel Tel Aviv,49.0,Maccabi Haifa,49.0,0.0,0,0,True,full_season_with_championship_playoff
+2010/11,regular,1,1,Maccabi Netanya,3.0,H. Ashkelon,3.0,0.0,34,102,False,full_season_with_championship_playoff
+2010/11,regular,2,2,Hapoel Haifa,6.0,Maccabi Haifa,6.0,0.0,33,99,False,full_season_with_championship_playoff
+2010/11,regular,3,3,Hapoel Haifa,9.0,Maccabi Netanya,7.0,2.0,32,96,False,full_season_with_championship_playoff
+2010/11,regular,4,4,Kiryat Shmona,10.0,Maccabi Haifa,10.0,0.0,31,93,False,full_season_with_championship_playoff
+2010/11,regular,5,5,Kiryat Shmona,13.0,M. Tel Aviv,12.0,1.0,30,90,False,full_season_with_championship_playoff
+2010/11,regular,6,6,Kiryat Shmona,16.0,Maccabi Haifa,14.0,2.0,29,87,False,full_season_with_championship_playoff
+2010/11,regular,7,7,Kiryat Shmona,17.0,M. Tel Aviv,15.0,2.0,28,84,False,full_season_with_championship_playoff
+2010/11,regular,8,8,Maccabi Haifa,18.0,Kiryat Shmona,17.0,1.0,27,81,False,full_season_with_championship_playoff
+2010/11,regular,9,9,M. Tel Aviv,19.0,Hapoel Tel Aviv,19.0,0.0,26,78,False,full_season_with_championship_playoff
+2010/11,regular,10,10,Kiryat Shmona,21.0,Maccabi Haifa,21.0,0.0,25,75,False,full_season_with_championship_playoff
+2010/11,regular,11,11,Kiryat Shmona,24.0,Hapoel Tel Aviv,23.0,1.0,24,72,False,full_season_with_championship_playoff
+2010/11,regular,12,12,Kiryat Shmona,25.0,Maccabi Haifa,25.0,0.0,23,69,False,full_season_with_championship_playoff
+2010/11,regular,13,13,Maccabi Haifa,28.0,Hapoel Tel Aviv,26.0,2.0,22,66,False,full_season_with_championship_playoff
+2010/11,regular,14,14,Maccabi Haifa,31.0,Hapoel Tel Aviv,29.0,2.0,21,63,False,full_season_with_championship_playoff
+2010/11,regular,15,15,Maccabi Haifa,34.0,Hapoel Tel Aviv,32.0,2.0,20,60,False,full_season_with_championship_playoff
+2010/11,regular,16,16,Maccabi Haifa,37.0,Hapoel Tel Aviv,35.0,2.0,19,57,False,full_season_with_championship_playoff
+2010/11,regular,17,17,Maccabi Haifa,40.0,Hapoel Tel Aviv,38.0,2.0,18,54,False,full_season_with_championship_playoff
+2010/11,regular,18,18,Hapoel Tel Aviv,41.0,Maccabi Haifa,41.0,0.0,17,51,False,full_season_with_championship_playoff
+2010/11,regular,19,19,Maccabi Haifa,44.0,Hapoel Tel Aviv,42.0,2.0,16,48,False,full_season_with_championship_playoff
+2010/11,regular,20,20,Hapoel Tel Aviv,45.0,Maccabi Haifa,45.0,0.0,15,45,False,full_season_with_championship_playoff
+2010/11,regular,21,21,Maccabi Haifa,48.0,Hapoel Tel Aviv,46.0,2.0,14,42,False,full_season_with_championship_playoff
+2010/11,regular,22,22,Maccabi Haifa,51.0,Hapoel Tel Aviv,49.0,2.0,13,39,False,full_season_with_championship_playoff
+2010/11,regular,23,23,Maccabi Haifa,54.0,Hapoel Tel Aviv,52.0,2.0,12,36,False,full_season_with_championship_playoff
+2010/11,regular,24,24,Hapoel Tel Aviv,55.0,Maccabi Haifa,54.0,1.0,11,33,False,full_season_with_championship_playoff
+2010/11,regular,25,25,Maccabi Haifa,57.0,Hapoel Tel Aviv,55.0,2.0,10,30,False,full_season_with_championship_playoff
+2010/11,regular,26,26,Maccabi Haifa,60.0,Hapoel Tel Aviv,58.0,2.0,9,27,False,full_season_with_championship_playoff
+2010/11,regular,27,27,Maccabi Haifa,63.0,Hapoel Tel Aviv,59.0,4.0,8,24,False,full_season_with_championship_playoff
+2010/11,regular,28,28,Maccabi Haifa,66.0,Hapoel Tel Aviv,62.0,4.0,7,21,False,full_season_with_championship_playoff
+2010/11,regular,29,29,Maccabi Haifa,69.0,Hapoel Tel Aviv,62.0,7.0,6,18,False,full_season_with_championship_playoff
+2010/11,regular,30,30,Maccabi Haifa,70.0,Hapoel Tel Aviv,65.0,5.0,5,15,False,full_season_with_championship_playoff
+2010/11,championship_playoff,1,31,Hapoel Tel Aviv,36.0,Maccabi Haifa,35.0,1.0,4,12,False,full_season_with_championship_playoff
+2010/11,championship_playoff,2,32,Maccabi Haifa,38.0,Hapoel Tel Aviv,36.0,2.0,3,9,False,full_season_with_championship_playoff
+2010/11,championship_playoff,3,33,Maccabi Haifa,41.0,Hapoel Tel Aviv,37.0,4.0,2,6,False,full_season_with_championship_playoff
+2010/11,championship_playoff,4,34,Maccabi Haifa,44.0,Hapoel Tel Aviv,38.0,6.0,1,3,True,full_season_with_championship_playoff
+2010/11,championship_playoff,5,35,Maccabi Haifa,45.0,Hapoel Tel Aviv,38.0,7.0,0,0,True,full_season_with_championship_playoff
+2011/12,regular,1,1,Maccabi Haifa,3.0,H Rishon leZion,3.0,0.0,36,108,False,full_season_with_championship_playoff
+2011/12,regular,2,2,M. Tel Aviv,6.0,H Rishon leZion,6.0,0.0,35,105,False,full_season_with_championship_playoff
+2011/12,regular,3,3,M. Tel Aviv,9.0,Hapoel Acre,6.0,3.0,34,102,False,full_season_with_championship_playoff
+2011/12,regular,4,4,M. Tel Aviv,12.0,Hapoel Tel Aviv,7.0,5.0,33,99,False,full_season_with_championship_playoff
+2011/12,regular,5,5,M. Tel Aviv,12.0,Hapoel Tel Aviv,10.0,2.0,32,96,False,full_season_with_championship_playoff
+2011/12,regular,6,6,M. Tel Aviv,15.0,Hapoel Tel Aviv,11.0,4.0,31,93,False,full_season_with_championship_playoff
+2011/12,regular,7,7,M. Tel Aviv,16.0,Bnei Yehuda,13.0,3.0,30,90,False,full_season_with_championship_playoff
+2011/12,regular,8,8,M. Tel Aviv,16.0,Hapoel Tel Aviv,14.0,2.0,29,87,False,full_season_with_championship_playoff
+2011/12,regular,9,9,M. Tel Aviv,19.0,Maccabi Netanya,17.0,2.0,28,84,False,full_season_with_championship_playoff
+2011/12,regular,10,10,M. Tel Aviv,20.0,Kiryat Shmona,19.0,1.0,27,81,False,full_season_with_championship_playoff
+2011/12,regular,11,11,Hapoel Tel Aviv,20.0,M. Tel Aviv,20.0,0.0,26,78,False,full_season_with_championship_playoff
+2011/12,regular,12,12,Kiryat Shmona,23.0,Hapoel Tel Aviv,21.0,2.0,25,75,False,full_season_with_championship_playoff
+2011/12,regular,13,13,Kiryat Shmona,26.0,Hapoel Tel Aviv,24.0,2.0,24,72,False,full_season_with_championship_playoff
+2011/12,regular,14,14,Kiryat Shmona,29.0,Hapoel Tel Aviv,27.0,2.0,23,69,False,full_season_with_championship_playoff
+2011/12,regular,15,15,Kiryat Shmona,32.0,FC Ashdod,30.0,2.0,22,66,False,full_season_with_championship_playoff
+2011/12,regular,16,16,Kiryat Shmona,35.0,FC Ashdod,31.0,4.0,21,63,False,full_season_with_championship_playoff
+2011/12,regular,17,17,Kiryat Shmona,38.0,FC Ashdod,34.0,4.0,20,60,False,full_season_with_championship_playoff
+2011/12,regular,18,18,Kiryat Shmona,41.0,FC Ashdod,35.0,6.0,19,57,False,full_season_with_championship_playoff
+2011/12,regular,19,19,Kiryat Shmona,42.0,FC Ashdod,36.0,6.0,18,54,False,full_season_with_championship_playoff
+2011/12,regular,20,20,Kiryat Shmona,45.0,FC Ashdod,39.0,6.0,17,51,False,full_season_with_championship_playoff
+2011/12,regular,21,21,Kiryat Shmona,48.0,FC Ashdod,40.0,8.0,16,48,False,full_season_with_championship_playoff
+2011/12,regular,22,22,Kiryat Shmona,51.0,FC Ashdod,40.0,11.0,15,45,False,full_season_with_championship_playoff
+2011/12,regular,23,23,Kiryat Shmona,52.0,FC Ashdod,41.0,11.0,14,42,False,full_season_with_championship_playoff
+2011/12,regular,24,24,Kiryat Shmona,55.0,FC Ashdod,42.0,13.0,13,39,False,full_season_with_championship_playoff
+2011/12,regular,25,25,Kiryat Shmona,56.0,FC Ashdod,45.0,11.0,12,36,False,full_season_with_championship_playoff
+2011/12,regular,26,26,Kiryat Shmona,59.0,FC Ashdod,45.0,14.0,11,33,False,full_season_with_championship_playoff
+2011/12,regular,27,27,Kiryat Shmona,62.0,FC Ashdod,46.0,16.0,10,30,False,full_season_with_championship_playoff
+2011/12,regular,28,28,Kiryat Shmona,62.0,FC Ashdod,46.0,16.0,9,27,False,full_season_with_championship_playoff
+2011/12,regular,29,29,Kiryat Shmona,65.0,Hapoel Tel Aviv,48.0,17.0,8,24,False,full_season_with_championship_playoff
+2011/12,regular,30,30,Kiryat Shmona,66.0,Hapoel Tel Aviv,49.0,17.0,7,21,False,full_season_with_championship_playoff
+2011/12,championship_playoff,1,31,Kiryat Shmona,66.0,Hapoel Tel Aviv,50.0,16.0,6,18,False,full_season_with_championship_playoff
+2011/12,championship_playoff,2,32,Kiryat Shmona,67.0,Hapoel Tel Aviv,51.0,16.0,5,15,True,full_season_with_championship_playoff
+2011/12,championship_playoff,3,33,Kiryat Shmona,67.0,Maccabi Netanya,53.0,14.0,4,12,True,full_season_with_championship_playoff
+2011/12,championship_playoff,4,34,Kiryat Shmona,70.0,Hapoel Tel Aviv,55.0,15.0,3,9,True,full_season_with_championship_playoff
+2011/12,championship_playoff,5,35,Kiryat Shmona,73.0,Hapoel Tel Aviv,58.0,15.0,2,6,True,full_season_with_championship_playoff
+2011/12,championship_playoff,6,36,Kiryat Shmona,73.0,Bnei Yehuda,59.0,14.0,1,3,True,full_season_with_championship_playoff
+2011/12,championship_playoff,7,37,Kiryat Shmona,73.0,Hapoel Tel Aviv,59.0,14.0,0,0,True,full_season_with_championship_playoff
+2012/13,regular,1,1,FC Ashdod,3.0,Kiryat Shmona,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2012/13,regular,2,2,FC Ashdod,6.0,Kiryat Shmona,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2012/13,regular,3,3,FC Ashdod,9.0,Hapoel Tel Aviv,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2012/13,regular,4,4,M. Tel Aviv,12.0,FC Ashdod,12.0,0.0,32,96,False,full_season_with_championship_playoff
+2012/13,regular,5,5,FC Ashdod,15.0,M. Tel Aviv,12.0,3.0,31,93,False,full_season_with_championship_playoff
+2012/13,regular,6,6,FC Ashdod,15.0,M. Tel Aviv,15.0,0.0,30,90,False,full_season_with_championship_playoff
+2012/13,regular,7,7,FC Ashdod,18.0,M. Tel Aviv,18.0,0.0,29,87,False,full_season_with_championship_playoff
+2012/13,regular,8,8,M. Tel Aviv,21.0,FC Ashdod,19.0,2.0,28,84,False,full_season_with_championship_playoff
+2012/13,regular,9,9,M. Tel Aviv,21.0,FC Ashdod,19.0,2.0,27,81,False,full_season_with_championship_playoff
+2012/13,regular,10,10,FC Ashdod,22.0,M. Tel Aviv,21.0,1.0,26,78,False,full_season_with_championship_playoff
+2012/13,regular,11,11,FC Ashdod,25.0,Hapoel Tel Aviv,24.0,1.0,25,75,False,full_season_with_championship_playoff
+2012/13,regular,12,12,M. Tel Aviv,27.0,Hapoel Tel Aviv,27.0,0.0,24,72,False,full_season_with_championship_playoff
+2012/13,regular,13,13,M. Tel Aviv,28.0,Hapoel Tel Aviv,28.0,0.0,23,69,False,full_season_with_championship_playoff
+2012/13,regular,14,14,Hapoel Tel Aviv,29.0,M. Tel Aviv,28.0,1.0,22,66,False,full_season_with_championship_playoff
+2012/13,regular,15,15,M. Tel Aviv,31.0,Hapoel Tel Aviv,30.0,1.0,21,63,False,full_season_with_championship_playoff
+2012/13,regular,16,16,M. Tel Aviv,34.0,Hapoel Tel Aviv,30.0,4.0,20,60,False,full_season_with_championship_playoff
+2012/13,regular,17,17,M. Tel Aviv,35.0,Hapoel Tel Aviv,33.0,2.0,19,57,False,full_season_with_championship_playoff
+2012/13,regular,18,18,M. Tel Aviv,38.0,Hapoel Tel Aviv,36.0,2.0,18,54,False,full_season_with_championship_playoff
+2012/13,regular,19,19,M. Tel Aviv,38.0,Hapoel Tel Aviv,36.0,2.0,17,51,False,full_season_with_championship_playoff
+2012/13,regular,20,20,M. Tel Aviv,41.0,Maccabi Haifa,36.0,5.0,16,48,False,full_season_with_championship_playoff
+2012/13,regular,21,21,M. Tel Aviv,44.0,Maccabi Haifa,36.0,8.0,15,45,False,full_season_with_championship_playoff
+2012/13,regular,22,22,M. Tel Aviv,47.0,Maccabi Haifa,39.0,8.0,14,42,False,full_season_with_championship_playoff
+2012/13,regular,23,23,M. Tel Aviv,50.0,Maccabi Haifa,42.0,8.0,13,39,False,full_season_with_championship_playoff
+2012/13,regular,24,24,M. Tel Aviv,53.0,Maccabi Haifa,45.0,8.0,12,36,False,full_season_with_championship_playoff
+2012/13,regular,25,25,M. Tel Aviv,56.0,Maccabi Haifa,46.0,10.0,11,33,False,full_season_with_championship_playoff
+2012/13,regular,26,26,M. Tel Aviv,59.0,Maccabi Haifa,49.0,10.0,10,30,False,full_season_with_championship_playoff
+2012/13,championship_playoff,1,27,M. Tel Aviv,62.0,Maccabi Haifa,52.0,10.0,9,27,False,full_season_with_championship_playoff
+2012/13,championship_playoff,2,28,M. Tel Aviv,63.0,Maccabi Haifa,53.0,10.0,8,24,False,full_season_with_championship_playoff
+2012/13,championship_playoff,3,29,M. Tel Aviv,66.0,Maccabi Haifa,56.0,10.0,7,21,False,full_season_with_championship_playoff
+2012/13,championship_playoff,4,30,M. Tel Aviv,69.0,Maccabi Haifa,59.0,10.0,6,18,False,full_season_with_championship_playoff
+2012/13,championship_playoff,5,31,M. Tel Aviv,70.0,Maccabi Haifa,60.0,10.0,5,15,False,full_season_with_championship_playoff
+2012/13,championship_playoff,6,32,M. Tel Aviv,73.0,Maccabi Haifa,60.0,13.0,4,12,True,full_season_with_championship_playoff
+2012/13,championship_playoff,7,33,M. Tel Aviv,74.0,Maccabi Haifa,61.0,13.0,3,9,True,full_season_with_championship_playoff
+2012/13,championship_playoff,8,34,M. Tel Aviv,77.0,Maccabi Haifa,61.0,16.0,2,6,True,full_season_with_championship_playoff
+2012/13,championship_playoff,9,35,M. Tel Aviv,80.0,Maccabi Haifa,64.0,16.0,1,3,True,full_season_with_championship_playoff
+2012/13,championship_playoff,10,36,M. Tel Aviv,80.0,Maccabi Haifa,67.0,13.0,0,0,True,full_season_with_championship_playoff
+2013/14,regular,1,1,Maccabi Haifa,3.0,H. Beer Sheva,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2013/14,regular,2,2,H. Beer Sheva,6.0,M. Tel Aviv,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2013/14,regular,3,3,M. Tel Aviv,9.0,H. Beer Sheva,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2013/14,regular,4,4,M. Tel Aviv,12.0,H. Beer Sheva,12.0,0.0,32,96,False,full_season_with_championship_playoff
+2013/14,regular,5,5,M. Tel Aviv,13.0,H. Beer Sheva,13.0,0.0,31,93,False,full_season_with_championship_playoff
+2013/14,regular,6,6,M. Tel Aviv,16.0,H. Beer Sheva,13.0,3.0,30,90,False,full_season_with_championship_playoff
+2013/14,regular,7,7,M. Tel Aviv,19.0,H. Beer Sheva,14.0,5.0,29,87,False,full_season_with_championship_playoff
+2013/14,regular,8,8,M. Tel Aviv,19.0,H. Beer Sheva,17.0,2.0,28,84,False,full_season_with_championship_playoff
+2013/14,regular,9,9,M. Tel Aviv,20.0,H. Beer Sheva,20.0,0.0,27,81,False,full_season_with_championship_playoff
+2013/14,regular,10,10,M. Tel Aviv,23.0,H. Beer Sheva,21.0,2.0,26,78,False,full_season_with_championship_playoff
+2013/14,regular,11,11,M. Tel Aviv,26.0,H. Beer Sheva,24.0,2.0,25,75,False,full_season_with_championship_playoff
+2013/14,regular,12,12,M. Tel Aviv,29.0,H. Beer Sheva,27.0,2.0,24,72,False,full_season_with_championship_playoff
+2013/14,regular,13,13,M. Tel Aviv,32.0,H. Beer Sheva,28.0,4.0,23,69,False,full_season_with_championship_playoff
+2013/14,regular,14,14,M. Tel Aviv,35.0,H. Beer Sheva,31.0,4.0,22,66,False,full_season_with_championship_playoff
+2013/14,regular,15,15,M. Tel Aviv,38.0,H. Beer Sheva,34.0,4.0,21,63,False,full_season_with_championship_playoff
+2013/14,regular,16,16,M. Tel Aviv,41.0,H. Beer Sheva,35.0,6.0,20,60,False,full_season_with_championship_playoff
+2013/14,regular,17,17,M. Tel Aviv,41.0,H. Beer Sheva,38.0,3.0,19,57,False,full_season_with_championship_playoff
+2013/14,regular,18,18,M. Tel Aviv,44.0,H. Beer Sheva,41.0,3.0,18,54,False,full_season_with_championship_playoff
+2013/14,regular,19,19,M. Tel Aviv,47.0,H. Beer Sheva,44.0,3.0,17,51,False,full_season_with_championship_playoff
+2013/14,regular,20,20,M. Tel Aviv,50.0,H. Beer Sheva,47.0,3.0,16,48,False,full_season_with_championship_playoff
+2013/14,regular,21,21,M. Tel Aviv,53.0,H. Beer Sheva,47.0,6.0,15,45,False,full_season_with_championship_playoff
+2013/14,regular,22,22,M. Tel Aviv,56.0,H. Beer Sheva,50.0,6.0,14,42,False,full_season_with_championship_playoff
+2013/14,regular,23,23,M. Tel Aviv,57.0,H. Beer Sheva,53.0,4.0,13,39,False,full_season_with_championship_playoff
+2013/14,regular,24,24,M. Tel Aviv,60.0,H. Beer Sheva,56.0,4.0,12,36,False,full_season_with_championship_playoff
+2013/14,regular,25,25,M. Tel Aviv,63.0,H. Beer Sheva,59.0,4.0,11,33,False,full_season_with_championship_playoff
+2013/14,regular,26,26,M. Tel Aviv,66.0,H. Beer Sheva,59.0,7.0,10,30,False,full_season_with_championship_playoff
+2013/14,championship_playoff,1,27,M. Tel Aviv,67.0,H. Beer Sheva,62.0,5.0,9,27,False,full_season_with_championship_playoff
+2013/14,championship_playoff,2,28,M. Tel Aviv,70.0,H. Beer Sheva,62.0,8.0,8,24,False,full_season_with_championship_playoff
+2013/14,championship_playoff,3,29,M. Tel Aviv,71.0,H. Beer Sheva,63.0,8.0,7,21,False,full_season_with_championship_playoff
+2013/14,championship_playoff,4,30,M. Tel Aviv,74.0,H. Beer Sheva,63.0,11.0,6,18,False,full_season_with_championship_playoff
+2013/14,championship_playoff,5,31,M. Tel Aviv,74.0,H. Beer Sheva,63.0,11.0,5,15,False,full_season_with_championship_playoff
+2013/14,championship_playoff,6,32,M. Tel Aviv,74.0,H. Beer Sheva,64.0,10.0,4,12,False,full_season_with_championship_playoff
+2013/14,championship_playoff,7,33,M. Tel Aviv,77.0,H. Beer Sheva,64.0,13.0,3,9,True,full_season_with_championship_playoff
+2013/14,championship_playoff,8,34,M. Tel Aviv,80.0,H. Beer Sheva,67.0,13.0,2,6,True,full_season_with_championship_playoff
+2013/14,championship_playoff,9,35,M. Tel Aviv,81.0,H. Beer Sheva,67.0,14.0,1,3,True,full_season_with_championship_playoff
+2013/14,championship_playoff,10,36,M. Tel Aviv,84.0,H. Beer Sheva,68.0,16.0,0,0,True,full_season_with_championship_playoff
+2014/15,regular,1,1,Hapoel Raanana,3.0,Maccabi Haifa,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2014/15,regular,2,2,M. Tel Aviv,4.0,Kiryat Shmona,4.0,0.0,34,102,False,full_season_with_championship_playoff
+2014/15,regular,3,3,Kiryat Shmona,7.0,H. Beer Sheva,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2014/15,regular,4,4,Kiryat Shmona,10.0,H. Beer Sheva,8.0,2.0,32,96,False,full_season_with_championship_playoff
+2014/15,regular,5,5,Kiryat Shmona,13.0,H. Beer Sheva,11.0,2.0,31,93,False,full_season_with_championship_playoff
+2014/15,regular,6,6,Kiryat Shmona,16.0,H. Beer Sheva,14.0,2.0,30,90,False,full_season_with_championship_playoff
+2014/15,regular,7,7,Kiryat Shmona,17.0,H. Beer Sheva,15.0,2.0,29,87,False,full_season_with_championship_playoff
+2014/15,regular,8,8,Kiryat Shmona,20.0,H. Beer Sheva,18.0,2.0,28,84,False,full_season_with_championship_playoff
+2014/15,regular,9,9,Kiryat Shmona,23.0,H. Beer Sheva,18.0,5.0,27,81,False,full_season_with_championship_playoff
+2014/15,regular,10,10,Kiryat Shmona,24.0,H. Beer Sheva,21.0,3.0,26,78,False,full_season_with_championship_playoff
+2014/15,regular,11,11,Kiryat Shmona,25.0,M. Tel Aviv,23.0,2.0,25,75,False,full_season_with_championship_playoff
+2014/15,regular,12,12,Kiryat Shmona,28.0,H. Beer Sheva,25.0,3.0,24,72,False,full_season_with_championship_playoff
+2014/15,regular,13,13,Kiryat Shmona,29.0,M. Tel Aviv,27.0,2.0,23,69,False,full_season_with_championship_playoff
+2014/15,regular,14,14,Kiryat Shmona,32.0,M. Tel Aviv,30.0,2.0,22,66,False,full_season_with_championship_playoff
+2014/15,regular,15,15,Kiryat Shmona,35.0,M. Tel Aviv,33.0,2.0,21,63,False,full_season_with_championship_playoff
+2014/15,regular,16,16,Kiryat Shmona,38.0,M. Tel Aviv,34.0,4.0,20,60,False,full_season_with_championship_playoff
+2014/15,regular,17,17,Kiryat Shmona,38.0,M. Tel Aviv,37.0,1.0,19,57,False,full_season_with_championship_playoff
+2014/15,regular,18,18,Kiryat Shmona,41.0,M. Tel Aviv,40.0,1.0,18,54,False,full_season_with_championship_playoff
+2014/15,regular,19,19,M. Tel Aviv,43.0,Kiryat Shmona,42.0,1.0,17,51,False,full_season_with_championship_playoff
+2014/15,regular,20,20,M. Tel Aviv,46.0,Kiryat Shmona,42.0,4.0,16,48,False,full_season_with_championship_playoff
+2014/15,regular,21,21,M. Tel Aviv,47.0,Kiryat Shmona,45.0,2.0,15,45,False,full_season_with_championship_playoff
+2014/15,regular,22,22,M. Tel Aviv,48.0,Kiryat Shmona,46.0,2.0,14,42,False,full_season_with_championship_playoff
+2014/15,regular,23,23,M. Tel Aviv,48.0,Kiryat Shmona,47.0,1.0,13,39,False,full_season_with_championship_playoff
+2014/15,regular,24,24,M. Tel Aviv,51.0,Kiryat Shmona,47.0,4.0,12,36,False,full_season_with_championship_playoff
+2014/15,regular,25,25,M. Tel Aviv,51.0,Kiryat Shmona,47.0,4.0,11,33,False,full_season_with_championship_playoff
+2014/15,regular,26,26,M. Tel Aviv,54.0,H. Beer Sheva,49.0,5.0,10,30,False,full_season_with_championship_playoff
+2014/15,championship_playoff,1,27,M. Tel Aviv,57.0,H. Beer Sheva,52.0,5.0,9,27,False,full_season_with_championship_playoff
+2014/15,championship_playoff,2,28,M. Tel Aviv,60.0,H. Beer Sheva,52.0,8.0,8,24,False,full_season_with_championship_playoff
+2014/15,championship_playoff,3,29,M. Tel Aviv,61.0,H. Beer Sheva,53.0,8.0,7,21,False,full_season_with_championship_playoff
+2014/15,championship_playoff,4,30,M. Tel Aviv,64.0,H. Beer Sheva,54.0,10.0,6,18,False,full_season_with_championship_playoff
+2014/15,championship_playoff,5,31,M. Tel Aviv,65.0,H. Beer Sheva,55.0,10.0,5,15,False,full_season_with_championship_playoff
+2014/15,championship_playoff,6,32,M. Tel Aviv,66.0,H. Beer Sheva,58.0,8.0,4,12,False,full_season_with_championship_playoff
+2014/15,championship_playoff,7,33,M. Tel Aviv,67.0,Kiryat Shmona,61.0,6.0,3,9,False,full_season_with_championship_playoff
+2014/15,championship_playoff,8,34,M. Tel Aviv,70.0,Kiryat Shmona,61.0,9.0,2,6,True,full_season_with_championship_playoff
+2014/15,championship_playoff,9,35,M. Tel Aviv,70.0,Kiryat Shmona,64.0,6.0,1,3,True,full_season_with_championship_playoff
+2014/15,championship_playoff,10,36,M. Tel Aviv,70.0,Kiryat Shmona,64.0,6.0,0,0,True,full_season_with_championship_playoff
+2015/16,regular,1,1,Bnei Yehuda,3.0,H. Beer Sheva,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2015/16,regular,2,2,M. Petah Tikva,6.0,M. Tel Aviv,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2015/16,regular,3,3,M. Petah Tikva,9.0,M. Tel Aviv,7.0,2.0,33,99,False,full_season_with_championship_playoff
+2015/16,regular,4,4,M. Petah Tikva,12.0,H. Beer Sheva,7.0,5.0,32,96,False,full_season_with_championship_playoff
+2015/16,regular,5,5,M. Petah Tikva,12.0,M. Tel Aviv,10.0,2.0,31,93,False,full_season_with_championship_playoff
+2015/16,regular,6,6,M. Tel Aviv,13.0,M. Petah Tikva,12.0,1.0,30,90,False,full_season_with_championship_playoff
+2015/16,regular,7,7,M. Tel Aviv,16.0,H. Beer Sheva,13.0,3.0,29,87,False,full_season_with_championship_playoff
+2015/16,regular,8,8,H. Beer Sheva,16.0,M. Tel Aviv,16.0,0.0,28,84,False,full_season_with_championship_playoff
+2015/16,regular,9,9,H. Beer Sheva,19.0,M. Tel Aviv,19.0,0.0,27,81,False,full_season_with_championship_playoff
+2015/16,regular,10,10,H. Beer Sheva,22.0,M. Tel Aviv,22.0,0.0,26,78,False,full_season_with_championship_playoff
+2015/16,regular,11,11,M. Tel Aviv,25.0,H. Beer Sheva,23.0,2.0,25,75,False,full_season_with_championship_playoff
+2015/16,regular,12,12,M. Tel Aviv,28.0,H. Beer Sheva,26.0,2.0,24,72,False,full_season_with_championship_playoff
+2015/16,regular,13,13,M. Tel Aviv,29.0,H. Beer Sheva,29.0,0.0,23,69,False,full_season_with_championship_playoff
+2015/16,regular,14,14,M. Tel Aviv,32.0,H. Beer Sheva,32.0,0.0,22,66,False,full_season_with_championship_playoff
+2015/16,regular,15,15,H. Beer Sheva,35.0,M. Tel Aviv,32.0,3.0,21,63,False,full_season_with_championship_playoff
+2015/16,regular,16,16,H. Beer Sheva,38.0,M. Tel Aviv,35.0,3.0,20,60,False,full_season_with_championship_playoff
+2015/16,regular,17,17,H. Beer Sheva,39.0,M. Tel Aviv,38.0,1.0,19,57,False,full_season_with_championship_playoff
+2015/16,regular,18,18,H. Beer Sheva,42.0,M. Tel Aviv,41.0,1.0,18,54,False,full_season_with_championship_playoff
+2015/16,regular,19,19,H. Beer Sheva,45.0,M. Tel Aviv,44.0,1.0,17,51,False,full_season_with_championship_playoff
+2015/16,regular,20,20,H. Beer Sheva,48.0,M. Tel Aviv,47.0,1.0,16,48,False,full_season_with_championship_playoff
+2015/16,regular,21,21,H. Beer Sheva,51.0,M. Tel Aviv,48.0,3.0,15,45,False,full_season_with_championship_playoff
+2015/16,regular,22,22,H. Beer Sheva,54.0,M. Tel Aviv,49.0,5.0,14,42,False,full_season_with_championship_playoff
+2015/16,regular,23,23,H. Beer Sheva,57.0,M. Tel Aviv,52.0,5.0,13,39,False,full_season_with_championship_playoff
+2015/16,regular,24,24,H. Beer Sheva,60.0,M. Tel Aviv,55.0,5.0,12,36,False,full_season_with_championship_playoff
+2015/16,regular,25,25,H. Beer Sheva,63.0,M. Tel Aviv,58.0,5.0,11,33,False,full_season_with_championship_playoff
+2015/16,regular,26,26,H. Beer Sheva,64.0,M. Tel Aviv,61.0,3.0,10,30,False,full_season_with_championship_playoff
+2015/16,championship_playoff,1,27,H. Beer Sheva,65.0,M. Tel Aviv,64.0,1.0,9,27,False,full_season_with_championship_playoff
+2015/16,championship_playoff,2,28,H. Beer Sheva,66.0,M. Tel Aviv,65.0,1.0,8,24,False,full_season_with_championship_playoff
+2015/16,championship_playoff,3,29,H. Beer Sheva,69.0,M. Tel Aviv,68.0,1.0,7,21,False,full_season_with_championship_playoff
+2015/16,championship_playoff,4,30,M. Tel Aviv,71.0,H. Beer Sheva,70.0,1.0,6,18,False,full_season_with_championship_playoff
+2015/16,championship_playoff,5,31,H. Beer Sheva,73.0,M. Tel Aviv,72.0,1.0,5,15,False,full_season_with_championship_playoff
+2015/16,championship_playoff,6,32,H. Beer Sheva,76.0,M. Tel Aviv,73.0,3.0,4,12,False,full_season_with_championship_playoff
+2015/16,championship_playoff,7,33,H. Beer Sheva,77.0,M. Tel Aviv,74.0,3.0,3,9,False,full_season_with_championship_playoff
+2015/16,championship_playoff,8,34,H. Beer Sheva,80.0,M. Tel Aviv,75.0,5.0,2,6,False,full_season_with_championship_playoff
+2015/16,championship_playoff,9,35,H. Beer Sheva,80.0,M. Tel Aviv,78.0,2.0,1,3,False,full_season_with_championship_playoff
+2015/16,championship_playoff,10,36,H. Beer Sheva,83.0,M. Tel Aviv,81.0,2.0,0,0,True,full_season_with_championship_playoff
+2016/17,regular,1,1,M. Tel Aviv,3.0,H. Ashkelon,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2016/17,regular,2,2,M. Tel Aviv,6.0,H. Ashkelon,4.0,2.0,34,102,False,full_season_with_championship_playoff
+2016/17,regular,3,3,H. Beer Sheva,7.0,M. Tel Aviv,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2016/17,regular,4,4,M. Tel Aviv,10.0,M. Petah Tikva,10.0,0.0,32,96,False,full_season_with_championship_playoff
+2016/17,regular,5,5,M. Tel Aviv,13.0,M. Petah Tikva,11.0,2.0,31,93,False,full_season_with_championship_playoff
+2016/17,regular,6,6,M. Tel Aviv,16.0,H. Beer Sheva,13.0,3.0,30,90,False,full_season_with_championship_playoff
+2016/17,regular,7,7,H. Beer Sheva,16.0,M. Tel Aviv,16.0,0.0,29,87,False,full_season_with_championship_playoff
+2016/17,regular,8,8,H. Beer Sheva,19.0,M. Petah Tikva,17.0,2.0,28,84,False,full_season_with_championship_playoff
+2016/17,regular,9,9,H. Beer Sheva,22.0,M. Petah Tikva,18.0,4.0,27,81,False,full_season_with_championship_playoff
+2016/17,regular,10,10,H. Beer Sheva,25.0,M. Tel Aviv,20.0,5.0,26,78,False,full_season_with_championship_playoff
+2016/17,regular,11,11,H. Beer Sheva,28.0,M. Tel Aviv,20.0,8.0,25,75,False,full_season_with_championship_playoff
+2016/17,regular,12,12,H. Beer Sheva,31.0,M. Tel Aviv,21.0,10.0,24,72,False,full_season_with_championship_playoff
+2016/17,regular,13,13,H. Beer Sheva,34.0,M. Tel Aviv,24.0,10.0,23,69,False,full_season_with_championship_playoff
+2016/17,regular,14,14,H. Beer Sheva,34.0,M. Tel Aviv,25.0,9.0,22,66,False,full_season_with_championship_playoff
+2016/17,regular,15,15,H. Beer Sheva,35.0,M. Tel Aviv,28.0,7.0,21,63,False,full_season_with_championship_playoff
+2016/17,regular,16,16,H. Beer Sheva,36.0,M. Tel Aviv,28.0,8.0,20,60,False,full_season_with_championship_playoff
+2016/17,regular,17,17,H. Beer Sheva,39.0,M. Tel Aviv,31.0,8.0,19,57,False,full_season_with_championship_playoff
+2016/17,regular,18,18,H. Beer Sheva,42.0,M. Tel Aviv,34.0,8.0,18,54,False,full_season_with_championship_playoff
+2016/17,regular,19,19,H. Beer Sheva,43.0,M. Tel Aviv,37.0,6.0,17,51,False,full_season_with_championship_playoff
+2016/17,regular,20,20,H. Beer Sheva,46.0,M. Tel Aviv,38.0,8.0,16,48,False,full_season_with_championship_playoff
+2016/17,regular,21,21,H. Beer Sheva,46.0,M. Tel Aviv,41.0,5.0,15,45,False,full_season_with_championship_playoff
+2016/17,regular,22,22,H. Beer Sheva,49.0,M. Tel Aviv,44.0,5.0,14,42,False,full_season_with_championship_playoff
+2016/17,regular,23,23,H. Beer Sheva,50.0,M. Tel Aviv,47.0,3.0,13,39,False,full_season_with_championship_playoff
+2016/17,regular,24,24,H. Beer Sheva,53.0,M. Tel Aviv,50.0,3.0,12,36,False,full_season_with_championship_playoff
+2016/17,regular,25,25,H. Beer Sheva,56.0,M. Tel Aviv,53.0,3.0,11,33,False,full_season_with_championship_playoff
+2016/17,regular,26,26,H. Beer Sheva,59.0,M. Tel Aviv,56.0,3.0,10,30,False,full_season_with_championship_playoff
+2016/17,championship_playoff,1,27,H. Beer Sheva,62.0,M. Tel Aviv,59.0,3.0,9,27,False,full_season_with_championship_playoff
+2016/17,championship_playoff,2,28,H. Beer Sheva,65.0,M. Tel Aviv,59.0,6.0,8,24,False,full_season_with_championship_playoff
+2016/17,championship_playoff,3,29,H. Beer Sheva,68.0,M. Tel Aviv,62.0,6.0,7,21,False,full_season_with_championship_playoff
+2016/17,championship_playoff,4,30,H. Beer Sheva,71.0,M. Tel Aviv,65.0,6.0,6,18,False,full_season_with_championship_playoff
+2016/17,championship_playoff,5,31,H. Beer Sheva,74.0,M. Tel Aviv,66.0,8.0,5,15,False,full_season_with_championship_playoff
+2016/17,championship_playoff,6,32,H. Beer Sheva,77.0,M. Tel Aviv,69.0,8.0,4,12,False,full_season_with_championship_playoff
+2016/17,championship_playoff,7,33,H. Beer Sheva,80.0,M. Tel Aviv,69.0,11.0,3,9,True,full_season_with_championship_playoff
+2016/17,championship_playoff,8,34,H. Beer Sheva,81.0,M. Tel Aviv,72.0,9.0,2,6,True,full_season_with_championship_playoff
+2016/17,championship_playoff,9,35,H. Beer Sheva,82.0,M. Tel Aviv,72.0,10.0,1,3,True,full_season_with_championship_playoff
+2016/17,championship_playoff,10,36,H. Beer Sheva,85.0,M. Tel Aviv,72.0,13.0,0,0,True,full_season_with_championship_playoff
+2017/18,regular,1,1,B. Jerusalem,3.0,Hapoel Haifa,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2017/18,regular,2,2,B. Jerusalem,6.0,Hapoel Haifa,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2017/18,regular,3,3,B. Jerusalem,9.0,Hapoel Haifa,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2017/18,regular,4,4,B. Jerusalem,10.0,Hapoel Haifa,10.0,0.0,32,96,False,full_season_with_championship_playoff
+2017/18,regular,5,5,B. Jerusalem,11.0,Hapoel Haifa,11.0,0.0,31,93,False,full_season_with_championship_playoff
+2017/18,regular,6,6,Hapoel Haifa,14.0,Maccabi Netanya,11.0,3.0,30,90,False,full_season_with_championship_playoff
+2017/18,regular,7,7,Hapoel Haifa,17.0,B. Jerusalem,14.0,3.0,29,87,False,full_season_with_championship_playoff
+2017/18,regular,8,8,Hapoel Haifa,20.0,B. Jerusalem,17.0,3.0,28,84,False,full_season_with_championship_playoff
+2017/18,regular,9,9,Hapoel Haifa,23.0,B. Jerusalem,20.0,3.0,27,81,False,full_season_with_championship_playoff
+2017/18,regular,10,10,Hapoel Haifa,23.0,H. Beer Sheva,23.0,0.0,26,78,False,full_season_with_championship_playoff
+2017/18,regular,11,11,Hapoel Haifa,24.0,H. Beer Sheva,24.0,0.0,25,75,False,full_season_with_championship_playoff
+2017/18,regular,12,12,Hapoel Haifa,27.0,H. Beer Sheva,27.0,0.0,24,72,False,full_season_with_championship_playoff
+2017/18,regular,13,13,H. Beer Sheva,30.0,Hapoel Haifa,28.0,2.0,23,69,False,full_season_with_championship_playoff
+2017/18,regular,14,14,H. Beer Sheva,30.0,Hapoel Haifa,29.0,1.0,22,66,False,full_season_with_championship_playoff
+2017/18,regular,15,15,H. Beer Sheva,33.0,Hapoel Haifa,32.0,1.0,21,63,False,full_season_with_championship_playoff
+2017/18,regular,16,16,H. Beer Sheva,36.0,Hapoel Haifa,35.0,1.0,20,60,False,full_season_with_championship_playoff
+2017/18,regular,17,17,H. Beer Sheva,37.0,B. Jerusalem,36.0,1.0,19,57,False,full_season_with_championship_playoff
+2017/18,regular,18,18,H. Beer Sheva,38.0,M. Tel Aviv,38.0,0.0,18,54,False,full_season_with_championship_playoff
+2017/18,regular,19,19,M. Tel Aviv,41.0,H. Beer Sheva,41.0,0.0,17,51,False,full_season_with_championship_playoff
+2017/18,regular,20,20,H. Beer Sheva,44.0,M. Tel Aviv,42.0,2.0,16,48,False,full_season_with_championship_playoff
+2017/18,regular,21,21,M. Tel Aviv,45.0,H. Beer Sheva,44.0,1.0,15,45,False,full_season_with_championship_playoff
+2017/18,regular,22,22,M. Tel Aviv,48.0,H. Beer Sheva,47.0,1.0,14,42,False,full_season_with_championship_playoff
+2017/18,regular,23,23,H. Beer Sheva,50.0,B. Jerusalem,49.0,1.0,13,39,False,full_season_with_championship_playoff
+2017/18,regular,24,24,M. Tel Aviv,51.0,H. Beer Sheva,51.0,0.0,12,36,False,full_season_with_championship_playoff
+2017/18,regular,25,25,H. Beer Sheva,54.0,B. Jerusalem,53.0,1.0,11,33,False,full_season_with_championship_playoff
+2017/18,regular,26,26,H. Beer Sheva,57.0,B. Jerusalem,56.0,1.0,10,30,False,full_season_with_championship_playoff
+2017/18,championship_playoff,1,27,H. Beer Sheva,60.0,B. Jerusalem,59.0,1.0,9,27,False,full_season_with_championship_playoff
+2017/18,championship_playoff,2,28,H. Beer Sheva,63.0,B. Jerusalem,59.0,4.0,8,24,False,full_season_with_championship_playoff
+2017/18,championship_playoff,3,29,H. Beer Sheva,66.0,B. Jerusalem,60.0,6.0,7,21,False,full_season_with_championship_playoff
+2017/18,championship_playoff,4,30,H. Beer Sheva,67.0,B. Jerusalem,63.0,4.0,6,18,False,full_season_with_championship_playoff
+2017/18,championship_playoff,5,31,H. Beer Sheva,70.0,B. Jerusalem,66.0,4.0,5,15,False,full_season_with_championship_playoff
+2017/18,championship_playoff,6,32,H. Beer Sheva,71.0,B. Jerusalem,66.0,5.0,4,12,False,full_season_with_championship_playoff
+2017/18,championship_playoff,7,33,H. Beer Sheva,74.0,B. Jerusalem,66.0,8.0,3,9,False,full_season_with_championship_playoff
+2017/18,championship_playoff,8,34,H. Beer Sheva,74.0,B. Jerusalem,67.0,7.0,2,6,True,full_season_with_championship_playoff
+2017/18,championship_playoff,9,35,H. Beer Sheva,77.0,M. Tel Aviv,68.0,9.0,1,3,True,full_season_with_championship_playoff
+2017/18,championship_playoff,10,36,H. Beer Sheva,80.0,M. Tel Aviv,71.0,9.0,0,0,True,full_season_with_championship_playoff
+2018/19,regular,1,1,Hapoel Haifa,3.0,M. Petah Tikva,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2018/19,regular,2,2,Hapoel Hadera,6.0,M. Petah Tikva,4.0,2.0,34,102,False,full_season_with_championship_playoff
+2018/19,regular,3,3,M. Tel Aviv,7.0,Hapoel Hadera,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2018/19,regular,4,4,M. Tel Aviv,10.0,Hapoel Hadera,10.0,0.0,32,96,False,full_season_with_championship_playoff
+2018/19,regular,5,5,Hapoel Hadera,13.0,M. Tel Aviv,11.0,2.0,31,93,False,full_season_with_championship_playoff
+2018/19,regular,6,6,Hapoel Hadera,16.0,M. Tel Aviv,14.0,2.0,30,90,False,full_season_with_championship_playoff
+2018/19,regular,7,7,M. Tel Aviv,17.0,Hapoel Hadera,16.0,1.0,29,87,False,full_season_with_championship_playoff
+2018/19,regular,8,8,M. Tel Aviv,20.0,Hapoel Hadera,19.0,1.0,28,84,False,full_season_with_championship_playoff
+2018/19,regular,9,9,M. Tel Aviv,23.0,Hapoel Hadera,19.0,4.0,27,81,False,full_season_with_championship_playoff
+2018/19,regular,10,10,M. Tel Aviv,26.0,Bnei Yehuda,19.0,7.0,26,78,False,full_season_with_championship_playoff
+2018/19,regular,11,11,M. Tel Aviv,27.0,Hapoel Hadera,20.0,7.0,25,75,False,full_season_with_championship_playoff
+2018/19,regular,12,12,M. Tel Aviv,30.0,Bnei Yehuda,22.0,8.0,24,72,False,full_season_with_championship_playoff
+2018/19,regular,13,13,M. Tel Aviv,33.0,Bnei Yehuda,22.0,11.0,23,69,False,full_season_with_championship_playoff
+2018/19,regular,14,14,M. Tel Aviv,36.0,Bnei Yehuda,25.0,11.0,22,66,False,full_season_with_championship_playoff
+2018/19,regular,15,15,M. Tel Aviv,39.0,Bnei Yehuda,26.0,13.0,21,63,False,full_season_with_championship_playoff
+2018/19,regular,16,16,M. Tel Aviv,42.0,Bnei Yehuda,26.0,16.0,20,60,False,full_season_with_championship_playoff
+2018/19,regular,17,17,M. Tel Aviv,45.0,Bnei Yehuda,29.0,16.0,19,57,False,full_season_with_championship_playoff
+2018/19,regular,18,18,M. Tel Aviv,46.0,Bnei Yehuda,30.0,16.0,18,54,False,full_season_with_championship_playoff
+2018/19,regular,19,19,M. Tel Aviv,49.0,Bnei Yehuda,31.0,18.0,17,51,False,full_season_with_championship_playoff
+2018/19,regular,20,20,M. Tel Aviv,52.0,Bnei Yehuda,31.0,21.0,16,48,False,full_season_with_championship_playoff
+2018/19,regular,21,21,M. Tel Aviv,53.0,Maccabi Haifa,33.0,20.0,15,45,False,full_season_with_championship_playoff
+2018/19,regular,22,22,M. Tel Aviv,54.0,Bnei Yehuda,34.0,20.0,14,42,False,full_season_with_championship_playoff
+2018/19,regular,23,23,M. Tel Aviv,57.0,Bnei Yehuda,37.0,20.0,13,39,False,full_season_with_championship_playoff
+2018/19,regular,24,24,M. Tel Aviv,60.0,Maccabi Netanya,39.0,21.0,12,36,False,full_season_with_championship_playoff
+2018/19,regular,25,25,M. Tel Aviv,63.0,Maccabi Netanya,42.0,21.0,11,33,False,full_season_with_championship_playoff
+2018/19,regular,26,26,M. Tel Aviv,66.0,Maccabi Haifa,44.0,22.0,10,30,False,full_season_with_championship_playoff
+2018/19,championship_playoff,1,27,M. Tel Aviv,69.0,Maccabi Haifa,44.0,25.0,9,27,False,full_season_with_championship_playoff
+2018/19,championship_playoff,2,28,M. Tel Aviv,72.0,H. Beer Sheva,45.0,27.0,8,24,True,full_season_with_championship_playoff
+2018/19,championship_playoff,3,29,M. Tel Aviv,75.0,H. Beer Sheva,48.0,27.0,7,21,True,full_season_with_championship_playoff
+2018/19,championship_playoff,4,30,M. Tel Aviv,76.0,H. Beer Sheva,49.0,27.0,6,18,True,full_season_with_championship_playoff
+2018/19,championship_playoff,5,31,M. Tel Aviv,79.0,Maccabi Haifa,50.0,29.0,5,15,True,full_season_with_championship_playoff
+2018/19,championship_playoff,6,32,M. Tel Aviv,82.0,Maccabi Haifa,51.0,31.0,4,12,True,full_season_with_championship_playoff
+2018/19,championship_playoff,7,33,M. Tel Aviv,82.0,Maccabi Haifa,54.0,28.0,3,9,True,full_season_with_championship_playoff
+2018/19,championship_playoff,8,34,M. Tel Aviv,85.0,Maccabi Haifa,54.0,31.0,2,6,True,full_season_with_championship_playoff
+2018/19,championship_playoff,9,35,M. Tel Aviv,86.0,H. Beer Sheva,55.0,31.0,1,3,True,full_season_with_championship_playoff
+2018/19,championship_playoff,10,36,M. Tel Aviv,89.0,Maccabi Haifa,58.0,31.0,0,0,True,full_season_with_championship_playoff
+2019/20,regular,1,1,M. Tel Aviv,3.0,Maccabi Haifa,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2019/20,regular,2,2,H. Beer Sheva,4.0,Maccabi Netanya,4.0,0.0,34,102,False,full_season_with_championship_playoff
+2019/20,regular,3,3,Maccabi Haifa,7.0,Hapoel Haifa,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2019/20,regular,4,4,M. Tel Aviv,10.0,H. Beer Sheva,8.0,2.0,32,96,False,full_season_with_championship_playoff
+2019/20,regular,5,5,M. Tel Aviv,13.0,H. Beer Sheva,11.0,2.0,31,93,False,full_season_with_championship_playoff
+2019/20,regular,6,6,H. Beer Sheva,14.0,M. Tel Aviv,14.0,0.0,30,90,False,full_season_with_championship_playoff
+2019/20,regular,7,7,H. Beer Sheva,17.0,M. Tel Aviv,17.0,0.0,29,87,False,full_season_with_championship_playoff
+2019/20,regular,8,8,M. Tel Aviv,20.0,Maccabi Haifa,17.0,3.0,28,84,False,full_season_with_championship_playoff
+2019/20,regular,9,9,M. Tel Aviv,23.0,Maccabi Haifa,20.0,3.0,27,81,False,full_season_with_championship_playoff
+2019/20,regular,10,10,M. Tel Aviv,26.0,Maccabi Haifa,23.0,3.0,26,78,False,full_season_with_championship_playoff
+2019/20,regular,11,11,M. Tel Aviv,29.0,Maccabi Haifa,26.0,3.0,25,75,False,full_season_with_championship_playoff
+2019/20,regular,12,12,M. Tel Aviv,32.0,Maccabi Haifa,27.0,5.0,24,72,False,full_season_with_championship_playoff
+2019/20,regular,13,13,M. Tel Aviv,33.0,Maccabi Haifa,30.0,3.0,23,69,False,full_season_with_championship_playoff
+2019/20,regular,14,14,M. Tel Aviv,34.0,Maccabi Haifa,31.0,3.0,22,66,False,full_season_with_championship_playoff
+2019/20,regular,15,15,M. Tel Aviv,37.0,Maccabi Haifa,34.0,3.0,21,63,False,full_season_with_championship_playoff
+2019/20,regular,16,16,M. Tel Aviv,40.0,Maccabi Haifa,37.0,3.0,20,60,False,full_season_with_championship_playoff
+2019/20,regular,17,17,M. Tel Aviv,43.0,Maccabi Haifa,37.0,6.0,19,57,False,full_season_with_championship_playoff
+2019/20,regular,18,18,M. Tel Aviv,44.0,Maccabi Haifa,40.0,4.0,18,54,False,full_season_with_championship_playoff
+2019/20,regular,19,19,M. Tel Aviv,47.0,Maccabi Haifa,43.0,4.0,17,51,False,full_season_with_championship_playoff
+2019/20,regular,20,20,M. Tel Aviv,50.0,Maccabi Haifa,46.0,4.0,16,48,False,full_season_with_championship_playoff
+2019/20,regular,21,21,M. Tel Aviv,51.0,Maccabi Haifa,46.0,5.0,15,45,False,full_season_with_championship_playoff
+2019/20,regular,22,22,M. Tel Aviv,54.0,Maccabi Haifa,49.0,5.0,14,42,False,full_season_with_championship_playoff
+2019/20,regular,23,23,M. Tel Aviv,55.0,Maccabi Haifa,49.0,6.0,13,39,False,full_season_with_championship_playoff
+2019/20,regular,24,24,M. Tel Aviv,58.0,Maccabi Haifa,52.0,6.0,12,36,False,full_season_with_championship_playoff
+2019/20,regular,25,25,M. Tel Aviv,61.0,Maccabi Haifa,55.0,6.0,11,33,False,full_season_with_championship_playoff
+2019/20,regular,26,26,M. Tel Aviv,64.0,Maccabi Haifa,58.0,6.0,10,30,False,full_season_with_championship_playoff
+2019/20,championship_playoff,1,27,M. Tel Aviv,67.0,Maccabi Haifa,58.0,9.0,9,27,False,full_season_with_championship_playoff
+2019/20,championship_playoff,2,28,M. Tel Aviv,70.0,Maccabi Haifa,58.0,12.0,8,24,False,full_season_with_championship_playoff
+2019/20,championship_playoff,3,29,M. Tel Aviv,71.0,Maccabi Haifa,59.0,12.0,7,21,False,full_season_with_championship_playoff
+2019/20,championship_playoff,4,30,M. Tel Aviv,72.0,Maccabi Haifa,60.0,12.0,6,18,False,full_season_with_championship_playoff
+2019/20,championship_playoff,5,31,M. Tel Aviv,75.0,Maccabi Haifa,63.0,12.0,5,15,False,full_season_with_championship_playoff
+2019/20,championship_playoff,6,32,M. Tel Aviv,78.0,Maccabi Haifa,66.0,12.0,4,12,False,full_season_with_championship_playoff
+2019/20,championship_playoff,7,33,M. Tel Aviv,81.0,Maccabi Haifa,69.0,12.0,3,9,True,full_season_with_championship_playoff
+2019/20,championship_playoff,8,34,M. Tel Aviv,84.0,Maccabi Haifa,72.0,12.0,2,6,True,full_season_with_championship_playoff
+2019/20,championship_playoff,9,35,M. Tel Aviv,87.0,Maccabi Haifa,72.0,15.0,1,3,True,full_season_with_championship_playoff
+2019/20,championship_playoff,10,36,M. Tel Aviv,87.0,Maccabi Haifa,73.0,14.0,0,0,True,full_season_with_championship_playoff
+2020/21,regular,1,1,Bnei Yehuda,3.0,Kiryat Shmona,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2020/21,regular,2,2,B. Jerusalem,6.0,Maccabi Haifa,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2020/21,regular,3,3,Maccabi Haifa,9.0,B. Jerusalem,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2020/21,regular,4,4,Maccabi Haifa,10.0,B. Jerusalem,10.0,0.0,32,96,False,full_season_with_championship_playoff
+2020/21,regular,5,5,M. Petah Tikva,12.0,Maccabi Haifa,10.0,2.0,31,93,False,full_season_with_championship_playoff
+2020/21,regular,6,6,Maccabi Haifa,13.0,M. Petah Tikva,12.0,1.0,30,90,False,full_season_with_championship_playoff
+2020/21,regular,7,7,Kiryat Shmona,14.0,Maccabi Haifa,13.0,1.0,29,87,False,full_season_with_championship_playoff
+2020/21,regular,8,8,Maccabi Haifa,16.0,M. Petah Tikva,16.0,0.0,28,84,False,full_season_with_championship_playoff
+2020/21,regular,9,9,Maccabi Haifa,19.0,M. Petah Tikva,19.0,0.0,27,81,False,full_season_with_championship_playoff
+2020/21,regular,10,10,Maccabi Haifa,22.0,M. Petah Tikva,19.0,3.0,26,78,False,full_season_with_championship_playoff
+2020/21,regular,11,11,Maccabi Haifa,25.0,FC Ashdod,19.0,6.0,25,75,False,full_season_with_championship_playoff
+2020/21,regular,12,12,Maccabi Haifa,28.0,M. Petah Tikva,22.0,6.0,24,72,False,full_season_with_championship_playoff
+2020/21,regular,13,13,Maccabi Haifa,31.0,M. Tel Aviv,23.0,8.0,23,69,False,full_season_with_championship_playoff
+2020/21,regular,14,14,Maccabi Haifa,34.0,M. Tel Aviv,26.0,8.0,22,66,False,full_season_with_championship_playoff
+2020/21,regular,15,15,Maccabi Haifa,35.0,M. Tel Aviv,27.0,8.0,21,63,False,full_season_with_championship_playoff
+2020/21,regular,16,16,Maccabi Haifa,38.0,M. Tel Aviv,30.0,8.0,20,60,False,full_season_with_championship_playoff
+2020/21,regular,17,17,Maccabi Haifa,38.0,M. Tel Aviv,33.0,5.0,19,57,False,full_season_with_championship_playoff
+2020/21,regular,18,18,Maccabi Haifa,41.0,M. Tel Aviv,36.0,5.0,18,54,False,full_season_with_championship_playoff
+2020/21,regular,19,19,Maccabi Haifa,41.0,M. Tel Aviv,39.0,2.0,17,51,False,full_season_with_championship_playoff
+2020/21,regular,20,20,Maccabi Haifa,44.0,M. Tel Aviv,42.0,2.0,16,48,False,full_season_with_championship_playoff
+2020/21,regular,21,21,Maccabi Haifa,47.0,M. Tel Aviv,45.0,2.0,15,45,False,full_season_with_championship_playoff
+2020/21,regular,22,22,Maccabi Haifa,50.0,M. Tel Aviv,48.0,2.0,14,42,False,full_season_with_championship_playoff
+2020/21,regular,23,23,Maccabi Haifa,53.0,M. Tel Aviv,51.0,2.0,13,39,False,full_season_with_championship_playoff
+2020/21,regular,24,24,M. Tel Aviv,54.0,Maccabi Haifa,53.0,1.0,12,36,False,full_season_with_championship_playoff
+2020/21,regular,25,25,M. Tel Aviv,57.0,Maccabi Haifa,56.0,1.0,11,33,False,full_season_with_championship_playoff
+2020/21,regular,26,26,Maccabi Haifa,59.0,M. Tel Aviv,58.0,1.0,10,30,False,full_season_with_championship_playoff
+2020/21,championship_playoff,1,27,M. Tel Aviv,61.0,Maccabi Haifa,60.0,1.0,9,27,False,full_season_with_championship_playoff
+2020/21,championship_playoff,2,28,M. Tel Aviv,62.0,Maccabi Haifa,61.0,1.0,8,24,False,full_season_with_championship_playoff
+2020/21,championship_playoff,3,29,M. Tel Aviv,65.0,Maccabi Haifa,64.0,1.0,7,21,False,full_season_with_championship_playoff
+2020/21,championship_playoff,4,30,Maccabi Haifa,67.0,M. Tel Aviv,66.0,1.0,6,18,False,full_season_with_championship_playoff
+2020/21,championship_playoff,5,31,Maccabi Haifa,68.0,M. Tel Aviv,66.0,2.0,5,15,False,full_season_with_championship_playoff
+2020/21,championship_playoff,6,32,Maccabi Haifa,71.0,M. Tel Aviv,67.0,4.0,4,12,False,full_season_with_championship_playoff
+2020/21,championship_playoff,7,33,Maccabi Haifa,72.0,M. Tel Aviv,68.0,4.0,3,9,False,full_season_with_championship_playoff
+2020/21,championship_playoff,8,34,Maccabi Haifa,75.0,M. Tel Aviv,71.0,4.0,2,6,False,full_season_with_championship_playoff
+2020/21,championship_playoff,9,35,Maccabi Haifa,76.0,M. Tel Aviv,74.0,2.0,1,3,False,full_season_with_championship_playoff
+2020/21,championship_playoff,10,36,Maccabi Haifa,79.0,M. Tel Aviv,75.0,4.0,0,0,True,full_season_with_championship_playoff
+2021/22,regular,1,1,Bnei Sakhnin,3.0,H. Beer Sheva,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2021/22,regular,2,2,Hapoel Tel Aviv,6.0,H. Beer Sheva,4.0,2.0,34,102,False,full_season_with_championship_playoff
+2021/22,regular,3,3,H. Nof HaGalil,7.0,Hapoel Tel Aviv,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2021/22,regular,4,4,Hapoel Haifa,10.0,H. Beer Sheva,8.0,2.0,32,96,False,full_season_with_championship_playoff
+2021/22,regular,5,5,H. Beer Sheva,11.0,Hapoel Haifa,10.0,1.0,31,93,False,full_season_with_championship_playoff
+2021/22,regular,6,6,H. Beer Sheva,14.0,Hapoel Haifa,13.0,1.0,30,90,False,full_season_with_championship_playoff
+2021/22,regular,7,7,H. Beer Sheva,17.0,Hapoel Tel Aviv,14.0,3.0,29,87,False,full_season_with_championship_playoff
+2021/22,regular,8,8,H. Beer Sheva,18.0,Hapoel Haifa,16.0,2.0,28,84,False,full_season_with_championship_playoff
+2021/22,regular,9,9,H. Beer Sheva,19.0,Maccabi Haifa,17.0,2.0,27,81,False,full_season_with_championship_playoff
+2021/22,regular,10,10,H. Beer Sheva,22.0,Maccabi Haifa,20.0,2.0,26,78,False,full_season_with_championship_playoff
+2021/22,regular,11,11,H. Beer Sheva,25.0,Maccabi Haifa,23.0,2.0,25,75,False,full_season_with_championship_playoff
+2021/22,regular,12,12,H. Beer Sheva,28.0,Maccabi Haifa,26.0,2.0,24,72,False,full_season_with_championship_playoff
+2021/22,regular,13,13,H. Beer Sheva,31.0,Maccabi Haifa,29.0,2.0,23,69,False,full_season_with_championship_playoff
+2021/22,regular,14,14,H. Beer Sheva,34.0,Maccabi Haifa,32.0,2.0,22,66,False,full_season_with_championship_playoff
+2021/22,regular,15,15,H. Beer Sheva,37.0,Maccabi Haifa,35.0,2.0,21,63,False,full_season_with_championship_playoff
+2021/22,regular,16,16,H. Beer Sheva,40.0,Maccabi Haifa,38.0,2.0,20,60,False,full_season_with_championship_playoff
+2021/22,regular,17,17,Maccabi Haifa,41.0,H. Beer Sheva,40.0,1.0,19,57,False,full_season_with_championship_playoff
+2021/22,regular,18,18,Maccabi Haifa,44.0,H. Beer Sheva,40.0,4.0,18,54,False,full_season_with_championship_playoff
+2021/22,regular,19,19,Maccabi Haifa,45.0,H. Beer Sheva,43.0,2.0,17,51,False,full_season_with_championship_playoff
+2021/22,regular,20,20,Maccabi Haifa,46.0,H. Beer Sheva,46.0,0.0,16,48,False,full_season_with_championship_playoff
+2021/22,regular,21,21,Maccabi Haifa,49.0,H. Beer Sheva,46.0,3.0,15,45,False,full_season_with_championship_playoff
+2021/22,regular,22,22,Maccabi Haifa,49.0,H. Beer Sheva,47.0,2.0,14,42,False,full_season_with_championship_playoff
+2021/22,regular,23,23,Maccabi Haifa,52.0,H. Beer Sheva,48.0,4.0,13,39,False,full_season_with_championship_playoff
+2021/22,regular,24,24,Maccabi Haifa,55.0,H. Beer Sheva,49.0,6.0,12,36,False,full_season_with_championship_playoff
+2021/22,regular,25,25,Maccabi Haifa,56.0,H. Beer Sheva,52.0,4.0,11,33,False,full_season_with_championship_playoff
+2021/22,regular,26,26,Maccabi Haifa,59.0,H. Beer Sheva,55.0,4.0,10,30,False,full_season_with_championship_playoff
+2021/22,championship_playoff,1,27,Maccabi Haifa,62.0,H. Beer Sheva,58.0,4.0,9,27,False,full_season_with_championship_playoff
+2021/22,championship_playoff,2,28,Maccabi Haifa,65.0,H. Beer Sheva,58.0,7.0,8,24,False,full_season_with_championship_playoff
+2021/22,championship_playoff,3,29,Maccabi Haifa,66.0,H. Beer Sheva,59.0,7.0,7,21,False,full_season_with_championship_playoff
+2021/22,championship_playoff,4,30,Maccabi Haifa,69.0,H. Beer Sheva,62.0,7.0,6,18,False,full_season_with_championship_playoff
+2021/22,championship_playoff,5,31,Maccabi Haifa,69.0,H. Beer Sheva,63.0,6.0,5,15,False,full_season_with_championship_playoff
+2021/22,championship_playoff,6,32,Maccabi Haifa,72.0,H. Beer Sheva,63.0,9.0,4,12,False,full_season_with_championship_playoff
+2021/22,championship_playoff,7,33,Maccabi Haifa,72.0,H. Beer Sheva,66.0,6.0,3,9,False,full_season_with_championship_playoff
+2021/22,championship_playoff,8,34,Maccabi Haifa,72.0,H. Beer Sheva,66.0,6.0,2,6,False,full_season_with_championship_playoff
+2021/22,championship_playoff,9,35,Maccabi Haifa,75.0,H. Beer Sheva,67.0,8.0,1,3,True,full_season_with_championship_playoff
+2021/22,championship_playoff,10,36,Maccabi Haifa,78.0,H. Beer Sheva,70.0,8.0,0,0,True,full_season_with_championship_playoff
+2022/23,regular,1,1,M. Tel Aviv,3.0,Maccabi Netanya,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2022/23,regular,2,2,M. Tel Aviv,6.0,Maccabi Haifa,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2022/23,regular,3,3,M. Tel Aviv,9.0,Maccabi Haifa,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2022/23,regular,4,4,Maccabi Haifa,12.0,M. Tel Aviv,10.0,2.0,32,96,False,full_season_with_championship_playoff
+2022/23,regular,5,5,M. Tel Aviv,13.0,Maccabi Haifa,12.0,1.0,31,93,False,full_season_with_championship_playoff
+2022/23,regular,6,6,Maccabi Haifa,15.0,H. Jerusalem,14.0,1.0,30,90,False,full_season_with_championship_playoff
+2022/23,regular,7,7,M. Tel Aviv,16.0,Maccabi Haifa,15.0,1.0,29,87,False,full_season_with_championship_playoff
+2022/23,regular,8,8,M. Tel Aviv,19.0,Maccabi Haifa,18.0,1.0,28,84,False,full_season_with_championship_playoff
+2022/23,regular,9,9,M. Tel Aviv,22.0,Maccabi Haifa,21.0,1.0,27,81,False,full_season_with_championship_playoff
+2022/23,regular,10,10,Maccabi Haifa,24.0,M. Tel Aviv,22.0,2.0,26,78,False,full_season_with_championship_playoff
+2022/23,regular,11,11,Maccabi Haifa,27.0,M. Tel Aviv,23.0,4.0,25,75,False,full_season_with_championship_playoff
+2022/23,regular,12,12,Maccabi Haifa,30.0,M. Tel Aviv,26.0,4.0,24,72,False,full_season_with_championship_playoff
+2022/23,regular,13,13,Maccabi Haifa,33.0,M. Tel Aviv,29.0,4.0,23,69,False,full_season_with_championship_playoff
+2022/23,regular,14,14,Maccabi Haifa,36.0,M. Tel Aviv,32.0,4.0,22,66,False,full_season_with_championship_playoff
+2022/23,regular,15,15,Maccabi Haifa,39.0,M. Tel Aviv,35.0,4.0,21,63,False,full_season_with_championship_playoff
+2022/23,regular,16,16,Maccabi Haifa,42.0,M. Tel Aviv,36.0,6.0,20,60,False,full_season_with_championship_playoff
+2022/23,regular,17,17,Maccabi Haifa,45.0,M. Tel Aviv,39.0,6.0,19,57,False,full_season_with_championship_playoff
+2022/23,regular,18,18,Maccabi Haifa,48.0,H. Beer Sheva,41.0,7.0,18,54,False,full_season_with_championship_playoff
+2022/23,regular,19,19,Maccabi Haifa,48.0,M. Tel Aviv,43.0,5.0,17,51,False,full_season_with_championship_playoff
+2022/23,regular,20,20,Maccabi Haifa,49.0,H. Beer Sheva,45.0,4.0,16,48,False,full_season_with_championship_playoff
+2022/23,regular,21,21,Maccabi Haifa,50.0,H. Beer Sheva,48.0,2.0,15,45,False,full_season_with_championship_playoff
+2022/23,regular,22,22,Maccabi Haifa,53.0,H. Beer Sheva,49.0,4.0,14,42,False,full_season_with_championship_playoff
+2022/23,regular,23,23,Maccabi Haifa,53.0,H. Beer Sheva,49.0,4.0,13,39,False,full_season_with_championship_playoff
+2022/23,regular,24,24,Maccabi Haifa,56.0,H. Beer Sheva,52.0,4.0,12,36,False,full_season_with_championship_playoff
+2022/23,regular,25,25,Maccabi Haifa,59.0,H. Beer Sheva,55.0,4.0,11,33,False,full_season_with_championship_playoff
+2022/23,regular,26,26,Maccabi Haifa,62.0,H. Beer Sheva,58.0,4.0,10,30,False,full_season_with_championship_playoff
+2022/23,championship_playoff,1,27,Maccabi Haifa,62.0,H. Beer Sheva,58.0,4.0,9,27,False,full_season_with_championship_playoff
+2022/23,championship_playoff,2,28,Maccabi Haifa,65.0,M. Tel Aviv,58.0,7.0,8,24,False,full_season_with_championship_playoff
+2022/23,championship_playoff,3,29,Maccabi Haifa,66.0,H. Beer Sheva,61.0,5.0,7,21,False,full_season_with_championship_playoff
+2022/23,championship_playoff,4,30,Maccabi Haifa,69.0,M. Tel Aviv,62.0,7.0,6,18,False,full_season_with_championship_playoff
+2022/23,championship_playoff,5,31,Maccabi Haifa,69.0,M. Tel Aviv,63.0,6.0,5,15,False,full_season_with_championship_playoff
+2022/23,championship_playoff,6,32,Maccabi Haifa,72.0,H. Beer Sheva,65.0,7.0,4,12,False,full_season_with_championship_playoff
+2022/23,championship_playoff,7,33,Maccabi Haifa,72.0,H. Beer Sheva,68.0,4.0,3,9,False,full_season_with_championship_playoff
+2022/23,championship_playoff,8,34,Maccabi Haifa,75.0,H. Beer Sheva,71.0,4.0,2,6,False,full_season_with_championship_playoff
+2022/23,championship_playoff,9,35,Maccabi Haifa,78.0,H. Beer Sheva,71.0,7.0,1,3,True,full_season_with_championship_playoff
+2022/23,championship_playoff,10,36,Maccabi Haifa,81.0,H. Beer Sheva,74.0,7.0,0,0,True,full_season_with_championship_playoff
+2023/24,regular,1,1,M. Tel Aviv,3.0,H. Beer Sheva,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2023/24,regular,2,2,M. Tel Aviv,6.0,H. Beer Sheva,4.0,2.0,34,102,False,full_season_with_championship_playoff
+2023/24,regular,3,3,M. Tel Aviv,7.0,Hapoel Haifa,7.0,0.0,33,99,False,full_season_with_championship_playoff
+2023/24,regular,4,4,M. Tel Aviv,10.0,Hapoel Haifa,10.0,0.0,32,96,False,full_season_with_championship_playoff
+2023/24,regular,5,5,M. Tel Aviv,13.0,Hapoel Haifa,10.0,3.0,31,93,False,full_season_with_championship_playoff
+2023/24,regular,6,6,M. Tel Aviv,16.0,Hapoel Haifa,13.0,3.0,30,90,False,full_season_with_championship_playoff
+2023/24,regular,7,7,M. Tel Aviv,16.0,Maccabi Haifa,14.0,2.0,29,87,False,full_season_with_championship_playoff
+2023/24,regular,8,8,M. Tel Aviv,19.0,Hapoel Haifa,17.0,2.0,28,84,False,full_season_with_championship_playoff
+2023/24,regular,9,9,M. Tel Aviv,22.0,Maccabi Haifa,18.0,4.0,27,81,False,full_season_with_championship_playoff
+2023/24,regular,10,10,M. Tel Aviv,25.0,Maccabi Haifa,21.0,4.0,26,78,False,full_season_with_championship_playoff
+2023/24,regular,11,11,M. Tel Aviv,28.0,Maccabi Haifa,24.0,4.0,25,75,False,full_season_with_championship_playoff
+2023/24,regular,12,12,M. Tel Aviv,31.0,Maccabi Haifa,27.0,4.0,24,72,False,full_season_with_championship_playoff
+2023/24,regular,13,13,M. Tel Aviv,34.0,Maccabi Haifa,28.0,6.0,23,69,False,full_season_with_championship_playoff
+2023/24,regular,14,14,M. Tel Aviv,37.0,Maccabi Haifa,29.0,8.0,22,66,False,full_season_with_championship_playoff
+2023/24,regular,15,15,M. Tel Aviv,38.0,Maccabi Haifa,32.0,6.0,21,63,False,full_season_with_championship_playoff
+2023/24,regular,16,16,M. Tel Aviv,39.0,Maccabi Haifa,35.0,4.0,20,60,False,full_season_with_championship_playoff
+2023/24,regular,17,17,M. Tel Aviv,42.0,Maccabi Haifa,38.0,4.0,19,57,False,full_season_with_championship_playoff
+2023/24,regular,18,18,M. Tel Aviv,43.0,Maccabi Haifa,41.0,2.0,18,54,False,full_season_with_championship_playoff
+2023/24,regular,19,19,M. Tel Aviv,46.0,Maccabi Haifa,41.0,5.0,17,51,False,full_season_with_championship_playoff
+2023/24,regular,20,20,M. Tel Aviv,46.0,Maccabi Haifa,44.0,2.0,16,48,False,full_season_with_championship_playoff
+2023/24,regular,21,21,Maccabi Haifa,47.0,M. Tel Aviv,47.0,0.0,15,45,False,full_season_with_championship_playoff
+2023/24,regular,22,22,M. Tel Aviv,50.0,Maccabi Haifa,48.0,2.0,14,42,False,full_season_with_championship_playoff
+2023/24,regular,23,23,M. Tel Aviv,53.0,Maccabi Haifa,51.0,2.0,13,39,False,full_season_with_championship_playoff
+2023/24,regular,24,24,M. Tel Aviv,56.0,Maccabi Haifa,54.0,2.0,12,36,False,full_season_with_championship_playoff
+2023/24,regular,25,25,M. Tel Aviv,59.0,Maccabi Haifa,54.0,5.0,11,33,False,full_season_with_championship_playoff
+2023/24,regular,26,26,M. Tel Aviv,62.0,Maccabi Haifa,55.0,7.0,10,30,False,full_season_with_championship_playoff
+2023/24,championship_playoff,1,27,M. Tel Aviv,65.0,Maccabi Haifa,55.0,10.0,9,27,False,full_season_with_championship_playoff
+2023/24,championship_playoff,2,28,M. Tel Aviv,66.0,Maccabi Haifa,56.0,10.0,8,24,False,full_season_with_championship_playoff
+2023/24,championship_playoff,3,29,M. Tel Aviv,66.0,Maccabi Haifa,59.0,7.0,7,21,False,full_season_with_championship_playoff
+2023/24,championship_playoff,4,30,M. Tel Aviv,69.0,Maccabi Haifa,62.0,7.0,6,18,False,full_season_with_championship_playoff
+2023/24,championship_playoff,5,31,M. Tel Aviv,72.0,Maccabi Haifa,65.0,7.0,5,15,False,full_season_with_championship_playoff
+2023/24,championship_playoff,6,32,M. Tel Aviv,73.0,Maccabi Haifa,68.0,5.0,4,12,False,full_season_with_championship_playoff
+2023/24,championship_playoff,7,33,M. Tel Aviv,76.0,Maccabi Haifa,68.0,8.0,3,9,False,full_season_with_championship_playoff
+2023/24,championship_playoff,8,34,M. Tel Aviv,79.0,Maccabi Haifa,71.0,8.0,2,6,True,full_season_with_championship_playoff
+2023/24,championship_playoff,9,35,M. Tel Aviv,82.0,Maccabi Haifa,74.0,8.0,1,3,True,full_season_with_championship_playoff
+2023/24,championship_playoff,10,36,M. Tel Aviv,85.0,Maccabi Haifa,74.0,11.0,0,0,True,full_season_with_championship_playoff
+2024/25,regular,1,1,M. Bnei Reineh,3.0,M. Tel Aviv,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2024/25,regular,2,2,M. Tel Aviv,6.0,M. Bnei Reineh,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2024/25,regular,3,3,M. Tel Aviv,9.0,M. Bnei Reineh,7.0,2.0,33,99,False,full_season_with_championship_playoff
+2024/25,regular,4,4,M. Tel Aviv,12.0,M. Bnei Reineh,10.0,2.0,32,96,False,full_season_with_championship_playoff
+2024/25,regular,5,5,M. Tel Aviv,13.0,B. Jerusalem,11.0,2.0,31,93,False,full_season_with_championship_playoff
+2024/25,regular,6,6,M. Tel Aviv,16.0,Maccabi Haifa,12.0,4.0,30,90,False,full_season_with_championship_playoff
+2024/25,regular,7,7,M. Tel Aviv,19.0,H. Beer Sheva,14.0,5.0,29,87,False,full_season_with_championship_playoff
+2024/25,regular,8,8,M. Tel Aviv,19.0,Maccabi Haifa,15.0,4.0,28,84,False,full_season_with_championship_playoff
+2024/25,regular,9,9,M. Tel Aviv,19.0,Maccabi Haifa,18.0,1.0,27,81,False,full_season_with_championship_playoff
+2024/25,regular,10,10,M. Tel Aviv,22.0,H. Beer Sheva,21.0,1.0,26,78,False,full_season_with_championship_playoff
+2024/25,regular,11,11,M. Tel Aviv,25.0,H. Beer Sheva,24.0,1.0,25,75,False,full_season_with_championship_playoff
+2024/25,regular,12,12,H. Beer Sheva,27.0,M. Tel Aviv,26.0,1.0,24,72,False,full_season_with_championship_playoff
+2024/25,regular,13,13,H. Beer Sheva,30.0,M. Tel Aviv,27.0,3.0,23,69,False,full_season_with_championship_playoff
+2024/25,regular,14,14,H. Beer Sheva,33.0,M. Tel Aviv,30.0,3.0,22,66,False,full_season_with_championship_playoff
+2024/25,regular,15,15,H. Beer Sheva,34.0,M. Tel Aviv,33.0,1.0,21,63,False,full_season_with_championship_playoff
+2024/25,regular,16,16,H. Beer Sheva,35.0,M. Tel Aviv,34.0,1.0,20,60,False,full_season_with_championship_playoff
+2024/25,regular,17,17,H. Beer Sheva,38.0,M. Tel Aviv,37.0,1.0,19,57,False,full_season_with_championship_playoff
+2024/25,regular,18,18,H. Beer Sheva,41.0,M. Tel Aviv,38.0,3.0,18,54,False,full_season_with_championship_playoff
+2024/25,regular,19,19,H. Beer Sheva,44.0,M. Tel Aviv,41.0,3.0,17,51,False,full_season_with_championship_playoff
+2024/25,regular,20,20,H. Beer Sheva,47.0,M. Tel Aviv,44.0,3.0,16,48,False,full_season_with_championship_playoff
+2024/25,regular,21,21,H. Beer Sheva,47.0,M. Tel Aviv,45.0,2.0,15,45,False,full_season_with_championship_playoff
+2024/25,regular,22,22,H. Beer Sheva,50.0,M. Tel Aviv,48.0,2.0,14,42,False,full_season_with_championship_playoff
+2024/25,regular,23,23,H. Beer Sheva,53.0,M. Tel Aviv,51.0,2.0,13,39,False,full_season_with_championship_playoff
+2024/25,regular,24,24,H. Beer Sheva,56.0,M. Tel Aviv,51.0,5.0,12,36,False,full_season_with_championship_playoff
+2024/25,regular,25,25,H. Beer Sheva,57.0,M. Tel Aviv,54.0,3.0,11,33,False,full_season_with_championship_playoff
+2024/25,regular,26,26,H. Beer Sheva,58.0,M. Tel Aviv,57.0,1.0,10,30,False,full_season_with_championship_playoff
+2024/25,championship_playoff,1,27,H. Beer Sheva,61.0,M. Tel Aviv,60.0,1.0,9,27,False,full_season_with_championship_playoff
+2024/25,championship_playoff,2,28,M. Tel Aviv,63.0,H. Beer Sheva,61.0,2.0,8,24,False,full_season_with_championship_playoff
+2024/25,championship_playoff,3,29,M. Tel Aviv,66.0,H. Beer Sheva,64.0,2.0,7,21,False,full_season_with_championship_playoff
+2024/25,championship_playoff,4,30,H. Beer Sheva,67.0,M. Tel Aviv,67.0,0.0,6,18,False,full_season_with_championship_playoff
+2024/25,championship_playoff,5,31,H. Beer Sheva,70.0,M. Tel Aviv,67.0,3.0,5,15,False,full_season_with_championship_playoff
+2024/25,championship_playoff,6,32,H. Beer Sheva,70.0,M. Tel Aviv,70.0,0.0,4,12,False,full_season_with_championship_playoff
+2024/25,championship_playoff,7,33,H. Beer Sheva,71.0,M. Tel Aviv,71.0,0.0,3,9,False,full_season_with_championship_playoff
+2024/25,championship_playoff,8,34,M. Tel Aviv,74.0,H. Beer Sheva,74.0,0.0,2,6,False,full_season_with_championship_playoff
+2024/25,championship_playoff,9,35,M. Tel Aviv,77.0,H. Beer Sheva,75.0,2.0,1,3,False,full_season_with_championship_playoff
+2024/25,championship_playoff,10,36,M. Tel Aviv,80.0,H. Beer Sheva,78.0,2.0,0,0,True,full_season_with_championship_playoff
+2025/26,regular,1,1,M. Tel Aviv,3.0,Maccabi Haifa,3.0,0.0,10,30,False,regular_only_fallback
+2025/26,regular,2,2,H. Beer Sheva,6.0,M. Tel Aviv,6.0,0.0,9,27,False,regular_only_fallback
+2025/26,regular,3,3,H. Beer Sheva,9.0,M. Tel Aviv,9.0,0.0,8,24,False,regular_only_fallback
+2025/26,regular,4,4,H. Beer Sheva,12.0,M. Tel Aviv,12.0,0.0,7,21,False,regular_only_fallback
+2025/26,regular,5,5,H. Beer Sheva,15.0,M. Tel Aviv,13.0,2.0,6,18,False,regular_only_fallback
+2025/26,regular,6,6,H. Beer Sheva,18.0,M. Tel Aviv,14.0,4.0,5,15,False,regular_only_fallback
+2025/26,regular,7,7,H. Beer Sheva,18.0,M. Tel Aviv,17.0,1.0,4,12,False,regular_only_fallback
+2025/26,regular,8,8,H. Beer Sheva,21.0,M. Tel Aviv,20.0,1.0,3,9,False,regular_only_fallback
+2025/26,regular,9,9,H. Beer Sheva,24.0,M. Tel Aviv,23.0,1.0,2,6,False,regular_only_fallback
+2025/26,regular,10,10,H. Beer Sheva,25.0,M. Tel Aviv,23.0,2.0,1,3,False,regular_only_fallback
+2025/26,regular,11,11,H. Beer Sheva,28.0,M. Tel Aviv,24.0,4.0,0,0,True,regular_only_fallback
