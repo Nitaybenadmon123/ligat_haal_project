@@ -673,14 +673,39 @@
 2024/25,championship_playoff,8,34,M. Tel Aviv,74.0,H. Beer Sheva,74.0,0.0,2,6,False,full_season_with_championship_playoff
 2024/25,championship_playoff,9,35,M. Tel Aviv,77.0,H. Beer Sheva,75.0,2.0,1,3,False,full_season_with_championship_playoff
 2024/25,championship_playoff,10,36,M. Tel Aviv,80.0,H. Beer Sheva,78.0,2.0,0,0,True,full_season_with_championship_playoff
-2025/26,regular,1,1,M. Tel Aviv,3.0,Maccabi Haifa,3.0,0.0,10,30,False,regular_only_fallback
-2025/26,regular,2,2,H. Beer Sheva,6.0,M. Tel Aviv,6.0,0.0,9,27,False,regular_only_fallback
-2025/26,regular,3,3,H. Beer Sheva,9.0,M. Tel Aviv,9.0,0.0,8,24,False,regular_only_fallback
-2025/26,regular,4,4,H. Beer Sheva,12.0,M. Tel Aviv,12.0,0.0,7,21,False,regular_only_fallback
-2025/26,regular,5,5,H. Beer Sheva,15.0,M. Tel Aviv,13.0,2.0,6,18,False,regular_only_fallback
-2025/26,regular,6,6,H. Beer Sheva,18.0,M. Tel Aviv,14.0,4.0,5,15,False,regular_only_fallback
-2025/26,regular,7,7,H. Beer Sheva,18.0,M. Tel Aviv,17.0,1.0,4,12,False,regular_only_fallback
-2025/26,regular,8,8,H. Beer Sheva,21.0,M. Tel Aviv,20.0,1.0,3,9,False,regular_only_fallback
-2025/26,regular,9,9,H. Beer Sheva,24.0,M. Tel Aviv,23.0,1.0,2,6,False,regular_only_fallback
-2025/26,regular,10,10,H. Beer Sheva,25.0,M. Tel Aviv,23.0,2.0,1,3,False,regular_only_fallback
-2025/26,regular,11,11,H. Beer Sheva,28.0,M. Tel Aviv,24.0,4.0,0,0,True,regular_only_fallback
+2025/26,regular,1,1,M. Tel Aviv,3.0,Maccabi Haifa,3.0,0.0,35,105,False,full_season_with_championship_playoff
+2025/26,regular,2,2,H. Beer Sheva,6.0,M. Tel Aviv,6.0,0.0,34,102,False,full_season_with_championship_playoff
+2025/26,regular,3,3,H. Beer Sheva,9.0,M. Tel Aviv,9.0,0.0,33,99,False,full_season_with_championship_playoff
+2025/26,regular,4,4,H. Beer Sheva,12.0,M. Tel Aviv,12.0,0.0,32,96,False,full_season_with_championship_playoff
+2025/26,regular,5,5,H. Beer Sheva,15.0,M. Tel Aviv,13.0,2.0,31,93,False,full_season_with_championship_playoff
+2025/26,regular,6,6,H. Beer Sheva,18.0,M. Tel Aviv,14.0,4.0,30,90,False,full_season_with_championship_playoff
+2025/26,regular,7,7,H. Beer Sheva,18.0,M. Tel Aviv,17.0,1.0,29,87,False,full_season_with_championship_playoff
+2025/26,regular,8,8,H. Beer Sheva,21.0,M. Tel Aviv,20.0,1.0,28,84,False,full_season_with_championship_playoff
+2025/26,regular,9,9,H. Beer Sheva,24.0,M. Tel Aviv,23.0,1.0,27,81,False,full_season_with_championship_playoff
+2025/26,regular,10,10,H. Beer Sheva,25.0,M. Tel Aviv,23.0,2.0,26,78,False,full_season_with_championship_playoff
+2025/26,regular,11,11,H. Beer Sheva,28.0,M. Tel Aviv,24.0,4.0,25,75,False,full_season_with_championship_playoff
+2025/26,regular,12,12,H. Beer Sheva,29.0,M. Tel Aviv,27.0,2.0,24,72,False,full_season_with_championship_playoff
+2025/26,regular,13,13,H. Beer Sheva,32.0,B. Jerusalem,27.0,5.0,23,69,False,full_season_with_championship_playoff
+2025/26,regular,14,14,H. Beer Sheva,35.0,B. Jerusalem,30.0,5.0,22,66,False,full_season_with_championship_playoff
+2025/26,regular,15,15,H. Beer Sheva,35.0,B. Jerusalem,33.0,2.0,21,63,False,full_season_with_championship_playoff
+2025/26,regular,16,16,H. Beer Sheva,38.0,B. Jerusalem,36.0,2.0,20,60,False,full_season_with_championship_playoff
+2025/26,regular,17,17,H. Beer Sheva,41.0,B. Jerusalem,39.0,2.0,19,57,False,full_season_with_championship_playoff
+2025/26,regular,18,18,H. Beer Sheva,42.0,B. Jerusalem,42.0,0.0,18,54,False,full_season_with_championship_playoff
+2025/26,regular,19,19,B. Jerusalem,45.0,H. Beer Sheva,42.0,3.0,17,51,False,full_season_with_championship_playoff
+2025/26,regular,20,20,B. Jerusalem,46.0,H. Beer Sheva,45.0,1.0,16,48,False,full_season_with_championship_playoff
+2025/26,regular,21,21,H. Beer Sheva,48.0,B. Jerusalem,47.0,1.0,15,45,False,full_season_with_championship_playoff
+2025/26,regular,22,22,H. Beer Sheva,51.0,B. Jerusalem,47.0,4.0,14,42,False,full_season_with_championship_playoff
+2025/26,regular,23,23,H. Beer Sheva,54.0,B. Jerusalem,48.0,6.0,13,39,False,full_season_with_championship_playoff
+2025/26,regular,24,24,H. Beer Sheva,55.0,B. Jerusalem,51.0,4.0,12,36,False,full_season_with_championship_playoff
+2025/26,regular,25,25,H. Beer Sheva,55.0,B. Jerusalem,51.0,4.0,11,33,False,full_season_with_championship_playoff
+2025/26,regular,26,26,H. Beer Sheva,55.0,B. Jerusalem,51.0,4.0,10,30,False,full_season_with_championship_playoff
+2025/26,championship_playoff,1,27,H. Beer Sheva,62.0,B. Jerusalem,60.0,2.0,9,27,False,full_season_with_championship_playoff
+2025/26,championship_playoff,2,28,H. Beer Sheva,63.0,B. Jerusalem,61.0,2.0,8,24,False,full_season_with_championship_playoff
+2025/26,championship_playoff,3,29,B. Jerusalem,64.0,H. Beer Sheva,63.0,1.0,7,21,False,full_season_with_championship_playoff
+2025/26,championship_playoff,4,30,B. Jerusalem,67.0,H. Beer Sheva,66.0,1.0,6,18,False,full_season_with_championship_playoff
+2025/26,championship_playoff,5,31,B. Jerusalem,70.0,H. Beer Sheva,69.0,1.0,5,15,False,full_season_with_championship_playoff
+2025/26,championship_playoff,6,32,H. Beer Sheva,72.0,B. Jerusalem,70.0,2.0,4,12,False,full_season_with_championship_playoff
+2025/26,championship_playoff,7,33,H. Beer Sheva,73.0,B. Jerusalem,71.0,2.0,3,9,False,full_season_with_championship_playoff
+2025/26,championship_playoff,8,34,H. Beer Sheva,76.0,B. Jerusalem,74.0,2.0,2,6,False,full_season_with_championship_playoff
+2025/26,championship_playoff,9,35,H. Beer Sheva,79.0,B. Jerusalem,75.0,4.0,1,3,True,full_season_with_championship_playoff
+2025/26,championship_playoff,10,36,H. Beer Sheva,79.0,B. Jerusalem,76.0,3.0,0,0,True,full_season_with_championship_playoff

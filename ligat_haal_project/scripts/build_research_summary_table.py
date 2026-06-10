@@ -26,7 +26,7 @@ NOTEBOOKS = ROOT / "notebooks"
 OUTPUT = NOTEBOOKS / "outputs" / "research_summary"
 CHARTS = OUTPUT / "charts"
 
-COMPLETED_SEASON_END = "2024/25"
+COMPLETED_SEASON_END = "2025/26"
 TRACKING_BACKUP_2024_25 = (
     DATA / "regular_season_tracking" / "regular_season_tracking_2024_25_bak_20260429_141341.csv"
 )
@@ -385,7 +385,8 @@ def compute_title_decision_with_audit(
 # Max points behind leader to still count as "in the title race" at late-season checkpoints.
 TITLE_RACE_MAX_GAP_POINTS = 7
 
-# Notebook Metric 1: contenders if abs(points - lowest_safe) <= band (symmetric).
+# Contenders if abs(points - survival_line) <= band (symmetric).
+# Survival line = first relegation spot (e.g. 11th in 12-team, 13th in 14-team, 15th in 16-team).
 RELEGATION_SURVIVAL_BAND_PTS = 6
 N_REL = 2  # relegated clubs per season (notebook default)
 LEGACY_SINGLE_TABLE_SEASONS = frozenset({"2006/07", "2007/08", "2008/09"})
@@ -435,15 +436,34 @@ def relegation_zone_teams_snapshot(tbl: pd.DataFrame, n_rel: int = N_REL) -> set
     return set(st.loc[pos_num >= cut, "team"].astype(str))
 
 
+def survival_line_points_from_table(
+    tbl: pd.DataFrame,
+    n_rel: int = N_REL,
+) -> float | None:
+    """
+    Points of the team at the first relegation spot in a points-sorted table.
+
+    Examples (n_rel=2): 11th of 12, 13th of 14, 15th of 16, 7th of 8 in relegation playoff.
+    """
+    if tbl is None or tbl.empty:
+        return None
+    st = sort_standings_points_desc(tbl)
+    n_table = len(st)
+    if n_table <= n_rel:
+        return None
+    survival_idx = n_table - n_rel  # first relegation spot (0-based)
+    return float(st.iloc[survival_idx]["points"])
+
+
 def relegation_contenders_at_snapshot(
     tbl: pd.DataFrame,
     n_rel: int = N_REL,
     band_pts: int = RELEGATION_SURVIVAL_BAND_PTS,
 ) -> tuple[int | None, float | None, pd.DataFrame]:
     """
-    Notebook Metric 1 style contenders at one standings snapshot.
+    Relegation contenders at one standings snapshot.
 
-    - Survival line: lowest safe team at index (N - n_rel - 1) in points-sorted table.
+    - Survival line: first relegation spot at index (N - n_rel) in points-sorted table.
     - Contender if abs(points - survival) <= band_pts AND rank_snap >= N - 6.
     """
     if tbl is None or tbl.empty:
@@ -454,25 +474,34 @@ def relegation_contenders_at_snapshot(
     if n_table <= n_rel:
         return 0, None, st
 
-    lowest_safe_idx = n_table - n_rel - 1
-    lowest_safe_points = float(st.iloc[lowest_safe_idx]["points"])
+    survival_pts = survival_line_points_from_table(tbl, n_rel)
+    if survival_pts is None:
+        return 0, None, st
+
     st = st.copy()
     st["rank_snap"] = np.arange(1, n_table + 1)
-    st["gap_to_survival"] = (st["points"] - lowest_safe_points).abs()
+    st["gap_to_survival"] = (st["points"] - survival_pts).abs()
     rank_floor = n_table - 6
     contenders = st[
         (st["gap_to_survival"] <= band_pts) & (st["rank_snap"] >= rank_floor)
     ].copy()
-    return len(contenders), lowest_safe_points, contenders
+    return len(contenders), survival_pts, contenders
 
 
 def compute_title_race_metrics(season: str, tracking: pd.DataFrame, final_table: pd.DataFrame | None) -> dict[str, Any]:
     regular_tables = build_round_tables(tracking)
     regular_rounds = max(regular_tables) if regular_tables else np.nan
-    leaders = leader_per_round(regular_tables)
+    regular_leaders = leader_per_round(regular_tables)
 
     combined_tables, total_title_rounds, reg_rounds_int, title_decision_method = build_title_race_timeline(
         season, tracking
+    )
+    combined_leaders = leader_per_round(combined_tables)
+    # Leadership volatility/stability: full title timeline when championship playoff tracking exists
+    leaders = (
+        combined_leaders
+        if title_decision_method == "full_season_with_championship_playoff"
+        else regular_leaders
     )
 
     notes: list[str] = []
@@ -534,6 +563,9 @@ def compute_title_race_metrics(season: str, tracking: pd.DataFrame, final_table:
         notes.append(
             "title_decision_round: computed on regular season + championship playoff timeline"
         )
+        notes.append(
+            "lead_changes_after_round_10 and champion leadership %: include championship playoff rounds"
+        )
 
     # Teams in race near end (use global rounds on combined timeline)
     end_round = total_title_rounds if total_title_rounds else int(regular_rounds)
@@ -570,9 +602,9 @@ def compute_title_race_metrics(season: str, tracking: pd.DataFrame, final_table:
         if leaders[r_prev] != leaders[r_curr]:
             lead_changes_after_10 += 1
 
-    # Champion stability
+    # Champion stability (leaders timeline above; first round always regular season round 1)
     champ_rounds_as_leader = sum(1 for l in leaders.values() if l == champion)
-    first_round_leader = leaders.get(1)
+    first_round_leader = regular_leaders.get(1)
     first_round_champion_was_1st = first_round_leader == champion if first_round_leader else np.nan
     champ_pct = (champ_rounds_as_leader / len(leaders) * 100) if leaders else np.nan
 
@@ -916,34 +948,41 @@ def compute_match_metrics(season: str, matches: pd.DataFrame, regular_rounds: in
             "home_win_pct": df["home_win"].mean() * 100,
         }
 
-    reg_agg = agg_stage(reg)
-    po_agg = agg_stage(po)
-
-    # Supplement playoff from betexplorer if main file has no playoff rounds
-    if po.empty and pd.notna(regular_rounds):
-        po_all = load_playoff_matches_betexplorer()
+    # Supplement playoff from scraped playoff data if main TM file has no playoff rounds
+    if po.empty and is_playoff_season(season):
+        po_all = load_playoff_matches()
         po_season = po_all[po_all["season"] == season]
         if not po_season.empty:
-            po_agg = agg_stage(po_season)
-            notes.append("playoff metrics from betexplorer scraped data")
+            po = po_season
+            notes.append("playoff matches supplemented from scraped playoff data")
+
+    reg_agg = agg_stage(reg)
+    po_agg = agg_stage(po)
 
     po_status = "computed"
     if not po_agg:
         po_status = "insufficient_stage_data"
 
+    # Season-level match stats: regular + both playoffs when the season has playoffs
+    if is_playoff_season(season) and not po.empty:
+        full_pool = pd.concat([reg, po], ignore_index=True)
+        notes.append("season match stats include regular + playoff games")
+    else:
+        full_pool = valid
+
     return {
         "total_matches": len(sub),
-        "valid_matches_for_analysis": n,
-        "home_win_percentage": valid["home_win"].mean() * 100,
-        "away_win_percentage": valid["away_win"].mean() * 100,
-        "draw_percentage": valid["draw"].mean() * 100,
-        "average_home_goals": valid["home_goals"].mean(),
-        "average_away_goals": valid["away_goals"].mean(),
-        "goal_difference_home_minus_away": (valid["home_goals"] - valid["away_goals"]).mean(),
-        "total_goals": valid["total_goals"].sum(),
-        "average_goals_per_match": valid["total_goals"].mean(),
-        "matches_with_0_0": int((valid["total_goals"] == 0).sum()),
-        "percentage_matches_over_2_5_goals": (valid["total_goals"] > 2.5).mean() * 100,
+        "valid_matches_for_analysis": len(full_pool),
+        "home_win_percentage": full_pool["home_win"].mean() * 100,
+        "away_win_percentage": full_pool["away_win"].mean() * 100,
+        "draw_percentage": full_pool["draw"].mean() * 100,
+        "average_home_goals": full_pool["home_goals"].mean(),
+        "average_away_goals": full_pool["away_goals"].mean(),
+        "goal_difference_home_minus_away": (full_pool["home_goals"] - full_pool["away_goals"]).mean(),
+        "total_goals": full_pool["total_goals"].sum(),
+        "average_goals_per_match": full_pool["total_goals"].mean(),
+        "matches_with_0_0": int((full_pool["total_goals"] == 0).sum()),
+        "percentage_matches_over_2_5_goals": (full_pool["total_goals"] > 2.5).mean() * 100,
         "regular_average_goals_per_match": reg_agg.get("avg_goals", np.nan),
         "playoff_average_goals_per_match": po_agg.get("avg_goals", np.nan),
         "regular_home_win_percentage": reg_agg.get("home_win_pct", np.nan),
@@ -953,20 +992,44 @@ def compute_match_metrics(season: str, matches: pd.DataFrame, regular_rounds: in
     }
 
 
-def load_playoff_matches_betexplorer() -> pd.DataFrame:
-    frames = []
+def _add_match_outcome_columns(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy()
+    out["home_goals"] = pd.to_numeric(out["home_goals"], errors="coerce")
+    out["away_goals"] = pd.to_numeric(out["away_goals"], errors="coerce")
+    out = out.dropna(subset=["home_goals", "away_goals"])
+    out["total_goals"] = out["home_goals"] + out["away_goals"]
+    out["home_win"] = (out["home_goals"] > out["away_goals"]).astype(int)
+    out["away_win"] = (out["home_goals"] < out["away_goals"]).astype(int)
+    out["draw"] = (out["home_goals"] == out["away_goals"]).astype(int)
+    return out
+
+
+def load_playoff_matches() -> pd.DataFrame:
+    """Championship + relegation playoff matches from BetExplorer and Transfermarkt round files."""
+    frames: list[pd.DataFrame] = []
+    playoff_dir = DATA / "playoffs" / "scraped_betexplorer"
+
     for fname in ["all_championship_betexplorer.csv", "all_relegation_betexplorer.csv"]:
-        path = DATA / "playoffs" / "scraped_betexplorer" / fname
+        path = playoff_dir / fname
         if not path.exists():
             continue
         df = pd.read_csv(path)
-        df["home_goals"] = pd.to_numeric(df["home_goals"], errors="coerce")
-        df["away_goals"] = pd.to_numeric(df["away_goals"], errors="coerce")
-        df["total_goals"] = df["home_goals"] + df["away_goals"]
-        df["home_win"] = (df["home_goals"] > df["away_goals"]).astype(int)
-        df["away_win"] = (df["home_goals"] < df["away_goals"]).astype(int)
-        df["draw"] = (df["home_goals"] == df["away_goals"]).astype(int)
-        frames.append(df)
+        frames.append(_add_match_outcome_columns(df[["season", "home_goals", "away_goals"]]))
+
+    for path in sorted(playoff_dir.glob("matches_*_ligat_haal_*_round_transfermarkt.csv")):
+        df = pd.read_csv(path)
+        season_col = "Season" if "Season" in df.columns else "season"
+        home_col = "HomeGoals" if "HomeGoals" in df.columns else "home_goals"
+        away_col = "AwayGoals" if "AwayGoals" in df.columns else "away_goals"
+        tm = pd.DataFrame(
+            {
+                "season": df[season_col],
+                "home_goals": df[home_col],
+                "away_goals": df[away_col],
+            }
+        )
+        frames.append(_add_match_outcome_columns(tm))
+
     if not frames:
         return pd.DataFrame()
     return pd.concat(frames, ignore_index=True)
@@ -1151,12 +1214,15 @@ def build_feasibility_table() -> pd.DataFrame:
         (3, "How many teams were still in the title race near the end?", "teams_in_title_race_5_rounds_before_end",
          "answerable_now", "Teams within 7 points of leader at checkpoint (5 rounds before end).", "Compare across seasons.", "recomputed_from_tracking"),
         (4, "How many lead changes occurred after round 10?", "lead_changes_after_round_10", "answerable_now",
-         "Recomputed (not reusing all-round leadership_changes).", "See first_round_champion distribution.", "recomputed_from_tracking"),
+         "Leader changes after global round 10; includes championship playoff when tracking available.",
+         "See first_round_champion_distribution.", "regular + championship_playoff_tracking"),
         (5, "How stable was the champion throughout the season?", "champion_rounds_as_leader_percentage",
-         "answerable_now", "From per-round leaders vs eventual champion.", "Cross-check rounds_led CSV.", "recomputed_from_tracking"),
+         "answerable_now",
+         "Rounds as leader vs eventual champion; full title timeline in playoff seasons.",
+         "Cross-check rounds_led CSV.", "regular + championship_playoff_tracking"),
         (6, "How many teams were fighting relegation near the end?", "teams_in_relegation_race_last_5_rounds",
          "answerable_now",
-         "Notebook M1: abs(points-survival)<=6, rank_snap>=N-6; full-season checkpoint incl. relegation playoff.",
+         "Survival line = first relegation spot; abs(points-survival)<=6, rank_snap>=N-6; full-season incl. playoff.",
          "See relegation_race_audit.csv; compare regular-only columns.", "relegation_playoff_tracking + tracking"),
         (7, "How volatile was the relegation zone?", "relegation_zone_changes_total", "answerable_now",
          "Notebook M4: half symmetric-diff zone changes on regular + relegation playoff timeline.", "Use charts by season.", "metric4_notebook_logic"),
@@ -1273,6 +1339,105 @@ def save_first_round_distribution(dist_df: pd.DataFrame) -> None:
     plt.close(fig)
 
 
+def save_title_race_timeline_chart(
+    audit: pd.DataFrame,
+    season: str,
+    summary_row: pd.Series,
+    fname: str,
+    competitiveness_label: str,
+) -> None:
+    """Round-by-round title race timeline for one season (points + gap)."""
+    sub = audit[audit["season"] == season].sort_values("global_round").copy()
+    if sub.empty:
+        return
+
+    regular_end = int(sub.loc[sub["stage"] == "regular", "global_round"].max())
+    closeness = summary_row.get("title_race_closeness_score", np.nan)
+    champion = summary_row.get("champion", "")
+    runner_up = summary_row.get("runner_up", "")
+    final_gap = summary_row.get("final_gap_1st_2nd", np.nan)
+    lead_changes = summary_row.get("lead_changes_after_round_10", np.nan)
+    decision_round = summary_row.get("title_decision_round", np.nan)
+
+    rounds = sub["global_round"].astype(int)
+    leader_changed = sub["leader"] != sub["leader"].shift(1)
+    change_rounds = sub.loc[leader_changed & (sub["global_round"] > 1), "global_round"]
+
+    fig, (ax_pts, ax_gap) = plt.subplots(
+        2, 1, figsize=(14, 8), sharex=True, gridspec_kw={"height_ratios": [2.2, 1]}
+    )
+
+    ax_pts.plot(rounds, sub["leader_points"], color="#1f77b4", linewidth=2.2, label="Leader points", marker="o", markersize=4)
+    ax_pts.plot(
+        rounds, sub["runner_up_points"], color="#ff7f0e", linewidth=2.2,
+        label="Runner-up points", marker="s", markersize=4,
+    )
+    ax_pts.fill_between(rounds, sub["leader_points"], sub["runner_up_points"], alpha=0.12, color="#1f77b4")
+
+    if sub["stage"].eq("championship_playoff").any():
+        playoff_start = int(sub.loc[sub["stage"] == "championship_playoff", "global_round"].min())
+        ax_pts.axvspan(playoff_start - 0.5, rounds.max() + 0.5, alpha=0.08, color="purple", label="Championship playoff")
+        ax_gap.axvspan(playoff_start - 0.5, rounds.max() + 0.5, alpha=0.08, color="purple")
+
+    ax_pts.axvline(regular_end + 0.5, color="gray", linestyle="--", linewidth=1, alpha=0.7, label="Regular season end")
+
+    for rnd in change_rounds:
+        ax_pts.axvline(rnd, color="#2ca02c", linestyle=":", linewidth=1, alpha=0.55)
+        ax_gap.axvline(rnd, color="#2ca02c", linestyle=":", linewidth=1, alpha=0.55)
+
+    if pd.notna(decision_round):
+        ax_pts.axvline(decision_round, color="#d62728", linestyle="-.", linewidth=1.2, alpha=0.8, label="Title decided")
+        ax_gap.axvline(decision_round, color="#d62728", linestyle="-.", linewidth=1.2, alpha=0.8)
+
+    ax_pts.set_ylabel("Points")
+    ax_pts.legend(loc="upper left", fontsize=9)
+    ax_pts.grid(True, alpha=0.25)
+
+    ax_gap.bar(rounds, sub["gap_1st_2nd"], color="#6baed6", alpha=0.85, width=0.85, label="Gap 1st–2nd")
+    ax_gap.set_ylabel("Point gap")
+    ax_gap.set_xlabel("Round (global timeline: regular + championship playoff)")
+    ax_gap.grid(True, axis="y", alpha=0.25)
+
+    title = (
+        f"Title Race Timeline — {season} ({competitiveness_label})\n"
+        f"Closeness score: {closeness:.1f} | Champion: {champion} | "
+        f"Runner-up: {runner_up} | Final gap: {final_gap:.0f} pts | "
+        f"Lead changes after R10: {int(lead_changes) if pd.notna(lead_changes) else '—'}"
+    )
+    fig.suptitle(title, fontsize=11, y=1.02)
+    plt.tight_layout()
+    fig.savefig(CHARTS / fname, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+
+
+def save_title_race_timeline_comparison_charts(summary: pd.DataFrame) -> list[str]:
+    """Most vs least competitive title-race seasons (by title_race_closeness_score)."""
+    audit_path = OUTPUT / "title_decision_audit.csv"
+    if not audit_path.exists():
+        return []
+
+    audit = pd.read_csv(audit_path)
+    completed = summary[summary["is_completed_season"]].dropna(subset=["title_race_closeness_score"])
+    if completed.empty:
+        return []
+
+    most_row = completed.loc[completed["title_race_closeness_score"].idxmax()]
+    least_row = completed.loc[completed["title_race_closeness_score"].idxmin()]
+
+    jobs = [
+        (most_row, "most_competitive", "Most competitive title race"),
+        (least_row, "least_competitive", "Least competitive title race"),
+    ]
+    created: list[str] = []
+    for row, slug, label in jobs:
+        season = row["season"]
+        season_slug = season.replace("/", "_")
+        out_name = f"title_race_timeline_{slug}_{season_slug}.png"
+        save_title_race_timeline_chart(audit, season, row, out_name, label)
+        created.append(str(CHARTS / out_name))
+    return created
+
+
 def create_charts(summary: pd.DataFrame, dist_df: pd.DataFrame) -> list[str]:
     CHARTS.mkdir(parents=True, exist_ok=True)
     chart_jobs = [
@@ -1310,6 +1475,7 @@ def create_charts(summary: pd.DataFrame, dist_df: pd.DataFrame) -> list[str]:
     for p in ["regular_vs_playoff_goals.png", "regular_vs_playoff_home_win_percentage.png"]:
         if (CHARTS / p).exists():
             created.append(str(CHARTS / p))
+    created.extend(save_title_race_timeline_comparison_charts(summary))
     (CHARTS / "ATTENDANCE_CHARTS_PLACEHOLDER.txt").write_text(
         "Attendance charts are placeholders and will be added in the next stage.\n",
         encoding="utf-8",
@@ -1366,8 +1532,9 @@ def write_hebrew_findings(summary: pd.DataFrame, feasibility: pd.DataFrame) -> N
         "**מדדי מאבק ירידה – שני סוגים:**",
         "- `teams_in_relegation_race_last_*_regular_rounds` – נקודת ביקורת בעונה הרגילה בלבד (5/6/8 סיבובים לפני סוף העונה הרגילה).",
         "- `teams_in_relegation_race_last_*_rounds` – נקודת ביקורת על ציר הירידה המלא: עונה רגילה + פלייאוף ירידה (כשקיים). בעונות ללא פלייאוף הערכים זהים.",
-        "- כלל (כמו Metric 1 בנוטבוק): קבוצה במאבק אם `abs(נקודות - קו_הישרדות) <= 6` **וגם** `rank_snap >= N - 6` (בלוק תחתון בלבד).",
-        "- קו הישרדות: נקודות הקבוצה בדירוג `N - 2 - 1` בטבלה ממוינת לפי נקודות (יורד).",
+        "- כלל: קבוצה במאבק אם `abs(נקודות - קו_הישרדות) <= 6` **וגם** `rank_snap >= N - 6` (בלוק תחתון בלבד).",
+        "- קו הישרדות: נקודות הקבוצה **במקום הירידה הראשון** (11 בליגת 12, 13 ב-14, 15 ב-16; בפלייאוף ירידה — לפי גודל הטבלה).",
+        "- נקודת ביקורת מלאה: 5/6/8 סיבובים לפני סוף ציר הירידה (כולל פלייאוף ירידה כשקיים).",
         "- `relegation_zone_changes_total`: כמו Metric 4 — שינויי אזור ירידה (חצי symmetric diff) על ציר מלא.",
         "- `relegation_race_method`: `full_season_no_playoff` | `full_season_with_relegation_playoff` | `regular_only_fallback` | `unavailable`.",
         "- `relegation_closeness_score` משתמש ב-`teams_in_relegation_race_last_5_rounds` (ציר מלא).",
@@ -1389,7 +1556,7 @@ def write_hebrew_findings(summary: pd.DataFrame, feasibility: pd.DataFrame) -> N
         "- `relegation_decision_round` מגיע מ-Metric 2 בנוטבוק (`metric2_notebook`).",
         "- פלייאוף ירידה: בציר המלא הטבלה עשויה להכיל רק קבוצות פלייאוף תחתון; 2 מקומות ירידה (ברירת מחדל).",
         "- 2024/25: קובץ מעקב גיבוי אם חסר קובץ ראשי.",
-        "- 2025/26: עונה לא מושלמת – לא נכללת בדירוגי עונות מושלמות.",
+        "- 2025/26: נוספה לטבלה לאחר השלמת איסוף משחקים ומעקב מ-Transfermarkt.",
     ]
     if not warn_seasons.empty:
         lines.append("- עונות עם אזהרות: " + ", ".join(warn_seasons["season"].tolist()))

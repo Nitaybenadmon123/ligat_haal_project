@@ -1,0 +1,845 @@
+﻿season,stage,round,team,points,position,goal_diff
+2009/10,relegation_playoff,31,H. Ramat Gan,18,1,-20
+2009/10,relegation_playoff,31,Hapoel Haifa,17,2,-6
+2009/10,relegation_playoff,31,Hapoel Acre,16,3,-13
+2009/10,relegation_playoff,31,H. Petah Tikva,16,4,-19
+2009/10,relegation_playoff,31,M. Ahi Nazareth,13,5,-40
+2009/10,relegation_playoff,31,Hapoel Raanana,11,6,-30
+2009/10,relegation_playoff,32,Hapoel Haifa,20,1,-5
+2009/10,relegation_playoff,32,H. Ramat Gan,18,2,-21
+2009/10,relegation_playoff,32,Hapoel Acre,16,3,-17
+2009/10,relegation_playoff,32,H. Petah Tikva,16,4,-22
+2009/10,relegation_playoff,32,M. Ahi Nazareth,16,5,-37
+2009/10,relegation_playoff,32,Hapoel Raanana,14,6,-26
+2009/10,relegation_playoff,33,Hapoel Haifa,23,1,-4
+2009/10,relegation_playoff,33,Hapoel Acre,19,2,-15
+2009/10,relegation_playoff,33,H. Petah Tikva,19,3,-21
+2009/10,relegation_playoff,33,H. Ramat Gan,18,4,-22
+2009/10,relegation_playoff,33,M. Ahi Nazareth,16,5,-39
+2009/10,relegation_playoff,33,Hapoel Raanana,14,6,-27
+2009/10,relegation_playoff,34,Hapoel Haifa,23,1,-5
+2009/10,relegation_playoff,34,H. Petah Tikva,22,2,-20
+2009/10,relegation_playoff,34,Hapoel Acre,20,3,-15
+2009/10,relegation_playoff,34,H. Ramat Gan,19,4,-22
+2009/10,relegation_playoff,34,Hapoel Raanana,17,5,-25
+2009/10,relegation_playoff,34,M. Ahi Nazareth,16,6,-41
+2009/10,relegation_playoff,35,Hapoel Haifa,23,1,-6
+2009/10,relegation_playoff,35,Hapoel Acre,23,2,-14
+2009/10,relegation_playoff,35,H. Petah Tikva,23,3,-20
+2009/10,relegation_playoff,35,H. Ramat Gan,22,4,-15
+2009/10,relegation_playoff,35,Hapoel Raanana,18,5,-25
+2009/10,relegation_playoff,35,M. Ahi Nazareth,16,6,-48
+2010/11,relegation_playoff,31,B. Jerusalem,22,1,2
+2010/11,relegation_playoff,31,FC Ashdod,20,2,-13
+2010/11,relegation_playoff,31,H. Petah Tikva,18,3,-15
+2010/11,relegation_playoff,31,Bnei Sakhnin,14,4,-21
+2010/11,relegation_playoff,31,H. Ashkelon,13,5,-30
+2010/11,relegation_playoff,31,H. Ramat Gan,2,6,-42
+2010/11,relegation_playoff,32,B. Jerusalem,25,1,5
+2010/11,relegation_playoff,32,FC Ashdod,20,2,-14
+2010/11,relegation_playoff,32,H. Petah Tikva,18,3,-18
+2010/11,relegation_playoff,32,Bnei Sakhnin,17,4,-20
+2010/11,relegation_playoff,32,H. Ashkelon,13,5,-32
+2010/11,relegation_playoff,32,H. Ramat Gan,5,6,-40
+2010/11,relegation_playoff,33,B. Jerusalem,26,1,5
+2010/11,relegation_playoff,33,FC Ashdod,21,2,-14
+2010/11,relegation_playoff,33,H. Petah Tikva,18,3,-19
+2010/11,relegation_playoff,33,Bnei Sakhnin,17,4,-21
+2010/11,relegation_playoff,33,H. Ashkelon,16,5,-31
+2010/11,relegation_playoff,33,H. Ramat Gan,8,6,-39
+2010/11,relegation_playoff,34,B. Jerusalem,26,1,4
+2010/11,relegation_playoff,34,FC Ashdod,22,2,-14
+2010/11,relegation_playoff,34,Bnei Sakhnin,20,3,-20
+2010/11,relegation_playoff,34,H. Petah Tikva,19,4,-19
+2010/11,relegation_playoff,34,H. Ashkelon,19,5,-30
+2010/11,relegation_playoff,34,H. Ramat Gan,8,6,-40
+2010/11,relegation_playoff,35,B. Jerusalem,26,1,3
+2010/11,relegation_playoff,35,FC Ashdod,25,2,-13
+2010/11,relegation_playoff,35,Bnei Sakhnin,23,3,-19
+2010/11,relegation_playoff,35,H. Petah Tikva,22,4,-16
+2010/11,relegation_playoff,35,H. Ashkelon,19,5,-33
+2010/11,relegation_playoff,35,H. Ramat Gan,8,6,-41
+2011/12,relegation_playoff,31,Ramat haSharon,40,1,-6
+2011/12,relegation_playoff,31,Hapoel Acre,38,2,3
+2011/12,relegation_playoff,31,B. Jerusalem,37,3,-15
+2011/12,relegation_playoff,31,Hapoel Haifa,35,4,-4
+2011/12,relegation_playoff,31,H. Beer Sheva,32,5,-22
+2011/12,relegation_playoff,31,M. Petah Tikva,27,6,-21
+2011/12,relegation_playoff,31,H Rishon leZion,27,7,-23
+2011/12,relegation_playoff,31,H. Petah Tikva,22,8,-16
+2011/12,relegation_playoff,32,Hapoel Acre,41,1,5
+2011/12,relegation_playoff,32,Ramat haSharon,40,2,-8
+2011/12,relegation_playoff,32,B. Jerusalem,40,3,-14
+2011/12,relegation_playoff,32,Hapoel Haifa,35,4,-5
+2011/12,relegation_playoff,32,H. Beer Sheva,33,5,-22
+2011/12,relegation_playoff,32,M. Petah Tikva,30,6,-20
+2011/12,relegation_playoff,32,H Rishon leZion,27,7,-24
+2011/12,relegation_playoff,32,H. Petah Tikva,23,8,-16
+2011/12,relegation_playoff,33,Ramat haSharon,43,1,-7
+2011/12,relegation_playoff,33,B. Jerusalem,43,2,-13
+2011/12,relegation_playoff,33,Hapoel Acre,41,3,4
+2011/12,relegation_playoff,33,Hapoel Haifa,38,4,-3
+2011/12,relegation_playoff,33,H. Beer Sheva,36,5,-21
+2011/12,relegation_playoff,33,M. Petah Tikva,30,6,-21
+2011/12,relegation_playoff,33,H Rishon leZion,27,7,-26
+2011/12,relegation_playoff,33,H. Petah Tikva,23,8,-17
+2011/12,relegation_playoff,34,B. Jerusalem,46,1,-12
+2011/12,relegation_playoff,34,Ramat haSharon,43,2,-8
+2011/12,relegation_playoff,34,Hapoel Acre,42,3,4
+2011/12,relegation_playoff,34,Hapoel Haifa,39,4,-3
+2011/12,relegation_playoff,34,H. Beer Sheva,39,5,-20
+2011/12,relegation_playoff,34,M. Petah Tikva,33,6,-20
+2011/12,relegation_playoff,34,H Rishon leZion,27,7,-27
+2011/12,relegation_playoff,34,H. Petah Tikva,23,8,-18
+2011/12,relegation_playoff,35,B. Jerusalem,49,1,-10
+2011/12,relegation_playoff,35,Hapoel Acre,45,2,6
+2011/12,relegation_playoff,35,Ramat haSharon,44,3,-8
+2011/12,relegation_playoff,35,Hapoel Haifa,40,4,-3
+2011/12,relegation_playoff,35,H. Beer Sheva,39,5,-22
+2011/12,relegation_playoff,35,M. Petah Tikva,36,6,-19
+2011/12,relegation_playoff,35,H Rishon leZion,27,7,-28
+2011/12,relegation_playoff,35,H. Petah Tikva,23,8,-20
+2011/12,relegation_playoff,36,B. Jerusalem,50,1,-10
+2011/12,relegation_playoff,36,Hapoel Acre,45,2,5
+2011/12,relegation_playoff,36,Ramat haSharon,45,3,-8
+2011/12,relegation_playoff,36,Hapoel Haifa,41,4,-3
+2011/12,relegation_playoff,36,H. Beer Sheva,40,5,-22
+2011/12,relegation_playoff,36,M. Petah Tikva,39,6,-18
+2011/12,relegation_playoff,36,H Rishon leZion,27,7,-30
+2011/12,relegation_playoff,36,H. Petah Tikva,26,8,-18
+2011/12,relegation_playoff,37,B. Jerusalem,50,1,-12
+2011/12,relegation_playoff,37,Hapoel Acre,48,2,6
+2011/12,relegation_playoff,37,Ramat haSharon,46,3,-8
+2011/12,relegation_playoff,37,Hapoel Haifa,44,4,-2
+2011/12,relegation_playoff,37,H. Beer Sheva,43,5,-20
+2011/12,relegation_playoff,37,M. Petah Tikva,40,6,-18
+2011/12,relegation_playoff,37,H Rishon leZion,27,7,-31
+2011/12,relegation_playoff,37,H. Petah Tikva,26,8,-19
+2012/13,relegation_playoff,27,FC Ashdod,35,1,-1
+2012/13,relegation_playoff,27,B. Jerusalem,33,2,-1
+2012/13,relegation_playoff,27,Hapoel Haifa,31,3,3
+2012/13,relegation_playoff,27,H. Beer Sheva,30,4,-1
+2012/13,relegation_playoff,27,Bnei Sakhnin,29,5,1
+2012/13,relegation_playoff,27,H. Ramat Gan,28,6,1
+2012/13,relegation_playoff,27,Hapoel Acre,27,7,1
+2012/13,relegation_playoff,27,Maccabi Netanya,27,8,-3
+2012/13,relegation_playoff,28,FC Ashdod,36,1,-1
+2012/13,relegation_playoff,28,B. Jerusalem,34,2,-1
+2012/13,relegation_playoff,28,Hapoel Haifa,32,3,3
+2012/13,relegation_playoff,28,H. Beer Sheva,31,4,-1
+2012/13,relegation_playoff,28,Hapoel Acre,30,5,3
+2012/13,relegation_playoff,28,Bnei Sakhnin,30,6,1
+2012/13,relegation_playoff,28,H. Ramat Gan,29,7,1
+2012/13,relegation_playoff,28,Maccabi Netanya,27,8,-5
+2012/13,relegation_playoff,29,FC Ashdod,36,1,-3
+2012/13,relegation_playoff,29,Hapoel Haifa,35,2,4
+2012/13,relegation_playoff,29,B. Jerusalem,35,3,-1
+2012/13,relegation_playoff,29,H. Beer Sheva,34,4,1
+2012/13,relegation_playoff,29,Hapoel Acre,31,5,3
+2012/13,relegation_playoff,29,Bnei Sakhnin,31,6,1
+2012/13,relegation_playoff,29,H. Ramat Gan,29,7,0
+2012/13,relegation_playoff,29,Maccabi Netanya,28,8,-5
+2012/13,relegation_playoff,30,FC Ashdod,39,1,-2
+2012/13,relegation_playoff,30,B. Jerusalem,38,2,0
+2012/13,relegation_playoff,30,Hapoel Haifa,35,3,3
+2012/13,relegation_playoff,30,H. Beer Sheva,34,4,0
+2012/13,relegation_playoff,30,Hapoel Acre,32,5,3
+2012/13,relegation_playoff,30,Bnei Sakhnin,32,6,1
+2012/13,relegation_playoff,30,H. Ramat Gan,30,7,0
+2012/13,relegation_playoff,30,Maccabi Netanya,29,8,-5
+2012/13,relegation_playoff,31,FC Ashdod,39,1,-3
+2012/13,relegation_playoff,31,Hapoel Haifa,38,2,5
+2012/13,relegation_playoff,31,B. Jerusalem,38,3,-2
+2012/13,relegation_playoff,31,Bnei Sakhnin,35,4,2
+2012/13,relegation_playoff,31,H. Beer Sheva,35,5,0
+2012/13,relegation_playoff,31,Hapoel Acre,33,6,3
+2012/13,relegation_playoff,31,Maccabi Netanya,32,7,-4
+2012/13,relegation_playoff,31,H. Ramat Gan,30,8,-1
+2012/13,relegation_playoff,32,FC Ashdod,40,1,-3
+2012/13,relegation_playoff,32,Hapoel Haifa,38,2,3
+2012/13,relegation_playoff,32,H. Beer Sheva,38,3,2
+2012/13,relegation_playoff,32,B. Jerusalem,38,4,-4
+2012/13,relegation_playoff,32,Hapoel Acre,36,5,4
+2012/13,relegation_playoff,32,Bnei Sakhnin,36,6,2
+2012/13,relegation_playoff,32,Maccabi Netanya,35,7,-2
+2012/13,relegation_playoff,32,H. Ramat Gan,30,8,-2
+2012/13,relegation_playoff,33,FC Ashdod,43,1,-2
+2012/13,relegation_playoff,33,H. Beer Sheva,41,2,5
+2012/13,relegation_playoff,33,Hapoel Haifa,39,3,3
+2012/13,relegation_playoff,33,B. Jerusalem,39,4,-4
+2012/13,relegation_playoff,33,Hapoel Acre,37,5,4
+2012/13,relegation_playoff,33,Bnei Sakhnin,37,6,2
+2012/13,relegation_playoff,33,Maccabi Netanya,35,7,-5
+2012/13,relegation_playoff,33,H. Ramat Gan,30,8,-3
+2013/14,relegation_playoff,27,B. Jerusalem,33,1,-4
+2013/14,relegation_playoff,27,FC Ashdod,31,2,-8
+2013/14,relegation_playoff,27,Hapoel Haifa,31,3,-8
+2013/14,relegation_playoff,27,Hapoel Acre,28,4,-13
+2013/14,relegation_playoff,27,Hapoel Raanana,27,5,-13
+2013/14,relegation_playoff,27,M. Petah Tikva,23,6,-20
+2013/14,relegation_playoff,27,Bnei Yehuda,23,7,-30
+2013/14,relegation_playoff,27,Ramat haSharon,23,8,-34
+2013/14,relegation_playoff,28,FC Ashdod,34,1,-5
+2013/14,relegation_playoff,28,B. Jerusalem,33,2,-5
+2013/14,relegation_playoff,28,Hapoel Haifa,31,3,-11
+2013/14,relegation_playoff,28,Hapoel Acre,29,4,-13
+2013/14,relegation_playoff,28,Hapoel Raanana,28,5,-13
+2013/14,relegation_playoff,28,Bnei Yehuda,26,6,-29
+2013/14,relegation_playoff,28,M. Petah Tikva,24,7,-20
+2013/14,relegation_playoff,28,Ramat haSharon,24,8,-34
+2013/14,relegation_playoff,29,B. Jerusalem,36,1,-4
+2013/14,relegation_playoff,29,FC Ashdod,34,2,-6
+2013/14,relegation_playoff,29,Hapoel Raanana,31,3,-11
+2013/14,relegation_playoff,29,Hapoel Haifa,31,4,-12
+2013/14,relegation_playoff,29,Hapoel Acre,30,5,-13
+2013/14,relegation_playoff,29,Bnei Yehuda,27,6,-29
+2013/14,relegation_playoff,29,Ramat haSharon,27,7,-33
+2013/14,relegation_playoff,29,M. Petah Tikva,24,8,-22
+2013/14,relegation_playoff,30,FC Ashdod,37,1,-5
+2013/14,relegation_playoff,30,B. Jerusalem,36,2,-5
+2013/14,relegation_playoff,30,Hapoel Raanana,34,3,-9
+2013/14,relegation_playoff,30,Hapoel Haifa,34,4,-11
+2013/14,relegation_playoff,30,Hapoel Acre,30,5,-14
+2013/14,relegation_playoff,30,Ramat haSharon,30,6,-30
+2013/14,relegation_playoff,30,Bnei Yehuda,27,7,-31
+2013/14,relegation_playoff,30,M. Petah Tikva,24,8,-25
+2013/14,relegation_playoff,31,B. Jerusalem,39,1,-1
+2013/14,relegation_playoff,31,FC Ashdod,38,2,-5
+2013/14,relegation_playoff,31,Hapoel Raanana,35,3,-9
+2013/14,relegation_playoff,31,Hapoel Haifa,34,4,-12
+2013/14,relegation_playoff,31,Hapoel Acre,33,5,-13
+2013/14,relegation_playoff,31,Ramat haSharon,30,6,-34
+2013/14,relegation_playoff,31,M. Petah Tikva,27,7,-24
+2013/14,relegation_playoff,31,Bnei Yehuda,27,8,-32
+2013/14,relegation_playoff,32,B. Jerusalem,39,1,-3
+2013/14,relegation_playoff,32,Hapoel Raanana,38,2,-7
+2013/14,relegation_playoff,32,FC Ashdod,38,3,-10
+2013/14,relegation_playoff,32,Hapoel Acre,36,4,-11
+2013/14,relegation_playoff,32,Hapoel Haifa,34,5,-14
+2013/14,relegation_playoff,32,M. Petah Tikva,30,6,-19
+2013/14,relegation_playoff,32,Bnei Yehuda,30,7,-31
+2013/14,relegation_playoff,32,Ramat haSharon,30,8,-35
+2013/14,relegation_playoff,33,B. Jerusalem,42,1,-1
+2013/14,relegation_playoff,33,FC Ashdod,39,2,-10
+2013/14,relegation_playoff,33,Hapoel Raanana,38,3,-9
+2013/14,relegation_playoff,33,Hapoel Acre,36,4,-12
+2013/14,relegation_playoff,33,Hapoel Haifa,34,5,-15
+2013/14,relegation_playoff,33,M. Petah Tikva,33,6,-18
+2013/14,relegation_playoff,33,Ramat haSharon,33,7,-34
+2013/14,relegation_playoff,33,Bnei Yehuda,31,8,-31
+2014/15,relegation_playoff,27,Hapoel Raanana,37,1,5
+2014/15,relegation_playoff,27,Maccabi Netanya,36,2,-6
+2014/15,relegation_playoff,27,Bnei Sakhnin,33,3,-4
+2014/15,relegation_playoff,27,Hapoel Tel Aviv,32,4,-4
+2014/15,relegation_playoff,27,FC Ashdod,27,5,-16
+2014/15,relegation_playoff,27,Hapoel Haifa,26,6,-22
+2014/15,relegation_playoff,27,H. Petah Tikva,23,7,-17
+2014/15,relegation_playoff,27,Hapoel Acre,22,8,-21
+2014/15,relegation_playoff,28,Maccabi Netanya,39,1,-5
+2014/15,relegation_playoff,28,Hapoel Raanana,37,2,4
+2014/15,relegation_playoff,28,Bnei Sakhnin,36,3,-3
+2014/15,relegation_playoff,28,Hapoel Tel Aviv,35,4,-3
+2014/15,relegation_playoff,28,FC Ashdod,28,5,-16
+2014/15,relegation_playoff,28,Hapoel Haifa,26,6,-23
+2014/15,relegation_playoff,28,H. Petah Tikva,23,7,-18
+2014/15,relegation_playoff,28,Hapoel Acre,23,8,-21
+2014/15,relegation_playoff,29,Maccabi Netanya,40,1,-5
+2014/15,relegation_playoff,29,Hapoel Raanana,38,2,4
+2014/15,relegation_playoff,29,Bnei Sakhnin,37,3,-3
+2014/15,relegation_playoff,29,Hapoel Tel Aviv,35,4,-4
+2014/15,relegation_playoff,29,FC Ashdod,29,5,-16
+2014/15,relegation_playoff,29,H. Petah Tikva,26,6,-17
+2014/15,relegation_playoff,29,Hapoel Acre,26,7,-20
+2014/15,relegation_playoff,29,Hapoel Haifa,26,8,-24
+2014/15,relegation_playoff,30,Bnei Sakhnin,40,1,-2
+2014/15,relegation_playoff,30,Maccabi Netanya,40,2,-6
+2014/15,relegation_playoff,30,Hapoel Raanana,39,3,4
+2014/15,relegation_playoff,30,Hapoel Tel Aviv,36,4,-4
+2014/15,relegation_playoff,30,FC Ashdod,30,5,-16
+2014/15,relegation_playoff,30,Hapoel Acre,29,6,-18
+2014/15,relegation_playoff,30,Hapoel Haifa,27,7,-24
+2014/15,relegation_playoff,30,H. Petah Tikva,26,8,-19
+2014/15,relegation_playoff,31,Bnei Sakhnin,41,1,-2
+2014/15,relegation_playoff,31,Maccabi Netanya,40,2,-7
+2014/15,relegation_playoff,31,Hapoel Raanana,39,3,2
+2014/15,relegation_playoff,31,Hapoel Tel Aviv,39,4,-3
+2014/15,relegation_playoff,31,Hapoel Acre,32,5,-16
+2014/15,relegation_playoff,31,FC Ashdod,31,6,-16
+2014/15,relegation_playoff,31,Hapoel Haifa,30,7,-23
+2014/15,relegation_playoff,31,H. Petah Tikva,26,8,-20
+2014/15,relegation_playoff,32,Bnei Sakhnin,44,1,0
+2014/15,relegation_playoff,32,Maccabi Netanya,40,2,-8
+2014/15,relegation_playoff,32,Hapoel Raanana,39,3,1
+2014/15,relegation_playoff,32,Hapoel Tel Aviv,39,4,-5
+2014/15,relegation_playoff,32,Hapoel Acre,35,5,-15
+2014/15,relegation_playoff,32,Hapoel Haifa,33,6,-22
+2014/15,relegation_playoff,32,FC Ashdod,31,7,-18
+2014/15,relegation_playoff,32,H. Petah Tikva,29,8,-18
+2014/15,relegation_playoff,33,Bnei Sakhnin,44,1,-1
+2014/15,relegation_playoff,33,Hapoel Tel Aviv,42,2,-4
+2014/15,relegation_playoff,33,Maccabi Netanya,41,3,-8
+2014/15,relegation_playoff,33,Hapoel Raanana,39,4,-1
+2014/15,relegation_playoff,33,Hapoel Acre,38,5,-14
+2014/15,relegation_playoff,33,Hapoel Haifa,34,6,-22
+2014/15,relegation_playoff,33,H. Petah Tikva,32,7,-16
+2014/15,relegation_playoff,33,FC Ashdod,31,8,-19
+2015/16,relegation_playoff,27,Bnei Yehuda,36,1,-7
+2015/16,relegation_playoff,27,M. Petah Tikva,33,2,-6
+2015/16,relegation_playoff,27,Hapoel Acre,32,3,-15
+2015/16,relegation_playoff,27,Hapoel Tel Aviv,30,4,-11
+2015/16,relegation_playoff,27,H. Kfar Saba,29,5,-15
+2015/16,relegation_playoff,27,Kiryat Shmona,28,6,-7
+2015/16,relegation_playoff,27,Hapoel Haifa,25,7,-11
+2015/16,relegation_playoff,27,Maccabi Netanya,11,8,-30
+2015/16,relegation_playoff,28,M. Petah Tikva,36,1,-5
+2015/16,relegation_playoff,28,Bnei Yehuda,36,2,-8
+2015/16,relegation_playoff,28,Hapoel Tel Aviv,33,3,-10
+2015/16,relegation_playoff,28,Hapoel Acre,32,4,-16
+2015/16,relegation_playoff,28,Kiryat Shmona,31,5,-5
+2015/16,relegation_playoff,28,H. Kfar Saba,30,6,-15
+2015/16,relegation_playoff,28,Hapoel Haifa,26,7,-11
+2015/16,relegation_playoff,28,Maccabi Netanya,11,8,-32
+2015/16,relegation_playoff,29,M. Petah Tikva,39,1,-3
+2015/16,relegation_playoff,29,Bnei Yehuda,39,2,-7
+2015/16,relegation_playoff,29,Hapoel Tel Aviv,36,3,-9
+2015/16,relegation_playoff,29,Hapoel Acre,32,4,-17
+2015/16,relegation_playoff,29,Kiryat Shmona,31,5,-7
+2015/16,relegation_playoff,29,H. Kfar Saba,30,6,-16
+2015/16,relegation_playoff,29,Hapoel Haifa,29,7,-10
+2015/16,relegation_playoff,29,Maccabi Netanya,11,8,-33
+2015/16,relegation_playoff,30,Bnei Yehuda,42,1,-5
+2015/16,relegation_playoff,30,M. Petah Tikva,39,2,-4
+2015/16,relegation_playoff,30,Hapoel Tel Aviv,37,3,-9
+2015/16,relegation_playoff,30,H. Kfar Saba,33,4,-15
+2015/16,relegation_playoff,30,Kiryat Shmona,32,5,-7
+2015/16,relegation_playoff,30,Hapoel Haifa,32,6,-9
+2015/16,relegation_playoff,30,Hapoel Acre,32,7,-19
+2015/16,relegation_playoff,30,Maccabi Netanya,11,8,-34
+2015/16,relegation_playoff,31,Bnei Yehuda,45,1,-4
+2015/16,relegation_playoff,31,M. Petah Tikva,42,2,-2
+2015/16,relegation_playoff,31,Hapoel Tel Aviv,38,3,-9
+2015/16,relegation_playoff,31,H. Kfar Saba,36,4,-14
+2015/16,relegation_playoff,31,Hapoel Haifa,33,5,-9
+2015/16,relegation_playoff,31,Kiryat Shmona,32,6,-8
+2015/16,relegation_playoff,31,Hapoel Acre,32,7,-21
+2015/16,relegation_playoff,31,Maccabi Netanya,11,8,-35
+2015/16,relegation_playoff,32,M. Petah Tikva,45,1,-1
+2015/16,relegation_playoff,32,Bnei Yehuda,45,2,-6
+2015/16,relegation_playoff,32,Hapoel Tel Aviv,41,3,-7
+2015/16,relegation_playoff,32,H. Kfar Saba,37,4,-14
+2015/16,relegation_playoff,32,Kiryat Shmona,35,5,-7
+2015/16,relegation_playoff,32,Hapoel Haifa,33,6,-10
+2015/16,relegation_playoff,32,Hapoel Acre,33,7,-21
+2015/16,relegation_playoff,32,Maccabi Netanya,11,8,-36
+2015/16,relegation_playoff,33,M. Petah Tikva,46,1,-1
+2015/16,relegation_playoff,33,Bnei Yehuda,46,2,-6
+2015/16,relegation_playoff,33,Hapoel Tel Aviv,42,3,-7
+2015/16,relegation_playoff,33,H. Kfar Saba,38,4,-14
+2015/16,relegation_playoff,33,Kiryat Shmona,36,5,-7
+2015/16,relegation_playoff,33,Hapoel Haifa,34,6,-10
+2015/16,relegation_playoff,33,Hapoel Acre,34,7,-21
+2015/16,relegation_playoff,33,Maccabi Netanya,12,8,-36
+2016/17,relegation_playoff,27,Kiryat Shmona,35,1,1
+2016/17,relegation_playoff,27,FC Ashdod,29,2,-11
+2016/17,relegation_playoff,27,Hapoel Haifa,28,3,-10
+2016/17,relegation_playoff,27,Bnei Yehuda,28,4,-10
+2016/17,relegation_playoff,27,Hapoel Raanana,28,5,-17
+2016/17,relegation_playoff,27,H. Kfar Saba,22,6,-17
+2016/17,relegation_playoff,27,H. Ashkelon,21,7,-21
+2016/17,relegation_playoff,27,Hapoel Tel Aviv,20,8,-7
+2016/17,relegation_playoff,28,Kiryat Shmona,35,1,-1
+2016/17,relegation_playoff,28,Hapoel Haifa,31,2,-8
+2016/17,relegation_playoff,28,Hapoel Raanana,31,3,-15
+2016/17,relegation_playoff,28,FC Ashdod,30,4,-11
+2016/17,relegation_playoff,28,Bnei Yehuda,28,5,-12
+2016/17,relegation_playoff,28,Hapoel Tel Aviv,23,6,-5
+2016/17,relegation_playoff,28,H. Kfar Saba,22,7,-19
+2016/17,relegation_playoff,28,H. Ashkelon,22,8,-21
+2016/17,relegation_playoff,29,Kiryat Shmona,36,1,-1
+2016/17,relegation_playoff,29,Hapoel Haifa,32,2,-8
+2016/17,relegation_playoff,29,Bnei Yehuda,31,3,-11
+2016/17,relegation_playoff,29,FC Ashdod,31,4,-11
+2016/17,relegation_playoff,29,Hapoel Raanana,31,5,-17
+2016/17,relegation_playoff,29,H. Ashkelon,25,6,-19
+2016/17,relegation_playoff,29,Hapoel Tel Aviv,24,7,-5
+2016/17,relegation_playoff,29,H. Kfar Saba,22,8,-20
+2016/17,relegation_playoff,30,Kiryat Shmona,36,1,-2
+2016/17,relegation_playoff,30,Hapoel Raanana,34,2,-16
+2016/17,relegation_playoff,30,Hapoel Haifa,33,3,-8
+2016/17,relegation_playoff,30,FC Ashdod,32,4,-11
+2016/17,relegation_playoff,30,Bnei Yehuda,31,5,-12
+2016/17,relegation_playoff,30,H. Ashkelon,28,6,-18
+2016/17,relegation_playoff,30,Hapoel Tel Aviv,27,7,-3
+2016/17,relegation_playoff,30,H. Kfar Saba,22,8,-22
+2016/17,relegation_playoff,31,Kiryat Shmona,39,1,0
+2016/17,relegation_playoff,31,Hapoel Haifa,36,2,-6
+2016/17,relegation_playoff,31,FC Ashdod,35,3,-9
+2016/17,relegation_playoff,31,Hapoel Raanana,34,4,-18
+2016/17,relegation_playoff,31,Bnei Yehuda,31,5,-14
+2016/17,relegation_playoff,31,H. Ashkelon,28,6,-19
+2016/17,relegation_playoff,31,Hapoel Tel Aviv,27,7,-5
+2016/17,relegation_playoff,31,H. Kfar Saba,25,8,-21
+2016/17,relegation_playoff,32,Kiryat Shmona,39,1,-3
+2016/17,relegation_playoff,32,Hapoel Haifa,37,2,-6
+2016/17,relegation_playoff,32,FC Ashdod,36,3,-9
+2016/17,relegation_playoff,32,Hapoel Raanana,35,4,-18
+2016/17,relegation_playoff,32,Bnei Yehuda,32,5,-14
+2016/17,relegation_playoff,32,H. Ashkelon,29,6,-19
+2016/17,relegation_playoff,32,Hapoel Tel Aviv,28,7,-5
+2016/17,relegation_playoff,32,H. Kfar Saba,28,8,-18
+2016/17,relegation_playoff,33,Kiryat Shmona,39,1,-4
+2016/17,relegation_playoff,33,Hapoel Haifa,37,2,-7
+2016/17,relegation_playoff,33,FC Ashdod,36,3,-10
+2016/17,relegation_playoff,33,Hapoel Raanana,36,4,-18
+2016/17,relegation_playoff,33,Bnei Yehuda,35,5,-13
+2016/17,relegation_playoff,33,H. Ashkelon,32,6,-18
+2016/17,relegation_playoff,33,H. Kfar Saba,31,7,-17
+2016/17,relegation_playoff,33,Hapoel Tel Aviv,29,8,-5
+2017/18,relegation_playoff,27,Kiryat Shmona,33,1,-2
+2017/18,relegation_playoff,27,M. Petah Tikva,33,2,-7
+2017/18,relegation_playoff,27,Bnei Sakhnin,33,3,-10
+2017/18,relegation_playoff,27,Maccabi Haifa,28,4,-3
+2017/18,relegation_playoff,27,Hapoel Raanana,27,5,-15
+2017/18,relegation_playoff,27,FC Ashdod,21,6,-18
+2017/18,relegation_playoff,27,H. Ashkelon,18,7,-20
+2017/18,relegation_playoff,27,Hapoel Acre,12,8,-39
+2017/18,relegation_playoff,28,M. Petah Tikva,36,1,-5
+2017/18,relegation_playoff,28,Kiryat Shmona,33,2,-4
+2017/18,relegation_playoff,28,Bnei Sakhnin,33,3,-12
+2017/18,relegation_playoff,28,Maccabi Haifa,28,4,-4
+2017/18,relegation_playoff,28,Hapoel Raanana,28,5,-15
+2017/18,relegation_playoff,28,FC Ashdod,24,6,-17
+2017/18,relegation_playoff,28,H. Ashkelon,21,7,-18
+2017/18,relegation_playoff,28,Hapoel Acre,13,8,-39
+2017/18,relegation_playoff,29,M. Petah Tikva,37,1,-5
+2017/18,relegation_playoff,29,Bnei Sakhnin,34,2,-12
+2017/18,relegation_playoff,29,Kiryat Shmona,33,3,-5
+2017/18,relegation_playoff,29,Maccabi Haifa,31,4,-3
+2017/18,relegation_playoff,29,Hapoel Raanana,31,5,-14
+2017/18,relegation_playoff,29,FC Ashdod,25,6,-17
+2017/18,relegation_playoff,29,H. Ashkelon,21,7,-19
+2017/18,relegation_playoff,29,Hapoel Acre,14,8,-39
+2017/18,relegation_playoff,30,M. Petah Tikva,37,1,-6
+2017/18,relegation_playoff,30,Kiryat Shmona,36,2,-3
+2017/18,relegation_playoff,30,Maccabi Haifa,34,3,-2
+2017/18,relegation_playoff,30,Hapoel Raanana,34,4,-13
+2017/18,relegation_playoff,30,Bnei Sakhnin,34,5,-14
+2017/18,relegation_playoff,30,FC Ashdod,25,6,-18
+2017/18,relegation_playoff,30,H. Ashkelon,21,7,-21
+2017/18,relegation_playoff,30,Hapoel Acre,17,8,-37
+2017/18,relegation_playoff,31,Kiryat Shmona,39,1,-2
+2017/18,relegation_playoff,31,M. Petah Tikva,37,2,-7
+2017/18,relegation_playoff,31,Hapoel Raanana,37,3,-11
+2017/18,relegation_playoff,31,Maccabi Haifa,34,4,-3
+2017/18,relegation_playoff,31,Bnei Sakhnin,34,5,-16
+2017/18,relegation_playoff,31,FC Ashdod,28,6,-17
+2017/18,relegation_playoff,31,H. Ashkelon,21,7,-22
+2017/18,relegation_playoff,31,Hapoel Acre,20,8,-36
+2017/18,relegation_playoff,32,Kiryat Shmona,42,1,2
+2017/18,relegation_playoff,32,M. Petah Tikva,40,2,-6
+2017/18,relegation_playoff,32,Hapoel Raanana,40,3,-7
+2017/18,relegation_playoff,32,Maccabi Haifa,35,4,-3
+2017/18,relegation_playoff,32,Bnei Sakhnin,35,5,-16
+2017/18,relegation_playoff,32,FC Ashdod,28,6,-18
+2017/18,relegation_playoff,32,H. Ashkelon,21,7,-26
+2017/18,relegation_playoff,32,Hapoel Acre,20,8,-40
+2017/18,relegation_playoff,33,Kiryat Shmona,45,1,3
+2017/18,relegation_playoff,33,M. Petah Tikva,43,2,-4
+2017/18,relegation_playoff,33,Hapoel Raanana,40,3,-9
+2017/18,relegation_playoff,33,Maccabi Haifa,38,4,-1
+2017/18,relegation_playoff,33,Bnei Sakhnin,38,5,-15
+2017/18,relegation_playoff,33,FC Ashdod,28,6,-19
+2017/18,relegation_playoff,33,H. Ashkelon,21,7,-28
+2017/18,relegation_playoff,33,Hapoel Acre,20,8,-41
+2018/19,relegation_playoff,27,Hapoel Tel Aviv,34,1,7
+2018/19,relegation_playoff,27,Hapoel Haifa,33,2,5
+2018/19,relegation_playoff,27,Hapoel Raanana,31,3,-10
+2018/19,relegation_playoff,27,M. Petah Tikva,31,4,-13
+2018/19,relegation_playoff,27,Kiryat Shmona,30,5,-4
+2018/19,relegation_playoff,27,B. Jerusalem,30,6,-5
+2018/19,relegation_playoff,27,Bnei Sakhnin,22,7,-18
+2018/19,relegation_playoff,27,FC Ashdod,22,8,-26
+2018/19,relegation_playoff,28,Hapoel Tel Aviv,35,1,7
+2018/19,relegation_playoff,28,Hapoel Haifa,34,2,5
+2018/19,relegation_playoff,28,Hapoel Raanana,32,3,-10
+2018/19,relegation_playoff,28,M. Petah Tikva,32,4,-13
+2018/19,relegation_playoff,28,B. Jerusalem,31,5,-5
+2018/19,relegation_playoff,28,Kiryat Shmona,30,6,-5
+2018/19,relegation_playoff,28,FC Ashdod,25,7,-25
+2018/19,relegation_playoff,28,Bnei Sakhnin,23,8,-18
+2018/19,relegation_playoff,29,Hapoel Tel Aviv,35,1,6
+2018/19,relegation_playoff,29,Hapoel Haifa,34,2,2
+2018/19,relegation_playoff,29,B. Jerusalem,34,3,-4
+2018/19,relegation_playoff,29,Kiryat Shmona,33,4,-2
+2018/19,relegation_playoff,29,M. Petah Tikva,33,5,-13
+2018/19,relegation_playoff,29,Hapoel Raanana,32,6,-11
+2018/19,relegation_playoff,29,FC Ashdod,28,7,-24
+2018/19,relegation_playoff,29,Bnei Sakhnin,24,8,-18
+2018/19,relegation_playoff,30,B. Jerusalem,37,1,-1
+2018/19,relegation_playoff,30,Hapoel Tel Aviv,36,2,6
+2018/19,relegation_playoff,30,Hapoel Raanana,35,3,-9
+2018/19,relegation_playoff,30,Hapoel Haifa,34,4,0
+2018/19,relegation_playoff,30,Kiryat Shmona,34,5,-2
+2018/19,relegation_playoff,30,M. Petah Tikva,33,6,-16
+2018/19,relegation_playoff,30,FC Ashdod,28,7,-25
+2018/19,relegation_playoff,30,Bnei Sakhnin,27,8,-17
+2018/19,relegation_playoff,31,B. Jerusalem,40,1,0
+2018/19,relegation_playoff,31,Hapoel Raanana,38,2,-8
+2018/19,relegation_playoff,31,Hapoel Haifa,37,3,1
+2018/19,relegation_playoff,31,Hapoel Tel Aviv,36,4,5
+2018/19,relegation_playoff,31,Kiryat Shmona,34,5,-3
+2018/19,relegation_playoff,31,M. Petah Tikva,33,6,-19
+2018/19,relegation_playoff,31,FC Ashdod,31,7,-22
+2018/19,relegation_playoff,31,Bnei Sakhnin,27,8,-18
+2018/19,relegation_playoff,32,B. Jerusalem,40,1,-1
+2018/19,relegation_playoff,32,Hapoel Tel Aviv,39,2,8
+2018/19,relegation_playoff,32,Hapoel Raanana,39,3,-8
+2018/19,relegation_playoff,32,Hapoel Haifa,37,4,-2
+2018/19,relegation_playoff,32,M. Petah Tikva,36,5,-16
+2018/19,relegation_playoff,32,Kiryat Shmona,35,6,-3
+2018/19,relegation_playoff,32,FC Ashdod,34,7,-21
+2018/19,relegation_playoff,32,Bnei Sakhnin,27,8,-21
+2018/19,relegation_playoff,33,B. Jerusalem,43,1,0
+2018/19,relegation_playoff,33,Hapoel Tel Aviv,42,2,10
+2018/19,relegation_playoff,33,Hapoel Raanana,39,3,-9
+2018/19,relegation_playoff,33,Kiryat Shmona,38,4,-1
+2018/19,relegation_playoff,33,Hapoel Haifa,37,5,-3
+2018/19,relegation_playoff,33,FC Ashdod,37,6,-20
+2018/19,relegation_playoff,33,M. Petah Tikva,36,7,-18
+2018/19,relegation_playoff,33,Bnei Sakhnin,27,8,-23
+2019/20,relegation_playoff,27,Bnei Yehuda,35,1,-3
+2019/20,relegation_playoff,27,Hapoel Hadera,35,2,-4
+2019/20,relegation_playoff,27,Maccabi Netanya,34,3,-7
+2019/20,relegation_playoff,27,FC Ashdod,31,4,-2
+2019/20,relegation_playoff,27,H. Kfar Saba,27,5,-13
+2019/20,relegation_playoff,27,Kiryat Shmona,22,6,-13
+2019/20,relegation_playoff,27,Ness Ziona,22,7,-23
+2019/20,relegation_playoff,27,Hapoel Raanana,16,8,-25
+2019/20,relegation_playoff,28,Bnei Yehuda,38,1,2
+2019/20,relegation_playoff,28,Hapoel Hadera,35,2,-9
+2019/20,relegation_playoff,28,Maccabi Netanya,34,3,-8
+2019/20,relegation_playoff,28,FC Ashdod,31,4,-5
+2019/20,relegation_playoff,28,H. Kfar Saba,30,5,-11
+2019/20,relegation_playoff,28,Kiryat Shmona,25,6,-10
+2019/20,relegation_playoff,28,Ness Ziona,25,7,-22
+2019/20,relegation_playoff,28,Hapoel Raanana,16,8,-27
+2019/20,relegation_playoff,29,Bnei Yehuda,41,1,4
+2019/20,relegation_playoff,29,Hapoel Hadera,36,2,-9
+2019/20,relegation_playoff,29,FC Ashdod,34,3,-3
+2019/20,relegation_playoff,29,Maccabi Netanya,34,4,-10
+2019/20,relegation_playoff,29,H. Kfar Saba,31,5,-11
+2019/20,relegation_playoff,29,Kiryat Shmona,28,6,-9
+2019/20,relegation_playoff,29,Ness Ziona,25,7,-24
+2019/20,relegation_playoff,29,Hapoel Raanana,16,8,-28
+2019/20,relegation_playoff,30,Bnei Yehuda,42,1,4
+2019/20,relegation_playoff,30,Maccabi Netanya,37,2,-9
+2019/20,relegation_playoff,30,Hapoel Hadera,36,3,-10
+2019/20,relegation_playoff,30,FC Ashdod,35,4,-3
+2019/20,relegation_playoff,30,H. Kfar Saba,32,5,-11
+2019/20,relegation_playoff,30,Kiryat Shmona,29,6,-9
+2019/20,relegation_playoff,30,Ness Ziona,28,7,-23
+2019/20,relegation_playoff,30,Hapoel Raanana,16,8,-29
+2019/20,relegation_playoff,31,Bnei Yehuda,43,1,4
+2019/20,relegation_playoff,31,Maccabi Netanya,40,2,-7
+2019/20,relegation_playoff,31,Hapoel Hadera,39,3,-7
+2019/20,relegation_playoff,31,FC Ashdod,35,4,-4
+2019/20,relegation_playoff,31,H. Kfar Saba,35,5,-10
+2019/20,relegation_playoff,31,Kiryat Shmona,29,6,-12
+2019/20,relegation_playoff,31,Ness Ziona,29,7,-23
+2019/20,relegation_playoff,31,Hapoel Raanana,16,8,-31
+2019/20,relegation_playoff,32,Bnei Yehuda,46,1,6
+2019/20,relegation_playoff,32,Hapoel Hadera,40,2,-7
+2019/20,relegation_playoff,32,Maccabi Netanya,40,3,-10
+2019/20,relegation_playoff,32,FC Ashdod,38,4,-1
+2019/20,relegation_playoff,32,H. Kfar Saba,35,5,-11
+2019/20,relegation_playoff,32,Ness Ziona,32,6,-22
+2019/20,relegation_playoff,32,Kiryat Shmona,29,7,-14
+2019/20,relegation_playoff,32,Hapoel Raanana,17,8,-31
+2019/20,relegation_playoff,33,Bnei Yehuda,49,1,10
+2019/20,relegation_playoff,33,FC Ashdod,41,2,1
+2019/20,relegation_playoff,33,Hapoel Hadera,40,3,-9
+2019/20,relegation_playoff,33,Maccabi Netanya,40,4,-11
+2019/20,relegation_playoff,33,H. Kfar Saba,38,5,-10
+2019/20,relegation_playoff,33,Kiryat Shmona,32,6,-13
+2019/20,relegation_playoff,33,Ness Ziona,32,7,-23
+2019/20,relegation_playoff,33,Hapoel Raanana,17,8,-35
+2020/21,relegation_playoff,27,Maccabi Netanya,35,1,5
+2020/21,relegation_playoff,27,B. Jerusalem,35,2,1
+2020/21,relegation_playoff,27,Hapoel Hadera,32,3,-3
+2020/21,relegation_playoff,27,Hapoel Haifa,30,4,-9
+2020/21,relegation_playoff,27,Hapoel Tel Aviv,30,5,-10
+2020/21,relegation_playoff,27,Bnei Sakhnin,30,6,-21
+2020/21,relegation_playoff,27,Bnei Yehuda,25,7,-19
+2020/21,relegation_playoff,27,H. Kfar Saba,23,8,-16
+2020/21,relegation_playoff,28,Maccabi Netanya,38,1,6
+2020/21,relegation_playoff,28,B. Jerusalem,35,2,0
+2020/21,relegation_playoff,28,Hapoel Hadera,35,3,-2
+2020/21,relegation_playoff,28,Hapoel Haifa,33,4,-7
+2020/21,relegation_playoff,28,Bnei Sakhnin,31,5,-21
+2020/21,relegation_playoff,28,Hapoel Tel Aviv,30,6,-12
+2020/21,relegation_playoff,28,Bnei Yehuda,26,7,-19
+2020/21,relegation_playoff,28,H. Kfar Saba,23,8,-17
+2020/21,relegation_playoff,29,Maccabi Netanya,38,1,5
+2020/21,relegation_playoff,29,Hapoel Hadera,38,2,1
+2020/21,relegation_playoff,29,B. Jerusalem,36,3,0
+2020/21,relegation_playoff,29,Bnei Sakhnin,34,4,-18
+2020/21,relegation_playoff,29,Hapoel Haifa,33,5,-10
+2020/21,relegation_playoff,29,Hapoel Tel Aviv,33,6,-11
+2020/21,relegation_playoff,29,Bnei Yehuda,27,7,-19
+2020/21,relegation_playoff,29,H. Kfar Saba,23,8,-20
+2020/21,relegation_playoff,30,Maccabi Netanya,41,1,6
+2020/21,relegation_playoff,30,Hapoel Hadera,41,2,2
+2020/21,relegation_playoff,30,B. Jerusalem,37,3,0
+2020/21,relegation_playoff,30,Hapoel Haifa,36,4,-9
+2020/21,relegation_playoff,30,Hapoel Tel Aviv,34,5,-11
+2020/21,relegation_playoff,30,Bnei Sakhnin,34,6,-19
+2020/21,relegation_playoff,30,Bnei Yehuda,27,7,-20
+2020/21,relegation_playoff,30,H. Kfar Saba,23,8,-21
+2020/21,relegation_playoff,31,Maccabi Netanya,44,1,7
+2020/21,relegation_playoff,31,Hapoel Hadera,44,2,3
+2020/21,relegation_playoff,31,Hapoel Haifa,39,3,-7
+2020/21,relegation_playoff,31,B. Jerusalem,37,4,-2
+2020/21,relegation_playoff,31,Hapoel Tel Aviv,35,5,-11
+2020/21,relegation_playoff,31,Bnei Sakhnin,34,6,-20
+2020/21,relegation_playoff,31,Bnei Yehuda,27,7,-21
+2020/21,relegation_playoff,31,H. Kfar Saba,24,8,-21
+2020/21,relegation_playoff,32,Maccabi Netanya,45,1,7
+2020/21,relegation_playoff,32,Hapoel Hadera,45,2,3
+2020/21,relegation_playoff,32,Hapoel Haifa,42,3,-6
+2020/21,relegation_playoff,32,B. Jerusalem,40,4,0
+2020/21,relegation_playoff,32,Hapoel Tel Aviv,35,5,-12
+2020/21,relegation_playoff,32,Bnei Sakhnin,34,6,-22
+2020/21,relegation_playoff,32,Bnei Yehuda,30,7,-20
+2020/21,relegation_playoff,32,H. Kfar Saba,24,8,-22
+2020/21,relegation_playoff,33,Maccabi Netanya,48,1,9
+2020/21,relegation_playoff,33,Hapoel Hadera,48,2,6
+2020/21,relegation_playoff,33,Hapoel Haifa,42,3,-8
+2020/21,relegation_playoff,33,B. Jerusalem,40,4,-3
+2020/21,relegation_playoff,33,Hapoel Tel Aviv,38,5,-11
+2020/21,relegation_playoff,33,Bnei Sakhnin,34,6,-23
+2020/21,relegation_playoff,33,Bnei Yehuda,33,7,-19
+2020/21,relegation_playoff,33,H. Kfar Saba,24,8,-23
+2021/22,relegation_playoff,27,Hapoel Hadera,39,1,-4
+2021/22,relegation_playoff,27,Kiryat Shmona,34,2,-3
+2021/22,relegation_playoff,27,Hapoel Haifa,31,3,-4
+2021/22,relegation_playoff,27,FC Ashdod,30,4,-14
+2021/22,relegation_playoff,27,B. Jerusalem,23,5,-13
+2021/22,relegation_playoff,27,H. Jerusalem,23,6,-18
+2021/22,relegation_playoff,27,M. Petah Tikva,22,7,-10
+2021/22,relegation_playoff,27,H. Nof HaGalil,20,8,-27
+2021/22,relegation_playoff,28,Hapoel Hadera,39,1,-7
+2021/22,relegation_playoff,28,Kiryat Shmona,37,2,0
+2021/22,relegation_playoff,28,Hapoel Haifa,32,3,-4
+2021/22,relegation_playoff,28,FC Ashdod,30,4,-15
+2021/22,relegation_playoff,28,B. Jerusalem,26,5,-12
+2021/22,relegation_playoff,28,H. Jerusalem,24,6,-18
+2021/22,relegation_playoff,28,M. Petah Tikva,23,7,-10
+2021/22,relegation_playoff,28,H. Nof HaGalil,21,8,-27
+2021/22,relegation_playoff,29,Kiryat Shmona,40,1,1
+2021/22,relegation_playoff,29,Hapoel Hadera,39,2,-8
+2021/22,relegation_playoff,29,Hapoel Haifa,35,3,-3
+2021/22,relegation_playoff,29,FC Ashdod,33,4,-14
+2021/22,relegation_playoff,29,B. Jerusalem,29,5,-10
+2021/22,relegation_playoff,29,H. Jerusalem,24,6,-19
+2021/22,relegation_playoff,29,M. Petah Tikva,23,7,-11
+2021/22,relegation_playoff,29,H. Nof HaGalil,21,8,-29
+2021/22,relegation_playoff,30,Kiryat Shmona,43,1,5
+2021/22,relegation_playoff,30,Hapoel Hadera,39,2,-9
+2021/22,relegation_playoff,30,FC Ashdod,36,3,-13
+2021/22,relegation_playoff,30,Hapoel Haifa,35,4,-7
+2021/22,relegation_playoff,30,B. Jerusalem,32,5,-9
+2021/22,relegation_playoff,30,H. Jerusalem,24,6,-20
+2021/22,relegation_playoff,30,H. Nof HaGalil,24,7,-25
+2021/22,relegation_playoff,30,M. Petah Tikva,23,8,-15
+2021/22,relegation_playoff,31,Kiryat Shmona,46,1,7
+2021/22,relegation_playoff,31,Hapoel Hadera,42,2,-7
+2021/22,relegation_playoff,31,FC Ashdod,36,3,-15
+2021/22,relegation_playoff,31,Hapoel Haifa,35,4,-9
+2021/22,relegation_playoff,31,B. Jerusalem,33,5,-9
+2021/22,relegation_playoff,31,H. Jerusalem,27,6,-18
+2021/22,relegation_playoff,31,M. Petah Tikva,24,7,-15
+2021/22,relegation_playoff,31,H. Nof HaGalil,24,8,-27
+2021/22,relegation_playoff,32,Kiryat Shmona,49,1,9
+2021/22,relegation_playoff,32,Hapoel Hadera,42,2,-8
+2021/22,relegation_playoff,32,FC Ashdod,39,3,-14
+2021/22,relegation_playoff,32,B. Jerusalem,36,4,-8
+2021/22,relegation_playoff,32,Hapoel Haifa,35,5,-10
+2021/22,relegation_playoff,32,H. Jerusalem,30,6,-17
+2021/22,relegation_playoff,32,M. Petah Tikva,24,7,-16
+2021/22,relegation_playoff,32,H. Nof HaGalil,24,8,-29
+2021/22,relegation_playoff,33,Kiryat Shmona,50,1,9
+2021/22,relegation_playoff,33,Hapoel Hadera,42,2,-9
+2021/22,relegation_playoff,33,FC Ashdod,39,3,-15
+2021/22,relegation_playoff,33,B. Jerusalem,37,4,-8
+2021/22,relegation_playoff,33,Hapoel Haifa,35,5,-11
+2021/22,relegation_playoff,33,H. Jerusalem,33,6,-16
+2021/22,relegation_playoff,33,M. Petah Tikva,27,7,-15
+2021/22,relegation_playoff,33,H. Nof HaGalil,27,8,-28
+2022/23,relegation_playoff,27,Hapoel Haifa,31,1,-3
+2022/23,relegation_playoff,27,Bnei Sakhnin,31,2,-4
+2022/23,relegation_playoff,27,B. Jerusalem,31,3,-8
+2022/23,relegation_playoff,27,Hapoel Hadera,29,4,-16
+2022/23,relegation_playoff,27,Hapoel Tel Aviv,27,5,-15
+2022/23,relegation_playoff,27,M. Bnei Reineh,25,6,-19
+2022/23,relegation_playoff,27,Kiryat Shmona,22,7,-12
+2022/23,relegation_playoff,27,Ness Ziona,20,8,-22
+2022/23,relegation_playoff,28,B. Jerusalem,34,1,-6
+2022/23,relegation_playoff,28,Bnei Sakhnin,32,2,-4
+2022/23,relegation_playoff,28,Hapoel Haifa,31,3,-5
+2022/23,relegation_playoff,28,Hapoel Tel Aviv,30,4,-14
+2022/23,relegation_playoff,28,Hapoel Hadera,30,5,-16
+2022/23,relegation_playoff,28,M. Bnei Reineh,26,6,-19
+2022/23,relegation_playoff,28,Kiryat Shmona,23,7,-12
+2022/23,relegation_playoff,28,Ness Ziona,20,8,-23
+2022/23,relegation_playoff,29,Bnei Sakhnin,35,1,-3
+2022/23,relegation_playoff,29,Hapoel Haifa,34,2,-4
+2022/23,relegation_playoff,29,B. Jerusalem,34,3,-7
+2022/23,relegation_playoff,29,Hapoel Hadera,31,4,-16
+2022/23,relegation_playoff,29,Hapoel Tel Aviv,30,5,-15
+2022/23,relegation_playoff,29,M. Bnei Reineh,29,6,-18
+2022/23,relegation_playoff,29,Kiryat Shmona,24,7,-12
+2022/23,relegation_playoff,29,Ness Ziona,20,8,-24
+2022/23,relegation_playoff,30,B. Jerusalem,37,1,-6
+2022/23,relegation_playoff,30,Bnei Sakhnin,36,2,-3
+2022/23,relegation_playoff,30,Hapoel Haifa,35,3,-4
+2022/23,relegation_playoff,30,M. Bnei Reineh,32,4,-17
+2022/23,relegation_playoff,30,Hapoel Hadera,31,5,-17
+2022/23,relegation_playoff,30,Hapoel Tel Aviv,30,6,-16
+2022/23,relegation_playoff,30,Kiryat Shmona,25,7,-12
+2022/23,relegation_playoff,30,Ness Ziona,21,8,-24
+2022/23,relegation_playoff,31,B. Jerusalem,40,1,-4
+2022/23,relegation_playoff,31,Hapoel Haifa,38,2,-3
+2022/23,relegation_playoff,31,Bnei Sakhnin,36,3,-4
+2022/23,relegation_playoff,31,Hapoel Tel Aviv,33,4,-15
+2022/23,relegation_playoff,31,M. Bnei Reineh,32,5,-19
+2022/23,relegation_playoff,31,Hapoel Hadera,31,6,-18
+2022/23,relegation_playoff,31,Kiryat Shmona,28,7,-10
+2022/23,relegation_playoff,31,Ness Ziona,21,8,-26
+2022/23,relegation_playoff,32,B. Jerusalem,40,1,-5
+2022/23,relegation_playoff,32,Hapoel Haifa,38,2,-4
+2022/23,relegation_playoff,32,Bnei Sakhnin,36,3,-5
+2022/23,relegation_playoff,32,M. Bnei Reineh,35,4,-18
+2022/23,relegation_playoff,32,Hapoel Tel Aviv,34,5,-15
+2022/23,relegation_playoff,32,Hapoel Hadera,34,6,-17
+2022/23,relegation_playoff,32,Kiryat Shmona,29,7,-10
+2022/23,relegation_playoff,32,Ness Ziona,24,8,-25
+2022/23,relegation_playoff,33,Hapoel Haifa,41,1,0
+2022/23,relegation_playoff,33,B. Jerusalem,40,2,-6
+2022/23,relegation_playoff,33,Bnei Sakhnin,37,3,-5
+2022/23,relegation_playoff,33,Hapoel Tel Aviv,37,4,-14
+2022/23,relegation_playoff,33,M. Bnei Reineh,35,5,-22
+2022/23,relegation_playoff,33,Hapoel Hadera,34,6,-18
+2022/23,relegation_playoff,33,Kiryat Shmona,32,7,-9
+2022/23,relegation_playoff,33,Ness Ziona,25,8,-25
+2023/24,relegation_playoff,27,H. Jerusalem,34,1,-3
+2023/24,relegation_playoff,27,M. Petah Tikva,30,2,-18
+2023/24,relegation_playoff,27,Hapoel Hadera,29,3,-17
+2023/24,relegation_playoff,27,B. Jerusalem,28,4,3
+2023/24,relegation_playoff,27,Maccabi Netanya,28,5,-15
+2023/24,relegation_playoff,27,Hapoel Tel Aviv,26,6,-10
+2023/24,relegation_playoff,27,FC Ashdod,25,7,-21
+2023/24,relegation_playoff,27,H. Petah Tikva,20,8,-19
+2023/24,relegation_playoff,28,H. Jerusalem,37,1,-1
+2023/24,relegation_playoff,28,Hapoel Hadera,32,2,-16
+2023/24,relegation_playoff,28,M. Petah Tikva,30,3,-20
+2023/24,relegation_playoff,28,Maccabi Netanya,29,4,-15
+2023/24,relegation_playoff,28,B. Jerusalem,28,5,2
+2023/24,relegation_playoff,28,Hapoel Tel Aviv,27,6,-10
+2023/24,relegation_playoff,28,FC Ashdod,26,7,-21
+2023/24,relegation_playoff,28,H. Petah Tikva,21,8,-19
+2023/24,relegation_playoff,29,H. Jerusalem,37,1,-2
+2023/24,relegation_playoff,29,Hapoel Hadera,33,2,-16
+2023/24,relegation_playoff,29,M. Petah Tikva,33,3,-18
+2023/24,relegation_playoff,29,Maccabi Netanya,32,4,-14
+2023/24,relegation_playoff,29,B. Jerusalem,31,5,4
+2023/24,relegation_playoff,29,Hapoel Tel Aviv,27,6,-12
+2023/24,relegation_playoff,29,FC Ashdod,27,7,-21
+2023/24,relegation_playoff,29,H. Petah Tikva,21,8,-21
+2023/24,relegation_playoff,30,H. Jerusalem,40,1,-1
+2023/24,relegation_playoff,30,Maccabi Netanya,35,2,-12
+2023/24,relegation_playoff,30,B. Jerusalem,34,3,8
+2023/24,relegation_playoff,30,Hapoel Hadera,33,4,-17
+2023/24,relegation_playoff,30,M. Petah Tikva,33,5,-20
+2023/24,relegation_playoff,30,FC Ashdod,30,6,-20
+2023/24,relegation_playoff,30,Hapoel Tel Aviv,27,7,-16
+2023/24,relegation_playoff,30,H. Petah Tikva,21,8,-22
+2023/24,relegation_playoff,31,H. Jerusalem,40,1,-2
+2023/24,relegation_playoff,31,M. Petah Tikva,36,2,-16
+2023/24,relegation_playoff,31,B. Jerusalem,35,3,8
+2023/24,relegation_playoff,31,Maccabi Netanya,35,4,-13
+2023/24,relegation_playoff,31,Hapoel Hadera,33,5,-21
+2023/24,relegation_playoff,31,FC Ashdod,31,6,-20
+2023/24,relegation_playoff,31,Hapoel Tel Aviv,30,7,-15
+2023/24,relegation_playoff,31,H. Petah Tikva,24,8,-21
+2023/24,relegation_playoff,32,H. Jerusalem,43,1,1
+2023/24,relegation_playoff,32,M. Petah Tikva,39,2,-13
+2023/24,relegation_playoff,32,Hapoel Hadera,36,3,-20
+2023/24,relegation_playoff,32,B. Jerusalem,35,4,5
+2023/24,relegation_playoff,32,Maccabi Netanya,35,5,-14
+2023/24,relegation_playoff,32,FC Ashdod,34,6,-18
+2023/24,relegation_playoff,32,Hapoel Tel Aviv,30,7,-17
+2023/24,relegation_playoff,32,H. Petah Tikva,24,8,-24
+2023/24,relegation_playoff,33,H. Jerusalem,43,1,-1
+2023/24,relegation_playoff,33,M. Petah Tikva,40,2,-13
+2023/24,relegation_playoff,33,Maccabi Netanya,38,3,-12
+2023/24,relegation_playoff,33,FC Ashdod,37,4,-16
+2023/24,relegation_playoff,33,B. Jerusalem,36,5,5
+2023/24,relegation_playoff,33,Hapoel Hadera,36,6,-21
+2023/24,relegation_playoff,33,Hapoel Tel Aviv,33,7,-16
+2023/24,relegation_playoff,33,H. Petah Tikva,24,8,-26
+2024/25,relegation_playoff,27,Kiryat Shmona,37,1,-9
+2024/25,relegation_playoff,27,H. Jerusalem,33,2,0
+2024/25,relegation_playoff,27,M. Bnei Reineh,32,3,-8
+2024/25,relegation_playoff,27,Ironi Tiberias,28,4,-16
+2024/25,relegation_playoff,27,M. Petah Tikva,24,5,-23
+2024/25,relegation_playoff,27,FC Ashdod,23,6,-13
+2024/25,relegation_playoff,27,Bnei Sakhnin,23,7,-21
+2024/25,relegation_playoff,27,Hapoel Hadera,21,8,-19
+2024/25,relegation_playoff,28,Kiryat Shmona,37,1,-12
+2024/25,relegation_playoff,28,M. Bnei Reineh,35,2,-5
+2024/25,relegation_playoff,28,H. Jerusalem,34,3,0
+2024/25,relegation_playoff,28,Ironi Tiberias,28,4,-17
+2024/25,relegation_playoff,28,M. Petah Tikva,27,5,-20
+2024/25,relegation_playoff,28,Bnei Sakhnin,26,6,-20
+2024/25,relegation_playoff,28,FC Ashdod,24,7,-13
+2024/25,relegation_playoff,28,Hapoel Hadera,21,8,-22
+2024/25,relegation_playoff,29,H. Jerusalem,37,1,2
+2024/25,relegation_playoff,29,Kiryat Shmona,37,2,-14
+2024/25,relegation_playoff,29,M. Bnei Reineh,35,3,-7
+2024/25,relegation_playoff,29,M. Petah Tikva,30,4,-18
+2024/25,relegation_playoff,29,Bnei Sakhnin,29,5,-19
+2024/25,relegation_playoff,29,Ironi Tiberias,28,6,-18
+2024/25,relegation_playoff,29,FC Ashdod,27,7,-12
+2024/25,relegation_playoff,29,Hapoel Hadera,21,8,-23
+2024/25,relegation_playoff,30,M. Bnei Reineh,38,1,-6
+2024/25,relegation_playoff,30,H. Jerusalem,37,2,1
+2024/25,relegation_playoff,30,Kiryat Shmona,37,3,-16
+2024/25,relegation_playoff,30,Bnei Sakhnin,32,4,-18
+2024/25,relegation_playoff,30,Ironi Tiberias,31,5,-16
+2024/25,relegation_playoff,30,FC Ashdod,30,6,-9
+2024/25,relegation_playoff,30,M. Petah Tikva,30,7,-19
+2024/25,relegation_playoff,30,Hapoel Hadera,21,8,-26
+2024/25,relegation_playoff,31,H. Jerusalem,38,1,1
+2024/25,relegation_playoff,31,M. Bnei Reineh,38,2,-7
+2024/25,relegation_playoff,31,Kiryat Shmona,37,3,-17
+2024/25,relegation_playoff,31,Ironi Tiberias,34,4,-15
+2024/25,relegation_playoff,31,Bnei Sakhnin,33,5,-18
+2024/25,relegation_playoff,31,FC Ashdod,31,6,-9
+2024/25,relegation_playoff,31,M. Petah Tikva,31,7,-19
+2024/25,relegation_playoff,31,Hapoel Hadera,24,8,-25
+2024/25,relegation_playoff,32,H. Jerusalem,41,1,3
+2024/25,relegation_playoff,32,M. Bnei Reineh,38,2,-8
+2024/25,relegation_playoff,32,Kiryat Shmona,37,3,-18
+2024/25,relegation_playoff,32,Bnei Sakhnin,36,4,-17
+2024/25,relegation_playoff,32,Ironi Tiberias,34,5,-17
+2024/25,relegation_playoff,32,FC Ashdod,32,6,-9
+2024/25,relegation_playoff,32,M. Petah Tikva,32,7,-19
+2024/25,relegation_playoff,32,Hapoel Hadera,27,8,-24
+2024/25,relegation_playoff,33,H. Jerusalem,44,1,5
+2024/25,relegation_playoff,33,M. Bnei Reineh,41,2,-7
+2024/25,relegation_playoff,33,Kiryat Shmona,37,3,-20
+2024/25,relegation_playoff,33,Bnei Sakhnin,36,4,-18
+2024/25,relegation_playoff,33,FC Ashdod,35,5,-7
+2024/25,relegation_playoff,33,Ironi Tiberias,35,6,-17
+2024/25,relegation_playoff,33,M. Petah Tikva,33,7,-19
+2024/25,relegation_playoff,33,Hapoel Hadera,27,8,-26
