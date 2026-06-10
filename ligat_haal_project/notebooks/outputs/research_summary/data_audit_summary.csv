@@ -9,7 +9,7 @@ relegation_summary,notebooks\data\processed\relegation_competitiveness\summary_a
 relegation_volatility,notebooks\data\processed\relegation_competitiveness\metric4_relegation_zone_volatility.csv,True,processed-analysis-output,19,"season,total_relegation_zone_changes,unique_teams_ever_in_zone,avg_changes_per_round",see files,relegation volatility (validated),True
 gini_by_season,notebooks\data\processed\gini_by_season.csv,True,processed-analysis-output,20,"season,Gini,interpretation,num_teams,max_points,min_points,point_gap",see files,league balance,True
 playoff_betexplorer,notebooks\data\playoffs\scraped_betexplorer,True,match-level,1798,varies,multiple,playoff vs regular,True
-attendance_notebooks,notebooks\data\attendance,True,match-level,560,varies,multiple,placeholder_for_future_stage,False
+attendance_match_files,notebooks\attendance,True,match-level,9128,varies,multiple,regular + playoff per-match attendance,False
 field_checklist:season,matches + tracking,True,field,,season,,available,True
 field_checklist:round_matchweek,matches + tracking,True,field,,round_matchweek,,available,True
 field_checklist:match_date,matches + tracking,True,field,,match_date,,available,True

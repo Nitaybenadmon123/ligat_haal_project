@@ -1,8 +1,7 @@
 """
 Build season-level research summary table for Ligat Ha'Al final project.
 
-Non-attendance metrics are computed from existing data and processed outputs.
-Attendance columns are kept as placeholders for a future validation stage.
+Season-level research summary including match-level attendance where coverage is sufficient.
 """
 
 from __future__ import annotations
@@ -16,6 +15,7 @@ from typing import Any
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+from scipy.stats import ttest_ind
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -61,6 +61,13 @@ ATTENDANCE_PLACEHOLDER_COLUMNS = [
     "non_top_match_count",
     "top_match_status",
     "attendance_notes",
+]
+
+ATTENDANCE_DIR = NOTEBOOKS / "attendance"
+ATTENDANCE_MIN_COVERAGE_PCT = 60.0
+ATTENDANCE_MIN_DAY_SAMPLES = 5
+WEEKDAY_ORDER_EN = [
+    "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday",
 ]
 
 ATTENDANCE_STATUS = "placeholder_pending_attendance_validation"
@@ -1087,20 +1094,235 @@ def compute_league_balance(season: str, final_table: pd.DataFrame | None, tracki
 
 
 # ---------------------------------------------------------------------------
-# Attendance placeholders
+# Attendance (match-level regular + playoff)
 # ---------------------------------------------------------------------------
-def attendance_placeholder_row() -> dict[str, Any]:
+def attendance_placeholder_row(
+    *,
+    notes: str | None = None,
+    status: str | None = None,
+) -> dict[str, Any]:
     row: dict[str, Any] = {}
     for col in ATTENDANCE_PLACEHOLDER_COLUMNS:
         if col.endswith("_status"):
-            row[col] = ATTENDANCE_STATUS
+            row[col] = status or ATTENDANCE_STATUS
         elif col == "attendance_notes":
-            row[col] = ATTENDANCE_NOTES
+            row[col] = notes or ATTENDANCE_NOTES
         elif col == "attendance_available":
             row[col] = False
         else:
             row[col] = np.nan
     return row
+
+
+def _attendance_season_slug(season: str) -> str:
+    return season.replace("/", "_")
+
+
+def _regular_attendance_paths(season: str) -> list[Path]:
+    slug = _attendance_season_slug(season)
+    paths = [ATTENDANCE_DIR / f"ligat_haal_{slug}_attendance.csv"]
+    if season == "2024/25":
+        paths.insert(0, ATTENDANCE_DIR / "ligat_haal_2024_2025_attendance.csv")
+    return paths
+
+
+def load_season_attendance_matches(season: str) -> pd.DataFrame | None:
+    """Per-match attendance for one season (regular CSV + playoffs CSV when present)."""
+    frames: list[pd.DataFrame] = []
+    for path in _regular_attendance_paths(season):
+        if path.exists():
+            frames.append(pd.read_csv(path))
+            break
+
+    playoff_path = ATTENDANCE_DIR / f"ligat_haal_{_attendance_season_slug(season)}_playoffs_attendance.csv"
+    if playoff_path.exists():
+        frames.append(pd.read_csv(playoff_path))
+
+    if not frames:
+        return None
+
+    df = pd.concat(frames, ignore_index=True)
+    season_col = "Season" if "Season" in df.columns else "season"
+    df["season"] = df[season_col]
+    df["attendance"] = pd.to_numeric(df["Attendance"], errors="coerce")
+    df["match_date"] = pd.to_datetime(df["Date"], format="%d/%m/%y", errors="coerce")
+    if df["match_date"].isna().all():
+        df["match_date"] = pd.to_datetime(df["Date"], errors="coerce")
+    df["is_saturday"] = df["match_date"].dt.dayofweek == 5
+    df["day_of_week_en"] = df["match_date"].dt.dayofweek.map(
+        lambda d: WEEKDAY_ORDER_EN[int(d)] if pd.notna(d) and 0 <= int(d) <= 6 else np.nan
+    )
+    return df
+
+
+def load_attendance_by_season(seasons: list[str]) -> dict[str, pd.DataFrame]:
+    out: dict[str, pd.DataFrame] = {}
+    for season in seasons:
+        df = load_season_attendance_matches(season)
+        if df is not None:
+            out[season] = df
+    return out
+
+
+def _saturday_weekday_status(
+    saturday_avg: float,
+    weekday_avg: float,
+    pvalue: float,
+) -> str:
+    diff = saturday_avg - weekday_avg
+    if pvalue < 0.05:
+        return "computed_saturday_higher" if diff > 0 else "computed_weekday_higher"
+    return "computed_no_significant_difference"
+
+
+def compute_attendance_metrics(season: str, att: pd.DataFrame | None) -> dict[str, Any]:
+    """Fill attendance columns when coverage >= ATTENDANCE_MIN_COVERAGE_PCT; else leave empty."""
+    if att is None or att.empty:
+        return attendance_placeholder_row(notes="No attendance match file found")
+
+    total = len(att)
+    valid = att.loc[att["attendance"] > 0].copy()
+    valid_count = len(valid)
+    coverage = 100.0 * valid_count / total if total else 0.0
+
+    if coverage < ATTENDANCE_MIN_COVERAGE_PCT:
+        return attendance_placeholder_row(
+            notes=(
+                f"Coverage {coverage:.1f}% below minimum "
+                f"{ATTENDANCE_MIN_COVERAGE_PCT:.0f}% — metrics left empty"
+            ),
+            status="insufficient_coverage",
+        )
+
+    row = attendance_placeholder_row(
+        notes="Match-level attendance (regular + playoff); valid rows have Attendance > 0",
+        status="computed",
+    )
+    row.update({
+        "attendance_available": True,
+        "attendance_total_match_count": total,
+        "attendance_valid_match_count": valid_count,
+        "attendance_coverage_percentage": coverage,
+        "average_match_attendance_valid": float(valid["attendance"].mean()),
+        "median_match_attendance_valid": float(valid["attendance"].median()),
+    })
+
+    sat = valid.loc[valid["is_saturday"], "attendance"]
+    wkd = valid.loc[~valid["is_saturday"], "attendance"]
+    row["attendance_saturday_match_count"] = int(len(sat))
+    row["attendance_weekday_match_count"] = int(len(wkd))
+
+    if len(sat) < ATTENDANCE_MIN_DAY_SAMPLES or len(wkd) < ATTENDANCE_MIN_DAY_SAMPLES:
+        row["attendance_saturday_vs_weekday_status"] = "insufficient_day_samples"
+        row["attendance_notes"] += "; Saturday/weekday comparison needs more valid matches per day"
+        return row
+
+    sat_avg = float(sat.mean())
+    wkd_avg = float(wkd.mean())
+    _, pvalue = ttest_ind(sat, wkd, equal_var=False)
+
+    row.update({
+        "attendance_avg_saturday": sat_avg,
+        "attendance_avg_weekday": wkd_avg,
+        "attendance_saturday_weekday_diff": sat_avg - wkd_avg,
+        "attendance_saturday_weekday_ttest_pvalue": float(pvalue),
+        "attendance_saturday_vs_weekday_status": _saturday_weekday_status(sat_avg, wkd_avg, pvalue),
+    })
+    return row
+
+
+def _attendance_pool_for_chart(summary: pd.DataFrame) -> pd.DataFrame:
+    """Valid match attendances from seasons with sufficient coverage."""
+    usable = summary[summary["attendance_available"].fillna(False)]
+    frames: list[pd.DataFrame] = []
+    for season in usable["season"]:
+        df = load_season_attendance_matches(season)
+        if df is None:
+            continue
+        valid = df.loc[(df["attendance"] > 0) & df["day_of_week_en"].notna()].copy()
+        if not valid.empty:
+            frames.append(valid)
+    if not frames:
+        return pd.DataFrame()
+    return pd.concat(frames, ignore_index=True)
+
+
+def save_attendance_by_weekday_chart(summary: pd.DataFrame) -> str | None:
+    """
+    Bar charts: average attendance by weekday and relative index (100 = overall mean).
+    Uses seasons with attendance_available (coverage >= ATTENDANCE_MIN_COVERAGE_PCT).
+    """
+    pool = _attendance_pool_for_chart(summary)
+    if pool.empty:
+        return None
+
+    by_day = (
+        pool.groupby("day_of_week_en", observed=True)
+        .agg(
+            avg_attendance=("attendance", "mean"),
+            match_count=("attendance", "count"),
+            total_attendance=("attendance", "sum"),
+        )
+        .reindex(WEEKDAY_ORDER_EN)
+        .dropna(subset=["avg_attendance"])
+    )
+    if by_day.empty:
+        return None
+
+    overall_mean = float(pool["attendance"].mean())
+    total_spectators = float(pool["attendance"].sum())
+    by_day["relative_index"] = by_day["avg_attendance"] / overall_mean * 100
+    by_day["share_of_total_pct"] = by_day["total_attendance"] / total_spectators * 100
+
+    n_seasons = int(summary["attendance_available"].fillna(False).sum())
+    colors = ["#4c78a8"] * len(by_day)
+    max_day = by_day["avg_attendance"].idxmax()
+    if max_day in by_day.index:
+        colors[list(by_day.index).index(max_day)] = "#e45756"
+
+    fig, (ax_avg, ax_rel) = plt.subplots(
+        1, 2, figsize=(14, 6), gridspec_kw={"width_ratios": [1.1, 1]}
+    )
+
+    x = np.arange(len(by_day))
+    ax_avg.bar(x, by_day["avg_attendance"], color=colors, alpha=0.9)
+    ax_avg.axhline(overall_mean, color="gray", linestyle="--", linewidth=1, label="Overall mean")
+    ax_avg.set_xticks(x)
+    ax_avg.set_xticklabels(by_day.index, rotation=30, ha="right")
+    ax_avg.set_ylabel("Average attendance per match")
+    ax_avg.set_title("Average Match Attendance by Day of Week")
+    ax_avg.legend(loc="upper right", fontsize=9)
+    for i, (avg, n) in enumerate(zip(by_day["avg_attendance"], by_day["match_count"])):
+        ax_avg.text(i, avg, f"{avg:,.0f}\n(n={int(n)})", ha="center", va="bottom", fontsize=8)
+
+    rel_colors = ["#72b7b2"] * len(by_day)
+    max_rel_day = by_day["relative_index"].idxmax()
+    if max_rel_day in by_day.index:
+        rel_colors[list(by_day.index).index(max_rel_day)] = "#e45756"
+    ax_rel.bar(x, by_day["relative_index"], color=rel_colors, alpha=0.9)
+    ax_rel.axhline(100, color="gray", linestyle="--", linewidth=1, label="League average (=100)")
+    ax_rel.set_xticks(x)
+    ax_rel.set_xticklabels(by_day.index, rotation=30, ha="right")
+    ax_rel.set_ylabel("Relative index (overall mean = 100)")
+    ax_rel.set_title("Attendance Relative to Overall Average")
+    ax_rel.legend(loc="upper right", fontsize=9)
+    for i, (idx, share) in enumerate(zip(by_day["relative_index"], by_day["share_of_total_pct"])):
+        ax_rel.text(i, idx, f"{idx:.0f}\n({share:.1f}% of total)", ha="center", va="bottom", fontsize=8)
+
+    fig.suptitle(
+        f"Ligat Ha'al Attendance by Day of Week — {n_seasons} seasons "
+        f"(coverage >= {ATTENDANCE_MIN_COVERAGE_PCT:.0f}%, regular + playoff)",
+        fontsize=12,
+        y=1.02,
+    )
+    plt.tight_layout()
+    out_path = CHARTS / "attendance_by_day_of_week.png"
+    fig.savefig(out_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+
+    audit_path = OUTPUT / "attendance_by_day_of_week_summary.csv"
+    by_day.reset_index().to_csv(audit_path, index=False, encoding="utf-8-sig")
+    return str(out_path)
 
 
 # ---------------------------------------------------------------------------
@@ -1128,8 +1350,8 @@ def build_data_audit(matches: pd.DataFrame) -> pd.DataFrame:
          "12", "league balance"),
         ("playoff_betexplorer", DATA / "playoffs/scraped_betexplorer", "match-level",
          "13", "playoff vs regular"),
-        ("attendance_notebooks", DATA / "attendance", "match-level",
-         "14,15,16,17", "placeholder_for_future_stage"),
+        ("attendance_match_files", ATTENDANCE_DIR, "match-level",
+         "14,16", "regular + playoff per-match attendance"),
     ]
 
     rows = []
@@ -1177,7 +1399,7 @@ def build_data_audit(matches: pd.DataFrame) -> pd.DataFrame:
         "league_table_by_round": tracking_path("2006/07") is not None,
         "regular_playoff_stage": True,
         "final_standings": (DATA / "interim/scraped_standings/regular_final_tables").exists(),
-        "attendance_crowd": (DATA / "attendance").exists(),
+        "attendance_crowd": ATTENDANCE_DIR.exists(),
         "day_of_week": "day_of_week_en" in matches.columns,
     }
     for field, avail in checklist_fields.items():
@@ -1204,7 +1426,25 @@ def build_data_audit(matches: pd.DataFrame) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 # Feasibility table
 # ---------------------------------------------------------------------------
-def build_feasibility_table() -> pd.DataFrame:
+def build_feasibility_table(summary: pd.DataFrame | None = None) -> pd.DataFrame:
+    att_ready = 0
+    if summary is not None and "attendance_available" in summary.columns:
+        att_ready = int(summary["attendance_available"].fillna(False).sum())
+
+    att_q14_status = "answerable_now" if att_ready else ATTENDANCE_STATUS
+    att_q14_expl = (
+        f"Saturday vs non-Saturday from match attendance ({att_ready} seasons with "
+        f"coverage >= {ATTENDANCE_MIN_COVERAGE_PCT:.0f}%)."
+        if att_ready
+        else ATTENDANCE_NOTES
+    )
+    att_q16_status = att_q14_status
+    att_q16_expl = (
+        "average_match_attendance_valid filled for seasons with sufficient attendance coverage."
+        if att_ready
+        else ATTENDANCE_NOTES
+    )
+
     questions = [
         (1, "Which seasons had the closest title race?", "title_race_closeness_score", "answerable_now",
          "Computed from tracking; final_gap from playoff final table in playoff seasons.", "Review top seasons in charts.",
@@ -1239,11 +1479,12 @@ def build_feasibility_table() -> pd.DataFrame:
         (13, "How different were playoffs compared to the regular season?", "regular_average_goals_per_match",
          "answerable_now", "Regular from TM matches; playoff from betexplorer when needed.", "Mark insufficient_stage_data seasons.", "matches + betexplorer playoffs"),
         (14, "Does Saturday attendance differ from non-Saturday attendance?", "attendance_avg_saturday",
-         ATTENDANCE_STATUS, ATTENDANCE_NOTES, "Validate attendance then compute.", "placeholder"),
+         att_q14_status, att_q14_expl, "Compare attendance_saturday_weekday_diff across seasons.",
+         "notebooks/attendance match files"),
         (15, "Does weekday affect attendance?", "attendance_by_weekday_anova_pvalue", ATTENDANCE_STATUS,
-         ATTENDANCE_NOTES, "Validate attendance then compute.", "placeholder"),
+         ATTENDANCE_NOTES, "Weekday ANOVA not yet implemented.", "placeholder"),
         (16, "Do competitive seasons attract higher attendance?", "average_match_attendance_valid",
-         ATTENDANCE_STATUS, ATTENDANCE_NOTES, "Join competitiveness score to attendance.", "placeholder"),
+         att_q16_status, att_q16_expl, "Correlate with title_race_closeness_score.", "notebooks/attendance match files"),
         (17, "Do top-of-table matches attract higher attendance?", "top_match_attendance_avg", ATTENDANCE_STATUS,
          ATTENDANCE_NOTES, "Define top-match threshold then compute.", "placeholder"),
     ]
@@ -1476,11 +1717,9 @@ def create_charts(summary: pd.DataFrame, dist_df: pd.DataFrame) -> list[str]:
         if (CHARTS / p).exists():
             created.append(str(CHARTS / p))
     created.extend(save_title_race_timeline_comparison_charts(summary))
-    (CHARTS / "ATTENDANCE_CHARTS_PLACEHOLDER.txt").write_text(
-        "Attendance charts are placeholders and will be added in the next stage.\n",
-        encoding="utf-8",
-    )
-    created.append(str(CHARTS / "ATTENDANCE_CHARTS_PLACEHOLDER.txt"))
+    weekday_chart = save_attendance_by_weekday_chart(summary)
+    if weekday_chart:
+        created.append(weekday_chart)
     return created
 
 
@@ -1512,8 +1751,8 @@ def write_hebrew_findings(summary: pd.DataFrame, feasibility: pd.DataFrame) -> N
         "## 3. שאלות מחקר שנענו כבר עכשיו",
         "שאלות 1–13 (תחרותיות, אליפות, ירידה, ביתיות, שערים, איזון, פלייאוף) – ראו `research_question_feasibility.csv` עם סטטוס `answerable_now`.",
         "",
-        "## 4. שאלות קהל שנשארו כעמודות ריקות",
-        "שאלות 14–17 (שבת מול חול, יום בשבוע, עונות תחרותיות, משחקי צמרת) – עמודות `attendance_*` עם סטטוס `placeholder_pending_attendance_validation`.",
+        "## 4. נתוני קהל",
+        f"עמודות קהל מולאו לעונות עם כיסוי >= {ATTENDANCE_MIN_COVERAGE_PCT:.0f}% (משחקי עונה רגילה + פלייאוף). עונות עם כיסוי נמוך נשארו ריקות.",
         "",
         "## 5. ממצאים ראשוניים – מאבק אליפות",
     ]
@@ -1563,13 +1802,13 @@ def write_hebrew_findings(summary: pd.DataFrame, feasibility: pd.DataFrame) -> N
     lines += [
         "",
         "## 10. צעדים הבאים",
-        "1. אימות והשלמת נתוני קהל ברמת משחק",
-        "2. מילוי עמודות attendance_*",
+        "1. השלמת כיסוי קהל לעונות עם נתונים חלקיים",
+        "2. מדד ANOVA לפי יום בשבוע ומשחקי צמרת (שאלות 15, 17)",
         "3. יצירת גרפי קהל ושבת/חול",
         "",
         "## פסקה מוצעת לדוח הסופי",
         "",
-        "> בשלב זה נבנתה טבלת סיכום עונתית הכוללת את כלל שאלות המחקר של הפרויקט. מדדי התחרותיות, מאבק האליפות, מאבק הירידה, יתרון הביתיות, כמות השערים ואיזון הליגה חושבו מתוך הנתונים הקיימים. שאלות המחקר הנוגעות לכמות קהל, ימי משחק ומשחקי צמרת נשמרו כעמודות ריקות בטבלה, וימולאו בשלב הבא לאחר השלמת איסוף, ניקוי ואימות נתוני הקהל ברמת משחק.",
+        "> בשלב זה נבנתה טבלת סיכום עונתית הכוללת את כלל שאלות המחקר של הפרויקט. מדדי קהל (ממוצע למשחק, שבת מול חול) מולאו לעונות עם כיסוי מספק; עונות עם כיסוי נמוך נותרו ריקות.",
         "",
     ]
     (OUTPUT / "final_research_findings_hebrew.md").write_text("\n".join(lines), encoding="utf-8")
@@ -1588,6 +1827,7 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
     matches["away"] = matches["away"].map(normalize_team)
 
     seasons = list_seasons_from_matches(matches)
+    attendance_by_season = load_attendance_by_season(seasons)
     warnings_log: list[str] = []
     rows = []
     all_title_audit_rows: list[dict[str, Any]] = []
@@ -1671,8 +1911,9 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
         bal = compute_league_balance(season, final_table, tracking)
         row.update(bal)
 
-        # Attendance placeholders
-        row.update(attendance_placeholder_row())
+        # Attendance (regular + playoff match files)
+        att_m = compute_attendance_metrics(season, attendance_by_season.get(season))
+        row.update(att_m)
 
         row["notes"] = "; ".join(notes_parts) if notes_parts else ""
         rows.append(row)
@@ -1721,7 +1962,7 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
     audit = build_data_audit(matches)
     audit.to_csv(OUTPUT / "data_audit_summary.csv", index=False, encoding="utf-8-sig")
 
-    feasibility = build_feasibility_table()
+    feasibility = build_feasibility_table(summary)
     feasibility.to_csv(OUTPUT / "research_question_feasibility.csv", index=False, encoding="utf-8-sig")
 
     write_hebrew_findings(summary, feasibility)
@@ -1759,7 +2000,14 @@ def print_validation(summary: pd.DataFrame, feasibility: pd.DataFrame) -> None:
     print(completed.nlargest(5, "relegation_closeness_score")[["season", "relegation_closeness_score"]].to_string(index=False))
     print("\nTop 5 most balanced seasons:")
     print(completed.nlargest(5, "league_balance_score")[["season", "league_balance_score"]].to_string(index=False))
-    print(f"\nAttendance columns created as placeholders: yes ({len(ATTENDANCE_PLACEHOLDER_COLUMNS)} columns)")
+    att_ok = completed[completed["attendance_available"].fillna(False)]
+    print(f"\nSeasons with attendance metrics: {len(att_ok)} / {len(completed)}")
+    if not att_ok.empty:
+        print(att_ok[["season", "attendance_coverage_percentage", "average_match_attendance_valid",
+                       "attendance_saturday_weekday_diff"]].to_string(index=False))
+    low_cov = completed[~completed["attendance_available"].fillna(False)]
+    if not low_cov.empty:
+        print(f"\nSeasons left empty (low/missing attendance coverage): {', '.join(low_cov['season'].tolist())}")
 
     print("\nRequired output files:")
     for p in required_files:
@@ -1841,9 +2089,10 @@ def main() -> None:
     print("\n6. First 5 rows – research_question_feasibility.csv:")
     print(feasibility.head().to_string(index=False))
 
-    print("\n7. Attendance placeholder columns:")
-    for c in ATTENDANCE_PLACEHOLDER_COLUMNS:
-        print(f"   - {c}")
+    att_completed = summary[summary["is_completed_season"]]
+    att_filled = att_completed[att_completed["attendance_available"].fillna(False)]
+    print(f"\n7. Attendance: {len(att_filled)} seasons computed, "
+          f"{len(att_completed) - len(att_filled)} left empty (coverage < {ATTENDANCE_MIN_COVERAGE_PCT:.0f}%)")
 
     nan_cols = []
     completed = summary[summary["is_completed_season"]]

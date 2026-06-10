@@ -1,0 +1,11 @@
+﻿season,date,day_of_week,home_team,away_team,attendance,source_file,competition_stage
+2012/13,22/04/13,Monday,Hapoel Ramat haSharon,Maccabi Tel Aviv,35000.0,ligat_haal_2012_13_playoffs_attendance.csv,Championship Round
+2022/23,20/05/23,Saturday,Maccabi Haifa,Hapoel Jerusalem,30564.0,ligat_haal_2022_23_playoffs_attendance.csv,Championship Round
+2014/15,04/05/15,Monday,Maccabi Haifa,Maccabi Tel Aviv,30000.0,ligat_haal_2014_15_playoffs_attendance.csv,Championship Round
+2022/23,01/04/23,Saturday,Maccabi Haifa,Hapoel Beer Sheva,29875.0,ligat_haal_2022_23_playoffs_attendance.csv,Championship Round
+2023/24,11/05/24,Saturday,Maccabi Haifa,Maccabi Tel Aviv,29842.0,ligat_haal_2023_24_playoffs_attendance.csv,Championship Round
+2022/23,08/04/23,Saturday,Maccabi Haifa,Maccabi Netanya,29431.0,ligat_haal_2022_23_playoffs_attendance.csv,Championship Round
+2025/26,22/12/25,Monday,Maccabi Haifa,Beitar Jerusalem,29395.0,ligat_haal_2025_26_attendance.csv,regular
+2021/22,21/05/22,Saturday,Maccabi Haifa,Maccabi Netanya,29258.0,ligat_haal_2021_22_playoffs_attendance.csv,Championship Round
+2014/15,05/04/15,Sunday,Maccabi Haifa,Beitar Jerusalem,29235.0,ligat_haal_2014_15_playoffs_attendance.csv,Championship Round
+2025/26,02/05/26,Saturday,Beitar Jerusalem,Maccabi Tel Aviv,29199.0,ligat_haal_2025_26_playoffs_attendance.csv,Championship Round
