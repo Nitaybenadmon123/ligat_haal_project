@@ -38,6 +38,11 @@ try:
 except ImportError:
     TEAM_NAME_MAP = {}
 
+try:
+    from player_goal_contributions import apply_goal_contribution_to_summary  # type: ignore
+except ImportError:
+    apply_goal_contribution_to_summary = None  # type: ignore
+
 ATTENDANCE_PLACEHOLDER_COLUMNS = [
     "attendance_available",
     "attendance_valid_match_count",
@@ -1928,6 +1933,13 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
     ]
     summary = summary.drop(columns=[c for c in drop_cols if c in summary.columns])
 
+    if apply_goal_contribution_to_summary is not None:
+        summary = apply_goal_contribution_to_summary(summary, seasons=seasons, scrape_if_missing=True)
+    else:
+        summary["players_with_15_plus_goals_assists"] = np.nan
+        summary["distinct_teams_with_15_plus_goals_assists"] = np.nan
+        summary["player_stats_available"] = False
+
     # first_round distribution
     dist = summary[summary["is_completed_season"]][["season", "first_round_champion_was_1st"]].copy()
     dist_counts = dist["first_round_champion_was_1st"].value_counts(dropna=False).reset_index()
@@ -1951,8 +1963,11 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
         "home_win_percentage", "draw_percentage", "away_win_percentage", "average_goals_per_match",
         "title_race_closeness_score", "relegation_closeness_score", "league_balance_score",
         "attendance_available", "average_match_attendance_valid", "attendance_avg_saturday",
-        "attendance_avg_weekday", "attendance_saturday_weekday_diff",
-        "attendance_saturday_vs_weekday_status", "data_quality_flag", "notes",
+        "attendance_avg_weekday",         "attendance_saturday_weekday_diff",
+        "attendance_saturday_vs_weekday_status",
+        "players_with_15_plus_goals_assists",
+        "distinct_teams_with_15_plus_goals_assists",
+        "data_quality_flag", "notes",
     ]
     final_report = summary[[c for c in report_cols if c in summary.columns]]
     final_report.to_csv(OUTPUT / "final_report_research_table.csv", index=False, encoding="utf-8-sig")
@@ -2008,6 +2023,20 @@ def print_validation(summary: pd.DataFrame, feasibility: pd.DataFrame) -> None:
     low_cov = completed[~completed["attendance_available"].fillna(False)]
     if not low_cov.empty:
         print(f"\nSeasons left empty (low/missing attendance coverage): {', '.join(low_cov['season'].tolist())}")
+
+    if "players_with_15_plus_goals_assists" in completed.columns:
+        ga_ok = completed[completed["player_stats_available"].fillna(False)]
+        print(f"\nSeasons with 15+ G+A player stats: {len(ga_ok)} / {len(completed)}")
+        if not ga_ok.empty:
+            print(
+                ga_ok[
+                    [
+                        "season",
+                        "players_with_15_plus_goals_assists",
+                        "distinct_teams_with_15_plus_goals_assists",
+                    ]
+                ].to_string(index=False)
+            )
 
     print("\nRequired output files:")
     for p in required_files:
