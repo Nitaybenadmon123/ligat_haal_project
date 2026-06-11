@@ -1,0 +1,14 @@
+﻿season,championship_playoff_leadership_changes,championship_playoff_first_place_flipped,relegation_playoff_zone_changes,relegation_playoff_survival_flips,playoff_impact_balance
+2009/10,3.0,True,0.0,0.0,championship_more_impactful
+2010/11,1.0,True,0.0,0.0,championship_more_impactful
+2012/13,0.0,False,2.0,2.0,relegation_more_impactful
+2013/14,0.0,False,6.0,0.0,relegation_more_impactful
+2014/15,0.0,False,6.0,2.0,relegation_more_impactful
+2015/16,2.0,False,2.0,2.0,relegation_more_impactful
+2016/17,0.0,False,4.0,2.0,relegation_more_impactful
+2018/19,0.0,False,2.0,2.0,relegation_more_impactful
+2019/20,0.0,False,4.0,0.0,relegation_more_impactful
+2020/21,1.0,True,0.0,0.0,championship_more_impactful
+2023/24,0.0,False,2.0,2.0,relegation_more_impactful
+2024/25,3.0,True,4.0,2.0,relegation_more_impactful
+2025/26,2.0,False,6.0,2.0,relegation_more_impactful

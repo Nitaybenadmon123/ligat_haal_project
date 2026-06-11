@@ -1,0 +1,3769 @@
+﻿season,round_from,round_to,team,prev_rank,new_rank,absolute_rank_change,stage_from,stage_to
+2006/07,1,2,B. Jerusalem,3,2,1,regular,regular
+2006/07,1,2,Bnei Yehuda,5,8,3,regular,regular
+2006/07,1,2,FC Ashdod,4,6,2,regular,regular
+2006/07,1,2,H. Petah Tikva,12,10,2,regular,regular
+2006/07,1,2,Hakoah Amidar,7,5,2,regular,regular
+2006/07,1,2,Hapoel Tel Aviv,6,9,3,regular,regular
+2006/07,1,2,M. Petah Tikva,8,3,5,regular,regular
+2006/07,1,2,M. Tel Aviv,9,11,2,regular,regular
+2006/07,1,2,Maccabi Haifa,11,7,4,regular,regular
+2006/07,1,2,Maccabi Herzlya,10,12,2,regular,regular
+2006/07,1,2,Maccabi Netanya,2,4,2,regular,regular
+2006/07,2,3,B. Jerusalem,2,1,1,regular,regular
+2006/07,2,3,FC Ashdod,6,3,3,regular,regular
+2006/07,2,3,H. Kfar Saba,1,2,1,regular,regular
+2006/07,2,3,H. Petah Tikva,10,11,1,regular,regular
+2006/07,2,3,Hakoah Amidar,5,9,4,regular,regular
+2006/07,2,3,Hapoel Tel Aviv,9,6,3,regular,regular
+2006/07,2,3,M. Petah Tikva,3,7,4,regular,regular
+2006/07,2,3,M. Tel Aviv,11,10,1,regular,regular
+2006/07,2,3,Maccabi Haifa,7,4,3,regular,regular
+2006/07,2,3,Maccabi Netanya,4,5,1,regular,regular
+2006/07,3,4,Bnei Yehuda,8,9,1,regular,regular
+2006/07,3,4,FC Ashdod,3,6,3,regular,regular
+2006/07,3,4,H. Kfar Saba,2,3,1,regular,regular
+2006/07,3,4,H. Petah Tikva,11,12,1,regular,regular
+2006/07,3,4,Hakoah Amidar,9,8,1,regular,regular
+2006/07,3,4,Hapoel Tel Aviv,6,7,1,regular,regular
+2006/07,3,4,M. Petah Tikva,7,4,3,regular,regular
+2006/07,3,4,Maccabi Haifa,4,2,2,regular,regular
+2006/07,3,4,Maccabi Herzlya,12,11,1,regular,regular
+2006/07,4,5,B. Jerusalem,1,2,1,regular,regular
+2006/07,4,5,Bnei Yehuda,9,8,1,regular,regular
+2006/07,4,5,FC Ashdod,6,4,2,regular,regular
+2006/07,4,5,H. Kfar Saba,3,7,4,regular,regular
+2006/07,4,5,Hakoah Amidar,8,9,1,regular,regular
+2006/07,4,5,Hapoel Tel Aviv,7,6,1,regular,regular
+2006/07,4,5,M. Petah Tikva,4,1,3,regular,regular
+2006/07,4,5,Maccabi Haifa,2,5,3,regular,regular
+2006/07,4,5,Maccabi Netanya,5,3,2,regular,regular
+2006/07,5,6,B. Jerusalem,2,1,1,regular,regular
+2006/07,5,6,Bnei Yehuda,8,9,1,regular,regular
+2006/07,5,6,FC Ashdod,4,2,2,regular,regular
+2006/07,5,6,H. Kfar Saba,7,4,3,regular,regular
+2006/07,5,6,Hakoah Amidar,9,10,1,regular,regular
+2006/07,5,6,Hapoel Tel Aviv,6,3,3,regular,regular
+2006/07,5,6,M. Petah Tikva,1,5,4,regular,regular
+2006/07,5,6,M. Tel Aviv,10,8,2,regular,regular
+2006/07,5,6,Maccabi Haifa,5,6,1,regular,regular
+2006/07,5,6,Maccabi Netanya,3,7,4,regular,regular
+2006/07,6,7,FC Ashdod,2,3,1,regular,regular
+2006/07,6,7,Hapoel Tel Aviv,3,5,2,regular,regular
+2006/07,6,7,M. Petah Tikva,5,8,3,regular,regular
+2006/07,6,7,M. Tel Aviv,8,7,1,regular,regular
+2006/07,6,7,Maccabi Netanya,7,2,5,regular,regular
+2006/07,7,8,FC Ashdod,3,6,3,regular,regular
+2006/07,7,8,H. Kfar Saba,4,8,4,regular,regular
+2006/07,7,8,Hapoel Tel Aviv,5,2,3,regular,regular
+2006/07,7,8,M. Petah Tikva,8,5,3,regular,regular
+2006/07,7,8,M. Tel Aviv,7,3,4,regular,regular
+2006/07,7,8,Maccabi Haifa,6,7,1,regular,regular
+2006/07,7,8,Maccabi Netanya,2,4,2,regular,regular
+2006/07,8,9,B. Jerusalem,1,2,1,regular,regular
+2006/07,8,9,FC Ashdod,6,5,1,regular,regular
+2006/07,8,9,Hapoel Tel Aviv,2,1,1,regular,regular
+2006/07,8,9,M. Petah Tikva,5,4,1,regular,regular
+2006/07,8,9,Maccabi Haifa,7,6,1,regular,regular
+2006/07,8,9,Maccabi Netanya,4,7,3,regular,regular
+2006/07,9,10,B. Jerusalem,2,1,1,regular,regular
+2006/07,9,10,FC Ashdod,5,3,2,regular,regular
+2006/07,9,10,Hapoel Tel Aviv,1,5,4,regular,regular
+2006/07,9,10,M. Petah Tikva,4,2,2,regular,regular
+2006/07,9,10,M. Tel Aviv,3,4,1,regular,regular
+2006/07,9,10,Maccabi Haifa,6,7,1,regular,regular
+2006/07,9,10,Maccabi Netanya,7,6,1,regular,regular
+2006/07,10,11,H. Kfar Saba,8,7,1,regular,regular
+2006/07,10,11,Hakoah Amidar,10,11,1,regular,regular
+2006/07,10,11,Maccabi Haifa,7,6,1,regular,regular
+2006/07,10,11,Maccabi Herzlya,11,10,1,regular,regular
+2006/07,10,11,Maccabi Netanya,6,8,2,regular,regular
+2006/07,11,12,FC Ashdod,3,2,1,regular,regular
+2006/07,11,12,M. Petah Tikva,2,3,1,regular,regular
+2006/07,13,14,Hapoel Tel Aviv,5,3,2,regular,regular
+2006/07,13,14,M. Petah Tikva,3,4,1,regular,regular
+2006/07,13,14,M. Tel Aviv,4,6,2,regular,regular
+2006/07,13,14,Maccabi Haifa,6,5,1,regular,regular
+2006/07,14,15,H. Kfar Saba,7,8,1,regular,regular
+2006/07,14,15,M. Tel Aviv,6,5,1,regular,regular
+2006/07,14,15,Maccabi Haifa,5,6,1,regular,regular
+2006/07,14,15,Maccabi Netanya,8,7,1,regular,regular
+2006/07,15,16,Hakoah Amidar,11,10,1,regular,regular
+2006/07,15,16,M. Petah Tikva,4,5,1,regular,regular
+2006/07,15,16,M. Tel Aviv,5,4,1,regular,regular
+2006/07,15,16,Maccabi Herzlya,10,11,1,regular,regular
+2006/07,16,17,FC Ashdod,2,3,1,regular,regular
+2006/07,16,17,Hapoel Tel Aviv,3,2,1,regular,regular
+2006/07,17,18,Hakoah Amidar,10,11,1,regular,regular
+2006/07,17,18,M. Petah Tikva,5,6,1,regular,regular
+2006/07,17,18,Maccabi Haifa,6,7,1,regular,regular
+2006/07,17,18,Maccabi Herzlya,11,10,1,regular,regular
+2006/07,17,18,Maccabi Netanya,7,5,2,regular,regular
+2006/07,18,19,FC Ashdod,3,4,1,regular,regular
+2006/07,18,19,M. Petah Tikva,6,5,1,regular,regular
+2006/07,18,19,M. Tel Aviv,4,3,1,regular,regular
+2006/07,18,19,Maccabi Netanya,5,6,1,regular,regular
+2006/07,19,20,Hapoel Tel Aviv,2,3,1,regular,regular
+2006/07,19,20,M. Tel Aviv,3,2,1,regular,regular
+2006/07,20,21,FC Ashdod,4,5,1,regular,regular
+2006/07,20,21,Hapoel Tel Aviv,3,2,1,regular,regular
+2006/07,20,21,M. Petah Tikva,5,6,1,regular,regular
+2006/07,20,21,M. Tel Aviv,2,3,1,regular,regular
+2006/07,20,21,Maccabi Netanya,6,4,2,regular,regular
+2006/07,21,22,M. Petah Tikva,6,7,1,regular,regular
+2006/07,21,22,Maccabi Haifa,7,6,1,regular,regular
+2006/07,22,23,Hakoah Amidar,11,10,1,regular,regular
+2006/07,22,23,M. Petah Tikva,7,6,1,regular,regular
+2006/07,22,23,Maccabi Haifa,6,7,1,regular,regular
+2006/07,22,23,Maccabi Herzlya,10,11,1,regular,regular
+2006/07,23,24,FC Ashdod,5,6,1,regular,regular
+2006/07,23,24,M. Petah Tikva,6,4,2,regular,regular
+2006/07,23,24,Maccabi Netanya,4,5,1,regular,regular
+2006/07,24,25,Hapoel Tel Aviv,2,3,1,regular,regular
+2006/07,24,25,M. Petah Tikva,4,5,1,regular,regular
+2006/07,24,25,M. Tel Aviv,3,2,1,regular,regular
+2006/07,24,25,Maccabi Netanya,5,4,1,regular,regular
+2006/07,25,26,FC Ashdod,6,7,1,regular,regular
+2006/07,25,26,Hakoah Amidar,10,11,1,regular,regular
+2006/07,25,26,Maccabi Haifa,7,6,1,regular,regular
+2006/07,25,26,Maccabi Herzlya,11,10,1,regular,regular
+2006/07,26,27,FC Ashdod,7,6,1,regular,regular
+2006/07,26,27,M. Petah Tikva,5,7,2,regular,regular
+2006/07,26,27,Maccabi Haifa,6,5,1,regular,regular
+2006/07,27,28,FC Ashdod,6,7,1,regular,regular
+2006/07,27,28,M. Petah Tikva,7,6,1,regular,regular
+2006/07,29,30,Hapoel Tel Aviv,3,4,1,regular,regular
+2006/07,29,30,Maccabi Netanya,4,3,1,regular,regular
+2006/07,30,31,M. Petah Tikva,6,5,1,regular,regular
+2006/07,30,31,Maccabi Haifa,5,6,1,regular,regular
+2006/07,31,32,M. Petah Tikva,5,6,1,regular,regular
+2006/07,31,32,Maccabi Haifa,6,5,1,regular,regular
+2006/07,32,33,M. Tel Aviv,2,3,1,regular,regular
+2006/07,32,33,Maccabi Netanya,3,2,1,regular,regular
+2007/08,1,2,Bnei Sakhnin,3,5,2,regular,regular
+2007/08,1,2,Bnei Yehuda,11,10,1,regular,regular
+2007/08,1,2,FC Ashdod,5,3,2,regular,regular
+2007/08,1,2,H. Kfar Saba,4,6,2,regular,regular
+2007/08,1,2,Hapoel Tel Aviv,7,9,2,regular,regular
+2007/08,1,2,M. Petah Tikva,9,7,2,regular,regular
+2007/08,1,2,M. Tel Aviv,6,8,2,regular,regular
+2007/08,1,2,Maccabi Haifa,10,11,1,regular,regular
+2007/08,1,2,Maccabi Netanya,8,4,4,regular,regular
+2007/08,2,3,Bnei Sakhnin,5,3,2,regular,regular
+2007/08,2,3,Bnei Yehuda,10,9,1,regular,regular
+2007/08,2,3,FC Ashdod,3,6,3,regular,regular
+2007/08,2,3,H. Kfar Saba,6,4,2,regular,regular
+2007/08,2,3,Hapoel Tel Aviv,9,8,1,regular,regular
+2007/08,2,3,M. Petah Tikva,7,5,2,regular,regular
+2007/08,2,3,M. Tel Aviv,8,10,2,regular,regular
+2007/08,2,3,Maccabi Netanya,4,7,3,regular,regular
+2007/08,3,4,Bnei Yehuda,9,7,2,regular,regular
+2007/08,3,4,FC Ashdod,6,8,2,regular,regular
+2007/08,3,4,Hapoel Tel Aviv,8,10,2,regular,regular
+2007/08,3,4,Kiryat Shmona,2,6,4,regular,regular
+2007/08,3,4,M. Petah Tikva,5,2,3,regular,regular
+2007/08,3,4,M. Tel Aviv,10,11,1,regular,regular
+2007/08,3,4,Maccabi Haifa,11,9,2,regular,regular
+2007/08,3,4,Maccabi Netanya,7,5,2,regular,regular
+2007/08,4,5,Bnei Sakhnin,3,7,4,regular,regular
+2007/08,4,5,Bnei Yehuda,7,5,2,regular,regular
+2007/08,4,5,FC Ashdod,8,9,1,regular,regular
+2007/08,4,5,H. Kfar Saba,4,6,2,regular,regular
+2007/08,4,5,Kiryat Shmona,6,3,3,regular,regular
+2007/08,4,5,M. Petah Tikva,2,4,2,regular,regular
+2007/08,4,5,M. Tel Aviv,11,12,1,regular,regular
+2007/08,4,5,Maccabi Haifa,9,8,1,regular,regular
+2007/08,4,5,Maccabi Herzlya,12,11,1,regular,regular
+2007/08,4,5,Maccabi Netanya,5,2,3,regular,regular
+2007/08,5,6,Bnei Sakhnin,7,3,4,regular,regular
+2007/08,5,6,Bnei Yehuda,5,8,3,regular,regular
+2007/08,5,6,H. Kfar Saba,6,7,1,regular,regular
+2007/08,5,6,Hapoel Tel Aviv,10,11,1,regular,regular
+2007/08,5,6,Kiryat Shmona,3,4,1,regular,regular
+2007/08,5,6,M. Petah Tikva,4,6,2,regular,regular
+2007/08,5,6,Maccabi Haifa,8,5,3,regular,regular
+2007/08,5,6,Maccabi Herzlya,11,10,1,regular,regular
+2007/08,6,7,Bnei Yehuda,8,9,1,regular,regular
+2007/08,6,7,FC Ashdod,9,6,3,regular,regular
+2007/08,6,7,H. Kfar Saba,7,8,1,regular,regular
+2007/08,6,7,Kiryat Shmona,4,5,1,regular,regular
+2007/08,6,7,M. Petah Tikva,6,4,2,regular,regular
+2007/08,6,7,Maccabi Haifa,5,7,2,regular,regular
+2007/08,7,8,Bnei Sakhnin,3,4,1,regular,regular
+2007/08,7,8,Bnei Yehuda,9,10,1,regular,regular
+2007/08,7,8,FC Ashdod,6,8,2,regular,regular
+2007/08,7,8,H. Kfar Saba,8,7,1,regular,regular
+2007/08,7,8,Hapoel Tel Aviv,11,12,1,regular,regular
+2007/08,7,8,M. Petah Tikva,4,3,1,regular,regular
+2007/08,7,8,M. Tel Aviv,12,11,1,regular,regular
+2007/08,7,8,Maccabi Haifa,7,6,1,regular,regular
+2007/08,7,8,Maccabi Herzlya,10,9,1,regular,regular
+2007/08,8,9,Bnei Sakhnin,4,2,2,regular,regular
+2007/08,8,9,FC Ashdod,8,9,1,regular,regular
+2007/08,8,9,Hapoel Tel Aviv,12,11,1,regular,regular
+2007/08,8,9,Kiryat Shmona,5,6,1,regular,regular
+2007/08,8,9,M. Petah Tikva,3,4,1,regular,regular
+2007/08,8,9,M. Tel Aviv,11,12,1,regular,regular
+2007/08,8,9,Maccabi Haifa,6,5,1,regular,regular
+2007/08,8,9,Maccabi Herzlya,9,8,1,regular,regular
+2007/08,8,9,Maccabi Netanya,2,3,1,regular,regular
+2007/08,9,10,Bnei Sakhnin,2,3,1,regular,regular
+2007/08,9,10,H. Kfar Saba,7,6,1,regular,regular
+2007/08,9,10,Hapoel Tel Aviv,11,12,1,regular,regular
+2007/08,9,10,Kiryat Shmona,6,7,1,regular,regular
+2007/08,9,10,M. Petah Tikva,4,2,2,regular,regular
+2007/08,9,10,M. Tel Aviv,12,11,1,regular,regular
+2007/08,9,10,Maccabi Netanya,3,4,1,regular,regular
+2007/08,10,11,H. Kfar Saba,6,7,1,regular,regular
+2007/08,10,11,Kiryat Shmona,7,6,1,regular,regular
+2007/08,11,12,Bnei Sakhnin,3,5,2,regular,regular
+2007/08,11,12,Bnei Yehuda,10,11,1,regular,regular
+2007/08,11,12,FC Ashdod,9,8,1,regular,regular
+2007/08,11,12,Kiryat Shmona,6,4,2,regular,regular
+2007/08,11,12,M. Petah Tikva,2,3,1,regular,regular
+2007/08,11,12,M. Tel Aviv,11,10,1,regular,regular
+2007/08,11,12,Maccabi Haifa,5,6,1,regular,regular
+2007/08,11,12,Maccabi Herzlya,8,9,1,regular,regular
+2007/08,11,12,Maccabi Netanya,4,2,2,regular,regular
+2007/08,12,13,Bnei Sakhnin,5,6,1,regular,regular
+2007/08,12,13,FC Ashdod,8,10,2,regular,regular
+2007/08,12,13,Kiryat Shmona,4,5,1,regular,regular
+2007/08,12,13,M. Petah Tikva,3,4,1,regular,regular
+2007/08,12,13,M. Tel Aviv,10,8,2,regular,regular
+2007/08,12,13,Maccabi Haifa,6,3,3,regular,regular
+2007/08,13,14,Bnei Yehuda,11,12,1,regular,regular
+2007/08,13,14,Hapoel Tel Aviv,12,11,1,regular,regular
+2007/08,14,15,Bnei Sakhnin,6,5,1,regular,regular
+2007/08,14,15,Kiryat Shmona,5,4,1,regular,regular
+2007/08,14,15,M. Petah Tikva,4,6,2,regular,regular
+2007/08,14,15,M. Tel Aviv,8,9,1,regular,regular
+2007/08,14,15,Maccabi Herzlya,9,8,1,regular,regular
+2007/08,15,16,FC Ashdod,10,11,1,regular,regular
+2007/08,15,16,Hapoel Tel Aviv,11,10,1,regular,regular
+2007/08,15,16,M. Tel Aviv,9,8,1,regular,regular
+2007/08,15,16,Maccabi Haifa,3,2,1,regular,regular
+2007/08,15,16,Maccabi Herzlya,8,9,1,regular,regular
+2007/08,15,16,Maccabi Netanya,2,3,1,regular,regular
+2007/08,16,17,Bnei Sakhnin,5,4,1,regular,regular
+2007/08,16,17,Bnei Yehuda,12,11,1,regular,regular
+2007/08,16,17,FC Ashdod,11,12,1,regular,regular
+2007/08,16,17,Kiryat Shmona,4,5,1,regular,regular
+2007/08,16,17,M. Tel Aviv,8,9,1,regular,regular
+2007/08,16,17,Maccabi Haifa,2,3,1,regular,regular
+2007/08,16,17,Maccabi Herzlya,9,8,1,regular,regular
+2007/08,16,17,Maccabi Netanya,3,2,1,regular,regular
+2007/08,17,18,Bnei Sakhnin,4,5,1,regular,regular
+2007/08,17,18,Bnei Yehuda,11,12,1,regular,regular
+2007/08,17,18,FC Ashdod,12,11,1,regular,regular
+2007/08,17,18,Kiryat Shmona,5,3,2,regular,regular
+2007/08,17,18,Maccabi Haifa,3,4,1,regular,regular
+2007/08,18,19,Bnei Sakhnin,5,4,1,regular,regular
+2007/08,18,19,Maccabi Haifa,4,5,1,regular,regular
+2007/08,19,20,Bnei Sakhnin,4,5,1,regular,regular
+2007/08,19,20,Kiryat Shmona,3,4,1,regular,regular
+2007/08,19,20,Maccabi Haifa,5,3,2,regular,regular
+2007/08,20,21,Bnei Sakhnin,5,3,2,regular,regular
+2007/08,20,21,Hapoel Tel Aviv,10,9,1,regular,regular
+2007/08,20,21,Kiryat Shmona,4,5,1,regular,regular
+2007/08,20,21,M. Tel Aviv,9,8,1,regular,regular
+2007/08,20,21,Maccabi Haifa,3,4,1,regular,regular
+2007/08,20,21,Maccabi Herzlya,8,10,2,regular,regular
+2007/08,21,22,Bnei Sakhnin,3,4,1,regular,regular
+2007/08,21,22,Kiryat Shmona,5,3,2,regular,regular
+2007/08,21,22,Maccabi Haifa,4,5,1,regular,regular
+2007/08,22,23,Hapoel Tel Aviv,9,10,1,regular,regular
+2007/08,22,23,Maccabi Herzlya,10,9,1,regular,regular
+2007/08,24,25,Bnei Sakhnin,4,5,1,regular,regular
+2007/08,24,25,Hapoel Tel Aviv,10,9,1,regular,regular
+2007/08,24,25,Kiryat Shmona,3,4,1,regular,regular
+2007/08,24,25,Maccabi Haifa,5,3,2,regular,regular
+2007/08,24,25,Maccabi Herzlya,9,10,1,regular,regular
+2007/08,25,26,Bnei Sakhnin,5,4,1,regular,regular
+2007/08,25,26,FC Ashdod,11,10,1,regular,regular
+2007/08,25,26,H. Kfar Saba,7,6,1,regular,regular
+2007/08,25,26,Kiryat Shmona,4,3,1,regular,regular
+2007/08,25,26,M. Petah Tikva,6,8,2,regular,regular
+2007/08,25,26,M. Tel Aviv,8,7,1,regular,regular
+2007/08,25,26,Maccabi Haifa,3,5,2,regular,regular
+2007/08,25,26,Maccabi Herzlya,10,11,1,regular,regular
+2007/08,26,27,FC Ashdod,10,11,1,regular,regular
+2007/08,26,27,H. Kfar Saba,6,8,2,regular,regular
+2007/08,26,27,Hapoel Tel Aviv,9,7,2,regular,regular
+2007/08,26,27,M. Petah Tikva,8,9,1,regular,regular
+2007/08,26,27,M. Tel Aviv,7,6,1,regular,regular
+2007/08,26,27,Maccabi Herzlya,11,10,1,regular,regular
+2007/08,27,28,H. Kfar Saba,8,9,1,regular,regular
+2007/08,27,28,M. Petah Tikva,9,8,1,regular,regular
+2007/08,28,29,FC Ashdod,11,10,1,regular,regular
+2007/08,28,29,H. Kfar Saba,9,8,1,regular,regular
+2007/08,28,29,M. Petah Tikva,8,9,1,regular,regular
+2007/08,28,29,Maccabi Herzlya,10,11,1,regular,regular
+2007/08,29,30,Bnei Yehuda,12,10,2,regular,regular
+2007/08,29,30,FC Ashdod,10,12,2,regular,regular
+2007/08,29,30,H. Kfar Saba,8,9,1,regular,regular
+2007/08,29,30,Hapoel Tel Aviv,7,6,1,regular,regular
+2007/08,29,30,M. Petah Tikva,9,8,1,regular,regular
+2007/08,29,30,M. Tel Aviv,6,7,1,regular,regular
+2007/08,30,31,Bnei Sakhnin,4,3,1,regular,regular
+2007/08,30,31,Bnei Yehuda,10,8,2,regular,regular
+2007/08,30,31,FC Ashdod,12,11,1,regular,regular
+2007/08,30,31,H. Kfar Saba,9,10,1,regular,regular
+2007/08,30,31,Hapoel Tel Aviv,6,7,1,regular,regular
+2007/08,30,31,Kiryat Shmona,3,4,1,regular,regular
+2007/08,30,31,M. Petah Tikva,8,9,1,regular,regular
+2007/08,30,31,M. Tel Aviv,7,6,1,regular,regular
+2007/08,30,31,Maccabi Herzlya,11,12,1,regular,regular
+2007/08,31,32,Bnei Sakhnin,3,4,1,regular,regular
+2007/08,31,32,Bnei Yehuda,8,9,1,regular,regular
+2007/08,31,32,FC Ashdod,11,8,3,regular,regular
+2007/08,31,32,H. Kfar Saba,10,11,1,regular,regular
+2007/08,31,32,Kiryat Shmona,4,3,1,regular,regular
+2007/08,31,32,M. Petah Tikva,9,10,1,regular,regular
+2008/09,1,2,B. Jerusalem,7,8,1,regular,regular
+2008/09,1,2,Bnei Sakhnin,8,10,2,regular,regular
+2008/09,1,2,Bnei Yehuda,11,9,2,regular,regular
+2008/09,1,2,FC Ashdod,12,5,7,regular,regular
+2008/09,1,2,H. Petah Tikva,9,11,2,regular,regular
+2008/09,1,2,Hakoah Amidar,3,6,3,regular,regular
+2008/09,1,2,Hapoel Tel Aviv,4,7,3,regular,regular
+2008/09,1,2,Kiryat Shmona,10,12,2,regular,regular
+2008/09,1,2,M. Petah Tikva,5,3,2,regular,regular
+2008/09,1,2,M. Tel Aviv,2,4,2,regular,regular
+2008/09,1,2,Maccabi Haifa,1,2,1,regular,regular
+2008/09,1,2,Maccabi Netanya,6,1,5,regular,regular
+2008/09,2,3,B. Jerusalem,8,3,5,regular,regular
+2008/09,2,3,Bnei Sakhnin,10,12,2,regular,regular
+2008/09,2,3,Bnei Yehuda,9,11,2,regular,regular
+2008/09,2,3,FC Ashdod,5,8,3,regular,regular
+2008/09,2,3,H. Petah Tikva,11,6,5,regular,regular
+2008/09,2,3,Hakoah Amidar,6,9,3,regular,regular
+2008/09,2,3,Kiryat Shmona,12,10,2,regular,regular
+2008/09,2,3,M. Petah Tikva,3,4,1,regular,regular
+2008/09,2,3,M. Tel Aviv,4,5,1,regular,regular
+2008/09,3,4,B. Jerusalem,3,5,2,regular,regular
+2008/09,3,4,FC Ashdod,8,9,1,regular,regular
+2008/09,3,4,H. Petah Tikva,6,8,2,regular,regular
+2008/09,3,4,Hakoah Amidar,9,10,1,regular,regular
+2008/09,3,4,Hapoel Tel Aviv,7,6,1,regular,regular
+2008/09,3,4,Kiryat Shmona,10,7,3,regular,regular
+2008/09,3,4,M. Tel Aviv,5,3,2,regular,regular
+2008/09,4,5,B. Jerusalem,5,7,2,regular,regular
+2008/09,4,5,Bnei Sakhnin,12,11,1,regular,regular
+2008/09,4,5,Bnei Yehuda,11,12,1,regular,regular
+2008/09,4,5,H. Petah Tikva,8,6,2,regular,regular
+2008/09,4,5,Hapoel Tel Aviv,6,8,2,regular,regular
+2008/09,4,5,Kiryat Shmona,7,5,2,regular,regular
+2008/09,5,6,Bnei Sakhnin,11,12,1,regular,regular
+2008/09,5,6,Bnei Yehuda,12,11,1,regular,regular
+2008/09,5,6,H. Petah Tikva,6,5,1,regular,regular
+2008/09,5,6,Kiryat Shmona,5,6,1,regular,regular
+2008/09,5,6,M. Petah Tikva,4,3,1,regular,regular
+2008/09,5,6,M. Tel Aviv,3,4,1,regular,regular
+2008/09,5,6,Maccabi Haifa,2,1,1,regular,regular
+2008/09,5,6,Maccabi Netanya,1,2,1,regular,regular
+2008/09,6,7,B. Jerusalem,7,4,3,regular,regular
+2008/09,6,7,Bnei Sakhnin,12,10,2,regular,regular
+2008/09,6,7,Bnei Yehuda,11,12,1,regular,regular
+2008/09,6,7,H. Petah Tikva,5,7,2,regular,regular
+2008/09,6,7,Hakoah Amidar,10,11,1,regular,regular
+2008/09,6,7,Hapoel Tel Aviv,8,5,3,regular,regular
+2008/09,6,7,Kiryat Shmona,6,8,2,regular,regular
+2008/09,6,7,M. Tel Aviv,4,6,2,regular,regular
+2008/09,7,8,B. Jerusalem,4,7,3,regular,regular
+2008/09,7,8,Bnei Sakhnin,10,11,1,regular,regular
+2008/09,7,8,Bnei Yehuda,12,10,2,regular,regular
+2008/09,7,8,H. Petah Tikva,7,5,2,regular,regular
+2008/09,7,8,Hakoah Amidar,11,12,1,regular,regular
+2008/09,7,8,Hapoel Tel Aviv,5,4,1,regular,regular
+2008/09,7,8,Kiryat Shmona,8,6,2,regular,regular
+2008/09,7,8,M. Tel Aviv,6,8,2,regular,regular
+2008/09,8,9,B. Jerusalem,7,5,2,regular,regular
+2008/09,8,9,Bnei Yehuda,10,12,2,regular,regular
+2008/09,8,9,FC Ashdod,9,6,3,regular,regular
+2008/09,8,9,H. Petah Tikva,5,8,3,regular,regular
+2008/09,8,9,Hakoah Amidar,12,10,2,regular,regular
+2008/09,8,9,Kiryat Shmona,6,9,3,regular,regular
+2008/09,8,9,M. Tel Aviv,8,7,1,regular,regular
+2008/09,8,9,Maccabi Haifa,1,2,1,regular,regular
+2008/09,8,9,Maccabi Netanya,2,1,1,regular,regular
+2008/09,9,10,B. Jerusalem,5,3,2,regular,regular
+2008/09,9,10,Bnei Sakhnin,11,10,1,regular,regular
+2008/09,9,10,FC Ashdod,6,7,1,regular,regular
+2008/09,9,10,H. Petah Tikva,8,6,2,regular,regular
+2008/09,9,10,Hakoah Amidar,10,11,1,regular,regular
+2008/09,9,10,Hapoel Tel Aviv,4,5,1,regular,regular
+2008/09,9,10,M. Petah Tikva,3,4,1,regular,regular
+2008/09,9,10,M. Tel Aviv,7,8,1,regular,regular
+2008/09,9,10,Maccabi Haifa,2,1,1,regular,regular
+2008/09,9,10,Maccabi Netanya,1,2,1,regular,regular
+2008/09,10,11,B. Jerusalem,3,4,1,regular,regular
+2008/09,10,11,Bnei Sakhnin,10,11,1,regular,regular
+2008/09,10,11,Bnei Yehuda,12,10,2,regular,regular
+2008/09,10,11,FC Ashdod,7,6,1,regular,regular
+2008/09,10,11,H. Petah Tikva,6,7,1,regular,regular
+2008/09,10,11,Hakoah Amidar,11,12,1,regular,regular
+2008/09,10,11,Hapoel Tel Aviv,5,3,2,regular,regular
+2008/09,10,11,M. Petah Tikva,4,5,1,regular,regular
+2008/09,11,12,Bnei Yehuda,10,9,1,regular,regular
+2008/09,11,12,FC Ashdod,6,7,1,regular,regular
+2008/09,11,12,H. Petah Tikva,7,6,1,regular,regular
+2008/09,11,12,Kiryat Shmona,9,10,1,regular,regular
+2008/09,12,13,Bnei Yehuda,9,8,1,regular,regular
+2008/09,12,13,H. Petah Tikva,6,5,1,regular,regular
+2008/09,12,13,M. Petah Tikva,5,6,1,regular,regular
+2008/09,12,13,M. Tel Aviv,8,9,1,regular,regular
+2008/09,13,14,Bnei Yehuda,8,9,1,regular,regular
+2008/09,13,14,FC Ashdod,7,5,2,regular,regular
+2008/09,13,14,H. Petah Tikva,5,7,2,regular,regular
+2008/09,13,14,M. Tel Aviv,9,8,1,regular,regular
+2008/09,14,15,Bnei Sakhnin,11,10,1,regular,regular
+2008/09,14,15,Bnei Yehuda,9,7,2,regular,regular
+2008/09,14,15,H. Petah Tikva,7,8,1,regular,regular
+2008/09,14,15,Kiryat Shmona,10,11,1,regular,regular
+2008/09,14,15,M. Tel Aviv,8,9,1,regular,regular
+2008/09,15,16,Bnei Sakhnin,10,11,1,regular,regular
+2008/09,15,16,FC Ashdod,5,6,1,regular,regular
+2008/09,15,16,Kiryat Shmona,11,10,1,regular,regular
+2008/09,15,16,M. Petah Tikva,6,5,1,regular,regular
+2008/09,16,17,Bnei Yehuda,7,6,1,regular,regular
+2008/09,16,17,FC Ashdod,6,7,1,regular,regular
+2008/09,16,17,H. Petah Tikva,8,9,1,regular,regular
+2008/09,16,17,Hapoel Tel Aviv,3,2,1,regular,regular
+2008/09,16,17,M. Tel Aviv,9,8,1,regular,regular
+2008/09,16,17,Maccabi Netanya,2,3,1,regular,regular
+2008/09,17,18,Bnei Sakhnin,11,10,1,regular,regular
+2008/09,17,18,Bnei Yehuda,6,5,1,regular,regular
+2008/09,17,18,Hapoel Tel Aviv,2,3,1,regular,regular
+2008/09,17,18,Kiryat Shmona,10,11,1,regular,regular
+2008/09,17,18,M. Petah Tikva,5,6,1,regular,regular
+2008/09,17,18,Maccabi Netanya,3,2,1,regular,regular
+2008/09,18,19,FC Ashdod,7,8,1,regular,regular
+2008/09,18,19,Hapoel Tel Aviv,3,2,1,regular,regular
+2008/09,18,19,M. Tel Aviv,8,7,1,regular,regular
+2008/09,18,19,Maccabi Netanya,2,3,1,regular,regular
+2008/09,19,20,Bnei Yehuda,5,6,1,regular,regular
+2008/09,19,20,FC Ashdod,8,7,1,regular,regular
+2008/09,19,20,Hapoel Tel Aviv,2,3,1,regular,regular
+2008/09,19,20,M. Petah Tikva,6,5,1,regular,regular
+2008/09,19,20,M. Tel Aviv,7,8,1,regular,regular
+2008/09,19,20,Maccabi Netanya,3,2,1,regular,regular
+2008/09,20,21,Bnei Sakhnin,10,11,1,regular,regular
+2008/09,20,21,Bnei Yehuda,6,5,1,regular,regular
+2008/09,20,21,H. Petah Tikva,9,8,1,regular,regular
+2008/09,20,21,Hapoel Tel Aviv,3,2,1,regular,regular
+2008/09,20,21,Kiryat Shmona,11,10,1,regular,regular
+2008/09,20,21,M. Petah Tikva,5,6,1,regular,regular
+2008/09,20,21,M. Tel Aviv,8,9,1,regular,regular
+2008/09,20,21,Maccabi Netanya,2,3,1,regular,regular
+2008/09,22,23,B. Jerusalem,4,2,2,regular,regular
+2008/09,22,23,Bnei Sakhnin,11,10,1,regular,regular
+2008/09,22,23,FC Ashdod,7,6,1,regular,regular
+2008/09,22,23,H. Petah Tikva,8,9,1,regular,regular
+2008/09,22,23,Hapoel Tel Aviv,2,3,1,regular,regular
+2008/09,22,23,Kiryat Shmona,10,11,1,regular,regular
+2008/09,22,23,M. Petah Tikva,6,7,1,regular,regular
+2008/09,22,23,M. Tel Aviv,9,8,1,regular,regular
+2008/09,22,23,Maccabi Netanya,3,4,1,regular,regular
+2008/09,23,24,B. Jerusalem,2,4,2,regular,regular
+2008/09,23,24,Hapoel Tel Aviv,3,2,1,regular,regular
+2008/09,23,24,Maccabi Netanya,4,3,1,regular,regular
+2008/09,24,25,B. Jerusalem,4,3,1,regular,regular
+2008/09,24,25,Maccabi Netanya,3,4,1,regular,regular
+2008/09,25,26,FC Ashdod,6,8,2,regular,regular
+2008/09,25,26,Hakoah Amidar,12,11,1,regular,regular
+2008/09,25,26,Kiryat Shmona,11,12,1,regular,regular
+2008/09,25,26,M. Petah Tikva,7,6,1,regular,regular
+2008/09,25,26,M. Tel Aviv,8,7,1,regular,regular
+2008/09,26,27,Hapoel Tel Aviv,2,1,1,regular,regular
+2008/09,26,27,M. Petah Tikva,6,7,1,regular,regular
+2008/09,26,27,M. Tel Aviv,7,6,1,regular,regular
+2008/09,26,27,Maccabi Haifa,1,2,1,regular,regular
+2008/09,27,28,Hapoel Tel Aviv,1,2,1,regular,regular
+2008/09,27,28,Maccabi Haifa,2,1,1,regular,regular
+2008/09,28,29,Hapoel Tel Aviv,2,1,1,regular,regular
+2008/09,28,29,Maccabi Haifa,1,2,1,regular,regular
+2008/09,29,30,Bnei Sakhnin,10,9,1,regular,regular
+2008/09,29,30,H. Petah Tikva,9,10,1,regular,regular
+2008/09,29,30,Hapoel Tel Aviv,1,2,1,regular,regular
+2008/09,29,30,M. Petah Tikva,7,6,1,regular,regular
+2008/09,29,30,M. Tel Aviv,6,7,1,regular,regular
+2008/09,29,30,Maccabi Haifa,2,1,1,regular,regular
+2008/09,30,31,Bnei Sakhnin,9,10,1,regular,regular
+2008/09,30,31,H. Petah Tikva,10,9,1,regular,regular
+2008/09,30,31,Hakoah Amidar,11,12,1,regular,regular
+2008/09,30,31,Kiryat Shmona,12,11,1,regular,regular
+2008/09,30,31,M. Petah Tikva,6,7,1,regular,regular
+2008/09,30,31,M. Tel Aviv,7,6,1,regular,regular
+2008/09,31,32,FC Ashdod,8,7,1,regular,regular
+2008/09,31,32,M. Petah Tikva,7,8,1,regular,regular
+2008/09,32,33,Bnei Sakhnin,10,9,1,regular,regular
+2008/09,32,33,FC Ashdod,7,8,1,regular,regular
+2008/09,32,33,H. Petah Tikva,9,10,1,regular,regular
+2008/09,32,33,Hakoah Amidar,12,11,1,regular,regular
+2008/09,32,33,Kiryat Shmona,11,12,1,regular,regular
+2008/09,32,33,M. Petah Tikva,8,7,1,regular,regular
+2009/10,1,2,B. Jerusalem,9,11,2,regular,regular
+2009/10,1,2,Bnei Sakhnin,15,14,1,regular,regular
+2009/10,1,2,FC Ashdod,16,7,9,regular,regular
+2009/10,1,2,H. Beer Sheva,3,4,1,regular,regular
+2009/10,1,2,H. Petah Tikva,4,6,2,regular,regular
+2009/10,1,2,H. Ramat Gan,7,8,1,regular,regular
+2009/10,1,2,Hapoel Acre,11,12,1,regular,regular
+2009/10,1,2,Hapoel Raanana,12,15,3,regular,regular
+2009/10,1,2,M. Ahi Nazareth,13,16,3,regular,regular
+2009/10,1,2,M. Petah Tikva,8,9,1,regular,regular
+2009/10,1,2,Maccabi Haifa,6,3,3,regular,regular
+2009/10,1,2,Maccabi Netanya,14,13,1,regular,regular
+2009/10,2,3,B. Jerusalem,11,7,4,regular,regular
+2009/10,2,3,Bnei Sakhnin,14,8,6,regular,regular
+2009/10,2,3,Bnei Yehuda,1,2,1,regular,regular
+2009/10,2,3,FC Ashdod,7,5,2,regular,regular
+2009/10,2,3,H. Beer Sheva,4,9,5,regular,regular
+2009/10,2,3,H. Petah Tikva,6,10,4,regular,regular
+2009/10,2,3,H. Ramat Gan,8,12,4,regular,regular
+2009/10,2,3,Hapoel Acre,12,14,2,regular,regular
+2009/10,2,3,Hapoel Haifa,5,4,1,regular,regular
+2009/10,2,3,Hapoel Tel Aviv,10,6,4,regular,regular
+2009/10,2,3,M. Petah Tikva,9,13,4,regular,regular
+2009/10,2,3,M. Tel Aviv,2,3,1,regular,regular
+2009/10,2,3,Maccabi Haifa,3,1,2,regular,regular
+2009/10,2,3,Maccabi Netanya,13,11,2,regular,regular
+2009/10,3,4,B. Jerusalem,7,4,3,regular,regular
+2009/10,3,4,Bnei Sakhnin,8,10,2,regular,regular
+2009/10,3,4,FC Ashdod,5,6,1,regular,regular
+2009/10,3,4,H. Beer Sheva,9,11,2,regular,regular
+2009/10,3,4,H. Petah Tikva,10,13,3,regular,regular
+2009/10,3,4,H. Ramat Gan,12,9,3,regular,regular
+2009/10,3,4,Hapoel Acre,14,16,2,regular,regular
+2009/10,3,4,Hapoel Haifa,4,3,1,regular,regular
+2009/10,3,4,Hapoel Tel Aviv,6,8,2,regular,regular
+2009/10,3,4,M. Ahi Nazareth,16,12,4,regular,regular
+2009/10,3,4,M. Petah Tikva,13,7,6,regular,regular
+2009/10,3,4,M. Tel Aviv,3,5,2,regular,regular
+2009/10,3,4,Maccabi Netanya,11,14,3,regular,regular
+2009/10,4,5,Bnei Sakhnin,10,12,2,regular,regular
+2009/10,4,5,Bnei Yehuda,2,3,1,regular,regular
+2009/10,4,5,FC Ashdod,6,7,1,regular,regular
+2009/10,4,5,H. Beer Sheva,11,8,3,regular,regular
+2009/10,4,5,Hapoel Acre,16,14,2,regular,regular
+2009/10,4,5,Hapoel Haifa,3,2,1,regular,regular
+2009/10,4,5,Hapoel Tel Aviv,8,5,3,regular,regular
+2009/10,4,5,M. Ahi Nazareth,12,10,2,regular,regular
+2009/10,4,5,M. Petah Tikva,7,11,4,regular,regular
+2009/10,4,5,M. Tel Aviv,5,6,1,regular,regular
+2009/10,4,5,Maccabi Netanya,14,16,2,regular,regular
+2009/10,5,6,Bnei Sakhnin,12,14,2,regular,regular
+2009/10,5,6,Bnei Yehuda,3,5,2,regular,regular
+2009/10,5,6,H. Beer Sheva,8,9,1,regular,regular
+2009/10,5,6,H. Petah Tikva,13,10,3,regular,regular
+2009/10,5,6,H. Ramat Gan,9,11,2,regular,regular
+2009/10,5,6,Hapoel Acre,14,15,1,regular,regular
+2009/10,5,6,Hapoel Raanana,15,16,1,regular,regular
+2009/10,5,6,Hapoel Tel Aviv,5,6,1,regular,regular
+2009/10,5,6,M. Ahi Nazareth,10,8,2,regular,regular
+2009/10,5,6,M. Petah Tikva,11,13,2,regular,regular
+2009/10,5,6,M. Tel Aviv,6,3,3,regular,regular
+2009/10,5,6,Maccabi Netanya,16,12,4,regular,regular
+2009/10,6,7,B. Jerusalem,4,6,2,regular,regular
+2009/10,6,7,Bnei Yehuda,5,3,2,regular,regular
+2009/10,6,7,H. Ramat Gan,11,12,1,regular,regular
+2009/10,6,7,Hapoel Haifa,2,5,3,regular,regular
+2009/10,6,7,Hapoel Tel Aviv,6,4,2,regular,regular
+2009/10,6,7,M. Tel Aviv,3,2,1,regular,regular
+2009/10,6,7,Maccabi Netanya,12,11,1,regular,regular
+2009/10,7,8,B. Jerusalem,6,4,2,regular,regular
+2009/10,7,8,FC Ashdod,7,8,1,regular,regular
+2009/10,7,8,H. Beer Sheva,9,7,2,regular,regular
+2009/10,7,8,H. Petah Tikva,10,12,2,regular,regular
+2009/10,7,8,H. Ramat Gan,12,9,3,regular,regular
+2009/10,7,8,Hapoel Acre,15,16,1,regular,regular
+2009/10,7,8,Hapoel Haifa,5,6,1,regular,regular
+2009/10,7,8,Hapoel Raanana,16,15,1,regular,regular
+2009/10,7,8,Hapoel Tel Aviv,4,2,2,regular,regular
+2009/10,7,8,M. Ahi Nazareth,8,11,3,regular,regular
+2009/10,7,8,M. Petah Tikva,13,10,3,regular,regular
+2009/10,7,8,M. Tel Aviv,2,5,3,regular,regular
+2009/10,7,8,Maccabi Netanya,11,13,2,regular,regular
+2009/10,8,9,B. Jerusalem,4,5,1,regular,regular
+2009/10,8,9,Bnei Sakhnin,14,15,1,regular,regular
+2009/10,8,9,FC Ashdod,8,10,2,regular,regular
+2009/10,8,9,H. Beer Sheva,7,6,1,regular,regular
+2009/10,8,9,H. Ramat Gan,9,8,1,regular,regular
+2009/10,8,9,Hapoel Acre,16,14,2,regular,regular
+2009/10,8,9,Hapoel Haifa,6,7,1,regular,regular
+2009/10,8,9,Hapoel Raanana,15,16,1,regular,regular
+2009/10,8,9,M. Ahi Nazareth,11,13,2,regular,regular
+2009/10,8,9,M. Petah Tikva,10,9,1,regular,regular
+2009/10,8,9,M. Tel Aviv,5,4,1,regular,regular
+2009/10,8,9,Maccabi Netanya,13,11,2,regular,regular
+2009/10,9,10,Bnei Sakhnin,15,13,2,regular,regular
+2009/10,9,10,FC Ashdod,10,7,3,regular,regular
+2009/10,9,10,H. Petah Tikva,12,15,3,regular,regular
+2009/10,9,10,H. Ramat Gan,8,10,2,regular,regular
+2009/10,9,10,Hapoel Acre,14,11,3,regular,regular
+2009/10,9,10,Hapoel Haifa,7,8,1,regular,regular
+2009/10,9,10,Hapoel Raanana,16,14,2,regular,regular
+2009/10,9,10,M. Ahi Nazareth,13,16,3,regular,regular
+2009/10,9,10,Maccabi Netanya,11,12,1,regular,regular
+2009/10,10,11,B. Jerusalem,5,6,1,regular,regular
+2009/10,10,11,Bnei Yehuda,3,4,1,regular,regular
+2009/10,10,11,FC Ashdod,7,5,2,regular,regular
+2009/10,10,11,H. Beer Sheva,6,7,1,regular,regular
+2009/10,10,11,H. Ramat Gan,10,11,1,regular,regular
+2009/10,10,11,Hapoel Acre,11,12,1,regular,regular
+2009/10,10,11,M. Petah Tikva,9,10,1,regular,regular
+2009/10,10,11,M. Tel Aviv,4,3,1,regular,regular
+2009/10,10,11,Maccabi Netanya,12,9,3,regular,regular
+2009/10,11,12,Bnei Yehuda,4,3,1,regular,regular
+2009/10,11,12,H. Ramat Gan,11,10,1,regular,regular
+2009/10,11,12,Hapoel Acre,12,11,1,regular,regular
+2009/10,11,12,Hapoel Haifa,8,9,1,regular,regular
+2009/10,11,12,M. Petah Tikva,10,12,2,regular,regular
+2009/10,11,12,M. Tel Aviv,3,4,1,regular,regular
+2009/10,11,12,Maccabi Netanya,9,8,1,regular,regular
+2009/10,12,13,B. Jerusalem,6,5,1,regular,regular
+2009/10,12,13,Bnei Sakhnin,13,14,1,regular,regular
+2009/10,12,13,FC Ashdod,5,7,2,regular,regular
+2009/10,12,13,H. Beer Sheva,7,6,1,regular,regular
+2009/10,12,13,Hapoel Raanana,14,13,1,regular,regular
+2009/10,13,14,Bnei Sakhnin,14,13,1,regular,regular
+2009/10,13,14,Bnei Yehuda,3,4,1,regular,regular
+2009/10,13,14,H. Beer Sheva,6,9,3,regular,regular
+2009/10,13,14,H. Petah Tikva,15,16,1,regular,regular
+2009/10,13,14,H. Ramat Gan,10,11,1,regular,regular
+2009/10,13,14,Hapoel Acre,11,10,1,regular,regular
+2009/10,13,14,Hapoel Haifa,9,8,1,regular,regular
+2009/10,13,14,Hapoel Raanana,13,14,1,regular,regular
+2009/10,13,14,M. Ahi Nazareth,16,15,1,regular,regular
+2009/10,13,14,M. Tel Aviv,4,3,1,regular,regular
+2009/10,13,14,Maccabi Netanya,8,6,2,regular,regular
+2009/10,14,15,FC Ashdod,7,8,1,regular,regular
+2009/10,14,15,H. Beer Sheva,9,6,3,regular,regular
+2009/10,14,15,Hapoel Haifa,8,9,1,regular,regular
+2009/10,14,15,Hapoel Raanana,14,12,2,regular,regular
+2009/10,14,15,M. Petah Tikva,12,14,2,regular,regular
+2009/10,14,15,Maccabi Netanya,6,7,1,regular,regular
+2009/10,15,16,Bnei Sakhnin,13,15,2,regular,regular
+2009/10,15,16,FC Ashdod,8,6,2,regular,regular
+2009/10,15,16,H. Beer Sheva,6,7,1,regular,regular
+2009/10,15,16,H. Petah Tikva,16,14,2,regular,regular
+2009/10,15,16,Hapoel Raanana,12,13,1,regular,regular
+2009/10,15,16,M. Ahi Nazareth,15,16,1,regular,regular
+2009/10,15,16,M. Petah Tikva,14,12,2,regular,regular
+2009/10,15,16,Maccabi Netanya,7,8,1,regular,regular
+2009/10,16,17,H. Ramat Gan,11,12,1,regular,regular
+2009/10,16,17,M. Petah Tikva,12,11,1,regular,regular
+2009/10,17,18,B. Jerusalem,5,6,1,regular,regular
+2009/10,17,18,FC Ashdod,6,5,1,regular,regular
+2009/10,17,18,H. Beer Sheva,7,8,1,regular,regular
+2009/10,17,18,H. Petah Tikva,14,13,1,regular,regular
+2009/10,17,18,H. Ramat Gan,12,14,2,regular,regular
+2009/10,17,18,Hapoel Acre,10,11,1,regular,regular
+2009/10,17,18,Hapoel Raanana,13,12,1,regular,regular
+2009/10,17,18,M. Petah Tikva,11,10,1,regular,regular
+2009/10,17,18,Maccabi Netanya,8,7,1,regular,regular
+2009/10,18,19,Bnei Sakhnin,15,12,3,regular,regular
+2009/10,18,19,H. Petah Tikva,13,15,2,regular,regular
+2009/10,18,19,H. Ramat Gan,14,11,3,regular,regular
+2009/10,18,19,Hapoel Acre,11,13,2,regular,regular
+2009/10,18,19,Hapoel Raanana,12,14,2,regular,regular
+2009/10,19,20,Bnei Sakhnin,12,11,1,regular,regular
+2009/10,19,20,H. Petah Tikva,15,14,1,regular,regular
+2009/10,19,20,H. Ramat Gan,11,12,1,regular,regular
+2009/10,19,20,Hapoel Acre,13,16,3,regular,regular
+2009/10,19,20,Hapoel Raanana,14,13,1,regular,regular
+2009/10,19,20,M. Ahi Nazareth,16,15,1,regular,regular
+2009/10,20,21,B. Jerusalem,6,5,1,regular,regular
+2009/10,20,21,Bnei Sakhnin,11,9,2,regular,regular
+2009/10,20,21,FC Ashdod,5,6,1,regular,regular
+2009/10,20,21,H. Petah Tikva,14,13,1,regular,regular
+2009/10,20,21,Hapoel Haifa,9,10,1,regular,regular
+2009/10,20,21,Hapoel Raanana,13,14,1,regular,regular
+2009/10,20,21,M. Petah Tikva,10,11,1,regular,regular
+2009/10,21,22,B. Jerusalem,5,6,1,regular,regular
+2009/10,21,22,FC Ashdod,6,5,1,regular,regular
+2009/10,21,22,H. Beer Sheva,8,7,1,regular,regular
+2009/10,21,22,Hapoel Acre,16,14,2,regular,regular
+2009/10,21,22,Hapoel Haifa,10,11,1,regular,regular
+2009/10,21,22,Hapoel Raanana,14,15,1,regular,regular
+2009/10,21,22,M. Ahi Nazareth,15,16,1,regular,regular
+2009/10,21,22,M. Petah Tikva,11,10,1,regular,regular
+2009/10,21,22,Maccabi Netanya,7,8,1,regular,regular
+2009/10,22,23,B. Jerusalem,6,7,1,regular,regular
+2009/10,22,23,H. Beer Sheva,7,8,1,regular,regular
+2009/10,22,23,H. Petah Tikva,13,12,1,regular,regular
+2009/10,22,23,H. Ramat Gan,12,13,1,regular,regular
+2009/10,22,23,Maccabi Netanya,8,6,2,regular,regular
+2009/10,23,24,B. Jerusalem,7,6,1,regular,regular
+2009/10,23,24,Bnei Sakhnin,9,10,1,regular,regular
+2009/10,23,24,Hapoel Raanana,15,16,1,regular,regular
+2009/10,23,24,M. Ahi Nazareth,16,15,1,regular,regular
+2009/10,23,24,M. Petah Tikva,10,9,1,regular,regular
+2009/10,23,24,Maccabi Netanya,6,7,1,regular,regular
+2009/10,24,25,Bnei Sakhnin,10,11,1,regular,regular
+2009/10,24,25,H. Petah Tikva,12,13,1,regular,regular
+2009/10,24,25,H. Ramat Gan,13,12,1,regular,regular
+2009/10,24,25,Hapoel Haifa,11,10,1,regular,regular
+2009/10,24,25,M. Petah Tikva,9,7,2,regular,regular
+2009/10,24,25,Maccabi Netanya,7,9,2,regular,regular
+2009/10,25,26,B. Jerusalem,6,5,1,regular,regular
+2009/10,25,26,FC Ashdod,5,6,1,regular,regular
+2009/10,25,26,H. Beer Sheva,8,7,1,regular,regular
+2009/10,25,26,M. Petah Tikva,7,9,2,regular,regular
+2009/10,25,26,Maccabi Netanya,9,8,1,regular,regular
+2009/10,26,27,Bnei Sakhnin,11,10,1,regular,regular
+2009/10,26,27,H. Beer Sheva,7,8,1,regular,regular
+2009/10,26,27,Hapoel Haifa,10,11,1,regular,regular
+2009/10,26,27,Maccabi Netanya,8,7,1,regular,regular
+2009/10,27,28,B. Jerusalem,5,4,1,regular,regular
+2009/10,27,28,Bnei Sakhnin,10,9,1,regular,regular
+2009/10,27,28,Bnei Yehuda,4,5,1,regular,regular
+2009/10,27,28,H. Beer Sheva,8,7,1,regular,regular
+2009/10,27,28,H. Ramat Gan,12,11,1,regular,regular
+2009/10,27,28,Hapoel Haifa,11,12,1,regular,regular
+2009/10,27,28,M. Petah Tikva,9,10,1,regular,regular
+2009/10,27,28,Maccabi Netanya,7,8,1,regular,regular
+2009/10,28,29,Bnei Sakhnin,9,7,2,regular,regular
+2009/10,28,29,H. Beer Sheva,7,8,1,regular,regular
+2009/10,28,29,Maccabi Netanya,8,9,1,regular,regular
+2010/11,1,2,Bnei Sakhnin,15,14,1,regular,regular
+2010/11,1,2,Bnei Yehuda,8,6,2,regular,regular
+2010/11,1,2,FC Ashdod,4,5,1,regular,regular
+2010/11,1,2,H. Ashkelon,2,10,8,regular,regular
+2010/11,1,2,H. Beer Sheva,5,8,3,regular,regular
+2010/11,1,2,H. Petah Tikva,14,13,1,regular,regular
+2010/11,1,2,H. Ramat Gan,9,12,3,regular,regular
+2010/11,1,2,Hapoel Acre,10,11,1,regular,regular
+2010/11,1,2,Hapoel Haifa,6,1,5,regular,regular
+2010/11,1,2,Hapoel Tel Aviv,11,7,4,regular,regular
+2010/11,1,2,Kiryat Shmona,3,4,1,regular,regular
+2010/11,1,2,M. Petah Tikva,12,15,3,regular,regular
+2010/11,1,2,M. Tel Aviv,13,9,4,regular,regular
+2010/11,1,2,Maccabi Haifa,7,2,5,regular,regular
+2010/11,1,2,Maccabi Netanya,1,3,2,regular,regular
+2010/11,2,3,Bnei Sakhnin,14,15,1,regular,regular
+2010/11,2,3,Bnei Yehuda,6,9,3,regular,regular
+2010/11,2,3,FC Ashdod,5,8,3,regular,regular
+2010/11,2,3,H. Beer Sheva,8,7,1,regular,regular
+2010/11,2,3,H. Petah Tikva,13,14,1,regular,regular
+2010/11,2,3,H. Ramat Gan,12,13,1,regular,regular
+2010/11,2,3,Hapoel Acre,11,12,1,regular,regular
+2010/11,2,3,Hapoel Tel Aviv,7,6,1,regular,regular
+2010/11,2,3,Kiryat Shmona,4,3,1,regular,regular
+2010/11,2,3,M. Petah Tikva,15,11,4,regular,regular
+2010/11,2,3,M. Tel Aviv,9,5,4,regular,regular
+2010/11,2,3,Maccabi Haifa,2,4,2,regular,regular
+2010/11,2,3,Maccabi Netanya,3,2,1,regular,regular
+2010/11,3,4,B. Jerusalem,16,13,3,regular,regular
+2010/11,3,4,Bnei Sakhnin,15,16,1,regular,regular
+2010/11,3,4,Bnei Yehuda,9,11,2,regular,regular
+2010/11,3,4,FC Ashdod,8,10,2,regular,regular
+2010/11,3,4,H. Ashkelon,10,6,4,regular,regular
+2010/11,3,4,H. Beer Sheva,7,12,5,regular,regular
+2010/11,3,4,H. Petah Tikva,14,15,1,regular,regular
+2010/11,3,4,H. Ramat Gan,13,8,5,regular,regular
+2010/11,3,4,Hapoel Acre,12,14,2,regular,regular
+2010/11,3,4,Hapoel Haifa,1,4,3,regular,regular
+2010/11,3,4,Hapoel Tel Aviv,6,9,3,regular,regular
+2010/11,3,4,Kiryat Shmona,3,1,2,regular,regular
+2010/11,3,4,M. Petah Tikva,11,7,4,regular,regular
+2010/11,3,4,M. Tel Aviv,5,3,2,regular,regular
+2010/11,3,4,Maccabi Haifa,4,2,2,regular,regular
+2010/11,3,4,Maccabi Netanya,2,5,3,regular,regular
+2010/11,4,5,B. Jerusalem,13,14,1,regular,regular
+2010/11,4,5,Bnei Yehuda,11,13,2,regular,regular
+2010/11,4,5,FC Ashdod,10,12,2,regular,regular
+2010/11,4,5,H. Beer Sheva,12,9,3,regular,regular
+2010/11,4,5,H. Ramat Gan,8,11,3,regular,regular
+2010/11,4,5,Hapoel Acre,14,10,4,regular,regular
+2010/11,4,5,Hapoel Tel Aviv,9,7,2,regular,regular
+2010/11,4,5,M. Petah Tikva,7,8,1,regular,regular
+2010/11,4,5,M. Tel Aviv,3,2,1,regular,regular
+2010/11,4,5,Maccabi Haifa,2,3,1,regular,regular
+2010/11,5,6,Bnei Yehuda,13,9,4,regular,regular
+2010/11,5,6,H. Ashkelon,6,8,2,regular,regular
+2010/11,5,6,H. Beer Sheva,9,10,1,regular,regular
+2010/11,5,6,H. Ramat Gan,11,13,2,regular,regular
+2010/11,5,6,Hapoel Acre,10,11,1,regular,regular
+2010/11,5,6,Hapoel Haifa,4,7,3,regular,regular
+2010/11,5,6,Hapoel Tel Aviv,7,5,2,regular,regular
+2010/11,5,6,M. Petah Tikva,8,6,2,regular,regular
+2010/11,5,6,M. Tel Aviv,2,3,1,regular,regular
+2010/11,5,6,Maccabi Haifa,3,2,1,regular,regular
+2010/11,5,6,Maccabi Netanya,5,4,1,regular,regular
+2010/11,6,7,B. Jerusalem,14,13,1,regular,regular
+2010/11,6,7,Bnei Yehuda,9,11,2,regular,regular
+2010/11,6,7,H. Ashkelon,8,7,1,regular,regular
+2010/11,6,7,H. Ramat Gan,13,14,1,regular,regular
+2010/11,6,7,Hapoel Acre,11,9,2,regular,regular
+2010/11,6,7,Hapoel Haifa,7,8,1,regular,regular
+2010/11,6,7,Hapoel Tel Aviv,5,4,1,regular,regular
+2010/11,6,7,M. Tel Aviv,3,2,1,regular,regular
+2010/11,6,7,Maccabi Haifa,2,3,1,regular,regular
+2010/11,6,7,Maccabi Netanya,4,5,1,regular,regular
+2010/11,7,8,Bnei Yehuda,11,9,2,regular,regular
+2010/11,7,8,FC Ashdod,12,10,2,regular,regular
+2010/11,7,8,H. Ashkelon,7,11,4,regular,regular
+2010/11,7,8,H. Beer Sheva,10,12,2,regular,regular
+2010/11,7,8,Hapoel Acre,9,7,2,regular,regular
+2010/11,7,8,Kiryat Shmona,1,2,1,regular,regular
+2010/11,7,8,M. Tel Aviv,2,3,1,regular,regular
+2010/11,7,8,Maccabi Haifa,3,1,2,regular,regular
+2010/11,8,9,B. Jerusalem,13,14,1,regular,regular
+2010/11,8,9,Bnei Yehuda,9,10,1,regular,regular
+2010/11,8,9,FC Ashdod,10,8,2,regular,regular
+2010/11,8,9,H. Ashkelon,11,12,1,regular,regular
+2010/11,8,9,H. Beer Sheva,12,11,1,regular,regular
+2010/11,8,9,H. Petah Tikva,15,13,2,regular,regular
+2010/11,8,9,H. Ramat Gan,14,15,1,regular,regular
+2010/11,8,9,Hapoel Acre,7,5,2,regular,regular
+2010/11,8,9,Hapoel Haifa,8,7,1,regular,regular
+2010/11,8,9,Hapoel Tel Aviv,4,2,2,regular,regular
+2010/11,8,9,Kiryat Shmona,2,3,1,regular,regular
+2010/11,8,9,M. Petah Tikva,6,9,3,regular,regular
+2010/11,8,9,M. Tel Aviv,3,1,2,regular,regular
+2010/11,8,9,Maccabi Haifa,1,4,3,regular,regular
+2010/11,8,9,Maccabi Netanya,5,6,1,regular,regular
+2010/11,9,10,B. Jerusalem,14,13,1,regular,regular
+2010/11,9,10,FC Ashdod,8,9,1,regular,regular
+2010/11,9,10,H. Petah Tikva,13,14,1,regular,regular
+2010/11,9,10,Hapoel Haifa,7,8,1,regular,regular
+2010/11,9,10,Hapoel Tel Aviv,2,3,1,regular,regular
+2010/11,9,10,Kiryat Shmona,3,1,2,regular,regular
+2010/11,9,10,M. Petah Tikva,9,6,3,regular,regular
+2010/11,9,10,M. Tel Aviv,1,4,3,regular,regular
+2010/11,9,10,Maccabi Haifa,4,2,2,regular,regular
+2010/11,9,10,Maccabi Netanya,6,7,1,regular,regular
+2010/11,10,11,Bnei Yehuda,10,11,1,regular,regular
+2010/11,10,11,FC Ashdod,9,10,1,regular,regular
+2010/11,10,11,H. Beer Sheva,11,9,2,regular,regular
+2010/11,10,11,Hapoel Acre,5,4,1,regular,regular
+2010/11,10,11,Hapoel Tel Aviv,3,2,1,regular,regular
+2010/11,10,11,M. Tel Aviv,4,5,1,regular,regular
+2010/11,10,11,Maccabi Haifa,2,3,1,regular,regular
+2010/11,11,12,B. Jerusalem,13,12,1,regular,regular
+2010/11,11,12,Bnei Sakhnin,16,15,1,regular,regular
+2010/11,11,12,Bnei Yehuda,11,9,2,regular,regular
+2010/11,11,12,FC Ashdod,10,8,2,regular,regular
+2010/11,11,12,H. Ashkelon,12,13,1,regular,regular
+2010/11,11,12,H. Beer Sheva,9,6,3,regular,regular
+2010/11,11,12,H. Ramat Gan,15,16,1,regular,regular
+2010/11,11,12,Hapoel Acre,4,5,1,regular,regular
+2010/11,11,12,Hapoel Haifa,8,11,3,regular,regular
+2010/11,11,12,Hapoel Tel Aviv,2,3,1,regular,regular
+2010/11,11,12,M. Petah Tikva,6,7,1,regular,regular
+2010/11,11,12,M. Tel Aviv,5,4,1,regular,regular
+2010/11,11,12,Maccabi Haifa,3,2,1,regular,regular
+2010/11,11,12,Maccabi Netanya,7,10,3,regular,regular
+2010/11,12,13,Bnei Yehuda,9,10,1,regular,regular
+2010/11,12,13,FC Ashdod,8,9,1,regular,regular
+2010/11,12,13,Hapoel Acre,5,7,2,regular,regular
+2010/11,12,13,Hapoel Haifa,11,8,3,regular,regular
+2010/11,12,13,Hapoel Tel Aviv,3,2,1,regular,regular
+2010/11,12,13,Kiryat Shmona,1,3,2,regular,regular
+2010/11,12,13,M. Petah Tikva,7,5,2,regular,regular
+2010/11,12,13,Maccabi Haifa,2,1,1,regular,regular
+2010/11,12,13,Maccabi Netanya,10,11,1,regular,regular
+2010/11,13,14,Bnei Yehuda,10,11,1,regular,regular
+2010/11,13,14,FC Ashdod,9,10,1,regular,regular
+2010/11,13,14,H. Beer Sheva,6,8,2,regular,regular
+2010/11,13,14,Hapoel Acre,7,5,2,regular,regular
+2010/11,13,14,Hapoel Haifa,8,7,1,regular,regular
+2010/11,13,14,M. Petah Tikva,5,6,1,regular,regular
+2010/11,13,14,Maccabi Netanya,11,9,2,regular,regular
+2010/11,14,15,B. Jerusalem,12,11,1,regular,regular
+2010/11,14,15,Bnei Yehuda,11,12,1,regular,regular
+2010/11,14,15,FC Ashdod,10,8,2,regular,regular
+2010/11,14,15,H. Ashkelon,13,14,1,regular,regular
+2010/11,14,15,H. Beer Sheva,8,9,1,regular,regular
+2010/11,14,15,H. Petah Tikva,14,13,1,regular,regular
+2010/11,14,15,Kiryat Shmona,3,4,1,regular,regular
+2010/11,14,15,M. Tel Aviv,4,3,1,regular,regular
+2010/11,14,15,Maccabi Netanya,9,10,1,regular,regular
+2010/11,15,16,FC Ashdod,8,7,1,regular,regular
+2010/11,15,16,H. Ashkelon,14,13,1,regular,regular
+2010/11,15,16,H. Beer Sheva,9,8,1,regular,regular
+2010/11,15,16,H. Petah Tikva,13,14,1,regular,regular
+2010/11,15,16,Hapoel Acre,5,6,1,regular,regular
+2010/11,15,16,Hapoel Haifa,7,9,2,regular,regular
+2010/11,15,16,M. Petah Tikva,6,5,1,regular,regular
+2010/11,16,17,FC Ashdod,7,8,1,regular,regular
+2010/11,16,17,H. Beer Sheva,8,9,1,regular,regular
+2010/11,16,17,Hapoel Acre,6,5,1,regular,regular
+2010/11,16,17,Hapoel Haifa,9,7,2,regular,regular
+2010/11,16,17,M. Petah Tikva,5,6,1,regular,regular
+2010/11,17,18,B. Jerusalem,11,12,1,regular,regular
+2010/11,17,18,Bnei Yehuda,12,11,1,regular,regular
+2010/11,17,18,FC Ashdod,8,7,1,regular,regular
+2010/11,17,18,H. Beer Sheva,9,8,1,regular,regular
+2010/11,17,18,Hapoel Acre,5,6,1,regular,regular
+2010/11,17,18,Hapoel Haifa,7,9,2,regular,regular
+2010/11,17,18,Hapoel Tel Aviv,2,1,1,regular,regular
+2010/11,17,18,M. Petah Tikva,6,5,1,regular,regular
+2010/11,17,18,Maccabi Haifa,1,2,1,regular,regular
+2010/11,18,19,B. Jerusalem,12,11,1,regular,regular
+2010/11,18,19,Bnei Yehuda,11,12,1,regular,regular
+2010/11,18,19,H. Beer Sheva,8,9,1,regular,regular
+2010/11,18,19,Hapoel Acre,6,5,1,regular,regular
+2010/11,18,19,Hapoel Haifa,9,8,1,regular,regular
+2010/11,18,19,Hapoel Tel Aviv,1,2,1,regular,regular
+2010/11,18,19,M. Petah Tikva,5,6,1,regular,regular
+2010/11,18,19,Maccabi Haifa,2,1,1,regular,regular
+2010/11,19,20,B. Jerusalem,11,12,1,regular,regular
+2010/11,19,20,Bnei Sakhnin,15,14,1,regular,regular
+2010/11,19,20,Bnei Yehuda,12,10,2,regular,regular
+2010/11,19,20,H. Petah Tikva,14,15,1,regular,regular
+2010/11,19,20,Hapoel Acre,5,6,1,regular,regular
+2010/11,19,20,Hapoel Tel Aviv,2,1,1,regular,regular
+2010/11,19,20,M. Petah Tikva,6,5,1,regular,regular
+2010/11,19,20,Maccabi Haifa,1,2,1,regular,regular
+2010/11,19,20,Maccabi Netanya,10,11,1,regular,regular
+2010/11,20,21,Bnei Sakhnin,14,15,1,regular,regular
+2010/11,20,21,Bnei Yehuda,10,11,1,regular,regular
+2010/11,20,21,FC Ashdod,7,10,3,regular,regular
+2010/11,20,21,H. Beer Sheva,9,8,1,regular,regular
+2010/11,20,21,H. Petah Tikva,15,14,1,regular,regular
+2010/11,20,21,Hapoel Acre,6,5,1,regular,regular
+2010/11,20,21,Hapoel Haifa,8,7,1,regular,regular
+2010/11,20,21,Hapoel Tel Aviv,1,2,1,regular,regular
+2010/11,20,21,M. Petah Tikva,5,6,1,regular,regular
+2010/11,20,21,Maccabi Haifa,2,1,1,regular,regular
+2010/11,20,21,Maccabi Netanya,11,9,2,regular,regular
+2010/11,21,22,Bnei Yehuda,11,10,1,regular,regular
+2010/11,21,22,FC Ashdod,10,11,1,regular,regular
+2010/11,21,22,H. Ashkelon,13,14,1,regular,regular
+2010/11,21,22,H. Beer Sheva,8,9,1,regular,regular
+2010/11,21,22,H. Petah Tikva,14,13,1,regular,regular
+2010/11,21,22,Hapoel Haifa,7,8,1,regular,regular
+2010/11,21,22,Maccabi Netanya,9,7,2,regular,regular
+2010/11,22,23,Bnei Yehuda,10,9,1,regular,regular
+2010/11,22,23,H. Beer Sheva,9,10,1,regular,regular
+2010/11,22,23,Hapoel Acre,5,6,1,regular,regular
+2010/11,22,23,M. Petah Tikva,6,5,1,regular,regular
+2010/11,23,24,Bnei Yehuda,9,7,2,regular,regular
+2010/11,23,24,Hapoel Haifa,8,9,1,regular,regular
+2010/11,23,24,Hapoel Tel Aviv,2,1,1,regular,regular
+2010/11,23,24,Maccabi Haifa,1,2,1,regular,regular
+2010/11,23,24,Maccabi Netanya,7,8,1,regular,regular
+2010/11,24,25,Bnei Sakhnin,15,14,1,regular,regular
+2010/11,24,25,Bnei Yehuda,7,6,1,regular,regular
+2010/11,24,25,H. Ashkelon,14,15,1,regular,regular
+2010/11,24,25,Hapoel Acre,6,8,2,regular,regular
+2010/11,24,25,Hapoel Haifa,9,7,2,regular,regular
+2010/11,24,25,Hapoel Tel Aviv,1,2,1,regular,regular
+2010/11,24,25,Maccabi Haifa,2,1,1,regular,regular
+2010/11,24,25,Maccabi Netanya,8,9,1,regular,regular
+2010/11,25,26,B. Jerusalem,12,11,1,regular,regular
+2010/11,25,26,FC Ashdod,11,12,1,regular,regular
+2010/11,25,26,Hapoel Acre,8,7,1,regular,regular
+2010/11,25,26,Hapoel Haifa,7,8,1,regular,regular
+2010/11,26,27,Bnei Yehuda,6,8,2,regular,regular
+2010/11,26,27,Hapoel Acre,7,6,1,regular,regular
+2010/11,26,27,Hapoel Haifa,8,9,1,regular,regular
+2010/11,26,27,Maccabi Netanya,9,7,2,regular,regular
+2010/11,27,28,B. Jerusalem,11,12,1,regular,regular
+2010/11,27,28,Bnei Sakhnin,14,15,1,regular,regular
+2010/11,27,28,Bnei Yehuda,8,5,3,regular,regular
+2010/11,27,28,FC Ashdod,12,11,1,regular,regular
+2010/11,27,28,H. Ashkelon,15,14,1,regular,regular
+2010/11,27,28,Hapoel Acre,6,7,1,regular,regular
+2010/11,27,28,M. Petah Tikva,5,6,1,regular,regular
+2010/11,27,28,Maccabi Netanya,7,8,1,regular,regular
+2010/11,28,29,B. Jerusalem,12,10,2,regular,regular
+2010/11,28,29,Bnei Sakhnin,15,14,1,regular,regular
+2010/11,28,29,H. Ashkelon,14,15,1,regular,regular
+2010/11,28,29,H. Beer Sheva,10,12,2,regular,regular
+2010/11,28,29,Hapoel Acre,7,9,2,regular,regular
+2010/11,28,29,Hapoel Haifa,9,8,1,regular,regular
+2010/11,28,29,M. Petah Tikva,6,7,1,regular,regular
+2010/11,28,29,Maccabi Netanya,8,6,2,regular,regular
+2010/11,29,30,Bnei Sakhnin,14,15,1,regular,regular
+2010/11,29,30,FC Ashdod,11,12,1,regular,regular
+2010/11,29,30,H. Ashkelon,15,14,1,regular,regular
+2010/11,29,30,H. Beer Sheva,12,11,1,regular,regular
+2010/11,29,30,Hapoel Haifa,8,7,1,regular,regular
+2010/11,29,30,M. Petah Tikva,7,8,1,regular,regular
+2010/11,31,32,Hapoel Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2010/11,31,32,Kiryat Shmona,5,4,1,championship_playoff,championship_playoff
+2010/11,31,32,M. Tel Aviv,3,5,2,championship_playoff,championship_playoff
+2010/11,31,32,Maccabi Haifa,2,1,1,championship_playoff,championship_playoff
+2010/11,31,32,Maccabi Netanya,4,3,1,championship_playoff,championship_playoff
+2010/11,32,33,Bnei Yehuda,6,4,2,championship_playoff,championship_playoff
+2010/11,32,33,Kiryat Shmona,4,5,1,championship_playoff,championship_playoff
+2010/11,32,33,M. Tel Aviv,5,6,1,championship_playoff,championship_playoff
+2010/11,33,34,Bnei Yehuda,4,3,1,championship_playoff,championship_playoff
+2010/11,33,34,Maccabi Netanya,3,4,1,championship_playoff,championship_playoff
+2010/11,34,35,Kiryat Shmona,5,4,1,championship_playoff,championship_playoff
+2010/11,34,35,Maccabi Netanya,4,5,1,championship_playoff,championship_playoff
+2011/12,1,2,B. Jerusalem,7,3,4,regular,regular
+2011/12,1,2,Bnei Sakhnin,11,7,4,regular,regular
+2011/12,1,2,FC Ashdod,5,11,6,regular,regular
+2011/12,1,2,H Rishon leZion,3,2,1,regular,regular
+2011/12,1,2,H. Beer Sheva,9,14,5,regular,regular
+2011/12,1,2,Hapoel Haifa,10,15,5,regular,regular
+2011/12,1,2,Hapoel Tel Aviv,1,5,4,regular,regular
+2011/12,1,2,Kiryat Shmona,8,9,1,regular,regular
+2011/12,1,2,M. Petah Tikva,15,10,5,regular,regular
+2011/12,1,2,M. Tel Aviv,4,1,3,regular,regular
+2011/12,1,2,Maccabi Haifa,2,4,2,regular,regular
+2011/12,1,2,Maccabi Netanya,16,8,8,regular,regular
+2011/12,1,2,Ramat haSharon,14,16,2,regular,regular
+2011/12,2,3,B. Jerusalem,3,5,2,regular,regular
+2011/12,2,3,Bnei Sakhnin,7,3,4,regular,regular
+2011/12,2,3,Bnei Yehuda,13,10,3,regular,regular
+2011/12,2,3,FC Ashdod,11,8,3,regular,regular
+2011/12,2,3,H Rishon leZion,2,6,4,regular,regular
+2011/12,2,3,H. Petah Tikva,12,13,1,regular,regular
+2011/12,2,3,Hapoel Acre,6,4,2,regular,regular
+2011/12,2,3,Hapoel Tel Aviv,5,2,3,regular,regular
+2011/12,2,3,Kiryat Shmona,9,11,2,regular,regular
+2011/12,2,3,M. Petah Tikva,10,7,3,regular,regular
+2011/12,2,3,Maccabi Haifa,4,9,5,regular,regular
+2011/12,2,3,Maccabi Netanya,8,12,4,regular,regular
+2011/12,3,4,B. Jerusalem,5,3,2,regular,regular
+2011/12,3,4,Bnei Sakhnin,3,7,4,regular,regular
+2011/12,3,4,Bnei Yehuda,10,12,2,regular,regular
+2011/12,3,4,FC Ashdod,8,6,2,regular,regular
+2011/12,3,4,H Rishon leZion,6,9,3,regular,regular
+2011/12,3,4,H. Beer Sheva,14,16,2,regular,regular
+2011/12,3,4,Hapoel Acre,4,8,4,regular,regular
+2011/12,3,4,M. Petah Tikva,7,5,2,regular,regular
+2011/12,3,4,Maccabi Haifa,9,4,5,regular,regular
+2011/12,3,4,Maccabi Netanya,12,10,2,regular,regular
+2011/12,3,4,Ramat haSharon,16,14,2,regular,regular
+2011/12,4,5,Bnei Sakhnin,7,5,2,regular,regular
+2011/12,4,5,Bnei Yehuda,12,8,4,regular,regular
+2011/12,4,5,FC Ashdod,6,11,5,regular,regular
+2011/12,4,5,H. Petah Tikva,13,14,1,regular,regular
+2011/12,4,5,Hapoel Acre,8,6,2,regular,regular
+2011/12,4,5,Hapoel Tel Aviv,2,1,1,regular,regular
+2011/12,4,5,Kiryat Shmona,11,12,1,regular,regular
+2011/12,4,5,M. Petah Tikva,5,4,1,regular,regular
+2011/12,4,5,M. Tel Aviv,1,2,1,regular,regular
+2011/12,4,5,Maccabi Haifa,4,7,3,regular,regular
+2011/12,4,5,Ramat haSharon,14,13,1,regular,regular
+2011/12,5,6,B. Jerusalem,3,6,3,regular,regular
+2011/12,5,6,Bnei Yehuda,8,7,1,regular,regular
+2011/12,5,6,FC Ashdod,11,12,1,regular,regular
+2011/12,5,6,H Rishon leZion,9,10,1,regular,regular
+2011/12,5,6,H. Petah Tikva,14,13,1,regular,regular
+2011/12,5,6,Hapoel Acre,6,9,3,regular,regular
+2011/12,5,6,Hapoel Tel Aviv,1,2,1,regular,regular
+2011/12,5,6,Kiryat Shmona,12,11,1,regular,regular
+2011/12,5,6,M. Petah Tikva,4,3,1,regular,regular
+2011/12,5,6,M. Tel Aviv,2,1,1,regular,regular
+2011/12,5,6,Maccabi Haifa,7,4,3,regular,regular
+2011/12,5,6,Maccabi Netanya,10,8,2,regular,regular
+2011/12,5,6,Ramat haSharon,13,14,1,regular,regular
+2011/12,6,7,B. Jerusalem,6,10,4,regular,regular
+2011/12,6,7,Bnei Sakhnin,5,3,2,regular,regular
+2011/12,6,7,Bnei Yehuda,7,4,3,regular,regular
+2011/12,6,7,FC Ashdod,12,11,1,regular,regular
+2011/12,6,7,H Rishon leZion,10,12,2,regular,regular
+2011/12,6,7,H. Beer Sheva,16,15,1,regular,regular
+2011/12,6,7,Hapoel Acre,9,8,1,regular,regular
+2011/12,6,7,Hapoel Haifa,15,16,1,regular,regular
+2011/12,6,7,Kiryat Shmona,11,9,2,regular,regular
+2011/12,6,7,M. Petah Tikva,3,7,4,regular,regular
+2011/12,6,7,Maccabi Haifa,4,6,2,regular,regular
+2011/12,6,7,Maccabi Netanya,8,5,3,regular,regular
+2011/12,7,8,FC Ashdod,11,9,2,regular,regular
+2011/12,7,8,H. Petah Tikva,13,14,1,regular,regular
+2011/12,7,8,Hapoel Tel Aviv,2,1,1,regular,regular
+2011/12,7,8,Kiryat Shmona,9,6,3,regular,regular
+2011/12,7,8,M. Petah Tikva,7,11,4,regular,regular
+2011/12,7,8,M. Tel Aviv,1,2,1,regular,regular
+2011/12,7,8,Maccabi Haifa,6,7,1,regular,regular
+2011/12,7,8,Ramat haSharon,14,13,1,regular,regular
+2011/12,8,9,B. Jerusalem,10,12,2,regular,regular
+2011/12,8,9,Bnei Yehuda,4,8,4,regular,regular
+2011/12,8,9,FC Ashdod,9,7,2,regular,regular
+2011/12,8,9,H Rishon leZion,12,13,1,regular,regular
+2011/12,8,9,H. Beer Sheva,15,16,1,regular,regular
+2011/12,8,9,Hapoel Acre,8,6,2,regular,regular
+2011/12,8,9,Hapoel Haifa,16,15,1,regular,regular
+2011/12,8,9,Hapoel Tel Aviv,1,2,1,regular,regular
+2011/12,8,9,Kiryat Shmona,6,5,1,regular,regular
+2011/12,8,9,M. Tel Aviv,2,1,1,regular,regular
+2011/12,8,9,Maccabi Haifa,7,9,2,regular,regular
+2011/12,8,9,Maccabi Netanya,5,4,1,regular,regular
+2011/12,8,9,Ramat haSharon,13,10,3,regular,regular
+2011/12,9,10,B. Jerusalem,12,11,1,regular,regular
+2011/12,9,10,Bnei Sakhnin,3,5,2,regular,regular
+2011/12,9,10,Bnei Yehuda,8,9,1,regular,regular
+2011/12,9,10,FC Ashdod,7,8,1,regular,regular
+2011/12,9,10,Hapoel Tel Aviv,2,1,1,regular,regular
+2011/12,9,10,Kiryat Shmona,5,3,2,regular,regular
+2011/12,9,10,M. Petah Tikva,11,12,1,regular,regular
+2011/12,9,10,M. Tel Aviv,1,2,1,regular,regular
+2011/12,9,10,Maccabi Haifa,9,7,2,regular,regular
+2011/12,10,11,Bnei Sakhnin,5,7,2,regular,regular
+2011/12,10,11,FC Ashdod,8,5,3,regular,regular
+2011/12,10,11,H Rishon leZion,13,14,1,regular,regular
+2011/12,10,11,H. Petah Tikva,14,13,1,regular,regular
+2011/12,10,11,Hapoel Acre,6,4,2,regular,regular
+2011/12,10,11,Maccabi Haifa,7,8,1,regular,regular
+2011/12,10,11,Maccabi Netanya,4,6,2,regular,regular
+2011/12,11,12,Bnei Sakhnin,7,6,1,regular,regular
+2011/12,11,12,Bnei Yehuda,9,10,1,regular,regular
+2011/12,11,12,Hapoel Acre,4,3,1,regular,regular
+2011/12,11,12,Kiryat Shmona,3,2,1,regular,regular
+2011/12,11,12,M. Tel Aviv,2,7,5,regular,regular
+2011/12,11,12,Maccabi Netanya,6,4,2,regular,regular
+2011/12,11,12,Ramat haSharon,10,9,1,regular,regular
+2011/12,12,13,B. Jerusalem,11,12,1,regular,regular
+2011/12,12,13,FC Ashdod,5,3,2,regular,regular
+2011/12,12,13,Hapoel Acre,3,7,4,regular,regular
+2011/12,12,13,M. Petah Tikva,12,11,1,regular,regular
+2011/12,12,13,M. Tel Aviv,7,8,1,regular,regular
+2011/12,12,13,Maccabi Haifa,8,4,4,regular,regular
+2011/12,12,13,Maccabi Netanya,4,5,1,regular,regular
+2011/12,13,14,Bnei Sakhnin,6,4,2,regular,regular
+2011/12,13,14,Bnei Yehuda,10,11,1,regular,regular
+2011/12,13,14,Hapoel Acre,7,8,1,regular,regular
+2011/12,13,14,M. Petah Tikva,11,10,1,regular,regular
+2011/12,13,14,M. Tel Aviv,8,9,1,regular,regular
+2011/12,13,14,Maccabi Haifa,4,6,2,regular,regular
+2011/12,13,14,Maccabi Netanya,5,7,2,regular,regular
+2011/12,13,14,Ramat haSharon,9,5,4,regular,regular
+2011/12,14,15,Bnei Sakhnin,4,5,1,regular,regular
+2011/12,14,15,Bnei Yehuda,11,10,1,regular,regular
+2011/12,14,15,H Rishon leZion,14,16,2,regular,regular
+2011/12,14,15,H. Beer Sheva,16,15,1,regular,regular
+2011/12,14,15,H. Petah Tikva,13,14,1,regular,regular
+2011/12,14,15,Hapoel Acre,8,4,4,regular,regular
+2011/12,14,15,Hapoel Haifa,15,13,2,regular,regular
+2011/12,14,15,Hapoel Tel Aviv,1,2,1,regular,regular
+2011/12,14,15,Kiryat Shmona,2,1,1,regular,regular
+2011/12,14,15,M. Petah Tikva,10,11,1,regular,regular
+2011/12,14,15,Maccabi Haifa,6,8,2,regular,regular
+2011/12,14,15,Ramat haSharon,5,6,1,regular,regular
+2011/12,15,16,Bnei Sakhnin,5,4,1,regular,regular
+2011/12,15,16,FC Ashdod,3,2,1,regular,regular
+2011/12,15,16,H. Beer Sheva,15,13,2,regular,regular
+2011/12,15,16,H. Petah Tikva,14,15,1,regular,regular
+2011/12,15,16,Hapoel Acre,4,7,3,regular,regular
+2011/12,15,16,Hapoel Haifa,13,14,1,regular,regular
+2011/12,15,16,Hapoel Tel Aviv,2,3,1,regular,regular
+2011/12,15,16,M. Tel Aviv,9,8,1,regular,regular
+2011/12,15,16,Maccabi Haifa,8,5,3,regular,regular
+2011/12,15,16,Maccabi Netanya,7,9,2,regular,regular
+2011/12,16,17,B. Jerusalem,12,13,1,regular,regular
+2011/12,16,17,Bnei Yehuda,10,9,1,regular,regular
+2011/12,16,17,H. Beer Sheva,13,15,2,regular,regular
+2011/12,16,17,H. Petah Tikva,15,12,3,regular,regular
+2011/12,16,17,Hapoel Acre,7,6,1,regular,regular
+2011/12,16,17,Maccabi Haifa,5,7,2,regular,regular
+2011/12,16,17,Maccabi Netanya,9,10,1,regular,regular
+2011/12,16,17,Ramat haSharon,6,5,1,regular,regular
+2011/12,17,18,B. Jerusalem,13,12,1,regular,regular
+2011/12,17,18,Bnei Sakhnin,4,3,1,regular,regular
+2011/12,17,18,Bnei Yehuda,9,7,2,regular,regular
+2011/12,17,18,H. Beer Sheva,15,13,2,regular,regular
+2011/12,17,18,H. Petah Tikva,12,14,2,regular,regular
+2011/12,17,18,Hapoel Acre,6,10,4,regular,regular
+2011/12,17,18,Hapoel Haifa,14,15,1,regular,regular
+2011/12,17,18,Hapoel Tel Aviv,3,4,1,regular,regular
+2011/12,17,18,M. Tel Aviv,8,5,3,regular,regular
+2011/12,17,18,Maccabi Haifa,7,6,1,regular,regular
+2011/12,17,18,Maccabi Netanya,10,8,2,regular,regular
+2011/12,17,18,Ramat haSharon,5,9,4,regular,regular
+2011/12,18,19,B. Jerusalem,12,15,3,regular,regular
+2011/12,18,19,Bnei Sakhnin,3,4,1,regular,regular
+2011/12,18,19,Bnei Yehuda,7,9,2,regular,regular
+2011/12,18,19,H. Petah Tikva,14,12,2,regular,regular
+2011/12,18,19,Hapoel Haifa,15,14,1,regular,regular
+2011/12,18,19,Hapoel Tel Aviv,4,3,1,regular,regular
+2011/12,18,19,Maccabi Haifa,6,8,2,regular,regular
+2011/12,18,19,Maccabi Netanya,8,6,2,regular,regular
+2011/12,18,19,Ramat haSharon,9,7,2,regular,regular
+2011/12,19,20,B. Jerusalem,15,12,3,regular,regular
+2011/12,19,20,Bnei Yehuda,9,7,2,regular,regular
+2011/12,19,20,H. Beer Sheva,13,14,1,regular,regular
+2011/12,19,20,H. Petah Tikva,12,13,1,regular,regular
+2011/12,19,20,Hapoel Acre,10,9,1,regular,regular
+2011/12,19,20,Hapoel Haifa,14,15,1,regular,regular
+2011/12,19,20,Maccabi Haifa,8,10,2,regular,regular
+2011/12,19,20,Maccabi Netanya,6,8,2,regular,regular
+2011/12,19,20,Ramat haSharon,7,6,1,regular,regular
+2011/12,20,21,B. Jerusalem,12,11,1,regular,regular
+2011/12,20,21,H. Beer Sheva,14,15,1,regular,regular
+2011/12,20,21,H. Petah Tikva,13,14,1,regular,regular
+2011/12,20,21,Hapoel Haifa,15,13,2,regular,regular
+2011/12,20,21,M. Petah Tikva,11,12,1,regular,regular
+2011/12,21,22,Bnei Yehuda,7,6,1,regular,regular
+2011/12,21,22,H. Beer Sheva,15,13,2,regular,regular
+2011/12,21,22,H. Petah Tikva,14,15,1,regular,regular
+2011/12,21,22,Hapoel Acre,9,7,2,regular,regular
+2011/12,21,22,Hapoel Haifa,13,14,1,regular,regular
+2011/12,21,22,Maccabi Haifa,10,8,2,regular,regular
+2011/12,21,22,Maccabi Netanya,8,10,2,regular,regular
+2011/12,21,22,Ramat haSharon,6,9,3,regular,regular
+2011/12,22,23,FC Ashdod,2,3,1,regular,regular
+2011/12,22,23,Hapoel Acre,7,8,1,regular,regular
+2011/12,22,23,Hapoel Tel Aviv,3,2,1,regular,regular
+2011/12,22,23,Maccabi Haifa,8,7,1,regular,regular
+2011/12,22,23,Maccabi Netanya,10,9,1,regular,regular
+2011/12,22,23,Ramat haSharon,9,10,1,regular,regular
+2011/12,23,24,B. Jerusalem,11,12,1,regular,regular
+2011/12,23,24,Bnei Yehuda,6,5,1,regular,regular
+2011/12,23,24,H. Beer Sheva,13,14,1,regular,regular
+2011/12,23,24,Hapoel Acre,8,6,2,regular,regular
+2011/12,23,24,Hapoel Haifa,14,13,1,regular,regular
+2011/12,23,24,M. Petah Tikva,12,11,1,regular,regular
+2011/12,23,24,M. Tel Aviv,5,7,2,regular,regular
+2011/12,23,24,Maccabi Haifa,7,8,1,regular,regular
+2011/12,24,25,H. Petah Tikva,15,13,2,regular,regular
+2011/12,24,25,Hapoel Acre,6,8,2,regular,regular
+2011/12,24,25,Hapoel Haifa,13,15,2,regular,regular
+2011/12,24,25,M. Tel Aviv,7,9,2,regular,regular
+2011/12,24,25,Maccabi Haifa,8,6,2,regular,regular
+2011/12,24,25,Maccabi Netanya,9,10,1,regular,regular
+2011/12,24,25,Ramat haSharon,10,7,3,regular,regular
+2011/12,25,26,Bnei Sakhnin,4,3,1,regular,regular
+2011/12,25,26,FC Ashdod,3,4,1,regular,regular
+2011/12,25,26,H. Beer Sheva,14,15,1,regular,regular
+2011/12,25,26,Hapoel Acre,8,7,1,regular,regular
+2011/12,25,26,Hapoel Haifa,15,14,1,regular,regular
+2011/12,25,26,Maccabi Netanya,10,8,2,regular,regular
+2011/12,25,26,Ramat haSharon,7,10,3,regular,regular
+2011/12,26,27,B. Jerusalem,12,14,2,regular,regular
+2011/12,26,27,Bnei Sakhnin,3,4,1,regular,regular
+2011/12,26,27,Bnei Yehuda,5,6,1,regular,regular
+2011/12,26,27,FC Ashdod,4,3,1,regular,regular
+2011/12,26,27,Hapoel Acre,7,9,2,regular,regular
+2011/12,26,27,Hapoel Haifa,14,11,3,regular,regular
+2011/12,26,27,M. Petah Tikva,11,12,1,regular,regular
+2011/12,26,27,M. Tel Aviv,9,7,2,regular,regular
+2011/12,26,27,Maccabi Haifa,6,5,1,regular,regular
+2011/12,27,28,B. Jerusalem,14,12,2,regular,regular
+2011/12,27,28,Bnei Yehuda,6,8,2,regular,regular
+2011/12,27,28,H. Beer Sheva,15,13,2,regular,regular
+2011/12,27,28,H. Petah Tikva,13,15,2,regular,regular
+2011/12,27,28,M. Petah Tikva,12,14,2,regular,regular
+2011/12,27,28,M. Tel Aviv,7,6,1,regular,regular
+2011/12,27,28,Maccabi Netanya,8,7,1,regular,regular
+2011/12,28,29,B. Jerusalem,12,11,1,regular,regular
+2011/12,28,29,Bnei Sakhnin,4,3,1,regular,regular
+2011/12,28,29,FC Ashdod,3,4,1,regular,regular
+2011/12,28,29,H. Beer Sheva,13,14,1,regular,regular
+2011/12,28,29,Hapoel Haifa,11,12,1,regular,regular
+2011/12,28,29,M. Petah Tikva,14,13,1,regular,regular
+2011/12,28,29,M. Tel Aviv,6,5,1,regular,regular
+2011/12,28,29,Maccabi Haifa,5,6,1,regular,regular
+2011/12,29,30,H. Beer Sheva,14,13,1,regular,regular
+2011/12,29,30,M. Petah Tikva,13,14,1,regular,regular
+2011/12,29,30,M. Tel Aviv,5,7,2,regular,regular
+2011/12,29,30,Maccabi Netanya,7,5,2,regular,regular
+2011/12,31,32,Bnei Yehuda,3,2,1,championship_playoff,championship_playoff
+2011/12,31,32,Hapoel Tel Aviv,2,3,1,championship_playoff,championship_playoff
+2011/12,32,33,Bnei Sakhnin,5,4,1,championship_playoff,championship_playoff
+2011/12,32,33,FC Ashdod,6,7,1,championship_playoff,championship_playoff
+2011/12,32,33,Maccabi Haifa,4,6,2,championship_playoff,championship_playoff
+2011/12,32,33,Maccabi Netanya,7,5,2,championship_playoff,championship_playoff
+2011/12,35,36,Bnei Sakhnin,4,6,2,championship_playoff,championship_playoff
+2011/12,35,36,Maccabi Haifa,6,5,1,championship_playoff,championship_playoff
+2011/12,35,36,Maccabi Netanya,5,4,1,championship_playoff,championship_playoff
+2011/12,36,37,Hapoel Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2011/12,36,37,Maccabi Netanya,4,3,1,championship_playoff,championship_playoff
+2011/12,34,35,Hapoel Acre,1,2,1,relegation_playoff,relegation_playoff
+2011/12,34,35,Hapoel Haifa,2,1,1,relegation_playoff,relegation_playoff
+2011/12,35,36,Hapoel Acre,2,3,1,relegation_playoff,relegation_playoff
+2011/12,35,36,Ramat haSharon,3,2,1,relegation_playoff,relegation_playoff
+2012/13,1,2,B. Jerusalem,11,8,3,regular,regular
+2012/13,1,2,Bnei Sakhnin,7,11,4,regular,regular
+2012/13,1,2,H. Beer Sheva,8,7,1,regular,regular
+2012/13,1,2,Hapoel Acre,6,10,4,regular,regular
+2012/13,1,2,Hapoel Haifa,9,12,3,regular,regular
+2012/13,1,2,Hapoel Tel Aviv,4,3,1,regular,regular
+2012/13,1,2,M. Tel Aviv,3,4,1,regular,regular
+2012/13,1,2,Maccabi Haifa,12,14,2,regular,regular
+2012/13,1,2,Maccabi Netanya,10,9,1,regular,regular
+2012/13,1,2,Ramat haSharon,14,6,8,regular,regular
+2012/13,2,3,B. Jerusalem,8,10,2,regular,regular
+2012/13,2,3,Bnei Sakhnin,11,14,3,regular,regular
+2012/13,2,3,Bnei Yehuda,5,8,3,regular,regular
+2012/13,2,3,H. Beer Sheva,7,9,2,regular,regular
+2012/13,2,3,H. Ramat Gan,13,11,2,regular,regular
+2012/13,2,3,Hapoel Acre,10,5,5,regular,regular
+2012/13,2,3,Hapoel Haifa,12,13,1,regular,regular
+2012/13,2,3,Hapoel Tel Aviv,3,2,1,regular,regular
+2012/13,2,3,Kiryat Shmona,2,4,2,regular,regular
+2012/13,2,3,M. Tel Aviv,4,3,1,regular,regular
+2012/13,2,3,Maccabi Haifa,14,12,2,regular,regular
+2012/13,2,3,Maccabi Netanya,9,7,2,regular,regular
+2012/13,3,4,B. Jerusalem,10,11,1,regular,regular
+2012/13,3,4,Bnei Yehuda,8,5,3,regular,regular
+2012/13,3,4,FC Ashdod,1,2,1,regular,regular
+2012/13,3,4,H. Beer Sheva,9,10,1,regular,regular
+2012/13,3,4,H. Ramat Gan,11,9,2,regular,regular
+2012/13,3,4,Hapoel Acre,5,4,1,regular,regular
+2012/13,3,4,Hapoel Tel Aviv,2,3,1,regular,regular
+2012/13,3,4,Kiryat Shmona,4,8,4,regular,regular
+2012/13,3,4,M. Tel Aviv,3,1,2,regular,regular
+2012/13,4,5,FC Ashdod,2,1,1,regular,regular
+2012/13,4,5,H. Beer Sheva,10,9,1,regular,regular
+2012/13,4,5,H. Ramat Gan,9,10,1,regular,regular
+2012/13,4,5,Kiryat Shmona,8,7,1,regular,regular
+2012/13,4,5,M. Tel Aviv,1,2,1,regular,regular
+2012/13,4,5,Maccabi Netanya,7,8,1,regular,regular
+2012/13,5,6,B. Jerusalem,11,10,1,regular,regular
+2012/13,5,6,Bnei Yehuda,5,6,1,regular,regular
+2012/13,5,6,H. Beer Sheva,9,8,1,regular,regular
+2012/13,5,6,H. Ramat Gan,10,11,1,regular,regular
+2012/13,5,6,Maccabi Netanya,8,9,1,regular,regular
+2012/13,5,6,Ramat haSharon,6,5,1,regular,regular
+2012/13,6,7,B. Jerusalem,10,8,2,regular,regular
+2012/13,6,7,Bnei Sakhnin,14,13,1,regular,regular
+2012/13,6,7,H. Beer Sheva,8,7,1,regular,regular
+2012/13,6,7,Hapoel Haifa,13,14,1,regular,regular
+2012/13,6,7,Kiryat Shmona,7,9,2,regular,regular
+2012/13,6,7,Maccabi Netanya,9,10,1,regular,regular
+2012/13,7,8,B. Jerusalem,8,5,3,regular,regular
+2012/13,7,8,Bnei Sakhnin,13,11,2,regular,regular
+2012/13,7,8,Bnei Yehuda,6,9,3,regular,regular
+2012/13,7,8,FC Ashdod,1,2,1,regular,regular
+2012/13,7,8,H. Beer Sheva,7,10,3,regular,regular
+2012/13,7,8,H. Ramat Gan,11,12,1,regular,regular
+2012/13,7,8,Kiryat Shmona,9,7,2,regular,regular
+2012/13,7,8,M. Tel Aviv,2,1,1,regular,regular
+2012/13,7,8,Maccabi Haifa,12,13,1,regular,regular
+2012/13,7,8,Maccabi Netanya,10,8,2,regular,regular
+2012/13,7,8,Ramat haSharon,5,6,1,regular,regular
+2012/13,8,9,B. Jerusalem,5,6,1,regular,regular
+2012/13,8,9,Bnei Yehuda,9,4,5,regular,regular
+2012/13,8,9,Hapoel Acre,4,5,1,regular,regular
+2012/13,8,9,Kiryat Shmona,7,8,1,regular,regular
+2012/13,8,9,Maccabi Netanya,8,9,1,regular,regular
+2012/13,8,9,Ramat haSharon,6,7,1,regular,regular
+2012/13,9,10,B. Jerusalem,6,5,1,regular,regular
+2012/13,9,10,FC Ashdod,2,1,1,regular,regular
+2012/13,9,10,H. Beer Sheva,10,7,3,regular,regular
+2012/13,9,10,H. Ramat Gan,12,13,1,regular,regular
+2012/13,9,10,Hapoel Acre,5,8,3,regular,regular
+2012/13,9,10,Kiryat Shmona,8,9,1,regular,regular
+2012/13,9,10,M. Tel Aviv,1,2,1,regular,regular
+2012/13,9,10,Maccabi Haifa,13,12,1,regular,regular
+2012/13,9,10,Maccabi Netanya,9,10,1,regular,regular
+2012/13,9,10,Ramat haSharon,7,6,1,regular,regular
+2012/13,10,11,Bnei Sakhnin,11,12,1,regular,regular
+2012/13,10,11,H. Beer Sheva,7,9,2,regular,regular
+2012/13,10,11,Hapoel Tel Aviv,3,2,1,regular,regular
+2012/13,10,11,Kiryat Shmona,9,7,2,regular,regular
+2012/13,10,11,M. Tel Aviv,2,3,1,regular,regular
+2012/13,10,11,Maccabi Haifa,12,11,1,regular,regular
+2012/13,11,12,B. Jerusalem,5,4,1,regular,regular
+2012/13,11,12,Bnei Yehuda,4,6,2,regular,regular
+2012/13,11,12,FC Ashdod,1,3,2,regular,regular
+2012/13,11,12,H. Beer Sheva,9,7,2,regular,regular
+2012/13,11,12,Hapoel Acre,8,10,2,regular,regular
+2012/13,11,12,Kiryat Shmona,7,5,2,regular,regular
+2012/13,11,12,M. Tel Aviv,3,1,2,regular,regular
+2012/13,11,12,Maccabi Haifa,11,9,2,regular,regular
+2012/13,11,12,Maccabi Netanya,10,11,1,regular,regular
+2012/13,11,12,Ramat haSharon,6,8,2,regular,regular
+2012/13,12,13,B. Jerusalem,4,5,1,regular,regular
+2012/13,12,13,Bnei Sakhnin,12,13,1,regular,regular
+2012/13,12,13,H. Ramat Gan,13,12,1,regular,regular
+2012/13,12,13,Kiryat Shmona,5,4,1,regular,regular
+2012/13,12,13,Maccabi Haifa,9,8,1,regular,regular
+2012/13,12,13,Ramat haSharon,8,9,1,regular,regular
+2012/13,13,14,B. Jerusalem,5,6,1,regular,regular
+2012/13,13,14,Bnei Sakhnin,13,11,2,regular,regular
+2012/13,13,14,Bnei Yehuda,6,4,2,regular,regular
+2012/13,13,14,H. Beer Sheva,7,8,1,regular,regular
+2012/13,13,14,H. Ramat Gan,12,13,1,regular,regular
+2012/13,13,14,Hapoel Tel Aviv,2,1,1,regular,regular
+2012/13,13,14,Kiryat Shmona,4,5,1,regular,regular
+2012/13,13,14,M. Tel Aviv,1,2,1,regular,regular
+2012/13,13,14,Maccabi Haifa,8,7,1,regular,regular
+2012/13,13,14,Maccabi Netanya,11,12,1,regular,regular
+2012/13,14,15,Bnei Sakhnin,11,10,1,regular,regular
+2012/13,14,15,Bnei Yehuda,4,5,1,regular,regular
+2012/13,14,15,H. Beer Sheva,8,9,1,regular,regular
+2012/13,14,15,H. Ramat Gan,13,11,2,regular,regular
+2012/13,14,15,Hapoel Acre,10,12,2,regular,regular
+2012/13,14,15,Hapoel Tel Aviv,1,2,1,regular,regular
+2012/13,14,15,Kiryat Shmona,5,4,1,regular,regular
+2012/13,14,15,M. Tel Aviv,2,1,1,regular,regular
+2012/13,14,15,Maccabi Netanya,12,13,1,regular,regular
+2012/13,14,15,Ramat haSharon,9,8,1,regular,regular
+2012/13,15,16,B. Jerusalem,6,8,2,regular,regular
+2012/13,15,16,Maccabi Haifa,7,6,1,regular,regular
+2012/13,15,16,Ramat haSharon,8,7,1,regular,regular
+2012/13,16,17,B. Jerusalem,8,6,2,regular,regular
+2012/13,16,17,Bnei Yehuda,5,7,2,regular,regular
+2012/13,16,17,FC Ashdod,3,5,2,regular,regular
+2012/13,16,17,Hapoel Acre,12,13,1,regular,regular
+2012/13,16,17,Maccabi Haifa,6,3,3,regular,regular
+2012/13,16,17,Maccabi Netanya,13,12,1,regular,regular
+2012/13,16,17,Ramat haSharon,7,8,1,regular,regular
+2012/13,17,18,B. Jerusalem,6,4,2,regular,regular
+2012/13,17,18,Bnei Yehuda,7,8,1,regular,regular
+2012/13,17,18,FC Ashdod,5,7,2,regular,regular
+2012/13,17,18,H. Ramat Gan,11,12,1,regular,regular
+2012/13,17,18,Kiryat Shmona,4,5,1,regular,regular
+2012/13,17,18,Maccabi Netanya,12,11,1,regular,regular
+2012/13,17,18,Ramat haSharon,8,6,2,regular,regular
+2012/13,18,19,FC Ashdod,7,5,2,regular,regular
+2012/13,18,19,Hapoel Acre,13,14,1,regular,regular
+2012/13,18,19,Hapoel Haifa,14,13,1,regular,regular
+2012/13,18,19,Kiryat Shmona,5,6,1,regular,regular
+2012/13,18,19,Ramat haSharon,6,7,1,regular,regular
+2012/13,19,20,Bnei Sakhnin,10,11,1,regular,regular
+2012/13,19,20,Bnei Yehuda,8,7,1,regular,regular
+2012/13,19,20,Hapoel Tel Aviv,2,3,1,regular,regular
+2012/13,19,20,Kiryat Shmona,6,8,2,regular,regular
+2012/13,19,20,Maccabi Haifa,3,2,1,regular,regular
+2012/13,19,20,Maccabi Netanya,11,10,1,regular,regular
+2012/13,19,20,Ramat haSharon,7,6,1,regular,regular
+2012/13,20,21,B. Jerusalem,4,6,2,regular,regular
+2012/13,20,21,Bnei Yehuda,7,5,2,regular,regular
+2012/13,20,21,FC Ashdod,5,8,3,regular,regular
+2012/13,20,21,Kiryat Shmona,8,7,1,regular,regular
+2012/13,20,21,Ramat haSharon,6,4,2,regular,regular
+2012/13,21,22,B. Jerusalem,6,7,1,regular,regular
+2012/13,21,22,Bnei Sakhnin,11,10,1,regular,regular
+2012/13,21,22,Bnei Yehuda,5,4,1,regular,regular
+2012/13,21,22,Kiryat Shmona,7,5,2,regular,regular
+2012/13,21,22,Maccabi Netanya,10,11,1,regular,regular
+2012/13,21,22,Ramat haSharon,4,6,2,regular,regular
+2012/13,22,23,Bnei Sakhnin,10,11,1,regular,regular
+2012/13,22,23,Maccabi Netanya,11,10,1,regular,regular
+2012/13,23,24,Bnei Yehuda,4,5,1,regular,regular
+2012/13,23,24,Kiryat Shmona,5,4,1,regular,regular
+2012/13,25,26,B. Jerusalem,7,8,1,regular,regular
+2012/13,25,26,Bnei Sakhnin,11,12,1,regular,regular
+2012/13,25,26,FC Ashdod,8,7,1,regular,regular
+2012/13,25,26,H. Ramat Gan,12,13,1,regular,regular
+2012/13,25,26,Hapoel Haifa,13,10,3,regular,regular
+2012/13,25,26,Hapoel Tel Aviv,3,4,1,regular,regular
+2012/13,25,26,Kiryat Shmona,4,3,1,regular,regular
+2012/13,25,26,Maccabi Netanya,10,11,1,regular,regular
+2012/13,29,30,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2012/13,29,30,Maccabi Haifa,2,1,1,championship_playoff,championship_playoff
+2012/13,30,31,Hapoel Tel Aviv,3,2,1,championship_playoff,championship_playoff
+2012/13,30,31,M. Tel Aviv,2,3,1,championship_playoff,championship_playoff
+2012/13,33,34,Hapoel Tel Aviv,2,1,1,championship_playoff,championship_playoff
+2012/13,33,34,Maccabi Haifa,1,2,1,championship_playoff,championship_playoff
+2012/13,34,35,Bnei Yehuda,5,3,2,championship_playoff,championship_playoff
+2012/13,34,35,Hapoel Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2012/13,34,35,Kiryat Shmona,4,5,1,championship_playoff,championship_playoff
+2012/13,34,35,M. Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2012/13,34,35,Maccabi Haifa,2,1,1,championship_playoff,championship_playoff
+2012/13,35,36,Bnei Yehuda,3,4,1,championship_playoff,championship_playoff
+2012/13,35,36,Kiryat Shmona,5,3,2,championship_playoff,championship_playoff
+2012/13,35,36,M. Tel Aviv,4,5,1,championship_playoff,championship_playoff
+2012/13,27,28,B. Jerusalem,3,4,1,relegation_playoff,relegation_playoff
+2012/13,27,28,Bnei Sakhnin,4,3,1,relegation_playoff,relegation_playoff
+2012/13,28,29,H. Beer Sheva,5,6,1,relegation_playoff,relegation_playoff
+2012/13,28,29,Maccabi Netanya,6,5,1,relegation_playoff,relegation_playoff
+2012/13,31,32,B. Jerusalem,4,5,1,relegation_playoff,relegation_playoff
+2012/13,31,32,Bnei Sakhnin,3,4,1,relegation_playoff,relegation_playoff
+2012/13,31,32,H. Beer Sheva,6,3,3,relegation_playoff,relegation_playoff
+2012/13,31,32,Maccabi Netanya,5,6,1,relegation_playoff,relegation_playoff
+2012/13,32,33,FC Ashdod,1,2,1,relegation_playoff,relegation_playoff
+2012/13,32,33,H. Beer Sheva,3,1,2,relegation_playoff,relegation_playoff
+2012/13,32,33,Hapoel Haifa,2,3,1,relegation_playoff,relegation_playoff
+2013/14,1,2,B. Jerusalem,12,8,4,regular,regular
+2013/14,1,2,Bnei Sakhnin,7,5,2,regular,regular
+2013/14,1,2,Bnei Yehuda,5,10,5,regular,regular
+2013/14,1,2,H. Beer Sheva,2,1,1,regular,regular
+2013/14,1,2,Hapoel Raanana,6,4,2,regular,regular
+2013/14,1,2,Hapoel Tel Aviv,8,11,3,regular,regular
+2013/14,1,2,Kiryat Shmona,11,6,5,regular,regular
+2013/14,1,2,M. Petah Tikva,10,12,2,regular,regular
+2013/14,1,2,M. Tel Aviv,4,2,2,regular,regular
+2013/14,1,2,Maccabi Haifa,1,7,6,regular,regular
+2013/14,2,3,Bnei Sakhnin,5,3,2,regular,regular
+2013/14,2,3,Bnei Yehuda,10,11,1,regular,regular
+2013/14,2,3,H. Beer Sheva,1,2,1,regular,regular
+2013/14,2,3,Hapoel Acre,13,12,1,regular,regular
+2013/14,2,3,Hapoel Haifa,3,5,2,regular,regular
+2013/14,2,3,Hapoel Tel Aviv,11,7,4,regular,regular
+2013/14,2,3,M. Petah Tikva,12,13,1,regular,regular
+2013/14,2,3,M. Tel Aviv,2,1,1,regular,regular
+2013/14,2,3,Maccabi Haifa,7,10,3,regular,regular
+2013/14,3,4,B. Jerusalem,8,9,1,regular,regular
+2013/14,3,4,Bnei Sakhnin,3,4,1,regular,regular
+2013/14,3,4,FC Ashdod,9,7,2,regular,regular
+2013/14,3,4,Hapoel Haifa,5,6,1,regular,regular
+2013/14,3,4,Hapoel Raanana,4,3,1,regular,regular
+2013/14,3,4,Hapoel Tel Aviv,7,5,2,regular,regular
+2013/14,3,4,Kiryat Shmona,6,8,2,regular,regular
+2013/14,4,5,B. Jerusalem,9,7,2,regular,regular
+2013/14,4,5,Bnei Yehuda,11,13,2,regular,regular
+2013/14,4,5,FC Ashdod,7,6,1,regular,regular
+2013/14,4,5,Hapoel Haifa,6,9,3,regular,regular
+2013/14,4,5,M. Petah Tikva,13,11,2,regular,regular
+2013/14,5,6,B. Jerusalem,7,4,3,regular,regular
+2013/14,5,6,Bnei Sakhnin,4,3,1,regular,regular
+2013/14,5,6,FC Ashdod,6,11,5,regular,regular
+2013/14,5,6,Hapoel Acre,12,10,2,regular,regular
+2013/14,5,6,Hapoel Haifa,9,6,3,regular,regular
+2013/14,5,6,Hapoel Raanana,3,7,4,regular,regular
+2013/14,5,6,Hapoel Tel Aviv,5,8,3,regular,regular
+2013/14,5,6,Kiryat Shmona,8,5,3,regular,regular
+2013/14,5,6,M. Petah Tikva,11,12,1,regular,regular
+2013/14,5,6,Maccabi Haifa,10,9,1,regular,regular
+2013/14,6,7,B. Jerusalem,4,6,2,regular,regular
+2013/14,6,7,Bnei Sakhnin,3,4,1,regular,regular
+2013/14,6,7,FC Ashdod,11,10,1,regular,regular
+2013/14,6,7,Hapoel Acre,10,11,1,regular,regular
+2013/14,6,7,Hapoel Haifa,6,3,3,regular,regular
+2013/14,6,7,Hapoel Raanana,7,8,1,regular,regular
+2013/14,6,7,Hapoel Tel Aviv,8,5,3,regular,regular
+2013/14,6,7,Kiryat Shmona,5,7,2,regular,regular
+2013/14,7,8,B. Jerusalem,6,5,1,regular,regular
+2013/14,7,8,Bnei Sakhnin,4,6,2,regular,regular
+2013/14,7,8,FC Ashdod,10,9,1,regular,regular
+2013/14,7,8,Hapoel Raanana,8,7,1,regular,regular
+2013/14,7,8,Hapoel Tel Aviv,5,4,1,regular,regular
+2013/14,7,8,Kiryat Shmona,7,8,1,regular,regular
+2013/14,7,8,Maccabi Haifa,9,10,1,regular,regular
+2013/14,8,9,B. Jerusalem,5,6,1,regular,regular
+2013/14,8,9,Bnei Sakhnin,6,7,1,regular,regular
+2013/14,8,9,FC Ashdod,9,8,1,regular,regular
+2013/14,8,9,Hapoel Raanana,7,5,2,regular,regular
+2013/14,8,9,Kiryat Shmona,8,9,1,regular,regular
+2013/14,9,10,B. Jerusalem,6,9,3,regular,regular
+2013/14,9,10,Bnei Sakhnin,7,4,3,regular,regular
+2013/14,9,10,FC Ashdod,8,11,3,regular,regular
+2013/14,9,10,Hapoel Acre,11,10,1,regular,regular
+2013/14,9,10,Hapoel Haifa,3,5,2,regular,regular
+2013/14,9,10,Hapoel Raanana,5,3,2,regular,regular
+2013/14,9,10,Hapoel Tel Aviv,4,6,2,regular,regular
+2013/14,9,10,Kiryat Shmona,9,7,2,regular,regular
+2013/14,9,10,Maccabi Haifa,10,8,2,regular,regular
+2013/14,10,11,B. Jerusalem,9,10,1,regular,regular
+2013/14,10,11,Bnei Sakhnin,4,3,1,regular,regular
+2013/14,10,11,Bnei Yehuda,13,14,1,regular,regular
+2013/14,10,11,FC Ashdod,11,9,2,regular,regular
+2013/14,10,11,Hapoel Acre,10,11,1,regular,regular
+2013/14,10,11,Hapoel Haifa,5,8,3,regular,regular
+2013/14,10,11,Hapoel Raanana,3,5,2,regular,regular
+2013/14,10,11,Maccabi Haifa,8,4,4,regular,regular
+2013/14,10,11,Ramat haSharon,14,13,1,regular,regular
+2013/14,11,12,B. Jerusalem,10,11,1,regular,regular
+2013/14,11,12,FC Ashdod,9,10,1,regular,regular
+2013/14,11,12,Hapoel Acre,11,9,2,regular,regular
+2013/14,11,12,Hapoel Raanana,5,6,1,regular,regular
+2013/14,11,12,Hapoel Tel Aviv,6,5,1,regular,regular
+2013/14,11,12,M. Petah Tikva,12,13,1,regular,regular
+2013/14,11,12,Ramat haSharon,13,12,1,regular,regular
+2013/14,12,13,Hapoel Raanana,6,7,1,regular,regular
+2013/14,12,13,Kiryat Shmona,7,6,1,regular,regular
+2013/14,13,14,FC Ashdod,10,8,2,regular,regular
+2013/14,13,14,Hapoel Acre,9,10,1,regular,regular
+2013/14,13,14,Hapoel Haifa,8,6,2,regular,regular
+2013/14,13,14,Hapoel Raanana,7,9,2,regular,regular
+2013/14,13,14,Hapoel Tel Aviv,5,7,2,regular,regular
+2013/14,13,14,Kiryat Shmona,6,4,2,regular,regular
+2013/14,13,14,M. Petah Tikva,13,12,1,regular,regular
+2013/14,13,14,Maccabi Haifa,4,5,1,regular,regular
+2013/14,13,14,Ramat haSharon,12,13,1,regular,regular
+2013/14,14,15,B. Jerusalem,11,10,1,regular,regular
+2013/14,14,15,Hapoel Acre,10,11,1,regular,regular
+2013/14,15,16,B. Jerusalem,10,9,1,regular,regular
+2013/14,15,16,Hapoel Raanana,9,10,1,regular,regular
+2013/14,15,16,M. Petah Tikva,12,13,1,regular,regular
+2013/14,15,16,Ramat haSharon,13,12,1,regular,regular
+2013/14,16,17,FC Ashdod,8,7,1,regular,regular
+2013/14,16,17,Hapoel Haifa,6,8,2,regular,regular
+2013/14,16,17,Hapoel Tel Aviv,7,6,1,regular,regular
+2013/14,16,17,M. Petah Tikva,13,12,1,regular,regular
+2013/14,16,17,Ramat haSharon,12,13,1,regular,regular
+2013/14,17,18,Hapoel Tel Aviv,6,5,1,regular,regular
+2013/14,17,18,M. Petah Tikva,12,13,1,regular,regular
+2013/14,17,18,Maccabi Haifa,5,6,1,regular,regular
+2013/14,17,18,Ramat haSharon,13,12,1,regular,regular
+2013/14,18,19,B. Jerusalem,9,10,1,regular,regular
+2013/14,18,19,Bnei Sakhnin,3,4,1,regular,regular
+2013/14,18,19,Hapoel Raanana,10,9,1,regular,regular
+2013/14,18,19,Hapoel Tel Aviv,5,3,2,regular,regular
+2013/14,18,19,Kiryat Shmona,4,6,2,regular,regular
+2013/14,18,19,Maccabi Haifa,6,5,1,regular,regular
+2013/14,19,20,B. Jerusalem,10,9,1,regular,regular
+2013/14,19,20,Bnei Sakhnin,4,5,1,regular,regular
+2013/14,19,20,FC Ashdod,7,8,1,regular,regular
+2013/14,19,20,Hapoel Haifa,8,7,1,regular,regular
+2013/14,19,20,Hapoel Raanana,9,10,1,regular,regular
+2013/14,19,20,M. Petah Tikva,13,12,1,regular,regular
+2013/14,19,20,Maccabi Haifa,5,4,1,regular,regular
+2013/14,19,20,Ramat haSharon,12,13,1,regular,regular
+2013/14,20,21,FC Ashdod,8,7,1,regular,regular
+2013/14,20,21,Hapoel Acre,11,10,1,regular,regular
+2013/14,20,21,Hapoel Haifa,7,8,1,regular,regular
+2013/14,20,21,Hapoel Raanana,10,11,1,regular,regular
+2013/14,20,21,Hapoel Tel Aviv,3,4,1,regular,regular
+2013/14,20,21,Maccabi Haifa,4,3,1,regular,regular
+2013/14,21,22,B. Jerusalem,9,8,1,regular,regular
+2013/14,21,22,Bnei Sakhnin,5,6,1,regular,regular
+2013/14,21,22,Hapoel Haifa,8,9,1,regular,regular
+2013/14,21,22,Hapoel Tel Aviv,4,5,1,regular,regular
+2013/14,21,22,Kiryat Shmona,6,3,3,regular,regular
+2013/14,21,22,Maccabi Haifa,3,4,1,regular,regular
+2013/14,22,23,B. Jerusalem,8,9,1,regular,regular
+2013/14,22,23,Bnei Yehuda,14,13,1,regular,regular
+2013/14,22,23,Hapoel Haifa,9,8,1,regular,regular
+2013/14,22,23,Ramat haSharon,13,14,1,regular,regular
+2013/14,23,24,B. Jerusalem,9,8,1,regular,regular
+2013/14,23,24,Bnei Yehuda,13,14,1,regular,regular
+2013/14,23,24,FC Ashdod,7,9,2,regular,regular
+2013/14,23,24,Hapoel Haifa,8,7,1,regular,regular
+2013/14,23,24,Ramat haSharon,14,13,1,regular,regular
+2013/14,25,26,B. Jerusalem,8,9,1,regular,regular
+2013/14,25,26,Bnei Sakhnin,6,5,1,regular,regular
+2013/14,25,26,Bnei Yehuda,14,13,1,regular,regular
+2013/14,25,26,FC Ashdod,9,7,2,regular,regular
+2013/14,25,26,Hapoel Haifa,7,8,1,regular,regular
+2013/14,25,26,Hapoel Tel Aviv,5,6,1,regular,regular
+2013/14,25,26,Ramat haSharon,13,14,1,regular,regular
+2013/14,27,28,Hapoel Tel Aviv,5,4,1,championship_playoff,championship_playoff
+2013/14,27,28,Maccabi Haifa,4,5,1,championship_playoff,championship_playoff
+2013/14,28,29,Bnei Sakhnin,6,5,1,championship_playoff,championship_playoff
+2013/14,28,29,H. Beer Sheva,2,1,1,championship_playoff,championship_playoff
+2013/14,28,29,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2013/14,28,29,Maccabi Haifa,5,6,1,championship_playoff,championship_playoff
+2013/14,30,31,Bnei Sakhnin,5,6,1,championship_playoff,championship_playoff
+2013/14,30,31,Maccabi Haifa,6,5,1,championship_playoff,championship_playoff
+2013/14,31,32,Kiryat Shmona,3,2,1,championship_playoff,championship_playoff
+2013/14,31,32,M. Tel Aviv,2,3,1,championship_playoff,championship_playoff
+2013/14,32,33,H. Beer Sheva,1,2,1,championship_playoff,championship_playoff
+2013/14,32,33,Kiryat Shmona,2,1,1,championship_playoff,championship_playoff
+2013/14,33,34,H. Beer Sheva,2,1,1,championship_playoff,championship_playoff
+2013/14,33,34,Kiryat Shmona,1,2,1,championship_playoff,championship_playoff
+2013/14,34,35,H. Beer Sheva,1,2,1,championship_playoff,championship_playoff
+2013/14,34,35,Kiryat Shmona,2,1,1,championship_playoff,championship_playoff
+2013/14,35,36,Hapoel Tel Aviv,4,3,1,championship_playoff,championship_playoff
+2013/14,35,36,M. Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2013/14,28,29,M. Petah Tikva,7,8,1,relegation_playoff,relegation_playoff
+2013/14,28,29,Ramat haSharon,8,7,1,relegation_playoff,relegation_playoff
+2013/14,31,32,B. Jerusalem,3,4,1,relegation_playoff,relegation_playoff
+2013/14,31,32,Bnei Yehuda,5,3,2,relegation_playoff,relegation_playoff
+2013/14,31,32,Hapoel Acre,4,5,1,relegation_playoff,relegation_playoff
+2014/15,1,2,Bnei Sakhnin,12,11,1,regular,regular
+2014/15,1,2,FC Ashdod,9,4,5,regular,regular
+2014/15,1,2,H. Beer Sheva,6,3,3,regular,regular
+2014/15,1,2,Hapoel Acre,7,9,2,regular,regular
+2014/15,1,2,Hapoel Haifa,8,12,4,regular,regular
+2014/15,1,2,Hapoel Raanana,1,6,5,regular,regular
+2014/15,1,2,Hapoel Tel Aviv,4,8,4,regular,regular
+2014/15,1,2,Kiryat Shmona,10,2,8,regular,regular
+2014/15,1,2,M. Tel Aviv,2,1,1,regular,regular
+2014/15,1,2,Maccabi Haifa,3,7,4,regular,regular
+2014/15,1,2,Maccabi Netanya,11,10,1,regular,regular
+2014/15,2,3,B. Jerusalem,5,7,2,regular,regular
+2014/15,2,3,FC Ashdod,4,6,2,regular,regular
+2014/15,2,3,H. Beer Sheva,3,2,1,regular,regular
+2014/15,2,3,Hapoel Acre,9,10,1,regular,regular
+2014/15,2,3,Hapoel Haifa,12,13,1,regular,regular
+2014/15,2,3,Hapoel Raanana,6,9,3,regular,regular
+2014/15,2,3,Hapoel Tel Aviv,8,5,3,regular,regular
+2014/15,2,3,Kiryat Shmona,2,1,1,regular,regular
+2014/15,2,3,M. Petah Tikva,13,8,5,regular,regular
+2014/15,2,3,M. Tel Aviv,1,3,2,regular,regular
+2014/15,2,3,Maccabi Haifa,7,4,3,regular,regular
+2014/15,2,3,Maccabi Netanya,10,12,2,regular,regular
+2014/15,3,4,FC Ashdod,6,5,1,regular,regular
+2014/15,3,4,H. Beer Sheva,2,3,1,regular,regular
+2014/15,3,4,H. Petah Tikva,14,13,1,regular,regular
+2014/15,3,4,Hapoel Acre,10,12,2,regular,regular
+2014/15,3,4,Hapoel Haifa,13,9,4,regular,regular
+2014/15,3,4,Hapoel Raanana,9,8,1,regular,regular
+2014/15,3,4,Hapoel Tel Aviv,5,4,1,regular,regular
+2014/15,3,4,M. Petah Tikva,8,10,2,regular,regular
+2014/15,3,4,M. Tel Aviv,3,2,1,regular,regular
+2014/15,3,4,Maccabi Haifa,4,6,2,regular,regular
+2014/15,3,4,Maccabi Netanya,12,14,2,regular,regular
+2014/15,4,5,B. Jerusalem,7,4,3,regular,regular
+2014/15,4,5,Bnei Sakhnin,11,13,2,regular,regular
+2014/15,4,5,FC Ashdod,5,7,2,regular,regular
+2014/15,4,5,H. Petah Tikva,13,9,4,regular,regular
+2014/15,4,5,Hapoel Acre,12,14,2,regular,regular
+2014/15,4,5,Hapoel Haifa,9,11,2,regular,regular
+2014/15,4,5,Hapoel Raanana,8,5,3,regular,regular
+2014/15,4,5,Hapoel Tel Aviv,4,6,2,regular,regular
+2014/15,4,5,M. Petah Tikva,10,12,2,regular,regular
+2014/15,4,5,Maccabi Haifa,6,8,2,regular,regular
+2014/15,4,5,Maccabi Netanya,14,10,4,regular,regular
+2014/15,5,6,Bnei Sakhnin,13,14,1,regular,regular
+2014/15,5,6,FC Ashdod,7,8,1,regular,regular
+2014/15,5,6,H. Petah Tikva,9,10,1,regular,regular
+2014/15,5,6,Hapoel Acre,14,11,3,regular,regular
+2014/15,5,6,Hapoel Haifa,11,13,2,regular,regular
+2014/15,5,6,Hapoel Raanana,5,6,1,regular,regular
+2014/15,5,6,Hapoel Tel Aviv,6,5,1,regular,regular
+2014/15,5,6,M. Petah Tikva,12,7,5,regular,regular
+2014/15,5,6,Maccabi Haifa,8,9,1,regular,regular
+2014/15,5,6,Maccabi Netanya,10,12,2,regular,regular
+2014/15,6,7,Bnei Sakhnin,14,10,4,regular,regular
+2014/15,6,7,FC Ashdod,8,11,3,regular,regular
+2014/15,6,7,H. Petah Tikva,10,13,3,regular,regular
+2014/15,6,7,Hapoel Acre,11,9,2,regular,regular
+2014/15,6,7,Hapoel Haifa,13,14,1,regular,regular
+2014/15,6,7,Maccabi Haifa,9,12,3,regular,regular
+2014/15,6,7,Maccabi Netanya,12,8,4,regular,regular
+2014/15,7,8,B. Jerusalem,4,5,1,regular,regular
+2014/15,7,8,FC Ashdod,11,13,2,regular,regular
+2014/15,7,8,H. Petah Tikva,13,14,1,regular,regular
+2014/15,7,8,Hapoel Acre,9,11,2,regular,regular
+2014/15,7,8,Hapoel Haifa,14,12,2,regular,regular
+2014/15,7,8,Hapoel Raanana,6,7,1,regular,regular
+2014/15,7,8,Hapoel Tel Aviv,5,4,1,regular,regular
+2014/15,7,8,M. Petah Tikva,7,6,1,regular,regular
+2014/15,7,8,Maccabi Haifa,12,8,4,regular,regular
+2014/15,7,8,Maccabi Netanya,8,9,1,regular,regular
+2014/15,8,9,B. Jerusalem,5,6,1,regular,regular
+2014/15,8,9,Bnei Sakhnin,10,9,1,regular,regular
+2014/15,8,9,FC Ashdod,13,10,3,regular,regular
+2014/15,8,9,Hapoel Acre,11,12,1,regular,regular
+2014/15,8,9,Hapoel Haifa,12,13,1,regular,regular
+2014/15,8,9,Hapoel Raanana,7,8,1,regular,regular
+2014/15,8,9,M. Petah Tikva,6,5,1,regular,regular
+2014/15,8,9,Maccabi Haifa,8,11,3,regular,regular
+2014/15,8,9,Maccabi Netanya,9,7,2,regular,regular
+2014/15,9,10,B. Jerusalem,6,9,3,regular,regular
+2014/15,9,10,Bnei Sakhnin,9,11,2,regular,regular
+2014/15,9,10,FC Ashdod,10,7,3,regular,regular
+2014/15,9,10,H. Petah Tikva,14,12,2,regular,regular
+2014/15,9,10,Hapoel Acre,12,13,1,regular,regular
+2014/15,9,10,Hapoel Haifa,13,14,1,regular,regular
+2014/15,9,10,Maccabi Haifa,11,6,5,regular,regular
+2014/15,9,10,Maccabi Netanya,7,10,3,regular,regular
+2014/15,10,11,B. Jerusalem,9,7,2,regular,regular
+2014/15,10,11,Bnei Sakhnin,11,13,2,regular,regular
+2014/15,10,11,FC Ashdod,7,8,1,regular,regular
+2014/15,10,11,H. Petah Tikva,12,14,2,regular,regular
+2014/15,10,11,Hapoel Acre,13,10,3,regular,regular
+2014/15,10,11,Hapoel Haifa,14,12,2,regular,regular
+2014/15,10,11,Hapoel Raanana,8,9,1,regular,regular
+2014/15,10,11,Kiryat Shmona,1,2,1,regular,regular
+2014/15,10,11,M. Tel Aviv,2,1,1,regular,regular
+2014/15,10,11,Maccabi Netanya,10,11,1,regular,regular
+2014/15,11,12,Bnei Sakhnin,13,12,1,regular,regular
+2014/15,11,12,FC Ashdod,8,5,3,regular,regular
+2014/15,11,12,H. Petah Tikva,14,10,4,regular,regular
+2014/15,11,12,Hapoel Acre,10,13,3,regular,regular
+2014/15,11,12,Hapoel Haifa,12,14,2,regular,regular
+2014/15,11,12,Hapoel Raanana,9,11,2,regular,regular
+2014/15,11,12,Kiryat Shmona,2,1,1,regular,regular
+2014/15,11,12,M. Petah Tikva,5,6,1,regular,regular
+2014/15,11,12,M. Tel Aviv,1,2,1,regular,regular
+2014/15,11,12,Maccabi Haifa,6,8,2,regular,regular
+2014/15,11,12,Maccabi Netanya,11,9,2,regular,regular
+2014/15,12,13,B. Jerusalem,7,8,1,regular,regular
+2014/15,12,13,Bnei Sakhnin,12,10,2,regular,regular
+2014/15,12,13,FC Ashdod,5,6,1,regular,regular
+2014/15,12,13,H. Petah Tikva,10,12,2,regular,regular
+2014/15,12,13,Hapoel Tel Aviv,4,7,3,regular,regular
+2014/15,12,13,Kiryat Shmona,1,2,1,regular,regular
+2014/15,12,13,M. Petah Tikva,6,4,2,regular,regular
+2014/15,12,13,M. Tel Aviv,2,1,1,regular,regular
+2014/15,12,13,Maccabi Haifa,8,5,3,regular,regular
+2014/15,13,14,Bnei Sakhnin,10,9,1,regular,regular
+2014/15,13,14,FC Ashdod,6,7,1,regular,regular
+2014/15,13,14,Hapoel Acre,13,14,1,regular,regular
+2014/15,13,14,Hapoel Haifa,14,13,1,regular,regular
+2014/15,13,14,Hapoel Tel Aviv,7,4,3,regular,regular
+2014/15,13,14,M. Petah Tikva,4,6,2,regular,regular
+2014/15,13,14,Maccabi Netanya,9,10,1,regular,regular
+2014/15,14,15,B. Jerusalem,8,6,2,regular,regular
+2014/15,14,15,Bnei Sakhnin,9,8,1,regular,regular
+2014/15,14,15,FC Ashdod,7,10,3,regular,regular
+2014/15,14,15,H. Petah Tikva,12,13,1,regular,regular
+2014/15,14,15,Hapoel Haifa,13,11,2,regular,regular
+2014/15,14,15,Hapoel Raanana,11,12,1,regular,regular
+2014/15,14,15,M. Petah Tikva,6,7,1,regular,regular
+2014/15,14,15,Maccabi Netanya,10,9,1,regular,regular
+2014/15,15,16,B. Jerusalem,6,4,2,regular,regular
+2014/15,15,16,Bnei Sakhnin,8,9,1,regular,regular
+2014/15,15,16,FC Ashdod,10,7,3,regular,regular
+2014/15,15,16,Hapoel Tel Aviv,4,5,1,regular,regular
+2014/15,15,16,Kiryat Shmona,2,1,1,regular,regular
+2014/15,15,16,M. Petah Tikva,7,8,1,regular,regular
+2014/15,15,16,M. Tel Aviv,1,2,1,regular,regular
+2014/15,15,16,Maccabi Haifa,5,6,1,regular,regular
+2014/15,15,16,Maccabi Netanya,9,10,1,regular,regular
+2014/15,16,17,Bnei Sakhnin,9,10,1,regular,regular
+2014/15,16,17,Hapoel Haifa,11,8,3,regular,regular
+2014/15,16,17,Hapoel Raanana,12,11,1,regular,regular
+2014/15,16,17,Hapoel Tel Aviv,5,6,1,regular,regular
+2014/15,16,17,Kiryat Shmona,1,2,1,regular,regular
+2014/15,16,17,M. Petah Tikva,8,5,3,regular,regular
+2014/15,16,17,M. Tel Aviv,2,1,1,regular,regular
+2014/15,16,17,Maccabi Haifa,6,9,3,regular,regular
+2014/15,16,17,Maccabi Netanya,10,12,2,regular,regular
+2014/15,17,18,Bnei Sakhnin,10,12,2,regular,regular
+2014/15,17,18,FC Ashdod,7,5,2,regular,regular
+2014/15,17,18,Hapoel Haifa,8,10,2,regular,regular
+2014/15,17,18,Hapoel Raanana,11,8,3,regular,regular
+2014/15,17,18,M. Petah Tikva,5,7,2,regular,regular
+2014/15,17,18,Maccabi Haifa,9,11,2,regular,regular
+2014/15,17,18,Maccabi Netanya,12,9,3,regular,regular
+2014/15,18,19,FC Ashdod,5,6,1,regular,regular
+2014/15,18,19,Hapoel Haifa,10,11,1,regular,regular
+2014/15,18,19,Hapoel Raanana,8,5,3,regular,regular
+2014/15,18,19,Hapoel Tel Aviv,6,7,1,regular,regular
+2014/15,18,19,M. Petah Tikva,7,8,1,regular,regular
+2014/15,18,19,Maccabi Haifa,11,10,1,regular,regular
+2014/15,19,20,Bnei Sakhnin,12,11,1,regular,regular
+2014/15,19,20,FC Ashdod,6,8,2,regular,regular
+2014/15,19,20,Hapoel Haifa,11,12,1,regular,regular
+2014/15,19,20,Hapoel Tel Aviv,7,9,2,regular,regular
+2014/15,19,20,M. Petah Tikva,8,6,2,regular,regular
+2014/15,19,20,Maccabi Netanya,9,7,2,regular,regular
+2014/15,20,21,FC Ashdod,8,9,1,regular,regular
+2014/15,20,21,Hapoel Raanana,5,6,1,regular,regular
+2014/15,20,21,Hapoel Tel Aviv,9,7,2,regular,regular
+2014/15,20,21,M. Petah Tikva,6,5,1,regular,regular
+2014/15,20,21,Maccabi Netanya,7,8,1,regular,regular
+2014/15,21,22,B. Jerusalem,4,5,1,regular,regular
+2014/15,21,22,Bnei Sakhnin,11,9,2,regular,regular
+2014/15,21,22,FC Ashdod,9,11,2,regular,regular
+2014/15,21,22,Hapoel Tel Aviv,7,8,1,regular,regular
+2014/15,21,22,M. Petah Tikva,5,4,1,regular,regular
+2014/15,21,22,Maccabi Haifa,10,7,3,regular,regular
+2014/15,21,22,Maccabi Netanya,8,10,2,regular,regular
+2014/15,22,23,Bnei Sakhnin,9,10,1,regular,regular
+2014/15,22,23,Hapoel Tel Aviv,8,9,1,regular,regular
+2014/15,22,23,Maccabi Haifa,7,8,1,regular,regular
+2014/15,22,23,Maccabi Netanya,10,7,3,regular,regular
+2014/15,23,24,Maccabi Haifa,8,7,1,regular,regular
+2014/15,23,24,Maccabi Netanya,7,8,1,regular,regular
+2014/15,24,25,B. Jerusalem,5,4,1,regular,regular
+2014/15,24,25,Bnei Sakhnin,10,9,1,regular,regular
+2014/15,24,25,Hapoel Raanana,6,7,1,regular,regular
+2014/15,24,25,Hapoel Tel Aviv,9,8,1,regular,regular
+2014/15,24,25,M. Petah Tikva,4,5,1,regular,regular
+2014/15,24,25,Maccabi Haifa,7,6,1,regular,regular
+2014/15,24,25,Maccabi Netanya,8,10,2,regular,regular
+2014/15,25,26,Bnei Sakhnin,9,10,1,regular,regular
+2014/15,25,26,H. Beer Sheva,3,2,1,regular,regular
+2014/15,25,26,Hapoel Tel Aviv,8,9,1,regular,regular
+2014/15,25,26,Kiryat Shmona,2,3,1,regular,regular
+2014/15,25,26,Maccabi Netanya,10,8,2,regular,regular
+2014/15,30,31,H. Beer Sheva,2,3,1,championship_playoff,championship_playoff
+2014/15,30,31,Kiryat Shmona,3,2,1,championship_playoff,championship_playoff
+2014/15,33,34,B. Jerusalem,4,5,1,championship_playoff,championship_playoff
+2014/15,33,34,M. Petah Tikva,5,6,1,championship_playoff,championship_playoff
+2014/15,33,34,Maccabi Haifa,6,4,2,championship_playoff,championship_playoff
+2014/15,34,35,Kiryat Shmona,2,1,1,championship_playoff,championship_playoff
+2014/15,34,35,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2014/15,27,28,Bnei Sakhnin,1,2,1,relegation_playoff,relegation_playoff
+2014/15,27,28,Hapoel Raanana,2,3,1,relegation_playoff,relegation_playoff
+2014/15,27,28,Hapoel Tel Aviv,3,1,2,relegation_playoff,relegation_playoff
+2014/15,29,30,Bnei Sakhnin,2,1,1,relegation_playoff,relegation_playoff
+2014/15,29,30,Hapoel Tel Aviv,1,2,1,relegation_playoff,relegation_playoff
+2014/15,30,31,Bnei Sakhnin,1,2,1,relegation_playoff,relegation_playoff
+2014/15,30,31,Hapoel Tel Aviv,2,1,1,relegation_playoff,relegation_playoff
+2014/15,31,32,Bnei Sakhnin,2,1,1,relegation_playoff,relegation_playoff
+2014/15,31,32,Hapoel Tel Aviv,1,2,1,relegation_playoff,relegation_playoff
+2015/16,1,2,B. Jerusalem,8,10,2,regular,regular
+2015/16,1,2,Bnei Sakhnin,10,13,3,regular,regular
+2015/16,1,2,Bnei Yehuda,1,6,5,regular,regular
+2015/16,1,2,H. Beer Sheva,2,7,5,regular,regular
+2015/16,1,2,H. Kfar Saba,6,4,2,regular,regular
+2015/16,1,2,Hapoel Acre,11,8,3,regular,regular
+2015/16,1,2,Hapoel Haifa,4,9,5,regular,regular
+2015/16,1,2,Hapoel Raanana,7,3,4,regular,regular
+2015/16,1,2,Hapoel Tel Aviv,9,12,3,regular,regular
+2015/16,1,2,Kiryat Shmona,13,5,8,regular,regular
+2015/16,1,2,M. Petah Tikva,5,1,4,regular,regular
+2015/16,1,2,M. Tel Aviv,3,2,1,regular,regular
+2015/16,1,2,Maccabi Netanya,12,11,1,regular,regular
+2015/16,2,3,B. Jerusalem,10,9,1,regular,regular
+2015/16,2,3,Bnei Yehuda,6,10,4,regular,regular
+2015/16,2,3,H. Beer Sheva,7,3,4,regular,regular
+2015/16,2,3,H. Kfar Saba,4,7,3,regular,regular
+2015/16,2,3,Hapoel Acre,8,4,4,regular,regular
+2015/16,2,3,Hapoel Haifa,9,8,1,regular,regular
+2015/16,2,3,Hapoel Raanana,3,6,3,regular,regular
+2015/16,3,4,B. Jerusalem,9,12,3,regular,regular
+2015/16,3,4,Bnei Sakhnin,13,9,4,regular,regular
+2015/16,3,4,Bnei Yehuda,10,5,5,regular,regular
+2015/16,3,4,H. Beer Sheva,3,2,1,regular,regular
+2015/16,3,4,H. Kfar Saba,7,10,3,regular,regular
+2015/16,3,4,Hapoel Acre,4,6,2,regular,regular
+2015/16,3,4,Hapoel Haifa,8,11,3,regular,regular
+2015/16,3,4,Hapoel Raanana,6,3,3,regular,regular
+2015/16,3,4,Hapoel Tel Aviv,12,8,4,regular,regular
+2015/16,3,4,Kiryat Shmona,5,7,2,regular,regular
+2015/16,3,4,M. Tel Aviv,2,4,2,regular,regular
+2015/16,3,4,Maccabi Netanya,11,13,2,regular,regular
+2015/16,4,5,B. Jerusalem,12,10,2,regular,regular
+2015/16,4,5,Bnei Sakhnin,9,6,3,regular,regular
+2015/16,4,5,Bnei Yehuda,5,11,6,regular,regular
+2015/16,4,5,H. Beer Sheva,2,7,5,regular,regular
+2015/16,4,5,H. Kfar Saba,10,12,2,regular,regular
+2015/16,4,5,Hapoel Acre,6,3,3,regular,regular
+2015/16,4,5,Hapoel Haifa,11,8,3,regular,regular
+2015/16,4,5,Hapoel Raanana,3,4,1,regular,regular
+2015/16,4,5,Hapoel Tel Aviv,8,5,3,regular,regular
+2015/16,4,5,Kiryat Shmona,7,9,2,regular,regular
+2015/16,4,5,M. Tel Aviv,4,2,2,regular,regular
+2015/16,5,6,B. Jerusalem,10,5,5,regular,regular
+2015/16,5,6,Bnei Sakhnin,6,9,3,regular,regular
+2015/16,5,6,Bnei Yehuda,11,12,1,regular,regular
+2015/16,5,6,H. Beer Sheva,7,3,4,regular,regular
+2015/16,5,6,H. Kfar Saba,12,13,1,regular,regular
+2015/16,5,6,Hapoel Acre,3,7,4,regular,regular
+2015/16,5,6,Hapoel Haifa,8,10,2,regular,regular
+2015/16,5,6,Hapoel Raanana,4,8,4,regular,regular
+2015/16,5,6,Hapoel Tel Aviv,5,6,1,regular,regular
+2015/16,5,6,Kiryat Shmona,9,4,5,regular,regular
+2015/16,5,6,M. Petah Tikva,1,2,1,regular,regular
+2015/16,5,6,M. Tel Aviv,2,1,1,regular,regular
+2015/16,5,6,Maccabi Netanya,13,11,2,regular,regular
+2015/16,6,7,B. Jerusalem,5,7,2,regular,regular
+2015/16,6,7,Bnei Sakhnin,9,6,3,regular,regular
+2015/16,6,7,Bnei Yehuda,12,8,4,regular,regular
+2015/16,6,7,H. Beer Sheva,3,2,1,regular,regular
+2015/16,6,7,H. Kfar Saba,13,11,2,regular,regular
+2015/16,6,7,Hapoel Acre,7,10,3,regular,regular
+2015/16,6,7,Hapoel Haifa,10,12,2,regular,regular
+2015/16,6,7,Hapoel Raanana,8,5,3,regular,regular
+2015/16,6,7,Hapoel Tel Aviv,6,9,3,regular,regular
+2015/16,6,7,Kiryat Shmona,4,3,1,regular,regular
+2015/16,6,7,M. Petah Tikva,2,4,2,regular,regular
+2015/16,6,7,Maccabi Netanya,11,13,2,regular,regular
+2015/16,7,8,B. Jerusalem,7,5,2,regular,regular
+2015/16,7,8,Bnei Sakhnin,6,7,1,regular,regular
+2015/16,7,8,H. Beer Sheva,2,1,1,regular,regular
+2015/16,7,8,H. Kfar Saba,11,9,2,regular,regular
+2015/16,7,8,Hapoel Acre,10,11,1,regular,regular
+2015/16,7,8,Hapoel Haifa,12,13,1,regular,regular
+2015/16,7,8,Hapoel Raanana,5,3,2,regular,regular
+2015/16,7,8,Hapoel Tel Aviv,9,10,1,regular,regular
+2015/16,7,8,Kiryat Shmona,3,4,1,regular,regular
+2015/16,7,8,M. Petah Tikva,4,6,2,regular,regular
+2015/16,7,8,M. Tel Aviv,1,2,1,regular,regular
+2015/16,7,8,Maccabi Haifa,14,12,2,regular,regular
+2015/16,7,8,Maccabi Netanya,13,14,1,regular,regular
+2015/16,8,9,B. Jerusalem,5,3,2,regular,regular
+2015/16,8,9,Bnei Sakhnin,7,8,1,regular,regular
+2015/16,8,9,Bnei Yehuda,8,7,1,regular,regular
+2015/16,8,9,H. Kfar Saba,9,12,3,regular,regular
+2015/16,8,9,Hapoel Acre,11,10,1,regular,regular
+2015/16,8,9,Hapoel Haifa,13,9,4,regular,regular
+2015/16,8,9,Hapoel Raanana,3,5,2,regular,regular
+2015/16,8,9,Hapoel Tel Aviv,10,13,3,regular,regular
+2015/16,8,9,Maccabi Haifa,12,11,1,regular,regular
+2015/16,9,10,Bnei Sakhnin,8,9,1,regular,regular
+2015/16,9,10,Bnei Yehuda,7,6,1,regular,regular
+2015/16,9,10,Hapoel Acre,10,8,2,regular,regular
+2015/16,9,10,Hapoel Haifa,9,11,2,regular,regular
+2015/16,9,10,Hapoel Tel Aviv,13,10,3,regular,regular
+2015/16,9,10,M. Petah Tikva,6,7,1,regular,regular
+2015/16,9,10,Maccabi Haifa,11,13,2,regular,regular
+2015/16,10,11,Bnei Sakhnin,9,10,1,regular,regular
+2015/16,10,11,Bnei Yehuda,6,7,1,regular,regular
+2015/16,10,11,H. Beer Sheva,1,2,1,regular,regular
+2015/16,10,11,H. Kfar Saba,12,8,4,regular,regular
+2015/16,10,11,Hapoel Acre,8,9,1,regular,regular
+2015/16,10,11,Hapoel Haifa,11,13,2,regular,regular
+2015/16,10,11,Hapoel Raanana,5,4,1,regular,regular
+2015/16,10,11,Hapoel Tel Aviv,10,12,2,regular,regular
+2015/16,10,11,Kiryat Shmona,4,6,2,regular,regular
+2015/16,10,11,M. Petah Tikva,7,5,2,regular,regular
+2015/16,10,11,M. Tel Aviv,2,1,1,regular,regular
+2015/16,10,11,Maccabi Haifa,13,11,2,regular,regular
+2015/16,11,12,Bnei Sakhnin,10,7,3,regular,regular
+2015/16,11,12,Bnei Yehuda,7,9,2,regular,regular
+2015/16,11,12,H. Kfar Saba,8,11,3,regular,regular
+2015/16,11,12,Hapoel Acre,9,12,3,regular,regular
+2015/16,11,12,Hapoel Raanana,4,5,1,regular,regular
+2015/16,11,12,Hapoel Tel Aviv,12,10,2,regular,regular
+2015/16,11,12,M. Petah Tikva,5,4,1,regular,regular
+2015/16,11,12,Maccabi Haifa,11,8,3,regular,regular
+2015/16,12,13,Kiryat Shmona,6,8,2,regular,regular
+2015/16,12,13,Maccabi Haifa,8,6,2,regular,regular
+2015/16,13,14,Bnei Sakhnin,7,10,3,regular,regular
+2015/16,13,14,Bnei Yehuda,9,7,2,regular,regular
+2015/16,13,14,Hapoel Acre,12,13,1,regular,regular
+2015/16,13,14,Hapoel Haifa,13,12,1,regular,regular
+2015/16,13,14,Hapoel Tel Aviv,10,8,2,regular,regular
+2015/16,13,14,Kiryat Shmona,8,9,1,regular,regular
+2015/16,14,15,Bnei Sakhnin,10,12,2,regular,regular
+2015/16,14,15,H. Beer Sheva,2,1,1,regular,regular
+2015/16,14,15,H. Kfar Saba,11,9,2,regular,regular
+2015/16,14,15,Hapoel Haifa,12,10,2,regular,regular
+2015/16,14,15,Hapoel Raanana,5,4,1,regular,regular
+2015/16,14,15,Hapoel Tel Aviv,8,11,3,regular,regular
+2015/16,14,15,Kiryat Shmona,9,8,1,regular,regular
+2015/16,14,15,M. Petah Tikva,4,5,1,regular,regular
+2015/16,14,15,M. Tel Aviv,1,2,1,regular,regular
+2015/16,15,16,Bnei Sakhnin,12,13,1,regular,regular
+2015/16,15,16,H. Kfar Saba,9,12,3,regular,regular
+2015/16,15,16,Hapoel Acre,13,11,2,regular,regular
+2015/16,15,16,Hapoel Haifa,10,9,1,regular,regular
+2015/16,15,16,Hapoel Tel Aviv,11,10,1,regular,regular
+2015/16,16,17,Bnei Sakhnin,13,12,1,regular,regular
+2015/16,16,17,Bnei Yehuda,7,8,1,regular,regular
+2015/16,16,17,H. Kfar Saba,12,13,1,regular,regular
+2015/16,16,17,Hapoel Raanana,4,5,1,regular,regular
+2015/16,16,17,Kiryat Shmona,8,7,1,regular,regular
+2015/16,16,17,M. Petah Tikva,5,4,1,regular,regular
+2015/16,17,18,Bnei Sakhnin,12,11,1,regular,regular
+2015/16,17,18,Bnei Yehuda,8,10,2,regular,regular
+2015/16,17,18,H. Kfar Saba,13,12,1,regular,regular
+2015/16,17,18,Hapoel Acre,11,13,2,regular,regular
+2015/16,17,18,Hapoel Haifa,9,8,1,regular,regular
+2015/16,17,18,Hapoel Tel Aviv,10,9,1,regular,regular
+2015/16,18,19,Bnei Sakhnin,11,12,1,regular,regular
+2015/16,18,19,Bnei Yehuda,10,8,2,regular,regular
+2015/16,18,19,H. Kfar Saba,12,10,2,regular,regular
+2015/16,18,19,Hapoel Haifa,8,9,1,regular,regular
+2015/16,18,19,Hapoel Raanana,5,6,1,regular,regular
+2015/16,18,19,Hapoel Tel Aviv,9,11,2,regular,regular
+2015/16,18,19,Maccabi Haifa,6,5,1,regular,regular
+2015/16,19,20,Bnei Sakhnin,12,10,2,regular,regular
+2015/16,19,20,H. Kfar Saba,10,9,1,regular,regular
+2015/16,19,20,Hapoel Haifa,9,11,2,regular,regular
+2015/16,19,20,Hapoel Raanana,6,4,2,regular,regular
+2015/16,19,20,Hapoel Tel Aviv,11,12,1,regular,regular
+2015/16,19,20,M. Petah Tikva,4,5,1,regular,regular
+2015/16,19,20,Maccabi Haifa,5,6,1,regular,regular
+2015/16,20,21,M. Petah Tikva,5,6,1,regular,regular
+2015/16,20,21,Maccabi Haifa,6,5,1,regular,regular
+2015/16,21,22,Bnei Sakhnin,10,9,1,regular,regular
+2015/16,21,22,Bnei Yehuda,8,6,2,regular,regular
+2015/16,21,22,H. Kfar Saba,9,10,1,regular,regular
+2015/16,21,22,Kiryat Shmona,7,8,1,regular,regular
+2015/16,21,22,M. Petah Tikva,6,7,1,regular,regular
+2015/16,22,23,Bnei Sakhnin,9,7,2,regular,regular
+2015/16,22,23,H. Kfar Saba,10,8,2,regular,regular
+2015/16,22,23,Hapoel Acre,13,12,1,regular,regular
+2015/16,22,23,Hapoel Haifa,11,13,2,regular,regular
+2015/16,22,23,Hapoel Tel Aviv,12,11,1,regular,regular
+2015/16,22,23,Kiryat Shmona,8,10,2,regular,regular
+2015/16,22,23,M. Petah Tikva,7,9,2,regular,regular
+2015/16,23,24,Bnei Sakhnin,7,5,2,regular,regular
+2015/16,23,24,Bnei Yehuda,6,7,1,regular,regular
+2015/16,23,24,H. Kfar Saba,8,9,1,regular,regular
+2015/16,23,24,M. Petah Tikva,9,8,1,regular,regular
+2015/16,23,24,Maccabi Haifa,5,6,1,regular,regular
+2015/16,24,25,Hapoel Acre,12,11,1,regular,regular
+2015/16,24,25,Hapoel Tel Aviv,11,12,1,regular,regular
+2015/16,25,26,Hapoel Acre,11,10,1,regular,regular
+2015/16,25,26,Hapoel Raanana,4,6,2,regular,regular
+2015/16,25,26,Kiryat Shmona,10,11,1,regular,regular
+2015/16,25,26,Maccabi Haifa,6,4,2,regular,regular
+2015/16,34,35,B. Jerusalem,3,4,1,championship_playoff,championship_playoff
+2015/16,34,35,Maccabi Haifa,4,3,1,championship_playoff,championship_playoff
+2015/16,27,28,Kiryat Shmona,3,2,1,relegation_playoff,relegation_playoff
+2015/16,27,28,M. Petah Tikva,2,3,1,relegation_playoff,relegation_playoff
+2015/16,28,29,H. Kfar Saba,4,5,1,relegation_playoff,relegation_playoff
+2015/16,28,29,Hapoel Tel Aviv,5,3,2,relegation_playoff,relegation_playoff
+2015/16,28,29,M. Petah Tikva,3,4,1,relegation_playoff,relegation_playoff
+2015/16,29,30,H. Kfar Saba,5,6,1,relegation_playoff,relegation_playoff
+2015/16,29,30,Hapoel Acre,6,7,1,relegation_playoff,relegation_playoff
+2015/16,29,30,Hapoel Haifa,7,5,2,relegation_playoff,relegation_playoff
+2015/16,30,31,Hapoel Haifa,5,4,1,relegation_playoff,relegation_playoff
+2015/16,30,31,Hapoel Tel Aviv,3,2,1,relegation_playoff,relegation_playoff
+2015/16,30,31,Kiryat Shmona,2,3,1,relegation_playoff,relegation_playoff
+2015/16,30,31,M. Petah Tikva,4,5,1,relegation_playoff,relegation_playoff
+2016/17,1,2,B. Jerusalem,6,9,3,regular,regular
+2016/17,1,2,Bnei Sakhnin,8,5,3,regular,regular
+2016/17,1,2,Bnei Yehuda,9,10,1,regular,regular
+2016/17,1,2,FC Ashdod,12,13,1,regular,regular
+2016/17,1,2,H. Beer Sheva,3,6,3,regular,regular
+2016/17,1,2,H. Kfar Saba,14,12,2,regular,regular
+2016/17,1,2,Hapoel Haifa,10,7,3,regular,regular
+2016/17,1,2,Hapoel Raanana,11,14,3,regular,regular
+2016/17,1,2,Hapoel Tel Aviv,13,11,2,regular,regular
+2016/17,1,2,Kiryat Shmona,4,3,1,regular,regular
+2016/17,1,2,M. Petah Tikva,7,4,3,regular,regular
+2016/17,1,2,Maccabi Haifa,5,8,3,regular,regular
+2016/17,2,3,Bnei Sakhnin,5,8,3,regular,regular
+2016/17,2,3,Bnei Yehuda,10,11,1,regular,regular
+2016/17,2,3,FC Ashdod,13,12,1,regular,regular
+2016/17,2,3,H. Ashkelon,2,4,2,regular,regular
+2016/17,2,3,H. Beer Sheva,6,1,5,regular,regular
+2016/17,2,3,H. Kfar Saba,12,7,5,regular,regular
+2016/17,2,3,Hapoel Haifa,7,10,3,regular,regular
+2016/17,2,3,Hapoel Raanana,14,13,1,regular,regular
+2016/17,2,3,Hapoel Tel Aviv,11,14,3,regular,regular
+2016/17,2,3,Kiryat Shmona,3,5,2,regular,regular
+2016/17,2,3,M. Petah Tikva,4,3,1,regular,regular
+2016/17,2,3,M. Tel Aviv,1,2,1,regular,regular
+2016/17,2,3,Maccabi Haifa,8,6,2,regular,regular
+2016/17,3,4,B. Jerusalem,9,5,4,regular,regular
+2016/17,3,4,Bnei Sakhnin,8,11,3,regular,regular
+2016/17,3,4,Bnei Yehuda,11,8,3,regular,regular
+2016/17,3,4,FC Ashdod,12,13,1,regular,regular
+2016/17,3,4,H. Ashkelon,4,9,5,regular,regular
+2016/17,3,4,H. Beer Sheva,1,3,2,regular,regular
+2016/17,3,4,H. Kfar Saba,7,10,3,regular,regular
+2016/17,3,4,Hapoel Haifa,10,6,4,regular,regular
+2016/17,3,4,Hapoel Raanana,13,14,1,regular,regular
+2016/17,3,4,Hapoel Tel Aviv,14,12,2,regular,regular
+2016/17,3,4,Kiryat Shmona,5,7,2,regular,regular
+2016/17,3,4,M. Petah Tikva,3,2,1,regular,regular
+2016/17,3,4,M. Tel Aviv,2,1,1,regular,regular
+2016/17,3,4,Maccabi Haifa,6,4,2,regular,regular
+2016/17,4,5,B. Jerusalem,5,8,3,regular,regular
+2016/17,4,5,Bnei Sakhnin,11,10,1,regular,regular
+2016/17,4,5,Bnei Yehuda,8,11,3,regular,regular
+2016/17,4,5,FC Ashdod,13,14,1,regular,regular
+2016/17,4,5,H. Kfar Saba,10,7,3,regular,regular
+2016/17,4,5,Hapoel Haifa,6,4,2,regular,regular
+2016/17,4,5,Hapoel Raanana,14,12,2,regular,regular
+2016/17,4,5,Hapoel Tel Aviv,12,13,1,regular,regular
+2016/17,4,5,Kiryat Shmona,7,6,1,regular,regular
+2016/17,4,5,Maccabi Haifa,4,5,1,regular,regular
+2016/17,5,6,B. Jerusalem,8,6,2,regular,regular
+2016/17,5,6,Bnei Sakhnin,10,13,3,regular,regular
+2016/17,5,6,Bnei Yehuda,11,9,2,regular,regular
+2016/17,5,6,H. Ashkelon,9,10,1,regular,regular
+2016/17,5,6,H. Beer Sheva,3,2,1,regular,regular
+2016/17,5,6,H. Kfar Saba,7,8,1,regular,regular
+2016/17,5,6,Hapoel Raanana,12,11,1,regular,regular
+2016/17,5,6,Hapoel Tel Aviv,13,12,1,regular,regular
+2016/17,5,6,Kiryat Shmona,6,7,1,regular,regular
+2016/17,5,6,M. Petah Tikva,2,3,1,regular,regular
+2016/17,6,7,B. Jerusalem,6,5,1,regular,regular
+2016/17,6,7,Bnei Sakhnin,13,10,3,regular,regular
+2016/17,6,7,Bnei Yehuda,9,13,4,regular,regular
+2016/17,6,7,H. Ashkelon,10,12,2,regular,regular
+2016/17,6,7,H. Beer Sheva,2,1,1,regular,regular
+2016/17,6,7,H. Kfar Saba,8,11,3,regular,regular
+2016/17,6,7,Hapoel Haifa,4,6,2,regular,regular
+2016/17,6,7,Hapoel Raanana,11,8,3,regular,regular
+2016/17,6,7,Hapoel Tel Aviv,12,9,3,regular,regular
+2016/17,6,7,M. Tel Aviv,1,2,1,regular,regular
+2016/17,6,7,Maccabi Haifa,5,4,1,regular,regular
+2016/17,7,8,Bnei Sakhnin,10,6,4,regular,regular
+2016/17,7,8,Bnei Yehuda,13,12,1,regular,regular
+2016/17,7,8,H. Ashkelon,12,13,1,regular,regular
+2016/17,7,8,Hapoel Haifa,6,7,1,regular,regular
+2016/17,7,8,Kiryat Shmona,7,10,3,regular,regular
+2016/17,7,8,M. Petah Tikva,3,2,1,regular,regular
+2016/17,7,8,M. Tel Aviv,2,3,1,regular,regular
+2016/17,8,9,Bnei Sakhnin,6,8,2,regular,regular
+2016/17,8,9,Bnei Yehuda,12,13,1,regular,regular
+2016/17,8,9,FC Ashdod,14,12,2,regular,regular
+2016/17,8,9,H. Ashkelon,13,14,1,regular,regular
+2016/17,8,9,H. Kfar Saba,11,7,4,regular,regular
+2016/17,8,9,Hapoel Haifa,7,9,2,regular,regular
+2016/17,8,9,Hapoel Raanana,8,10,2,regular,regular
+2016/17,8,9,Hapoel Tel Aviv,9,11,2,regular,regular
+2016/17,8,9,Kiryat Shmona,10,6,4,regular,regular
+2016/17,9,10,Bnei Sakhnin,8,9,1,regular,regular
+2016/17,9,10,FC Ashdod,12,10,2,regular,regular
+2016/17,9,10,H. Kfar Saba,7,8,1,regular,regular
+2016/17,9,10,Hapoel Haifa,9,11,2,regular,regular
+2016/17,9,10,Hapoel Raanana,10,6,4,regular,regular
+2016/17,9,10,Hapoel Tel Aviv,11,12,1,regular,regular
+2016/17,9,10,Kiryat Shmona,6,7,1,regular,regular
+2016/17,9,10,M. Petah Tikva,2,4,2,regular,regular
+2016/17,9,10,M. Tel Aviv,3,2,1,regular,regular
+2016/17,9,10,Maccabi Haifa,4,3,1,regular,regular
+2016/17,10,11,Bnei Sakhnin,9,7,2,regular,regular
+2016/17,10,11,H. Kfar Saba,8,12,4,regular,regular
+2016/17,10,11,Hapoel Haifa,11,9,2,regular,regular
+2016/17,10,11,Hapoel Raanana,6,8,2,regular,regular
+2016/17,10,11,Hapoel Tel Aviv,12,11,1,regular,regular
+2016/17,10,11,Kiryat Shmona,7,6,1,regular,regular
+2016/17,11,12,FC Ashdod,10,12,2,regular,regular
+2016/17,11,12,H. Kfar Saba,12,11,1,regular,regular
+2016/17,11,12,Hapoel Haifa,9,10,1,regular,regular
+2016/17,11,12,Hapoel Tel Aviv,11,9,2,regular,regular
+2016/17,12,13,B. Jerusalem,5,6,1,regular,regular
+2016/17,12,13,Bnei Yehuda,13,14,1,regular,regular
+2016/17,12,13,H. Ashkelon,14,13,1,regular,regular
+2016/17,12,13,H. Kfar Saba,11,10,1,regular,regular
+2016/17,12,13,Hapoel Haifa,10,11,1,regular,regular
+2016/17,12,13,Kiryat Shmona,6,5,1,regular,regular
+2016/17,13,14,Bnei Sakhnin,7,8,1,regular,regular
+2016/17,13,14,Bnei Yehuda,14,13,1,regular,regular
+2016/17,13,14,H. Ashkelon,13,14,1,regular,regular
+2016/17,13,14,H. Kfar Saba,10,11,1,regular,regular
+2016/17,13,14,Hapoel Haifa,11,9,2,regular,regular
+2016/17,13,14,Hapoel Raanana,8,7,1,regular,regular
+2016/17,13,14,Hapoel Tel Aviv,9,10,1,regular,regular
+2016/17,14,15,B. Jerusalem,6,7,1,regular,regular
+2016/17,14,15,Bnei Sakhnin,8,6,2,regular,regular
+2016/17,14,15,Hapoel Raanana,7,8,1,regular,regular
+2016/17,14,15,M. Petah Tikva,4,3,1,regular,regular
+2016/17,14,15,Maccabi Haifa,3,4,1,regular,regular
+2016/17,15,16,B. Jerusalem,7,6,1,regular,regular
+2016/17,15,16,Bnei Sakhnin,6,7,1,regular,regular
+2016/17,15,16,FC Ashdod,12,11,1,regular,regular
+2016/17,15,16,H. Kfar Saba,11,12,1,regular,regular
+2016/17,15,16,Hapoel Haifa,9,8,1,regular,regular
+2016/17,15,16,Hapoel Raanana,8,9,1,regular,regular
+2016/17,16,17,FC Ashdod,11,9,2,regular,regular
+2016/17,16,17,H. Kfar Saba,12,11,1,regular,regular
+2016/17,16,17,Hapoel Raanana,9,10,1,regular,regular
+2016/17,16,17,Hapoel Tel Aviv,10,12,2,regular,regular
+2016/17,16,17,Kiryat Shmona,5,4,1,regular,regular
+2016/17,16,17,Maccabi Haifa,4,5,1,regular,regular
+2016/17,17,18,B. Jerusalem,6,5,1,regular,regular
+2016/17,17,18,Bnei Yehuda,13,14,1,regular,regular
+2016/17,17,18,H. Ashkelon,14,13,1,regular,regular
+2016/17,17,18,Maccabi Haifa,5,6,1,regular,regular
+2016/17,18,19,Bnei Yehuda,14,12,2,regular,regular
+2016/17,18,19,H. Ashkelon,13,14,1,regular,regular
+2016/17,18,19,H. Kfar Saba,11,13,2,regular,regular
+2016/17,18,19,Hapoel Raanana,10,11,1,regular,regular
+2016/17,18,19,Hapoel Tel Aviv,12,10,2,regular,regular
+2016/17,19,20,Bnei Sakhnin,7,6,1,regular,regular
+2016/17,19,20,Hapoel Raanana,11,10,1,regular,regular
+2016/17,19,20,Hapoel Tel Aviv,10,11,1,regular,regular
+2016/17,19,20,Maccabi Haifa,6,7,1,regular,regular
+2016/17,20,21,FC Ashdod,9,11,2,regular,regular
+2016/17,20,21,Hapoel Raanana,10,9,1,regular,regular
+2016/17,20,21,Hapoel Tel Aviv,11,10,1,regular,regular
+2016/17,21,22,B. Jerusalem,5,4,1,regular,regular
+2016/17,21,22,Bnei Sakhnin,6,5,1,regular,regular
+2016/17,21,22,Bnei Yehuda,12,11,1,regular,regular
+2016/17,21,22,FC Ashdod,11,12,1,regular,regular
+2016/17,21,22,Hapoel Raanana,9,10,1,regular,regular
+2016/17,21,22,Hapoel Tel Aviv,10,9,1,regular,regular
+2016/17,21,22,Kiryat Shmona,4,6,2,regular,regular
+2016/17,22,23,Bnei Yehuda,11,12,1,regular,regular
+2016/17,22,23,FC Ashdod,12,11,1,regular,regular
+2016/17,22,23,Hapoel Raanana,10,9,1,regular,regular
+2016/17,22,23,Hapoel Tel Aviv,9,10,1,regular,regular
+2016/17,22,23,Kiryat Shmona,6,7,1,regular,regular
+2016/17,22,23,Maccabi Haifa,7,6,1,regular,regular
+2016/17,23,24,Kiryat Shmona,7,6,1,regular,regular
+2016/17,23,24,Maccabi Haifa,6,7,1,regular,regular
+2016/17,25,26,FC Ashdod,11,9,2,regular,regular
+2016/17,25,26,Hapoel Raanana,9,10,1,regular,regular
+2016/17,25,26,Hapoel Tel Aviv,10,11,1,regular,regular
+2016/17,25,26,Kiryat Shmona,6,7,1,regular,regular
+2016/17,25,26,Maccabi Haifa,7,6,1,regular,regular
+2016/17,29,30,B. Jerusalem,4,5,1,championship_playoff,championship_playoff
+2016/17,29,30,Bnei Sakhnin,5,4,1,championship_playoff,championship_playoff
+2016/17,34,35,Bnei Sakhnin,4,3,1,championship_playoff,championship_playoff
+2016/17,34,35,M. Petah Tikva,3,4,1,championship_playoff,championship_playoff
+2016/17,27,28,Hapoel Tel Aviv,2,1,1,relegation_playoff,relegation_playoff
+2016/17,27,28,Kiryat Shmona,1,2,1,relegation_playoff,relegation_playoff
+2016/17,29,30,Bnei Yehuda,6,7,1,relegation_playoff,relegation_playoff
+2016/17,29,30,FC Ashdod,4,5,1,relegation_playoff,relegation_playoff
+2016/17,29,30,H. Ashkelon,7,4,3,relegation_playoff,relegation_playoff
+2016/17,29,30,Hapoel Raanana,5,6,1,relegation_playoff,relegation_playoff
+2016/17,30,31,Hapoel Tel Aviv,1,2,1,relegation_playoff,relegation_playoff
+2016/17,30,31,Kiryat Shmona,2,1,1,relegation_playoff,relegation_playoff
+2017/18,1,2,Bnei Sakhnin,4,3,1,regular,regular
+2017/18,1,2,Bnei Yehuda,3,4,1,regular,regular
+2017/18,1,2,FC Ashdod,10,14,4,regular,regular
+2017/18,1,2,H. Beer Sheva,6,13,7,regular,regular
+2017/18,1,2,Hapoel Acre,11,9,2,regular,regular
+2017/18,1,2,Hapoel Raanana,8,10,2,regular,regular
+2017/18,1,2,Kiryat Shmona,9,11,2,regular,regular
+2017/18,1,2,M. Petah Tikva,5,6,1,regular,regular
+2017/18,1,2,M. Tel Aviv,14,7,7,regular,regular
+2017/18,1,2,Maccabi Haifa,13,5,8,regular,regular
+2017/18,1,2,Maccabi Netanya,7,8,1,regular,regular
+2017/18,2,3,Bnei Yehuda,4,7,3,regular,regular
+2017/18,2,3,H. Beer Sheva,13,9,4,regular,regular
+2017/18,2,3,Hapoel Acre,9,6,3,regular,regular
+2017/18,2,3,Hapoel Raanana,10,13,3,regular,regular
+2017/18,2,3,Kiryat Shmona,11,8,3,regular,regular
+2017/18,2,3,M. Petah Tikva,6,10,4,regular,regular
+2017/18,2,3,M. Tel Aviv,7,4,3,regular,regular
+2017/18,2,3,Maccabi Haifa,5,11,6,regular,regular
+2017/18,2,3,Maccabi Netanya,8,5,3,regular,regular
+2017/18,3,4,Bnei Sakhnin,3,5,2,regular,regular
+2017/18,3,4,Bnei Yehuda,7,10,3,regular,regular
+2017/18,3,4,H. Ashkelon,12,11,1,regular,regular
+2017/18,3,4,H. Beer Sheva,9,6,3,regular,regular
+2017/18,3,4,Hapoel Acre,6,9,3,regular,regular
+2017/18,3,4,Kiryat Shmona,8,4,4,regular,regular
+2017/18,3,4,M. Petah Tikva,10,12,2,regular,regular
+2017/18,3,4,M. Tel Aviv,4,3,1,regular,regular
+2017/18,3,4,Maccabi Haifa,11,7,4,regular,regular
+2017/18,3,4,Maccabi Netanya,5,8,3,regular,regular
+2017/18,4,5,Bnei Sakhnin,5,9,4,regular,regular
+2017/18,4,5,Bnei Yehuda,10,12,2,regular,regular
+2017/18,4,5,H. Ashkelon,11,7,4,regular,regular
+2017/18,4,5,Hapoel Acre,9,11,2,regular,regular
+2017/18,4,5,Kiryat Shmona,4,5,1,regular,regular
+2017/18,4,5,M. Petah Tikva,12,10,2,regular,regular
+2017/18,4,5,Maccabi Haifa,7,8,1,regular,regular
+2017/18,4,5,Maccabi Netanya,8,4,4,regular,regular
+2017/18,5,6,B. Jerusalem,1,3,2,regular,regular
+2017/18,5,6,Bnei Sakhnin,9,7,2,regular,regular
+2017/18,5,6,Bnei Yehuda,12,10,2,regular,regular
+2017/18,5,6,H. Ashkelon,7,9,2,regular,regular
+2017/18,5,6,H. Beer Sheva,6,4,2,regular,regular
+2017/18,5,6,Hapoel Acre,11,12,1,regular,regular
+2017/18,5,6,Hapoel Haifa,2,1,1,regular,regular
+2017/18,5,6,Kiryat Shmona,5,8,3,regular,regular
+2017/18,5,6,M. Petah Tikva,10,11,1,regular,regular
+2017/18,5,6,M. Tel Aviv,3,5,2,regular,regular
+2017/18,5,6,Maccabi Haifa,8,6,2,regular,regular
+2017/18,5,6,Maccabi Netanya,4,2,2,regular,regular
+2017/18,6,7,B. Jerusalem,3,2,1,regular,regular
+2017/18,6,7,FC Ashdod,14,13,1,regular,regular
+2017/18,6,7,H. Beer Sheva,4,3,1,regular,regular
+2017/18,6,7,Hapoel Raanana,13,14,1,regular,regular
+2017/18,6,7,M. Tel Aviv,5,4,1,regular,regular
+2017/18,6,7,Maccabi Netanya,2,5,3,regular,regular
+2017/18,7,8,Bnei Yehuda,10,11,1,regular,regular
+2017/18,7,8,H. Ashkelon,9,10,1,regular,regular
+2017/18,7,8,Kiryat Shmona,8,9,1,regular,regular
+2017/18,7,8,M. Petah Tikva,11,8,3,regular,regular
+2017/18,7,8,M. Tel Aviv,4,5,1,regular,regular
+2017/18,7,8,Maccabi Netanya,5,4,1,regular,regular
+2017/18,8,9,Bnei Yehuda,11,9,2,regular,regular
+2017/18,8,9,H. Ashkelon,10,11,1,regular,regular
+2017/18,8,9,Kiryat Shmona,9,6,3,regular,regular
+2017/18,8,9,M. Petah Tikva,8,10,2,regular,regular
+2017/18,8,9,M. Tel Aviv,5,4,1,regular,regular
+2017/18,8,9,Maccabi Haifa,6,8,2,regular,regular
+2017/18,8,9,Maccabi Netanya,4,5,1,regular,regular
+2017/18,9,10,B. Jerusalem,2,3,1,regular,regular
+2017/18,9,10,Bnei Sakhnin,7,9,2,regular,regular
+2017/18,9,10,Bnei Yehuda,9,7,2,regular,regular
+2017/18,9,10,H. Ashkelon,11,10,1,regular,regular
+2017/18,9,10,H. Beer Sheva,3,2,1,regular,regular
+2017/18,9,10,Kiryat Shmona,6,8,2,regular,regular
+2017/18,9,10,M. Petah Tikva,10,11,1,regular,regular
+2017/18,9,10,Maccabi Haifa,8,6,2,regular,regular
+2017/18,10,11,Bnei Sakhnin,9,8,1,regular,regular
+2017/18,10,11,Bnei Yehuda,7,9,2,regular,regular
+2017/18,10,11,FC Ashdod,13,14,1,regular,regular
+2017/18,10,11,H. Ashkelon,10,11,1,regular,regular
+2017/18,10,11,Hapoel Raanana,14,13,1,regular,regular
+2017/18,10,11,Kiryat Shmona,8,6,2,regular,regular
+2017/18,10,11,M. Petah Tikva,11,10,1,regular,regular
+2017/18,10,11,Maccabi Haifa,6,7,1,regular,regular
+2017/18,11,12,Bnei Sakhnin,8,9,1,regular,regular
+2017/18,11,12,Bnei Yehuda,9,6,3,regular,regular
+2017/18,11,12,Hapoel Acre,12,13,1,regular,regular
+2017/18,11,12,Hapoel Raanana,13,12,1,regular,regular
+2017/18,11,12,Kiryat Shmona,6,7,1,regular,regular
+2017/18,11,12,Maccabi Haifa,7,8,1,regular,regular
+2017/18,12,13,Bnei Sakhnin,9,10,1,regular,regular
+2017/18,12,13,H. Beer Sheva,2,1,1,regular,regular
+2017/18,12,13,Hapoel Haifa,1,2,1,regular,regular
+2017/18,12,13,M. Petah Tikva,10,9,1,regular,regular
+2017/18,13,14,Bnei Sakhnin,10,8,2,regular,regular
+2017/18,13,14,FC Ashdod,14,13,1,regular,regular
+2017/18,13,14,Hapoel Acre,13,14,1,regular,regular
+2017/18,13,14,M. Petah Tikva,9,10,1,regular,regular
+2017/18,13,14,Maccabi Haifa,8,9,1,regular,regular
+2017/18,16,17,B. Jerusalem,3,2,1,regular,regular
+2017/18,16,17,Bnei Sakhnin,8,7,1,regular,regular
+2017/18,16,17,Hapoel Haifa,2,3,1,regular,regular
+2017/18,16,17,Kiryat Shmona,7,8,1,regular,regular
+2017/18,17,18,B. Jerusalem,2,3,1,regular,regular
+2017/18,17,18,Bnei Sakhnin,7,8,1,regular,regular
+2017/18,17,18,Bnei Yehuda,6,5,1,regular,regular
+2017/18,17,18,Hapoel Haifa,3,4,1,regular,regular
+2017/18,17,18,Kiryat Shmona,8,9,1,regular,regular
+2017/18,17,18,M. Petah Tikva,10,7,3,regular,regular
+2017/18,17,18,M. Tel Aviv,4,2,2,regular,regular
+2017/18,17,18,Maccabi Haifa,9,10,1,regular,regular
+2017/18,17,18,Maccabi Netanya,5,6,1,regular,regular
+2017/18,18,19,Bnei Sakhnin,8,9,1,regular,regular
+2017/18,18,19,H. Ashkelon,11,12,1,regular,regular
+2017/18,18,19,H. Beer Sheva,1,2,1,regular,regular
+2017/18,18,19,Hapoel Raanana,12,11,1,regular,regular
+2017/18,18,19,Kiryat Shmona,9,7,2,regular,regular
+2017/18,18,19,M. Petah Tikva,7,8,1,regular,regular
+2017/18,18,19,M. Tel Aviv,2,1,1,regular,regular
+2017/18,19,20,Bnei Yehuda,5,6,1,regular,regular
+2017/18,19,20,H. Beer Sheva,2,1,1,regular,regular
+2017/18,19,20,M. Tel Aviv,1,2,1,regular,regular
+2017/18,19,20,Maccabi Netanya,6,5,1,regular,regular
+2017/18,20,21,FC Ashdod,13,11,2,regular,regular
+2017/18,20,21,H. Ashkelon,12,13,1,regular,regular
+2017/18,20,21,H. Beer Sheva,1,2,1,regular,regular
+2017/18,20,21,Hapoel Raanana,11,12,1,regular,regular
+2017/18,20,21,Kiryat Shmona,7,8,1,regular,regular
+2017/18,20,21,M. Petah Tikva,8,7,1,regular,regular
+2017/18,20,21,M. Tel Aviv,2,1,1,regular,regular
+2017/18,21,22,Bnei Sakhnin,9,10,1,regular,regular
+2017/18,21,22,FC Ashdod,11,12,1,regular,regular
+2017/18,21,22,Hapoel Raanana,12,11,1,regular,regular
+2017/18,21,22,Maccabi Haifa,10,9,1,regular,regular
+2017/18,22,23,B. Jerusalem,3,2,1,regular,regular
+2017/18,22,23,Bnei Sakhnin,10,9,1,regular,regular
+2017/18,22,23,H. Beer Sheva,2,1,1,regular,regular
+2017/18,22,23,Kiryat Shmona,8,7,1,regular,regular
+2017/18,22,23,M. Petah Tikva,7,8,1,regular,regular
+2017/18,22,23,M. Tel Aviv,1,3,2,regular,regular
+2017/18,22,23,Maccabi Haifa,9,10,1,regular,regular
+2017/18,23,24,B. Jerusalem,2,3,1,regular,regular
+2017/18,23,24,H. Beer Sheva,1,2,1,regular,regular
+2017/18,23,24,Kiryat Shmona,7,8,1,regular,regular
+2017/18,23,24,M. Petah Tikva,8,7,1,regular,regular
+2017/18,23,24,M. Tel Aviv,3,1,2,regular,regular
+2017/18,24,25,B. Jerusalem,3,2,1,regular,regular
+2017/18,24,25,Bnei Sakhnin,9,8,1,regular,regular
+2017/18,24,25,H. Beer Sheva,2,1,1,regular,regular
+2017/18,24,25,Kiryat Shmona,8,9,1,regular,regular
+2017/18,24,25,M. Tel Aviv,1,3,2,regular,regular
+2017/18,25,26,Bnei Sakhnin,8,9,1,regular,regular
+2017/18,25,26,Kiryat Shmona,9,8,1,regular,regular
+2017/18,27,28,Bnei Yehuda,6,5,1,championship_playoff,championship_playoff
+2017/18,27,28,Maccabi Netanya,5,6,1,championship_playoff,championship_playoff
+2017/18,28,29,Bnei Yehuda,5,6,1,championship_playoff,championship_playoff
+2017/18,28,29,Maccabi Netanya,6,5,1,championship_playoff,championship_playoff
+2017/18,32,33,B. Jerusalem,2,3,1,championship_playoff,championship_playoff
+2017/18,32,33,Hapoel Haifa,4,2,2,championship_playoff,championship_playoff
+2017/18,32,33,M. Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2017/18,33,34,B. Jerusalem,3,4,1,championship_playoff,championship_playoff
+2017/18,33,34,M. Tel Aviv,4,5,1,championship_playoff,championship_playoff
+2017/18,33,34,Maccabi Netanya,5,3,2,championship_playoff,championship_playoff
+2017/18,27,28,FC Ashdod,6,7,1,relegation_playoff,relegation_playoff
+2017/18,27,28,H. Ashkelon,7,6,1,relegation_playoff,relegation_playoff
+2017/18,28,29,Bnei Sakhnin,3,4,1,relegation_playoff,relegation_playoff
+2017/18,28,29,Maccabi Haifa,4,3,1,relegation_playoff,relegation_playoff
+2018/19,1,2,B. Jerusalem,13,14,1,regular,regular
+2018/19,1,2,Bnei Sakhnin,8,10,2,regular,regular
+2018/19,1,2,FC Ashdod,5,8,3,regular,regular
+2018/19,1,2,H. Beer Sheva,6,9,3,regular,regular
+2018/19,1,2,Hapoel Hadera,4,1,3,regular,regular
+2018/19,1,2,Hapoel Haifa,1,5,4,regular,regular
+2018/19,1,2,Hapoel Raanana,9,4,5,regular,regular
+2018/19,1,2,Hapoel Tel Aviv,10,6,4,regular,regular
+2018/19,1,2,Kiryat Shmona,7,12,5,regular,regular
+2018/19,1,2,Maccabi Haifa,12,7,5,regular,regular
+2018/19,1,2,Maccabi Netanya,14,13,1,regular,regular
+2018/19,2,3,B. Jerusalem,14,13,1,regular,regular
+2018/19,2,3,FC Ashdod,8,3,5,regular,regular
+2018/19,2,3,H. Beer Sheva,9,12,3,regular,regular
+2018/19,2,3,Hapoel Hadera,1,2,1,regular,regular
+2018/19,2,3,Hapoel Raanana,4,9,5,regular,regular
+2018/19,2,3,Kiryat Shmona,12,7,5,regular,regular
+2018/19,2,3,M. Petah Tikva,2,4,2,regular,regular
+2018/19,2,3,M. Tel Aviv,3,1,2,regular,regular
+2018/19,2,3,Maccabi Haifa,7,8,1,regular,regular
+2018/19,2,3,Maccabi Netanya,13,14,1,regular,regular
+2018/19,3,4,B. Jerusalem,13,10,3,regular,regular
+2018/19,3,4,Bnei Sakhnin,10,11,1,regular,regular
+2018/19,3,4,Bnei Yehuda,11,12,1,regular,regular
+2018/19,3,4,FC Ashdod,3,4,1,regular,regular
+2018/19,3,4,H. Beer Sheva,12,13,1,regular,regular
+2018/19,3,4,Hapoel Haifa,5,8,3,regular,regular
+2018/19,3,4,Hapoel Raanana,9,7,2,regular,regular
+2018/19,3,4,Hapoel Tel Aviv,6,5,1,regular,regular
+2018/19,3,4,Kiryat Shmona,7,6,1,regular,regular
+2018/19,3,4,M. Petah Tikva,4,3,1,regular,regular
+2018/19,3,4,Maccabi Haifa,8,9,1,regular,regular
+2018/19,4,5,B. Jerusalem,10,13,3,regular,regular
+2018/19,4,5,Bnei Sakhnin,11,14,3,regular,regular
+2018/19,4,5,Bnei Yehuda,12,6,6,regular,regular
+2018/19,4,5,FC Ashdod,4,5,1,regular,regular
+2018/19,4,5,H. Beer Sheva,13,11,2,regular,regular
+2018/19,4,5,Hapoel Hadera,2,1,1,regular,regular
+2018/19,4,5,Hapoel Raanana,7,10,3,regular,regular
+2018/19,4,5,Hapoel Tel Aviv,5,7,2,regular,regular
+2018/19,4,5,Kiryat Shmona,6,4,2,regular,regular
+2018/19,4,5,M. Tel Aviv,1,2,1,regular,regular
+2018/19,4,5,Maccabi Netanya,14,12,2,regular,regular
+2018/19,5,6,B. Jerusalem,13,14,1,regular,regular
+2018/19,5,6,Bnei Sakhnin,14,9,5,regular,regular
+2018/19,5,6,Bnei Yehuda,6,3,3,regular,regular
+2018/19,5,6,FC Ashdod,5,6,1,regular,regular
+2018/19,5,6,H. Beer Sheva,11,7,4,regular,regular
+2018/19,5,6,Hapoel Haifa,8,12,4,regular,regular
+2018/19,5,6,Hapoel Raanana,10,11,1,regular,regular
+2018/19,5,6,Hapoel Tel Aviv,7,8,1,regular,regular
+2018/19,5,6,Kiryat Shmona,4,5,1,regular,regular
+2018/19,5,6,M. Petah Tikva,3,4,1,regular,regular
+2018/19,5,6,Maccabi Haifa,9,10,1,regular,regular
+2018/19,5,6,Maccabi Netanya,12,13,1,regular,regular
+2018/19,6,7,FC Ashdod,6,7,1,regular,regular
+2018/19,6,7,H. Beer Sheva,7,4,3,regular,regular
+2018/19,6,7,Hapoel Hadera,1,2,1,regular,regular
+2018/19,6,7,Hapoel Haifa,12,11,1,regular,regular
+2018/19,6,7,Hapoel Raanana,11,13,2,regular,regular
+2018/19,6,7,Kiryat Shmona,5,6,1,regular,regular
+2018/19,6,7,M. Petah Tikva,4,5,1,regular,regular
+2018/19,6,7,M. Tel Aviv,2,1,1,regular,regular
+2018/19,6,7,Maccabi Haifa,10,12,2,regular,regular
+2018/19,6,7,Maccabi Netanya,13,10,3,regular,regular
+2018/19,7,8,Bnei Sakhnin,9,12,3,regular,regular
+2018/19,7,8,FC Ashdod,7,9,2,regular,regular
+2018/19,7,8,H. Beer Sheva,4,5,1,regular,regular
+2018/19,7,8,Hapoel Haifa,11,13,2,regular,regular
+2018/19,7,8,Hapoel Raanana,13,10,3,regular,regular
+2018/19,7,8,Hapoel Tel Aviv,8,11,3,regular,regular
+2018/19,7,8,Kiryat Shmona,6,4,2,regular,regular
+2018/19,7,8,M. Petah Tikva,5,6,1,regular,regular
+2018/19,7,8,Maccabi Haifa,12,8,4,regular,regular
+2018/19,7,8,Maccabi Netanya,10,7,3,regular,regular
+2018/19,8,9,B. Jerusalem,14,13,1,regular,regular
+2018/19,8,9,Bnei Sakhnin,12,14,2,regular,regular
+2018/19,8,9,FC Ashdod,9,10,1,regular,regular
+2018/19,8,9,Hapoel Haifa,13,8,5,regular,regular
+2018/19,8,9,Hapoel Raanana,10,11,1,regular,regular
+2018/19,8,9,Hapoel Tel Aviv,11,12,1,regular,regular
+2018/19,8,9,M. Petah Tikva,6,7,1,regular,regular
+2018/19,8,9,Maccabi Haifa,8,9,1,regular,regular
+2018/19,8,9,Maccabi Netanya,7,6,1,regular,regular
+2018/19,9,10,B. Jerusalem,13,14,1,regular,regular
+2018/19,9,10,Bnei Sakhnin,14,9,5,regular,regular
+2018/19,9,10,Bnei Yehuda,3,2,1,regular,regular
+2018/19,9,10,FC Ashdod,10,13,3,regular,regular
+2018/19,9,10,H. Beer Sheva,5,4,1,regular,regular
+2018/19,9,10,Hapoel Hadera,2,3,1,regular,regular
+2018/19,9,10,Hapoel Haifa,8,11,3,regular,regular
+2018/19,9,10,Hapoel Raanana,11,10,1,regular,regular
+2018/19,9,10,Kiryat Shmona,4,5,1,regular,regular
+2018/19,9,10,M. Petah Tikva,7,6,1,regular,regular
+2018/19,9,10,Maccabi Haifa,9,8,1,regular,regular
+2018/19,9,10,Maccabi Netanya,6,7,1,regular,regular
+2018/19,10,11,Bnei Sakhnin,9,8,1,regular,regular
+2018/19,10,11,Bnei Yehuda,2,3,1,regular,regular
+2018/19,10,11,FC Ashdod,13,12,1,regular,regular
+2018/19,10,11,Hapoel Hadera,3,2,1,regular,regular
+2018/19,10,11,Hapoel Haifa,11,10,1,regular,regular
+2018/19,10,11,Hapoel Raanana,10,9,1,regular,regular
+2018/19,10,11,Hapoel Tel Aviv,12,13,1,regular,regular
+2018/19,10,11,Maccabi Haifa,8,11,3,regular,regular
+2018/19,11,12,Bnei Sakhnin,8,11,3,regular,regular
+2018/19,11,12,Bnei Yehuda,3,2,1,regular,regular
+2018/19,11,12,Hapoel Hadera,2,3,1,regular,regular
+2018/19,11,12,Maccabi Haifa,11,7,4,regular,regular
+2018/19,11,12,Maccabi Netanya,7,8,1,regular,regular
+2018/19,12,13,B. Jerusalem,14,13,1,regular,regular
+2018/19,12,13,Bnei Sakhnin,11,10,1,regular,regular
+2018/19,12,13,Hapoel Haifa,10,6,4,regular,regular
+2018/19,12,13,Hapoel Raanana,9,11,2,regular,regular
+2018/19,12,13,Hapoel Tel Aviv,13,14,1,regular,regular
+2018/19,12,13,Kiryat Shmona,5,7,2,regular,regular
+2018/19,12,13,M. Petah Tikva,6,8,2,regular,regular
+2018/19,12,13,Maccabi Haifa,7,9,2,regular,regular
+2018/19,12,13,Maccabi Netanya,8,5,3,regular,regular
+2018/19,13,14,B. Jerusalem,13,12,1,regular,regular
+2018/19,13,14,Bnei Sakhnin,10,11,1,regular,regular
+2018/19,13,14,FC Ashdod,12,13,1,regular,regular
+2018/19,13,14,H. Beer Sheva,4,3,1,regular,regular
+2018/19,13,14,Hapoel Hadera,3,4,1,regular,regular
+2018/19,13,14,Hapoel Haifa,6,5,1,regular,regular
+2018/19,13,14,Hapoel Raanana,11,8,3,regular,regular
+2018/19,13,14,Kiryat Shmona,7,9,2,regular,regular
+2018/19,13,14,M. Petah Tikva,8,7,1,regular,regular
+2018/19,13,14,Maccabi Haifa,9,10,1,regular,regular
+2018/19,13,14,Maccabi Netanya,5,6,1,regular,regular
+2018/19,14,15,B. Jerusalem,12,11,1,regular,regular
+2018/19,14,15,Bnei Sakhnin,11,12,1,regular,regular
+2018/19,14,15,FC Ashdod,13,14,1,regular,regular
+2018/19,14,15,Hapoel Haifa,5,6,1,regular,regular
+2018/19,14,15,Hapoel Raanana,8,9,1,regular,regular
+2018/19,14,15,Hapoel Tel Aviv,14,13,1,regular,regular
+2018/19,14,15,Kiryat Shmona,9,10,1,regular,regular
+2018/19,14,15,M. Petah Tikva,7,8,1,regular,regular
+2018/19,14,15,Maccabi Haifa,10,7,3,regular,regular
+2018/19,14,15,Maccabi Netanya,6,5,1,regular,regular
+2018/19,15,16,Bnei Sakhnin,12,13,1,regular,regular
+2018/19,15,16,Hapoel Haifa,6,7,1,regular,regular
+2018/19,15,16,Hapoel Tel Aviv,13,12,1,regular,regular
+2018/19,15,16,Maccabi Haifa,7,6,1,regular,regular
+2018/19,16,17,H. Beer Sheva,3,4,1,regular,regular
+2018/19,16,17,Hapoel Hadera,4,3,1,regular,regular
+2018/19,16,17,Kiryat Shmona,10,8,2,regular,regular
+2018/19,16,17,M. Petah Tikva,8,10,2,regular,regular
+2018/19,16,17,Maccabi Haifa,6,5,1,regular,regular
+2018/19,16,17,Maccabi Netanya,5,6,1,regular,regular
+2018/19,17,18,B. Jerusalem,11,10,1,regular,regular
+2018/19,17,18,H. Beer Sheva,4,7,3,regular,regular
+2018/19,17,18,Hapoel Haifa,7,6,1,regular,regular
+2018/19,17,18,M. Petah Tikva,10,11,1,regular,regular
+2018/19,17,18,Maccabi Haifa,5,4,1,regular,regular
+2018/19,17,18,Maccabi Netanya,6,5,1,regular,regular
+2018/19,18,19,H. Beer Sheva,7,6,1,regular,regular
+2018/19,18,19,Hapoel Hadera,3,4,1,regular,regular
+2018/19,18,19,Hapoel Haifa,6,5,1,regular,regular
+2018/19,18,19,Hapoel Tel Aviv,12,11,1,regular,regular
+2018/19,18,19,M. Petah Tikva,11,12,1,regular,regular
+2018/19,18,19,Maccabi Haifa,4,3,1,regular,regular
+2018/19,18,19,Maccabi Netanya,5,7,2,regular,regular
+2018/19,19,20,H. Beer Sheva,6,7,1,regular,regular
+2018/19,19,20,Hapoel Hadera,4,6,2,regular,regular
+2018/19,19,20,Hapoel Haifa,5,4,1,regular,regular
+2018/19,19,20,Maccabi Netanya,7,5,2,regular,regular
+2018/19,20,21,B. Jerusalem,10,9,1,regular,regular
+2018/19,20,21,Bnei Yehuda,2,4,2,regular,regular
+2018/19,20,21,Hapoel Hadera,6,3,3,regular,regular
+2018/19,20,21,Hapoel Haifa,4,5,1,regular,regular
+2018/19,20,21,Hapoel Raanana,9,10,1,regular,regular
+2018/19,20,21,Hapoel Tel Aviv,11,12,1,regular,regular
+2018/19,20,21,M. Petah Tikva,12,11,1,regular,regular
+2018/19,20,21,Maccabi Haifa,3,2,1,regular,regular
+2018/19,20,21,Maccabi Netanya,5,6,1,regular,regular
+2018/19,21,22,Bnei Sakhnin,13,14,1,regular,regular
+2018/19,21,22,Bnei Yehuda,4,2,2,regular,regular
+2018/19,21,22,FC Ashdod,14,13,1,regular,regular
+2018/19,21,22,Hapoel Hadera,3,5,2,regular,regular
+2018/19,21,22,Hapoel Haifa,5,6,1,regular,regular
+2018/19,21,22,Hapoel Raanana,10,11,1,regular,regular
+2018/19,21,22,M. Petah Tikva,11,10,1,regular,regular
+2018/19,21,22,Maccabi Haifa,2,3,1,regular,regular
+2018/19,21,22,Maccabi Netanya,6,4,2,regular,regular
+2018/19,22,23,H. Beer Sheva,7,5,2,regular,regular
+2018/19,22,23,Hapoel Hadera,5,6,1,regular,regular
+2018/19,22,23,Hapoel Haifa,6,7,1,regular,regular
+2018/19,22,23,Hapoel Raanana,11,10,1,regular,regular
+2018/19,22,23,Hapoel Tel Aviv,12,11,1,regular,regular
+2018/19,22,23,M. Petah Tikva,10,12,2,regular,regular
+2018/19,23,24,B. Jerusalem,9,8,1,regular,regular
+2018/19,23,24,Bnei Yehuda,2,4,2,regular,regular
+2018/19,23,24,Kiryat Shmona,8,9,1,regular,regular
+2018/19,23,24,Maccabi Netanya,4,2,2,regular,regular
+2018/19,24,25,B. Jerusalem,8,9,1,regular,regular
+2018/19,24,25,Bnei Yehuda,4,5,1,regular,regular
+2018/19,24,25,H. Beer Sheva,5,4,1,regular,regular
+2018/19,24,25,Kiryat Shmona,9,8,1,regular,regular
+2018/19,25,26,B. Jerusalem,9,11,2,regular,regular
+2018/19,25,26,Hapoel Tel Aviv,11,8,3,regular,regular
+2018/19,25,26,Kiryat Shmona,8,9,1,regular,regular
+2018/19,25,26,Maccabi Haifa,3,2,1,regular,regular
+2018/19,25,26,Maccabi Netanya,2,3,1,regular,regular
+2018/19,27,28,Bnei Yehuda,5,4,1,championship_playoff,championship_playoff
+2018/19,27,28,Maccabi Haifa,3,5,2,championship_playoff,championship_playoff
+2018/19,27,28,Maccabi Netanya,4,3,1,championship_playoff,championship_playoff
+2018/19,29,30,Bnei Yehuda,4,3,1,championship_playoff,championship_playoff
+2018/19,29,30,Maccabi Haifa,5,4,1,championship_playoff,championship_playoff
+2018/19,29,30,Maccabi Netanya,3,5,2,championship_playoff,championship_playoff
+2018/19,30,31,Bnei Yehuda,3,5,2,championship_playoff,championship_playoff
+2018/19,30,31,Maccabi Haifa,4,3,1,championship_playoff,championship_playoff
+2018/19,30,31,Maccabi Netanya,5,4,1,championship_playoff,championship_playoff
+2018/19,31,32,Maccabi Haifa,3,4,1,championship_playoff,championship_playoff
+2018/19,31,32,Maccabi Netanya,4,3,1,championship_playoff,championship_playoff
+2018/19,32,33,H. Beer Sheva,2,4,2,championship_playoff,championship_playoff
+2018/19,32,33,Maccabi Haifa,4,2,2,championship_playoff,championship_playoff
+2018/19,33,34,H. Beer Sheva,4,3,1,championship_playoff,championship_playoff
+2018/19,33,34,Maccabi Haifa,2,4,2,championship_playoff,championship_playoff
+2018/19,33,34,Maccabi Netanya,3,2,1,championship_playoff,championship_playoff
+2018/19,34,35,H. Beer Sheva,3,1,2,championship_playoff,championship_playoff
+2018/19,34,35,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2018/19,34,35,Maccabi Haifa,4,3,1,championship_playoff,championship_playoff
+2018/19,34,35,Maccabi Netanya,2,4,2,championship_playoff,championship_playoff
+2018/19,35,36,M. Tel Aviv,2,3,1,championship_playoff,championship_playoff
+2018/19,35,36,Maccabi Haifa,3,2,1,championship_playoff,championship_playoff
+2018/19,28,29,Hapoel Haifa,1,3,2,relegation_playoff,relegation_playoff
+2018/19,28,29,Kiryat Shmona,3,1,2,relegation_playoff,relegation_playoff
+2018/19,30,31,Hapoel Haifa,3,1,2,relegation_playoff,relegation_playoff
+2018/19,30,31,Hapoel Tel Aviv,2,3,1,relegation_playoff,relegation_playoff
+2018/19,30,31,Kiryat Shmona,1,2,1,relegation_playoff,relegation_playoff
+2018/19,31,32,Hapoel Haifa,1,2,1,relegation_playoff,relegation_playoff
+2018/19,31,32,Hapoel Tel Aviv,3,1,2,relegation_playoff,relegation_playoff
+2018/19,31,32,Kiryat Shmona,2,3,1,relegation_playoff,relegation_playoff
+2018/19,32,33,Hapoel Haifa,2,3,1,relegation_playoff,relegation_playoff
+2018/19,32,33,Hapoel Tel Aviv,1,2,1,relegation_playoff,relegation_playoff
+2018/19,32,33,Kiryat Shmona,3,1,2,relegation_playoff,relegation_playoff
+2019/20,1,2,B. Jerusalem,7,10,3,regular,regular
+2019/20,1,2,Bnei Yehuda,3,6,3,regular,regular
+2019/20,1,2,H. Beer Sheva,8,1,7,regular,regular
+2019/20,1,2,H. Kfar Saba,13,8,5,regular,regular
+2019/20,1,2,Hapoel Hadera,6,12,6,regular,regular
+2019/20,1,2,Hapoel Haifa,4,7,3,regular,regular
+2019/20,1,2,Hapoel Raanana,11,9,2,regular,regular
+2019/20,1,2,Hapoel Tel Aviv,9,11,2,regular,regular
+2019/20,1,2,Kiryat Shmona,12,13,1,regular,regular
+2019/20,1,2,M. Tel Aviv,1,3,2,regular,regular
+2019/20,1,2,Maccabi Haifa,2,4,2,regular,regular
+2019/20,1,2,Maccabi Netanya,10,2,8,regular,regular
+2019/20,2,3,B. Jerusalem,10,12,2,regular,regular
+2019/20,2,3,Bnei Yehuda,6,7,1,regular,regular
+2019/20,2,3,FC Ashdod,5,6,1,regular,regular
+2019/20,2,3,H. Beer Sheva,1,4,3,regular,regular
+2019/20,2,3,H. Kfar Saba,8,9,1,regular,regular
+2019/20,2,3,Hapoel Hadera,12,8,4,regular,regular
+2019/20,2,3,Hapoel Haifa,7,2,5,regular,regular
+2019/20,2,3,Hapoel Raanana,9,10,1,regular,regular
+2019/20,2,3,Kiryat Shmona,13,14,1,regular,regular
+2019/20,2,3,Maccabi Haifa,4,1,3,regular,regular
+2019/20,2,3,Maccabi Netanya,2,5,3,regular,regular
+2019/20,2,3,Ness Ziona,14,13,1,regular,regular
+2019/20,3,4,B. Jerusalem,12,10,2,regular,regular
+2019/20,3,4,Bnei Yehuda,7,3,4,regular,regular
+2019/20,3,4,FC Ashdod,6,8,2,regular,regular
+2019/20,3,4,H. Beer Sheva,4,2,2,regular,regular
+2019/20,3,4,Hapoel Hadera,8,4,4,regular,regular
+2019/20,3,4,Hapoel Haifa,2,6,4,regular,regular
+2019/20,3,4,Hapoel Raanana,10,11,1,regular,regular
+2019/20,3,4,Hapoel Tel Aviv,11,12,1,regular,regular
+2019/20,3,4,M. Tel Aviv,3,1,2,regular,regular
+2019/20,3,4,Maccabi Haifa,1,5,4,regular,regular
+2019/20,3,4,Maccabi Netanya,5,7,2,regular,regular
+2019/20,4,5,B. Jerusalem,10,11,1,regular,regular
+2019/20,4,5,Bnei Yehuda,3,4,1,regular,regular
+2019/20,4,5,FC Ashdod,8,7,1,regular,regular
+2019/20,4,5,Hapoel Hadera,4,5,1,regular,regular
+2019/20,4,5,Hapoel Raanana,11,10,1,regular,regular
+2019/20,4,5,Maccabi Haifa,5,3,2,regular,regular
+2019/20,4,5,Maccabi Netanya,7,8,1,regular,regular
+2019/20,5,6,B. Jerusalem,11,9,2,regular,regular
+2019/20,5,6,Bnei Yehuda,4,5,1,regular,regular
+2019/20,5,6,FC Ashdod,7,8,1,regular,regular
+2019/20,5,6,H. Beer Sheva,2,1,1,regular,regular
+2019/20,5,6,H. Kfar Saba,9,6,3,regular,regular
+2019/20,5,6,Hapoel Hadera,5,4,1,regular,regular
+2019/20,5,6,Hapoel Haifa,6,7,1,regular,regular
+2019/20,5,6,Hapoel Raanana,10,11,1,regular,regular
+2019/20,5,6,Kiryat Shmona,14,13,1,regular,regular
+2019/20,5,6,M. Tel Aviv,1,2,1,regular,regular
+2019/20,5,6,Maccabi Netanya,8,10,2,regular,regular
+2019/20,5,6,Ness Ziona,13,14,1,regular,regular
+2019/20,6,7,B. Jerusalem,9,5,4,regular,regular
+2019/20,6,7,Bnei Yehuda,5,6,1,regular,regular
+2019/20,6,7,FC Ashdod,8,9,1,regular,regular
+2019/20,6,7,H. Kfar Saba,6,8,2,regular,regular
+2019/20,6,7,Hapoel Raanana,11,12,1,regular,regular
+2019/20,6,7,Hapoel Tel Aviv,12,10,2,regular,regular
+2019/20,6,7,Maccabi Netanya,10,11,1,regular,regular
+2019/20,7,8,B. Jerusalem,5,4,1,regular,regular
+2019/20,7,8,Bnei Yehuda,6,8,2,regular,regular
+2019/20,7,8,FC Ashdod,9,7,2,regular,regular
+2019/20,7,8,H. Beer Sheva,1,3,2,regular,regular
+2019/20,7,8,H. Kfar Saba,8,9,1,regular,regular
+2019/20,7,8,Hapoel Hadera,4,5,1,regular,regular
+2019/20,7,8,Hapoel Haifa,7,6,1,regular,regular
+2019/20,7,8,Hapoel Tel Aviv,10,11,1,regular,regular
+2019/20,7,8,Kiryat Shmona,13,10,3,regular,regular
+2019/20,7,8,M. Tel Aviv,2,1,1,regular,regular
+2019/20,7,8,Maccabi Haifa,3,2,1,regular,regular
+2019/20,7,8,Maccabi Netanya,11,13,2,regular,regular
+2019/20,8,9,Hapoel Hadera,5,6,1,regular,regular
+2019/20,8,9,Hapoel Haifa,6,5,1,regular,regular
+2019/20,9,10,Bnei Yehuda,8,7,1,regular,regular
+2019/20,9,10,FC Ashdod,7,8,1,regular,regular
+2019/20,9,10,H. Kfar Saba,9,10,1,regular,regular
+2019/20,9,10,Hapoel Hadera,6,5,1,regular,regular
+2019/20,9,10,Hapoel Haifa,5,6,1,regular,regular
+2019/20,9,10,Hapoel Raanana,12,14,2,regular,regular
+2019/20,9,10,Hapoel Tel Aviv,11,9,2,regular,regular
+2019/20,9,10,Kiryat Shmona,10,12,2,regular,regular
+2019/20,9,10,Maccabi Netanya,13,11,2,regular,regular
+2019/20,9,10,Ness Ziona,14,13,1,regular,regular
+2019/20,10,11,Bnei Yehuda,7,5,2,regular,regular
+2019/20,10,11,Hapoel Hadera,5,6,1,regular,regular
+2019/20,10,11,Hapoel Haifa,6,7,1,regular,regular
+2019/20,10,11,Hapoel Tel Aviv,9,11,2,regular,regular
+2019/20,10,11,Kiryat Shmona,12,13,1,regular,regular
+2019/20,10,11,Maccabi Netanya,11,9,2,regular,regular
+2019/20,10,11,Ness Ziona,13,12,1,regular,regular
+2019/20,11,12,FC Ashdod,8,9,1,regular,regular
+2019/20,11,12,Hapoel Hadera,6,7,1,regular,regular
+2019/20,11,12,Hapoel Haifa,7,6,1,regular,regular
+2019/20,11,12,Hapoel Raanana,14,12,2,regular,regular
+2019/20,11,12,Kiryat Shmona,13,14,1,regular,regular
+2019/20,11,12,Maccabi Netanya,9,8,1,regular,regular
+2019/20,11,12,Ness Ziona,12,13,1,regular,regular
+2019/20,12,13,Bnei Yehuda,5,6,1,regular,regular
+2019/20,12,13,H. Kfar Saba,10,11,1,regular,regular
+2019/20,12,13,Hapoel Hadera,7,8,1,regular,regular
+2019/20,12,13,Hapoel Haifa,6,5,1,regular,regular
+2019/20,12,13,Hapoel Raanana,12,13,1,regular,regular
+2019/20,12,13,Hapoel Tel Aviv,11,10,1,regular,regular
+2019/20,12,13,Kiryat Shmona,14,12,2,regular,regular
+2019/20,12,13,Maccabi Netanya,8,7,1,regular,regular
+2019/20,12,13,Ness Ziona,13,14,1,regular,regular
+2019/20,13,14,B. Jerusalem,4,3,1,regular,regular
+2019/20,13,14,Bnei Yehuda,6,8,2,regular,regular
+2019/20,13,14,FC Ashdod,9,10,1,regular,regular
+2019/20,13,14,H. Beer Sheva,3,4,1,regular,regular
+2019/20,13,14,H. Kfar Saba,11,9,2,regular,regular
+2019/20,13,14,Hapoel Hadera,8,7,1,regular,regular
+2019/20,13,14,Hapoel Tel Aviv,10,12,2,regular,regular
+2019/20,13,14,Kiryat Shmona,12,11,1,regular,regular
+2019/20,13,14,Maccabi Netanya,7,6,1,regular,regular
+2019/20,14,15,H. Kfar Saba,9,11,2,regular,regular
+2019/20,14,15,Hapoel Raanana,13,14,1,regular,regular
+2019/20,14,15,Kiryat Shmona,11,9,2,regular,regular
+2019/20,14,15,Ness Ziona,14,13,1,regular,regular
+2019/20,15,16,Bnei Yehuda,8,5,3,regular,regular
+2019/20,15,16,FC Ashdod,10,11,1,regular,regular
+2019/20,15,16,H. Kfar Saba,11,12,1,regular,regular
+2019/20,15,16,Hapoel Haifa,5,6,1,regular,regular
+2019/20,15,16,Hapoel Tel Aviv,12,9,3,regular,regular
+2019/20,15,16,Kiryat Shmona,9,10,1,regular,regular
+2019/20,15,16,Maccabi Netanya,6,8,2,regular,regular
+2019/20,16,17,Bnei Yehuda,5,7,2,regular,regular
+2019/20,16,17,FC Ashdod,11,10,1,regular,regular
+2019/20,16,17,H. Kfar Saba,12,13,1,regular,regular
+2019/20,16,17,Hapoel Hadera,7,5,2,regular,regular
+2019/20,16,17,Hapoel Haifa,6,8,2,regular,regular
+2019/20,16,17,Kiryat Shmona,10,11,1,regular,regular
+2019/20,16,17,Maccabi Netanya,8,6,2,regular,regular
+2019/20,16,17,Ness Ziona,13,12,1,regular,regular
+2019/20,17,18,Bnei Yehuda,7,9,2,regular,regular
+2019/20,17,18,H. Kfar Saba,13,12,1,regular,regular
+2019/20,17,18,Hapoel Haifa,8,6,2,regular,regular
+2019/20,17,18,Hapoel Tel Aviv,9,7,2,regular,regular
+2019/20,17,18,Maccabi Netanya,6,8,2,regular,regular
+2019/20,17,18,Ness Ziona,12,13,1,regular,regular
+2019/20,18,19,Bnei Yehuda,9,7,2,regular,regular
+2019/20,18,19,Hapoel Hadera,5,6,1,regular,regular
+2019/20,18,19,Hapoel Haifa,6,8,2,regular,regular
+2019/20,18,19,Hapoel Tel Aviv,7,5,2,regular,regular
+2019/20,18,19,Maccabi Netanya,8,9,1,regular,regular
+2019/20,19,20,Bnei Yehuda,7,9,2,regular,regular
+2019/20,19,20,Hapoel Raanana,14,13,1,regular,regular
+2019/20,19,20,Maccabi Netanya,9,7,2,regular,regular
+2019/20,19,20,Ness Ziona,13,14,1,regular,regular
+2019/20,20,21,Bnei Yehuda,9,8,1,regular,regular
+2019/20,20,21,H. Kfar Saba,12,11,1,regular,regular
+2019/20,20,21,Hapoel Haifa,8,7,1,regular,regular
+2019/20,20,21,Kiryat Shmona,11,12,1,regular,regular
+2019/20,20,21,Maccabi Netanya,7,9,2,regular,regular
+2019/20,21,22,Hapoel Hadera,6,5,1,regular,regular
+2019/20,21,22,Hapoel Haifa,7,6,1,regular,regular
+2019/20,21,22,Hapoel Tel Aviv,5,7,2,regular,regular
+2019/20,23,24,Bnei Yehuda,8,9,1,regular,regular
+2019/20,23,24,Hapoel Hadera,5,6,1,regular,regular
+2019/20,23,24,Hapoel Haifa,6,7,1,regular,regular
+2019/20,23,24,Hapoel Raanana,13,14,1,regular,regular
+2019/20,23,24,Hapoel Tel Aviv,7,5,2,regular,regular
+2019/20,23,24,Maccabi Netanya,9,8,1,regular,regular
+2019/20,23,24,Ness Ziona,14,13,1,regular,regular
+2019/20,24,25,Bnei Yehuda,9,8,1,regular,regular
+2019/20,24,25,Hapoel Hadera,6,7,1,regular,regular
+2019/20,24,25,Hapoel Haifa,7,5,2,regular,regular
+2019/20,24,25,Hapoel Tel Aviv,5,6,1,regular,regular
+2019/20,24,25,Maccabi Netanya,8,9,1,regular,regular
+2019/20,25,26,Bnei Yehuda,8,7,1,regular,regular
+2019/20,25,26,Hapoel Hadera,7,8,1,regular,regular
+2019/20,25,26,Hapoel Haifa,5,6,1,regular,regular
+2019/20,25,26,Hapoel Tel Aviv,6,5,1,regular,regular
+2019/20,29,30,Hapoel Haifa,6,5,1,championship_playoff,championship_playoff
+2019/20,29,30,Hapoel Tel Aviv,5,6,1,championship_playoff,championship_playoff
+2019/20,30,31,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2019/20,30,31,Maccabi Haifa,2,1,1,championship_playoff,championship_playoff
+2019/20,33,34,B. Jerusalem,3,4,1,championship_playoff,championship_playoff
+2019/20,33,34,H. Beer Sheva,4,5,1,championship_playoff,championship_playoff
+2019/20,33,34,Hapoel Haifa,5,6,1,championship_playoff,championship_playoff
+2019/20,33,34,Hapoel Tel Aviv,6,3,3,championship_playoff,championship_playoff
+2019/20,34,35,B. Jerusalem,4,5,1,championship_playoff,championship_playoff
+2019/20,34,35,H. Beer Sheva,5,3,2,championship_playoff,championship_playoff
+2019/20,34,35,Hapoel Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2019/20,35,36,B. Jerusalem,5,6,1,championship_playoff,championship_playoff
+2019/20,35,36,Hapoel Haifa,6,4,2,championship_playoff,championship_playoff
+2019/20,35,36,Hapoel Tel Aviv,4,5,1,championship_playoff,championship_playoff
+2019/20,27,28,Bnei Yehuda,2,1,1,relegation_playoff,relegation_playoff
+2019/20,27,28,Maccabi Netanya,1,2,1,relegation_playoff,relegation_playoff
+2020/21,1,2,B. Jerusalem,7,1,6,regular,regular
+2020/21,1,2,Bnei Yehuda,1,4,3,regular,regular
+2020/21,1,2,FC Ashdod,13,7,6,regular,regular
+2020/21,1,2,H. Beer Sheva,3,8,5,regular,regular
+2020/21,1,2,H. Kfar Saba,4,9,5,regular,regular
+2020/21,1,2,Hapoel Hadera,9,13,4,regular,regular
+2020/21,1,2,Hapoel Haifa,12,11,1,regular,regular
+2020/21,1,2,Hapoel Tel Aviv,10,12,2,regular,regular
+2020/21,1,2,Kiryat Shmona,2,5,3,regular,regular
+2020/21,1,2,M. Petah Tikva,5,3,2,regular,regular
+2020/21,1,2,M. Tel Aviv,11,10,1,regular,regular
+2020/21,1,2,Maccabi Haifa,6,2,4,regular,regular
+2020/21,1,2,Maccabi Netanya,8,6,2,regular,regular
+2020/21,2,3,B. Jerusalem,1,2,1,regular,regular
+2020/21,2,3,Bnei Yehuda,4,7,3,regular,regular
+2020/21,2,3,FC Ashdod,7,5,2,regular,regular
+2020/21,2,3,H. Beer Sheva,8,10,2,regular,regular
+2020/21,2,3,H. Kfar Saba,9,4,5,regular,regular
+2020/21,2,3,Hapoel Hadera,13,12,1,regular,regular
+2020/21,2,3,Hapoel Haifa,11,8,3,regular,regular
+2020/21,2,3,Hapoel Tel Aviv,12,13,1,regular,regular
+2020/21,2,3,Kiryat Shmona,5,9,4,regular,regular
+2020/21,2,3,M. Tel Aviv,10,11,1,regular,regular
+2020/21,2,3,Maccabi Haifa,2,1,1,regular,regular
+2020/21,3,4,Bnei Yehuda,7,5,2,regular,regular
+2020/21,3,4,FC Ashdod,5,6,1,regular,regular
+2020/21,3,4,H. Beer Sheva,10,9,1,regular,regular
+2020/21,3,4,H. Kfar Saba,4,7,3,regular,regular
+2020/21,3,4,Hapoel Haifa,8,10,2,regular,regular
+2020/21,3,4,Kiryat Shmona,9,8,1,regular,regular
+2020/21,3,4,Maccabi Netanya,6,4,2,regular,regular
+2020/21,4,5,B. Jerusalem,2,3,1,regular,regular
+2020/21,4,5,Bnei Yehuda,5,8,3,regular,regular
+2020/21,4,5,FC Ashdod,6,4,2,regular,regular
+2020/21,4,5,H. Beer Sheva,9,10,1,regular,regular
+2020/21,4,5,H. Kfar Saba,7,5,2,regular,regular
+2020/21,4,5,Hapoel Hadera,12,11,1,regular,regular
+2020/21,4,5,Hapoel Haifa,10,9,1,regular,regular
+2020/21,4,5,Kiryat Shmona,8,6,2,regular,regular
+2020/21,4,5,M. Petah Tikva,3,1,2,regular,regular
+2020/21,4,5,M. Tel Aviv,11,12,1,regular,regular
+2020/21,4,5,Maccabi Haifa,1,2,1,regular,regular
+2020/21,4,5,Maccabi Netanya,4,7,3,regular,regular
+2020/21,5,6,B. Jerusalem,3,5,2,regular,regular
+2020/21,5,6,Bnei Yehuda,8,6,2,regular,regular
+2020/21,5,6,FC Ashdod,4,8,4,regular,regular
+2020/21,5,6,H. Kfar Saba,5,7,2,regular,regular
+2020/21,5,6,Hapoel Hadera,11,12,1,regular,regular
+2020/21,5,6,Hapoel Haifa,9,11,2,regular,regular
+2020/21,5,6,Kiryat Shmona,6,3,3,regular,regular
+2020/21,5,6,M. Petah Tikva,1,2,1,regular,regular
+2020/21,5,6,M. Tel Aviv,12,9,3,regular,regular
+2020/21,5,6,Maccabi Haifa,2,1,1,regular,regular
+2020/21,5,6,Maccabi Netanya,7,4,3,regular,regular
+2020/21,6,7,B. Jerusalem,5,6,1,regular,regular
+2020/21,6,7,Bnei Yehuda,6,8,2,regular,regular
+2020/21,6,7,FC Ashdod,8,4,4,regular,regular
+2020/21,6,7,H. Beer Sheva,10,11,1,regular,regular
+2020/21,6,7,H. Kfar Saba,7,10,3,regular,regular
+2020/21,6,7,Hapoel Haifa,11,9,2,regular,regular
+2020/21,6,7,Kiryat Shmona,3,1,2,regular,regular
+2020/21,6,7,M. Petah Tikva,2,3,1,regular,regular
+2020/21,6,7,M. Tel Aviv,9,7,2,regular,regular
+2020/21,6,7,Maccabi Haifa,1,2,1,regular,regular
+2020/21,6,7,Maccabi Netanya,4,5,1,regular,regular
+2020/21,7,8,B. Jerusalem,6,8,2,regular,regular
+2020/21,7,8,Bnei Sakhnin,14,12,2,regular,regular
+2020/21,7,8,Bnei Yehuda,8,5,3,regular,regular
+2020/21,7,8,FC Ashdod,4,7,3,regular,regular
+2020/21,7,8,Hapoel Hadera,12,13,1,regular,regular
+2020/21,7,8,Hapoel Tel Aviv,13,14,1,regular,regular
+2020/21,7,8,Kiryat Shmona,1,3,2,regular,regular
+2020/21,7,8,M. Petah Tikva,3,2,1,regular,regular
+2020/21,7,8,M. Tel Aviv,7,4,3,regular,regular
+2020/21,7,8,Maccabi Haifa,2,1,1,regular,regular
+2020/21,7,8,Maccabi Netanya,5,6,1,regular,regular
+2020/21,8,9,Bnei Yehuda,5,7,2,regular,regular
+2020/21,8,9,FC Ashdod,7,3,4,regular,regular
+2020/21,8,9,H. Beer Sheva,11,9,2,regular,regular
+2020/21,8,9,H. Kfar Saba,10,11,1,regular,regular
+2020/21,8,9,Hapoel Haifa,9,10,1,regular,regular
+2020/21,8,9,Kiryat Shmona,3,4,1,regular,regular
+2020/21,8,9,M. Tel Aviv,4,6,2,regular,regular
+2020/21,8,9,Maccabi Netanya,6,5,1,regular,regular
+2020/21,9,10,B. Jerusalem,8,9,1,regular,regular
+2020/21,9,10,Bnei Yehuda,7,8,1,regular,regular
+2020/21,9,10,H. Beer Sheva,9,7,2,regular,regular
+2020/21,9,10,Kiryat Shmona,4,6,2,regular,regular
+2020/21,9,10,M. Tel Aviv,6,5,1,regular,regular
+2020/21,9,10,Maccabi Netanya,5,4,1,regular,regular
+2020/21,10,11,B. Jerusalem,9,11,2,regular,regular
+2020/21,10,11,Bnei Sakhnin,12,10,2,regular,regular
+2020/21,10,11,Bnei Yehuda,8,9,1,regular,regular
+2020/21,10,11,FC Ashdod,3,2,1,regular,regular
+2020/21,10,11,H. Beer Sheva,7,6,1,regular,regular
+2020/21,10,11,H. Kfar Saba,11,12,1,regular,regular
+2020/21,10,11,Hapoel Haifa,10,8,2,regular,regular
+2020/21,10,11,Kiryat Shmona,6,7,1,regular,regular
+2020/21,10,11,M. Petah Tikva,2,3,1,regular,regular
+2020/21,11,12,B. Jerusalem,11,9,2,regular,regular
+2020/21,11,12,Bnei Sakhnin,10,11,1,regular,regular
+2020/21,11,12,Bnei Yehuda,9,10,1,regular,regular
+2020/21,11,12,FC Ashdod,2,4,2,regular,regular
+2020/21,11,12,H. Kfar Saba,12,13,1,regular,regular
+2020/21,11,12,Hapoel Hadera,13,12,1,regular,regular
+2020/21,11,12,Hapoel Haifa,8,7,1,regular,regular
+2020/21,11,12,Kiryat Shmona,7,8,1,regular,regular
+2020/21,11,12,M. Petah Tikva,3,2,1,regular,regular
+2020/21,11,12,M. Tel Aviv,5,3,2,regular,regular
+2020/21,11,12,Maccabi Netanya,4,5,1,regular,regular
+2020/21,12,13,B. Jerusalem,9,11,2,regular,regular
+2020/21,12,13,Bnei Sakhnin,11,9,2,regular,regular
+2020/21,12,13,Bnei Yehuda,10,12,2,regular,regular
+2020/21,12,13,H. Beer Sheva,6,5,1,regular,regular
+2020/21,12,13,Hapoel Hadera,12,10,2,regular,regular
+2020/21,12,13,Kiryat Shmona,8,6,2,regular,regular
+2020/21,12,13,M. Petah Tikva,2,3,1,regular,regular
+2020/21,12,13,M. Tel Aviv,3,2,1,regular,regular
+2020/21,12,13,Maccabi Netanya,5,8,3,regular,regular
+2020/21,13,14,B. Jerusalem,11,10,1,regular,regular
+2020/21,13,14,Bnei Yehuda,12,11,1,regular,regular
+2020/21,13,14,FC Ashdod,4,5,1,regular,regular
+2020/21,13,14,H. Beer Sheva,5,3,2,regular,regular
+2020/21,13,14,Hapoel Hadera,10,12,2,regular,regular
+2020/21,13,14,M. Petah Tikva,3,4,1,regular,regular
+2020/21,14,15,B. Jerusalem,10,9,1,regular,regular
+2020/21,14,15,Bnei Sakhnin,9,12,3,regular,regular
+2020/21,14,15,FC Ashdod,5,3,2,regular,regular
+2020/21,14,15,H. Beer Sheva,3,4,1,regular,regular
+2020/21,14,15,H. Kfar Saba,13,10,3,regular,regular
+2020/21,14,15,Hapoel Hadera,12,13,1,regular,regular
+2020/21,14,15,Hapoel Haifa,7,8,1,regular,regular
+2020/21,14,15,Kiryat Shmona,6,5,1,regular,regular
+2020/21,14,15,M. Petah Tikva,4,6,2,regular,regular
+2020/21,14,15,Maccabi Netanya,8,7,1,regular,regular
+2020/21,15,16,B. Jerusalem,9,7,2,regular,regular
+2020/21,15,16,FC Ashdod,3,5,2,regular,regular
+2020/21,15,16,H. Beer Sheva,4,3,1,regular,regular
+2020/21,15,16,Hapoel Haifa,8,9,1,regular,regular
+2020/21,15,16,Kiryat Shmona,5,6,1,regular,regular
+2020/21,15,16,M. Petah Tikva,6,4,2,regular,regular
+2020/21,15,16,Maccabi Netanya,7,8,1,regular,regular
+2020/21,16,17,B. Jerusalem,7,8,1,regular,regular
+2020/21,16,17,Bnei Sakhnin,12,11,1,regular,regular
+2020/21,16,17,Bnei Yehuda,11,12,1,regular,regular
+2020/21,16,17,FC Ashdod,5,4,1,regular,regular
+2020/21,16,17,H. Beer Sheva,3,5,2,regular,regular
+2020/21,16,17,M. Petah Tikva,4,3,1,regular,regular
+2020/21,16,17,Maccabi Netanya,8,7,1,regular,regular
+2020/21,17,18,Bnei Yehuda,12,13,1,regular,regular
+2020/21,17,18,H. Beer Sheva,5,6,1,regular,regular
+2020/21,17,18,Hapoel Hadera,13,12,1,regular,regular
+2020/21,17,18,Kiryat Shmona,6,5,1,regular,regular
+2020/21,18,19,FC Ashdod,4,3,1,regular,regular
+2020/21,18,19,H. Beer Sheva,6,5,1,regular,regular
+2020/21,18,19,Kiryat Shmona,5,4,1,regular,regular
+2020/21,18,19,M. Petah Tikva,3,6,3,regular,regular
+2020/21,19,20,B. Jerusalem,8,7,1,regular,regular
+2020/21,19,20,Bnei Sakhnin,11,13,2,regular,regular
+2020/21,19,20,Bnei Yehuda,13,11,2,regular,regular
+2020/21,19,20,Hapoel Hadera,12,14,2,regular,regular
+2020/21,19,20,Hapoel Tel Aviv,14,12,2,regular,regular
+2020/21,19,20,Maccabi Netanya,7,8,1,regular,regular
+2020/21,20,21,B. Jerusalem,7,8,1,regular,regular
+2020/21,20,21,Bnei Sakhnin,13,14,1,regular,regular
+2020/21,20,21,Bnei Yehuda,11,12,1,regular,regular
+2020/21,20,21,H. Beer Sheva,5,4,1,regular,regular
+2020/21,20,21,Hapoel Hadera,14,11,3,regular,regular
+2020/21,20,21,Hapoel Tel Aviv,12,13,1,regular,regular
+2020/21,20,21,Kiryat Shmona,4,5,1,regular,regular
+2020/21,20,21,M. Petah Tikva,6,7,1,regular,regular
+2020/21,20,21,Maccabi Netanya,8,6,2,regular,regular
+2020/21,21,22,Bnei Yehuda,12,13,1,regular,regular
+2020/21,21,22,H. Kfar Saba,10,12,2,regular,regular
+2020/21,21,22,Hapoel Hadera,11,10,1,regular,regular
+2020/21,21,22,Hapoel Tel Aviv,13,11,2,regular,regular
+2020/21,21,22,Kiryat Shmona,5,6,1,regular,regular
+2020/21,21,22,M. Petah Tikva,7,5,2,regular,regular
+2020/21,21,22,Maccabi Netanya,6,7,1,regular,regular
+2020/21,22,23,Bnei Sakhnin,14,12,2,regular,regular
+2020/21,22,23,Bnei Yehuda,13,14,1,regular,regular
+2020/21,22,23,H. Kfar Saba,12,13,1,regular,regular
+2020/21,23,24,Bnei Sakhnin,12,13,1,regular,regular
+2020/21,23,24,H. Beer Sheva,4,7,3,regular,regular
+2020/21,23,24,H. Kfar Saba,13,12,1,regular,regular
+2020/21,23,24,Kiryat Shmona,6,5,1,regular,regular
+2020/21,23,24,M. Petah Tikva,5,4,1,regular,regular
+2020/21,23,24,M. Tel Aviv,2,1,1,regular,regular
+2020/21,23,24,Maccabi Haifa,1,2,1,regular,regular
+2020/21,23,24,Maccabi Netanya,7,6,1,regular,regular
+2020/21,24,25,Bnei Sakhnin,13,12,1,regular,regular
+2020/21,24,25,H. Kfar Saba,12,13,1,regular,regular
+2020/21,25,26,Bnei Sakhnin,12,11,1,regular,regular
+2020/21,25,26,H. Beer Sheva,7,5,2,regular,regular
+2020/21,25,26,Hapoel Hadera,10,9,1,regular,regular
+2020/21,25,26,Hapoel Haifa,9,10,1,regular,regular
+2020/21,25,26,Hapoel Tel Aviv,11,12,1,regular,regular
+2020/21,25,26,Kiryat Shmona,5,4,1,regular,regular
+2020/21,25,26,M. Petah Tikva,4,6,2,regular,regular
+2020/21,25,26,M. Tel Aviv,1,2,1,regular,regular
+2020/21,25,26,Maccabi Haifa,2,1,1,regular,regular
+2020/21,25,26,Maccabi Netanya,6,7,1,regular,regular
+2020/21,30,31,H. Beer Sheva,5,4,1,championship_playoff,championship_playoff
+2020/21,30,31,Kiryat Shmona,4,5,1,championship_playoff,championship_playoff
+2020/21,33,34,FC Ashdod,3,4,1,championship_playoff,championship_playoff
+2020/21,33,34,H. Beer Sheva,4,3,1,championship_playoff,championship_playoff
+2020/21,27,28,B. Jerusalem,3,4,1,relegation_playoff,relegation_playoff
+2020/21,27,28,Hapoel Hadera,4,5,1,relegation_playoff,relegation_playoff
+2020/21,27,28,Hapoel Haifa,5,2,3,relegation_playoff,relegation_playoff
+2020/21,27,28,Hapoel Tel Aviv,2,3,1,relegation_playoff,relegation_playoff
+2020/21,28,29,B. Jerusalem,4,5,1,relegation_playoff,relegation_playoff
+2020/21,28,29,Hapoel Hadera,5,2,3,relegation_playoff,relegation_playoff
+2020/21,28,29,Hapoel Haifa,2,4,2,relegation_playoff,relegation_playoff
+2020/21,28,29,Hapoel Tel Aviv,3,1,2,relegation_playoff,relegation_playoff
+2020/21,28,29,Maccabi Netanya,1,3,2,relegation_playoff,relegation_playoff
+2020/21,29,30,Hapoel Hadera,2,1,1,relegation_playoff,relegation_playoff
+2020/21,29,30,Hapoel Haifa,4,2,2,relegation_playoff,relegation_playoff
+2020/21,29,30,Hapoel Tel Aviv,1,3,2,relegation_playoff,relegation_playoff
+2020/21,29,30,Maccabi Netanya,3,4,1,relegation_playoff,relegation_playoff
+2020/21,30,31,Hapoel Haifa,2,3,1,relegation_playoff,relegation_playoff
+2020/21,30,31,Hapoel Tel Aviv,3,4,1,relegation_playoff,relegation_playoff
+2020/21,30,31,Maccabi Netanya,4,2,2,relegation_playoff,relegation_playoff
+2020/21,31,32,B. Jerusalem,5,6,1,relegation_playoff,relegation_playoff
+2020/21,31,32,Bnei Sakhnin,6,7,1,relegation_playoff,relegation_playoff
+2020/21,31,32,Bnei Yehuda,7,5,2,relegation_playoff,relegation_playoff
+2020/21,32,33,Hapoel Haifa,3,4,1,relegation_playoff,relegation_playoff
+2020/21,32,33,Hapoel Tel Aviv,4,3,1,relegation_playoff,relegation_playoff
+2021/22,1,2,B. Jerusalem,14,7,7,regular,regular
+2021/22,1,2,Bnei Sakhnin,1,6,5,regular,regular
+2021/22,1,2,FC Ashdod,12,14,2,regular,regular
+2021/22,1,2,H. Jerusalem,6,13,7,regular,regular
+2021/22,1,2,H. Nof HaGalil,7,3,4,regular,regular
+2021/22,1,2,Hapoel Haifa,9,4,5,regular,regular
+2021/22,1,2,Hapoel Tel Aviv,3,1,2,regular,regular
+2021/22,1,2,Kiryat Shmona,4,11,7,regular,regular
+2021/22,1,2,M. Petah Tikva,5,9,4,regular,regular
+2021/22,1,2,M. Tel Aviv,13,10,3,regular,regular
+2021/22,1,2,Maccabi Haifa,10,5,5,regular,regular
+2021/22,1,2,Maccabi Netanya,11,12,1,regular,regular
+2021/22,2,3,B. Jerusalem,7,5,2,regular,regular
+2021/22,2,3,H. Beer Sheva,2,4,2,regular,regular
+2021/22,2,3,H. Jerusalem,13,12,1,regular,regular
+2021/22,2,3,H. Nof HaGalil,3,1,2,regular,regular
+2021/22,2,3,Hapoel Hadera,8,10,2,regular,regular
+2021/22,2,3,Hapoel Haifa,4,3,1,regular,regular
+2021/22,2,3,Hapoel Tel Aviv,1,2,1,regular,regular
+2021/22,2,3,Kiryat Shmona,11,13,2,regular,regular
+2021/22,2,3,M. Tel Aviv,10,8,2,regular,regular
+2021/22,2,3,Maccabi Haifa,5,7,2,regular,regular
+2021/22,2,3,Maccabi Netanya,12,11,1,regular,regular
+2021/22,3,4,B. Jerusalem,5,8,3,regular,regular
+2021/22,3,4,Bnei Sakhnin,6,7,1,regular,regular
+2021/22,3,4,FC Ashdod,14,12,2,regular,regular
+2021/22,3,4,H. Beer Sheva,4,2,2,regular,regular
+2021/22,3,4,H. Jerusalem,12,13,1,regular,regular
+2021/22,3,4,H. Nof HaGalil,1,3,2,regular,regular
+2021/22,3,4,Hapoel Hadera,10,6,4,regular,regular
+2021/22,3,4,Hapoel Haifa,3,1,2,regular,regular
+2021/22,3,4,Hapoel Tel Aviv,2,5,3,regular,regular
+2021/22,3,4,Kiryat Shmona,13,9,4,regular,regular
+2021/22,3,4,M. Petah Tikva,9,11,2,regular,regular
+2021/22,3,4,M. Tel Aviv,8,10,2,regular,regular
+2021/22,3,4,Maccabi Haifa,7,4,3,regular,regular
+2021/22,3,4,Maccabi Netanya,11,14,3,regular,regular
+2021/22,4,5,B. Jerusalem,8,9,1,regular,regular
+2021/22,4,5,Bnei Sakhnin,7,10,3,regular,regular
+2021/22,4,5,FC Ashdod,12,13,1,regular,regular
+2021/22,4,5,H. Beer Sheva,2,1,1,regular,regular
+2021/22,4,5,H. Jerusalem,13,14,1,regular,regular
+2021/22,4,5,H. Nof HaGalil,3,4,1,regular,regular
+2021/22,4,5,Hapoel Hadera,6,3,3,regular,regular
+2021/22,4,5,Hapoel Haifa,1,2,1,regular,regular
+2021/22,4,5,Kiryat Shmona,9,12,3,regular,regular
+2021/22,4,5,M. Petah Tikva,11,8,3,regular,regular
+2021/22,4,5,M. Tel Aviv,10,7,3,regular,regular
+2021/22,4,5,Maccabi Haifa,4,6,2,regular,regular
+2021/22,4,5,Maccabi Netanya,14,11,3,regular,regular
+2021/22,5,6,B. Jerusalem,9,11,2,regular,regular
+2021/22,5,6,Bnei Sakhnin,10,8,2,regular,regular
+2021/22,5,6,H. Nof HaGalil,4,6,2,regular,regular
+2021/22,5,6,Hapoel Tel Aviv,5,4,1,regular,regular
+2021/22,5,6,M. Petah Tikva,8,10,2,regular,regular
+2021/22,5,6,M. Tel Aviv,7,9,2,regular,regular
+2021/22,5,6,Maccabi Haifa,6,5,1,regular,regular
+2021/22,5,6,Maccabi Netanya,11,7,4,regular,regular
+2021/22,6,7,B. Jerusalem,11,8,3,regular,regular
+2021/22,6,7,Bnei Sakhnin,8,11,3,regular,regular
+2021/22,6,7,H. Nof HaGalil,6,10,4,regular,regular
+2021/22,6,7,Hapoel Hadera,3,5,2,regular,regular
+2021/22,6,7,Hapoel Haifa,2,4,2,regular,regular
+2021/22,6,7,Hapoel Tel Aviv,4,2,2,regular,regular
+2021/22,6,7,Kiryat Shmona,12,7,5,regular,regular
+2021/22,6,7,M. Petah Tikva,10,6,4,regular,regular
+2021/22,6,7,M. Tel Aviv,9,12,3,regular,regular
+2021/22,6,7,Maccabi Haifa,5,3,2,regular,regular
+2021/22,6,7,Maccabi Netanya,7,9,2,regular,regular
+2021/22,7,8,B. Jerusalem,8,11,3,regular,regular
+2021/22,7,8,Bnei Sakhnin,11,6,5,regular,regular
+2021/22,7,8,H. Nof HaGalil,10,7,3,regular,regular
+2021/22,7,8,Hapoel Haifa,4,2,2,regular,regular
+2021/22,7,8,Hapoel Tel Aviv,2,4,2,regular,regular
+2021/22,7,8,Kiryat Shmona,7,12,5,regular,regular
+2021/22,7,8,M. Petah Tikva,6,9,3,regular,regular
+2021/22,7,8,M. Tel Aviv,12,8,4,regular,regular
+2021/22,7,8,Maccabi Netanya,9,10,1,regular,regular
+2021/22,8,9,B. Jerusalem,11,8,3,regular,regular
+2021/22,8,9,H. Jerusalem,14,12,2,regular,regular
+2021/22,8,9,Hapoel Haifa,2,3,1,regular,regular
+2021/22,8,9,Kiryat Shmona,12,14,2,regular,regular
+2021/22,8,9,M. Petah Tikva,9,10,1,regular,regular
+2021/22,8,9,M. Tel Aviv,8,9,1,regular,regular
+2021/22,8,9,Maccabi Haifa,3,2,1,regular,regular
+2021/22,8,9,Maccabi Netanya,10,11,1,regular,regular
+2021/22,9,10,Bnei Sakhnin,6,4,2,regular,regular
+2021/22,9,10,FC Ashdod,13,11,2,regular,regular
+2021/22,9,10,H. Jerusalem,12,13,1,regular,regular
+2021/22,9,10,H. Nof HaGalil,7,10,3,regular,regular
+2021/22,9,10,Hapoel Hadera,5,7,2,regular,regular
+2021/22,9,10,Hapoel Tel Aviv,4,5,1,regular,regular
+2021/22,9,10,M. Petah Tikva,10,12,2,regular,regular
+2021/22,9,10,M. Tel Aviv,9,6,3,regular,regular
+2021/22,9,10,Maccabi Netanya,11,9,2,regular,regular
+2021/22,10,11,B. Jerusalem,8,10,2,regular,regular
+2021/22,10,11,Bnei Sakhnin,4,3,1,regular,regular
+2021/22,10,11,FC Ashdod,11,8,3,regular,regular
+2021/22,10,11,H. Jerusalem,13,14,1,regular,regular
+2021/22,10,11,H. Nof HaGalil,10,9,1,regular,regular
+2021/22,10,11,Hapoel Haifa,3,4,1,regular,regular
+2021/22,10,11,Kiryat Shmona,14,12,2,regular,regular
+2021/22,10,11,M. Petah Tikva,12,13,1,regular,regular
+2021/22,10,11,Maccabi Netanya,9,11,2,regular,regular
+2021/22,11,12,B. Jerusalem,10,11,1,regular,regular
+2021/22,11,12,FC Ashdod,8,7,1,regular,regular
+2021/22,11,12,H. Nof HaGalil,9,10,1,regular,regular
+2021/22,11,12,Hapoel Hadera,7,5,2,regular,regular
+2021/22,11,12,Hapoel Haifa,4,6,2,regular,regular
+2021/22,11,12,Hapoel Tel Aviv,5,8,3,regular,regular
+2021/22,11,12,Kiryat Shmona,12,9,3,regular,regular
+2021/22,11,12,M. Tel Aviv,6,4,2,regular,regular
+2021/22,11,12,Maccabi Netanya,11,12,1,regular,regular
+2021/22,12,13,B. Jerusalem,11,12,1,regular,regular
+2021/22,12,13,FC Ashdod,7,8,1,regular,regular
+2021/22,12,13,H. Jerusalem,14,13,1,regular,regular
+2021/22,12,13,H. Nof HaGalil,10,11,1,regular,regular
+2021/22,12,13,Hapoel Hadera,5,6,1,regular,regular
+2021/22,12,13,Hapoel Haifa,6,5,1,regular,regular
+2021/22,12,13,Hapoel Tel Aviv,8,7,1,regular,regular
+2021/22,12,13,M. Petah Tikva,13,14,1,regular,regular
+2021/22,12,13,Maccabi Netanya,12,10,2,regular,regular
+2021/22,13,14,B. Jerusalem,12,13,1,regular,regular
+2021/22,13,14,FC Ashdod,8,9,1,regular,regular
+2021/22,13,14,H. Jerusalem,13,11,2,regular,regular
+2021/22,13,14,H. Nof HaGalil,11,12,1,regular,regular
+2021/22,13,14,Hapoel Hadera,6,8,2,regular,regular
+2021/22,13,14,Hapoel Haifa,5,7,2,regular,regular
+2021/22,13,14,Hapoel Tel Aviv,7,5,2,regular,regular
+2021/22,13,14,Kiryat Shmona,9,6,3,regular,regular
+2021/22,14,15,B. Jerusalem,13,11,2,regular,regular
+2021/22,14,15,Bnei Sakhnin,3,5,2,regular,regular
+2021/22,14,15,FC Ashdod,9,10,1,regular,regular
+2021/22,14,15,H. Jerusalem,11,12,1,regular,regular
+2021/22,14,15,H. Nof HaGalil,12,13,1,regular,regular
+2021/22,14,15,Hapoel Hadera,8,9,1,regular,regular
+2021/22,14,15,Hapoel Haifa,7,6,1,regular,regular
+2021/22,14,15,Hapoel Tel Aviv,5,4,1,regular,regular
+2021/22,14,15,Kiryat Shmona,6,7,1,regular,regular
+2021/22,14,15,M. Tel Aviv,4,3,1,regular,regular
+2021/22,14,15,Maccabi Netanya,10,8,2,regular,regular
+2021/22,15,16,Bnei Sakhnin,5,6,1,regular,regular
+2021/22,15,16,FC Ashdod,10,9,1,regular,regular
+2021/22,15,16,Hapoel Hadera,9,10,1,regular,regular
+2021/22,15,16,Hapoel Haifa,6,5,1,regular,regular
+2021/22,15,16,Hapoel Tel Aviv,4,3,1,regular,regular
+2021/22,15,16,M. Tel Aviv,3,4,1,regular,regular
+2021/22,16,17,Bnei Sakhnin,6,5,1,regular,regular
+2021/22,16,17,FC Ashdod,9,7,2,regular,regular
+2021/22,16,17,H. Beer Sheva,1,2,1,regular,regular
+2021/22,16,17,Hapoel Haifa,5,8,3,regular,regular
+2021/22,16,17,Kiryat Shmona,7,6,1,regular,regular
+2021/22,16,17,Maccabi Haifa,2,1,1,regular,regular
+2021/22,16,17,Maccabi Netanya,8,9,1,regular,regular
+2021/22,17,18,Bnei Sakhnin,5,6,1,regular,regular
+2021/22,17,18,FC Ashdod,7,9,2,regular,regular
+2021/22,17,18,Hapoel Tel Aviv,3,4,1,regular,regular
+2021/22,17,18,Kiryat Shmona,6,5,1,regular,regular
+2021/22,17,18,M. Tel Aviv,4,3,1,regular,regular
+2021/22,17,18,Maccabi Netanya,9,7,2,regular,regular
+2021/22,18,19,Bnei Sakhnin,6,10,4,regular,regular
+2021/22,18,19,FC Ashdod,9,6,3,regular,regular
+2021/22,18,19,Hapoel Hadera,10,7,3,regular,regular
+2021/22,18,19,Hapoel Haifa,8,5,3,regular,regular
+2021/22,18,19,Hapoel Tel Aviv,4,3,1,regular,regular
+2021/22,18,19,Kiryat Shmona,5,9,4,regular,regular
+2021/22,18,19,M. Tel Aviv,3,4,1,regular,regular
+2021/22,18,19,Maccabi Netanya,7,8,1,regular,regular
+2021/22,19,20,Bnei Sakhnin,10,7,3,regular,regular
+2021/22,19,20,FC Ashdod,6,9,3,regular,regular
+2021/22,19,20,H. Jerusalem,12,13,1,regular,regular
+2021/22,19,20,H. Nof HaGalil,13,12,1,regular,regular
+2021/22,19,20,Hapoel Hadera,7,6,1,regular,regular
+2021/22,19,20,Hapoel Tel Aviv,3,4,1,regular,regular
+2021/22,19,20,Kiryat Shmona,9,10,1,regular,regular
+2021/22,19,20,M. Tel Aviv,4,3,1,regular,regular
+2021/22,20,21,Bnei Sakhnin,7,6,1,regular,regular
+2021/22,20,21,Hapoel Hadera,6,5,1,regular,regular
+2021/22,20,21,Hapoel Haifa,5,7,2,regular,regular
+2021/22,21,22,Bnei Sakhnin,6,7,1,regular,regular
+2021/22,21,22,FC Ashdod,9,10,1,regular,regular
+2021/22,21,22,Hapoel Haifa,7,8,1,regular,regular
+2021/22,21,22,Kiryat Shmona,10,9,1,regular,regular
+2021/22,21,22,Maccabi Netanya,8,6,2,regular,regular
+2021/22,22,23,Bnei Sakhnin,7,5,2,regular,regular
+2021/22,22,23,H. Jerusalem,13,12,1,regular,regular
+2021/22,22,23,H. Nof HaGalil,12,13,1,regular,regular
+2021/22,22,23,Hapoel Hadera,5,4,1,regular,regular
+2021/22,22,23,Hapoel Tel Aviv,4,6,2,regular,regular
+2021/22,22,23,Maccabi Netanya,6,7,1,regular,regular
+2021/22,23,24,Hapoel Hadera,4,6,2,regular,regular
+2021/22,23,24,Hapoel Tel Aviv,6,7,1,regular,regular
+2021/22,23,24,Maccabi Netanya,7,4,3,regular,regular
+2021/22,24,25,H. Jerusalem,12,13,1,regular,regular
+2021/22,24,25,H. Nof HaGalil,13,14,1,regular,regular
+2021/22,24,25,Hapoel Hadera,6,7,1,regular,regular
+2021/22,24,25,Hapoel Tel Aviv,7,6,1,regular,regular
+2021/22,24,25,M. Petah Tikva,14,12,2,regular,regular
+2021/22,25,26,B. Jerusalem,11,12,1,regular,regular
+2021/22,25,26,Bnei Sakhnin,5,4,1,regular,regular
+2021/22,25,26,H. Jerusalem,13,11,2,regular,regular
+2021/22,25,26,Hapoel Haifa,8,9,1,regular,regular
+2021/22,25,26,Kiryat Shmona,9,8,1,regular,regular
+2021/22,25,26,M. Petah Tikva,12,13,1,regular,regular
+2021/22,25,26,Maccabi Netanya,4,5,1,regular,regular
+2021/22,1,2,Bnei Sakhnin,4,5,1,championship_playoff,championship_playoff
+2021/22,1,2,Hapoel Tel Aviv,6,4,2,championship_playoff,championship_playoff
+2021/22,1,2,Maccabi Netanya,5,6,1,championship_playoff,championship_playoff
+2021/22,4,5,Bnei Sakhnin,5,6,1,championship_playoff,championship_playoff
+2021/22,4,5,Maccabi Netanya,6,5,1,championship_playoff,championship_playoff
+2021/22,5,6,Hapoel Tel Aviv,4,5,1,championship_playoff,championship_playoff
+2021/22,5,6,M. Tel Aviv,3,4,1,championship_playoff,championship_playoff
+2021/22,5,6,Maccabi Netanya,5,3,2,championship_playoff,championship_playoff
+2021/22,6,7,Hapoel Tel Aviv,5,4,1,championship_playoff,championship_playoff
+2021/22,6,7,M. Tel Aviv,4,5,1,championship_playoff,championship_playoff
+2021/22,1,2,Hapoel Hadera,1,2,1,relegation_playoff,relegation_playoff
+2021/22,1,2,Kiryat Shmona,2,1,1,relegation_playoff,relegation_playoff
+2021/22,2,3,Hapoel Hadera,2,3,1,relegation_playoff,relegation_playoff
+2021/22,2,3,Hapoel Haifa,3,2,1,relegation_playoff,relegation_playoff
+2021/22,4,5,Hapoel Hadera,3,2,1,relegation_playoff,relegation_playoff
+2021/22,4,5,Hapoel Haifa,2,3,1,relegation_playoff,relegation_playoff
+2021/22,6,7,B. Jerusalem,6,7,1,relegation_playoff,relegation_playoff
+2021/22,6,7,H. Jerusalem,5,6,1,relegation_playoff,relegation_playoff
+2021/22,6,7,H. Nof HaGalil,8,5,3,relegation_playoff,relegation_playoff
+2021/22,6,7,M. Petah Tikva,7,8,1,relegation_playoff,relegation_playoff
+2022/23,1,2,B. Jerusalem,13,14,1,regular,regular
+2022/23,1,2,Bnei Sakhnin,10,7,3,regular,regular
+2022/23,1,2,FC Ashdod,5,3,2,regular,regular
+2022/23,1,2,H. Beer Sheva,9,6,3,regular,regular
+2022/23,1,2,H. Jerusalem,7,9,2,regular,regular
+2022/23,1,2,Hapoel Hadera,8,11,3,regular,regular
+2022/23,1,2,Hapoel Haifa,3,4,1,regular,regular
+2022/23,1,2,Hapoel Tel Aviv,11,13,2,regular,regular
+2022/23,1,2,Kiryat Shmona,4,5,1,regular,regular
+2022/23,1,2,M. Bnei Reineh,14,10,4,regular,regular
+2022/23,1,2,Maccabi Haifa,6,2,4,regular,regular
+2022/23,1,2,Maccabi Netanya,2,8,6,regular,regular
+2022/23,2,3,B. Jerusalem,14,12,2,regular,regular
+2022/23,2,3,Bnei Sakhnin,7,3,4,regular,regular
+2022/23,2,3,FC Ashdod,3,4,1,regular,regular
+2022/23,2,3,H. Beer Sheva,6,9,3,regular,regular
+2022/23,2,3,H. Jerusalem,9,5,4,regular,regular
+2022/23,2,3,Hapoel Hadera,11,8,3,regular,regular
+2022/23,2,3,Hapoel Haifa,4,6,2,regular,regular
+2022/23,2,3,Hapoel Tel Aviv,13,11,2,regular,regular
+2022/23,2,3,Kiryat Shmona,5,7,2,regular,regular
+2022/23,2,3,M. Bnei Reineh,10,13,3,regular,regular
+2022/23,2,3,Maccabi Netanya,8,10,2,regular,regular
+2022/23,2,3,Ness Ziona,12,14,2,regular,regular
+2022/23,3,4,Bnei Sakhnin,3,4,1,regular,regular
+2022/23,3,4,FC Ashdod,4,5,1,regular,regular
+2022/23,3,4,H. Beer Sheva,9,6,3,regular,regular
+2022/23,3,4,H. Jerusalem,5,3,2,regular,regular
+2022/23,3,4,Hapoel Hadera,8,9,1,regular,regular
+2022/23,3,4,Hapoel Haifa,6,7,1,regular,regular
+2022/23,3,4,Kiryat Shmona,7,8,1,regular,regular
+2022/23,3,4,M. Tel Aviv,1,2,1,regular,regular
+2022/23,3,4,Maccabi Haifa,2,1,1,regular,regular
+2022/23,4,5,B. Jerusalem,12,14,2,regular,regular
+2022/23,4,5,Bnei Sakhnin,4,6,2,regular,regular
+2022/23,4,5,H. Beer Sheva,6,4,2,regular,regular
+2022/23,4,5,M. Bnei Reineh,13,12,1,regular,regular
+2022/23,4,5,M. Tel Aviv,2,1,1,regular,regular
+2022/23,4,5,Maccabi Haifa,1,2,1,regular,regular
+2022/23,4,5,Ness Ziona,14,13,1,regular,regular
+2022/23,5,6,Bnei Sakhnin,6,5,1,regular,regular
+2022/23,5,6,FC Ashdod,5,6,1,regular,regular
+2022/23,5,6,H. Jerusalem,3,2,1,regular,regular
+2022/23,5,6,Hapoel Tel Aviv,11,12,1,regular,regular
+2022/23,5,6,M. Bnei Reineh,12,10,2,regular,regular
+2022/23,5,6,M. Tel Aviv,1,3,2,regular,regular
+2022/23,5,6,Maccabi Haifa,2,1,1,regular,regular
+2022/23,5,6,Maccabi Netanya,10,11,1,regular,regular
+2022/23,6,7,H. Jerusalem,2,3,1,regular,regular
+2022/23,6,7,Hapoel Hadera,9,7,2,regular,regular
+2022/23,6,7,Hapoel Haifa,7,9,2,regular,regular
+2022/23,6,7,Hapoel Tel Aviv,12,13,1,regular,regular
+2022/23,6,7,Kiryat Shmona,8,10,2,regular,regular
+2022/23,6,7,M. Bnei Reineh,10,8,2,regular,regular
+2022/23,6,7,M. Tel Aviv,3,1,2,regular,regular
+2022/23,6,7,Maccabi Haifa,1,2,1,regular,regular
+2022/23,6,7,Ness Ziona,13,12,1,regular,regular
+2022/23,7,8,B. Jerusalem,14,13,1,regular,regular
+2022/23,7,8,Bnei Sakhnin,5,6,1,regular,regular
+2022/23,7,8,FC Ashdod,6,5,1,regular,regular
+2022/23,7,8,Hapoel Haifa,9,10,1,regular,regular
+2022/23,7,8,Hapoel Tel Aviv,13,12,1,regular,regular
+2022/23,7,8,Kiryat Shmona,10,9,1,regular,regular
+2022/23,7,8,Ness Ziona,12,14,2,regular,regular
+2022/23,8,9,B. Jerusalem,13,9,4,regular,regular
+2022/23,8,9,H. Beer Sheva,4,3,1,regular,regular
+2022/23,8,9,H. Jerusalem,3,4,1,regular,regular
+2022/23,8,9,Hapoel Hadera,7,8,1,regular,regular
+2022/23,8,9,Hapoel Haifa,10,11,1,regular,regular
+2022/23,8,9,Hapoel Tel Aviv,12,13,1,regular,regular
+2022/23,8,9,Kiryat Shmona,9,10,1,regular,regular
+2022/23,8,9,M. Bnei Reineh,8,7,1,regular,regular
+2022/23,8,9,Maccabi Netanya,11,14,3,regular,regular
+2022/23,8,9,Ness Ziona,14,12,2,regular,regular
+2022/23,9,10,B. Jerusalem,9,10,1,regular,regular
+2022/23,9,10,Bnei Sakhnin,6,7,1,regular,regular
+2022/23,9,10,FC Ashdod,5,6,1,regular,regular
+2022/23,9,10,Hapoel Hadera,8,5,3,regular,regular
+2022/23,9,10,Hapoel Tel Aviv,13,9,4,regular,regular
+2022/23,9,10,Kiryat Shmona,10,13,3,regular,regular
+2022/23,9,10,M. Bnei Reineh,7,8,1,regular,regular
+2022/23,9,10,M. Tel Aviv,1,2,1,regular,regular
+2022/23,9,10,Maccabi Haifa,2,1,1,regular,regular
+2022/23,9,10,Maccabi Netanya,14,12,2,regular,regular
+2022/23,9,10,Ness Ziona,12,14,2,regular,regular
+2022/23,10,11,B. Jerusalem,10,11,1,regular,regular
+2022/23,10,11,Hapoel Haifa,11,8,3,regular,regular
+2022/23,10,11,Hapoel Tel Aviv,9,10,1,regular,regular
+2022/23,10,11,Kiryat Shmona,13,12,1,regular,regular
+2022/23,10,11,M. Bnei Reineh,8,9,1,regular,regular
+2022/23,10,11,Maccabi Netanya,12,13,1,regular,regular
+2022/23,11,12,B. Jerusalem,11,13,2,regular,regular
+2022/23,11,12,FC Ashdod,6,5,1,regular,regular
+2022/23,11,12,Hapoel Hadera,5,6,1,regular,regular
+2022/23,11,12,Hapoel Haifa,8,10,2,regular,regular
+2022/23,11,12,Hapoel Tel Aviv,10,8,2,regular,regular
+2022/23,11,12,Kiryat Shmona,12,14,2,regular,regular
+2022/23,11,12,Maccabi Netanya,13,11,2,regular,regular
+2022/23,11,12,Ness Ziona,14,12,2,regular,regular
+2022/23,12,13,B. Jerusalem,13,11,2,regular,regular
+2022/23,12,13,FC Ashdod,5,6,1,regular,regular
+2022/23,12,13,Hapoel Hadera,6,5,1,regular,regular
+2022/23,12,13,Hapoel Haifa,10,12,2,regular,regular
+2022/23,12,13,Hapoel Tel Aviv,8,9,1,regular,regular
+2022/23,12,13,M. Bnei Reineh,9,10,1,regular,regular
+2022/23,12,13,Maccabi Netanya,11,8,3,regular,regular
+2022/23,12,13,Ness Ziona,12,13,1,regular,regular
+2022/23,13,14,B. Jerusalem,11,7,4,regular,regular
+2022/23,13,14,Bnei Sakhnin,7,8,1,regular,regular
+2022/23,13,14,Hapoel Haifa,12,11,1,regular,regular
+2022/23,13,14,Hapoel Tel Aviv,9,10,1,regular,regular
+2022/23,13,14,M. Bnei Reineh,10,12,2,regular,regular
+2022/23,13,14,Maccabi Netanya,8,9,1,regular,regular
+2022/23,14,15,B. Jerusalem,7,8,1,regular,regular
+2022/23,14,15,Bnei Sakhnin,8,7,1,regular,regular
+2022/23,14,15,Hapoel Haifa,11,12,1,regular,regular
+2022/23,14,15,M. Bnei Reineh,12,13,1,regular,regular
+2022/23,14,15,Maccabi Netanya,9,11,2,regular,regular
+2022/23,14,15,Ness Ziona,13,9,4,regular,regular
+2022/23,15,16,B. Jerusalem,8,6,2,regular,regular
+2022/23,15,16,Bnei Sakhnin,7,9,2,regular,regular
+2022/23,15,16,FC Ashdod,6,7,1,regular,regular
+2022/23,15,16,Hapoel Haifa,12,8,4,regular,regular
+2022/23,15,16,Ness Ziona,9,12,3,regular,regular
+2022/23,16,17,FC Ashdod,7,8,1,regular,regular
+2022/23,16,17,Hapoel Hadera,5,7,2,regular,regular
+2022/23,16,17,Hapoel Haifa,8,5,3,regular,regular
+2022/23,16,17,Hapoel Tel Aviv,10,11,1,regular,regular
+2022/23,16,17,Kiryat Shmona,14,12,2,regular,regular
+2022/23,16,17,M. Bnei Reineh,13,14,1,regular,regular
+2022/23,16,17,Maccabi Netanya,11,10,1,regular,regular
+2022/23,16,17,Ness Ziona,12,13,1,regular,regular
+2022/23,17,18,Bnei Sakhnin,9,10,1,regular,regular
+2022/23,17,18,FC Ashdod,8,5,3,regular,regular
+2022/23,17,18,H. Beer Sheva,3,2,1,regular,regular
+2022/23,17,18,Hapoel Haifa,5,8,3,regular,regular
+2022/23,17,18,M. Tel Aviv,2,3,1,regular,regular
+2022/23,17,18,Maccabi Netanya,10,9,1,regular,regular
+2022/23,18,19,H. Beer Sheva,2,3,1,regular,regular
+2022/23,18,19,Hapoel Hadera,7,9,2,regular,regular
+2022/23,18,19,Hapoel Haifa,8,7,1,regular,regular
+2022/23,18,19,Kiryat Shmona,12,13,1,regular,regular
+2022/23,18,19,M. Tel Aviv,3,2,1,regular,regular
+2022/23,18,19,Maccabi Netanya,9,8,1,regular,regular
+2022/23,18,19,Ness Ziona,13,12,1,regular,regular
+2022/23,19,20,H. Beer Sheva,3,2,1,regular,regular
+2022/23,19,20,Hapoel Hadera,9,8,1,regular,regular
+2022/23,19,20,Hapoel Haifa,7,9,2,regular,regular
+2022/23,19,20,Kiryat Shmona,13,12,1,regular,regular
+2022/23,19,20,M. Tel Aviv,2,3,1,regular,regular
+2022/23,19,20,Maccabi Netanya,8,7,1,regular,regular
+2022/23,19,20,Ness Ziona,12,13,1,regular,regular
+2022/23,20,21,B. Jerusalem,6,5,1,regular,regular
+2022/23,20,21,FC Ashdod,5,7,2,regular,regular
+2022/23,20,21,Maccabi Netanya,7,6,1,regular,regular
+2022/23,21,22,B. Jerusalem,5,4,1,regular,regular
+2022/23,21,22,FC Ashdod,7,8,1,regular,regular
+2022/23,21,22,H. Jerusalem,4,6,2,regular,regular
+2022/23,21,22,Hapoel Hadera,8,9,1,regular,regular
+2022/23,21,22,Hapoel Haifa,9,7,2,regular,regular
+2022/23,21,22,Kiryat Shmona,12,13,1,regular,regular
+2022/23,21,22,M. Bnei Reineh,14,12,2,regular,regular
+2022/23,21,22,Maccabi Netanya,6,5,1,regular,regular
+2022/23,21,22,Ness Ziona,13,14,1,regular,regular
+2022/23,22,23,B. Jerusalem,4,6,2,regular,regular
+2022/23,22,23,Bnei Sakhnin,10,9,1,regular,regular
+2022/23,22,23,FC Ashdod,8,7,1,regular,regular
+2022/23,22,23,H. Jerusalem,6,5,1,regular,regular
+2022/23,22,23,Hapoel Hadera,9,10,1,regular,regular
+2022/23,22,23,Hapoel Haifa,7,8,1,regular,regular
+2022/23,22,23,Maccabi Netanya,5,4,1,regular,regular
+2022/23,23,24,B. Jerusalem,6,7,1,regular,regular
+2022/23,23,24,FC Ashdod,7,6,1,regular,regular
+2022/23,23,24,Kiryat Shmona,13,12,1,regular,regular
+2022/23,23,24,M. Bnei Reineh,12,13,1,regular,regular
+2022/23,24,25,Hapoel Hadera,10,11,1,regular,regular
+2022/23,24,25,Hapoel Tel Aviv,11,10,1,regular,regular
+2022/23,25,26,Hapoel Hadera,11,10,1,regular,regular
+2022/23,25,26,Hapoel Tel Aviv,10,11,1,regular,regular
+2022/23,25,26,Kiryat Shmona,12,13,1,regular,regular
+2022/23,25,26,M. Bnei Reineh,13,12,1,regular,regular
+2022/23,30,31,FC Ashdod,5,6,1,championship_playoff,championship_playoff
+2022/23,30,31,H. Jerusalem,4,5,1,championship_playoff,championship_playoff
+2022/23,30,31,Maccabi Netanya,6,4,2,championship_playoff,championship_playoff
+2022/23,27,28,B. Jerusalem,2,3,1,relegation_playoff,relegation_playoff
+2022/23,27,28,Bnei Sakhnin,3,2,1,relegation_playoff,relegation_playoff
+2022/23,27,28,Kiryat Shmona,7,6,1,relegation_playoff,relegation_playoff
+2022/23,27,28,M. Bnei Reineh,6,7,1,relegation_playoff,relegation_playoff
+2022/23,28,29,Hapoel Hadera,5,4,1,relegation_playoff,relegation_playoff
+2022/23,28,29,Hapoel Tel Aviv,4,5,1,relegation_playoff,relegation_playoff
+2022/23,30,31,B. Jerusalem,3,4,1,relegation_playoff,relegation_playoff
+2022/23,30,31,Hapoel Hadera,4,5,1,relegation_playoff,relegation_playoff
+2022/23,30,31,Hapoel Tel Aviv,5,3,2,relegation_playoff,relegation_playoff
+2022/23,31,32,B. Jerusalem,4,5,1,relegation_playoff,relegation_playoff
+2022/23,31,32,Bnei Sakhnin,2,4,2,relegation_playoff,relegation_playoff
+2022/23,31,32,Hapoel Hadera,5,3,2,relegation_playoff,relegation_playoff
+2022/23,31,32,Hapoel Tel Aviv,3,2,1,relegation_playoff,relegation_playoff
+2023/24,1,2,B. Jerusalem,11,6,5,regular,regular
+2023/24,1,2,Bnei Sakhnin,5,8,3,regular,regular
+2023/24,1,2,H. Beer Sheva,2,3,1,regular,regular
+2023/24,1,2,H. Jerusalem,6,10,4,regular,regular
+2023/24,1,2,H. Petah Tikva,12,11,1,regular,regular
+2023/24,1,2,Hapoel Haifa,3,5,2,regular,regular
+2023/24,1,2,Hapoel Tel Aviv,7,4,3,regular,regular
+2023/24,1,2,M. Bnei Reineh,8,9,1,regular,regular
+2023/24,1,2,M. Petah Tikva,9,7,2,regular,regular
+2023/24,1,2,Maccabi Haifa,4,2,2,regular,regular
+2023/24,1,2,Maccabi Netanya,10,12,2,regular,regular
+2023/24,2,3,B. Jerusalem,6,3,3,regular,regular
+2023/24,2,3,H. Beer Sheva,3,5,2,regular,regular
+2023/24,2,3,H. Jerusalem,10,11,1,regular,regular
+2023/24,2,3,H. Petah Tikva,11,12,1,regular,regular
+2023/24,2,3,Hapoel Haifa,5,2,3,regular,regular
+2023/24,2,3,Hapoel Tel Aviv,4,6,2,regular,regular
+2023/24,2,3,M. Bnei Reineh,9,10,1,regular,regular
+2023/24,2,3,Maccabi Haifa,2,4,2,regular,regular
+2023/24,2,3,Maccabi Netanya,12,9,3,regular,regular
+2023/24,3,4,B. Jerusalem,3,5,2,regular,regular
+2023/24,3,4,Bnei Sakhnin,8,6,2,regular,regular
+2023/24,3,4,H. Beer Sheva,5,8,3,regular,regular
+2023/24,3,4,H. Jerusalem,11,12,1,regular,regular
+2023/24,3,4,H. Petah Tikva,12,11,1,regular,regular
+2023/24,3,4,Hapoel Tel Aviv,6,10,4,regular,regular
+2023/24,3,4,M. Bnei Reineh,10,7,3,regular,regular
+2023/24,3,4,M. Petah Tikva,7,4,3,regular,regular
+2023/24,3,4,Maccabi Haifa,4,3,1,regular,regular
+2023/24,4,5,B. Jerusalem,5,8,3,regular,regular
+2023/24,4,5,Bnei Sakhnin,6,9,3,regular,regular
+2023/24,4,5,FC Ashdod,13,14,1,regular,regular
+2023/24,4,5,H. Beer Sheva,8,6,2,regular,regular
+2023/24,4,5,H. Jerusalem,12,13,1,regular,regular
+2023/24,4,5,Hapoel Hadera,14,12,2,regular,regular
+2023/24,4,5,Hapoel Tel Aviv,10,7,3,regular,regular
+2023/24,4,5,M. Bnei Reineh,7,5,2,regular,regular
+2023/24,4,5,Maccabi Netanya,9,10,1,regular,regular
+2023/24,5,6,B. Jerusalem,8,11,3,regular,regular
+2023/24,5,6,Bnei Sakhnin,9,8,1,regular,regular
+2023/24,5,6,H. Petah Tikva,11,9,2,regular,regular
+2023/24,5,6,M. Bnei Reineh,5,4,1,regular,regular
+2023/24,5,6,M. Petah Tikva,4,5,1,regular,regular
+2023/24,6,7,B. Jerusalem,11,7,4,regular,regular
+2023/24,6,7,Bnei Sakhnin,8,6,2,regular,regular
+2023/24,6,7,FC Ashdod,14,13,1,regular,regular
+2023/24,6,7,H. Beer Sheva,6,8,2,regular,regular
+2023/24,6,7,H. Jerusalem,13,14,1,regular,regular
+2023/24,6,7,H. Petah Tikva,9,10,1,regular,regular
+2023/24,6,7,Hapoel Haifa,2,3,1,regular,regular
+2023/24,6,7,Hapoel Tel Aviv,7,9,2,regular,regular
+2023/24,6,7,Maccabi Haifa,3,2,1,regular,regular
+2023/24,6,7,Maccabi Netanya,10,11,1,regular,regular
+2023/24,7,8,B. Jerusalem,7,6,1,regular,regular
+2023/24,7,8,Bnei Sakhnin,6,7,1,regular,regular
+2023/24,7,8,H. Beer Sheva,8,11,3,regular,regular
+2023/24,7,8,Hapoel Haifa,3,2,1,regular,regular
+2023/24,7,8,Maccabi Haifa,2,3,1,regular,regular
+2023/24,7,8,Maccabi Netanya,11,8,3,regular,regular
+2023/24,8,9,B. Jerusalem,6,8,2,regular,regular
+2023/24,8,9,Bnei Sakhnin,7,9,2,regular,regular
+2023/24,8,9,FC Ashdod,13,12,1,regular,regular
+2023/24,8,9,H. Beer Sheva,11,7,4,regular,regular
+2023/24,8,9,H. Petah Tikva,10,13,3,regular,regular
+2023/24,8,9,Hapoel Hadera,12,10,2,regular,regular
+2023/24,8,9,Hapoel Haifa,2,3,1,regular,regular
+2023/24,8,9,Hapoel Tel Aviv,9,5,4,regular,regular
+2023/24,8,9,M. Petah Tikva,5,6,1,regular,regular
+2023/24,8,9,Maccabi Haifa,3,2,1,regular,regular
+2023/24,8,9,Maccabi Netanya,8,11,3,regular,regular
+2023/24,9,10,B. Jerusalem,8,6,2,regular,regular
+2023/24,9,10,Bnei Sakhnin,9,7,2,regular,regular
+2023/24,9,10,FC Ashdod,12,13,1,regular,regular
+2023/24,9,10,H. Beer Sheva,7,9,2,regular,regular
+2023/24,9,10,H. Petah Tikva,13,12,1,regular,regular
+2023/24,9,10,Hapoel Haifa,3,4,1,regular,regular
+2023/24,9,10,M. Bnei Reineh,4,3,1,regular,regular
+2023/24,9,10,M. Petah Tikva,6,8,2,regular,regular
+2023/24,10,11,FC Ashdod,13,12,1,regular,regular
+2023/24,10,11,H. Beer Sheva,9,8,1,regular,regular
+2023/24,10,11,H. Petah Tikva,12,13,1,regular,regular
+2023/24,10,11,Hapoel Haifa,4,3,1,regular,regular
+2023/24,10,11,M. Bnei Reineh,3,4,1,regular,regular
+2023/24,10,11,M. Petah Tikva,8,9,1,regular,regular
+2023/24,11,12,B. Jerusalem,6,7,1,regular,regular
+2023/24,11,12,Bnei Sakhnin,7,8,1,regular,regular
+2023/24,11,12,FC Ashdod,12,13,1,regular,regular
+2023/24,11,12,H. Beer Sheva,8,6,2,regular,regular
+2023/24,11,12,H. Jerusalem,14,12,2,regular,regular
+2023/24,11,12,H. Petah Tikva,13,14,1,regular,regular
+2023/24,12,13,Hapoel Hadera,10,11,1,regular,regular
+2023/24,12,13,M. Petah Tikva,9,10,1,regular,regular
+2023/24,12,13,Maccabi Netanya,11,9,2,regular,regular
+2023/24,13,14,B. Jerusalem,7,9,2,regular,regular
+2023/24,13,14,Bnei Sakhnin,8,7,1,regular,regular
+2023/24,13,14,FC Ashdod,13,14,1,regular,regular
+2023/24,13,14,H. Beer Sheva,6,4,2,regular,regular
+2023/24,13,14,H. Jerusalem,12,10,2,regular,regular
+2023/24,13,14,H. Petah Tikva,14,13,1,regular,regular
+2023/24,13,14,Hapoel Hadera,11,12,1,regular,regular
+2023/24,13,14,M. Bnei Reineh,4,6,2,regular,regular
+2023/24,13,14,M. Petah Tikva,10,11,1,regular,regular
+2023/24,13,14,Maccabi Netanya,9,8,1,regular,regular
+2023/24,14,15,Bnei Sakhnin,7,8,1,regular,regular
+2023/24,14,15,Hapoel Tel Aviv,5,6,1,regular,regular
+2023/24,14,15,M. Bnei Reineh,6,7,1,regular,regular
+2023/24,14,15,Maccabi Netanya,8,5,3,regular,regular
+2023/24,15,16,B. Jerusalem,9,5,4,regular,regular
+2023/24,15,16,H. Petah Tikva,13,12,1,regular,regular
+2023/24,15,16,Hapoel Hadera,12,13,1,regular,regular
+2023/24,15,16,Hapoel Tel Aviv,6,9,3,regular,regular
+2023/24,15,16,M. Bnei Reineh,7,6,1,regular,regular
+2023/24,15,16,Maccabi Netanya,5,7,2,regular,regular
+2023/24,16,17,B. Jerusalem,5,7,2,regular,regular
+2023/24,16,17,M. Bnei Reineh,6,5,1,regular,regular
+2023/24,16,17,Maccabi Netanya,7,6,1,regular,regular
+2023/24,17,18,B. Jerusalem,7,5,2,regular,regular
+2023/24,17,18,M. Bnei Reineh,5,6,1,regular,regular
+2023/24,17,18,M. Tel Aviv,1,2,1,regular,regular
+2023/24,17,18,Maccabi Haifa,2,1,1,regular,regular
+2023/24,17,18,Maccabi Netanya,6,7,1,regular,regular
+2023/24,18,19,Bnei Sakhnin,8,7,1,regular,regular
+2023/24,18,19,FC Ashdod,14,11,3,regular,regular
+2023/24,18,19,H. Jerusalem,10,12,2,regular,regular
+2023/24,18,19,H. Petah Tikva,12,13,1,regular,regular
+2023/24,18,19,Hapoel Hadera,13,14,1,regular,regular
+2023/24,18,19,M. Petah Tikva,11,10,1,regular,regular
+2023/24,18,19,M. Tel Aviv,2,1,1,regular,regular
+2023/24,18,19,Maccabi Haifa,1,2,1,regular,regular
+2023/24,18,19,Maccabi Netanya,7,8,1,regular,regular
+2023/24,19,20,B. Jerusalem,5,6,1,regular,regular
+2023/24,19,20,FC Ashdod,11,12,1,regular,regular
+2023/24,19,20,H. Jerusalem,12,11,1,regular,regular
+2023/24,19,20,M. Bnei Reineh,6,5,1,regular,regular
+2023/24,19,20,M. Tel Aviv,1,2,1,regular,regular
+2023/24,19,20,Maccabi Haifa,2,1,1,regular,regular
+2023/24,20,21,H. Beer Sheva,4,3,1,regular,regular
+2023/24,20,21,H. Petah Tikva,13,14,1,regular,regular
+2023/24,20,21,Hapoel Hadera,14,13,1,regular,regular
+2023/24,20,21,Hapoel Haifa,3,4,1,regular,regular
+2023/24,20,21,Hapoel Tel Aviv,9,10,1,regular,regular
+2023/24,20,21,M. Petah Tikva,10,8,2,regular,regular
+2023/24,20,21,Maccabi Netanya,8,9,1,regular,regular
+2023/24,21,22,B. Jerusalem,6,7,1,regular,regular
+2023/24,21,22,Bnei Sakhnin,7,6,1,regular,regular
+2023/24,21,22,Hapoel Tel Aviv,10,9,1,regular,regular
+2023/24,21,22,Maccabi Netanya,9,10,1,regular,regular
+2023/24,22,23,B. Jerusalem,7,8,1,regular,regular
+2023/24,22,23,Bnei Sakhnin,6,5,1,regular,regular
+2023/24,22,23,FC Ashdod,12,13,1,regular,regular
+2023/24,22,23,H. Jerusalem,11,10,1,regular,regular
+2023/24,22,23,Hapoel Hadera,13,12,1,regular,regular
+2023/24,22,23,Hapoel Tel Aviv,9,11,2,regular,regular
+2023/24,22,23,M. Bnei Reineh,5,6,1,regular,regular
+2023/24,22,23,M. Petah Tikva,8,7,1,regular,regular
+2023/24,22,23,Maccabi Netanya,10,9,1,regular,regular
+2023/24,23,24,FC Ashdod,13,12,1,regular,regular
+2023/24,23,24,H. Jerusalem,10,9,1,regular,regular
+2023/24,23,24,Hapoel Hadera,12,13,1,regular,regular
+2023/24,23,24,Hapoel Tel Aviv,11,10,1,regular,regular
+2023/24,23,24,Maccabi Netanya,9,11,2,regular,regular
+2023/24,24,25,B. Jerusalem,8,10,2,regular,regular
+2023/24,24,25,Bnei Sakhnin,5,6,1,regular,regular
+2023/24,24,25,FC Ashdod,12,13,1,regular,regular
+2023/24,24,25,H. Beer Sheva,3,4,1,regular,regular
+2023/24,24,25,H. Jerusalem,9,8,1,regular,regular
+2023/24,24,25,Hapoel Hadera,13,12,1,regular,regular
+2023/24,24,25,Hapoel Haifa,4,3,1,regular,regular
+2023/24,24,25,Hapoel Tel Aviv,10,11,1,regular,regular
+2023/24,24,25,M. Bnei Reineh,6,5,1,regular,regular
+2023/24,24,25,M. Tel Aviv,2,1,1,regular,regular
+2023/24,24,25,Maccabi Haifa,1,2,1,regular,regular
+2023/24,24,25,Maccabi Netanya,11,9,2,regular,regular
+2023/24,25,26,B. Jerusalem,10,8,2,regular,regular
+2023/24,25,26,H. Beer Sheva,4,3,1,regular,regular
+2023/24,25,26,H. Jerusalem,8,7,1,regular,regular
+2023/24,25,26,Hapoel Hadera,12,11,1,regular,regular
+2023/24,25,26,Hapoel Haifa,3,4,1,regular,regular
+2023/24,25,26,Hapoel Tel Aviv,11,12,1,regular,regular
+2023/24,25,26,M. Petah Tikva,7,9,2,regular,regular
+2023/24,25,26,Maccabi Netanya,9,10,1,regular,regular
+2023/24,27,28,Bnei Sakhnin,6,5,1,championship_playoff,championship_playoff
+2023/24,27,28,M. Bnei Reineh,5,6,1,championship_playoff,championship_playoff
+2023/24,28,29,M. Tel Aviv,1,2,1,championship_playoff,championship_playoff
+2023/24,28,29,Maccabi Haifa,2,1,1,championship_playoff,championship_playoff
+2023/24,30,31,B. Jerusalem,2,3,1,relegation_playoff,relegation_playoff
+2023/24,30,31,H. Jerusalem,1,2,1,relegation_playoff,relegation_playoff
+2023/24,30,31,Hapoel Tel Aviv,4,1,3,relegation_playoff,relegation_playoff
+2023/24,30,31,M. Petah Tikva,3,4,1,relegation_playoff,relegation_playoff
+2023/24,31,32,B. Jerusalem,3,4,1,relegation_playoff,relegation_playoff
+2023/24,31,32,H. Jerusalem,2,3,1,relegation_playoff,relegation_playoff
+2023/24,31,32,Hapoel Hadera,6,2,4,relegation_playoff,relegation_playoff
+2023/24,31,32,M. Petah Tikva,4,5,1,relegation_playoff,relegation_playoff
+2023/24,31,32,Maccabi Netanya,5,6,1,relegation_playoff,relegation_playoff
+2025/26,1,2,B. Jerusalem,4,5,1,regular,regular
+2025/26,1,2,Bnei Sakhnin,8,6,2,regular,regular
+2025/26,1,2,FC Ashdod,5,7,2,regular,regular
+2025/26,1,2,H. Beer Sheva,3,1,2,regular,regular
+2025/26,1,2,H. Jerusalem,9,13,4,regular,regular
+2025/26,1,2,H. Petah Tikva,13,12,1,regular,regular
+2025/26,1,2,Hapoel Haifa,11,8,3,regular,regular
+2025/26,1,2,Hapoel Tel Aviv,6,4,2,regular,regular
+2025/26,1,2,Ironi Tiberias,7,9,2,regular,regular
+2025/26,1,2,M. Bnei Reineh,14,11,3,regular,regular
+2025/26,1,2,M. Tel Aviv,1,2,1,regular,regular
+2025/26,1,2,Maccabi Haifa,2,3,1,regular,regular
+2025/26,1,2,Maccabi Netanya,12,14,2,regular,regular
+2025/26,2,3,B. Jerusalem,5,7,2,regular,regular
+2025/26,2,3,Bnei Sakhnin,6,9,3,regular,regular
+2025/26,2,3,FC Ashdod,7,10,3,regular,regular
+2025/26,2,3,H. Petah Tikva,12,8,4,regular,regular
+2025/26,2,3,Hapoel Haifa,8,5,3,regular,regular
+2025/26,2,3,Ironi Tiberias,9,11,2,regular,regular
+2025/26,2,3,Kiryat Shmona,10,6,4,regular,regular
+2025/26,2,3,M. Bnei Reineh,11,12,1,regular,regular
+2025/26,3,4,FC Ashdod,10,11,1,regular,regular
+2025/26,3,4,H. Jerusalem,13,14,1,regular,regular
+2025/26,3,4,H. Petah Tikva,8,5,3,regular,regular
+2025/26,3,4,Hapoel Haifa,5,6,1,regular,regular
+2025/26,3,4,Hapoel Tel Aviv,4,3,1,regular,regular
+2025/26,3,4,Ironi Tiberias,11,12,1,regular,regular
+2025/26,3,4,Kiryat Shmona,6,8,2,regular,regular
+2025/26,3,4,M. Bnei Reineh,12,13,1,regular,regular
+2025/26,3,4,Maccabi Haifa,3,4,1,regular,regular
+2025/26,3,4,Maccabi Netanya,14,10,4,regular,regular
+2025/26,4,5,B. Jerusalem,7,4,3,regular,regular
+2025/26,4,5,Bnei Sakhnin,9,12,3,regular,regular
+2025/26,4,5,FC Ashdod,11,9,2,regular,regular
+2025/26,4,5,H. Petah Tikva,5,6,1,regular,regular
+2025/26,4,5,Hapoel Haifa,6,7,1,regular,regular
+2025/26,4,5,Ironi Tiberias,12,10,2,regular,regular
+2025/26,4,5,Kiryat Shmona,8,11,3,regular,regular
+2025/26,4,5,Maccabi Haifa,4,5,1,regular,regular
+2025/26,4,5,Maccabi Netanya,10,8,2,regular,regular
+2025/26,5,6,Bnei Sakhnin,12,10,2,regular,regular
+2025/26,5,6,FC Ashdod,9,6,3,regular,regular
+2025/26,5,6,H. Petah Tikva,6,9,3,regular,regular
+2025/26,5,6,Hapoel Haifa,7,8,1,regular,regular
+2025/26,5,6,Ironi Tiberias,10,7,3,regular,regular
+2025/26,5,6,Kiryat Shmona,11,12,1,regular,regular
+2025/26,5,6,Maccabi Netanya,8,11,3,regular,regular
+2025/26,6,7,B. Jerusalem,4,3,1,regular,regular
+2025/26,6,7,Bnei Sakhnin,10,6,4,regular,regular
+2025/26,6,7,FC Ashdod,6,7,1,regular,regular
+2025/26,6,7,H. Jerusalem,14,13,1,regular,regular
+2025/26,6,7,H. Petah Tikva,9,12,3,regular,regular
+2025/26,6,7,Hapoel Haifa,8,5,3,regular,regular
+2025/26,6,7,Hapoel Tel Aviv,3,4,1,regular,regular
+2025/26,6,7,Ironi Tiberias,7,10,3,regular,regular
+2025/26,6,7,Kiryat Shmona,12,11,1,regular,regular
+2025/26,6,7,M. Bnei Reineh,13,14,1,regular,regular
+2025/26,6,7,Maccabi Haifa,5,8,3,regular,regular
+2025/26,6,7,Maccabi Netanya,11,9,2,regular,regular
+2025/26,7,8,Bnei Sakhnin,6,7,1,regular,regular
+2025/26,7,8,FC Ashdod,7,8,1,regular,regular
+2025/26,7,8,H. Petah Tikva,12,11,1,regular,regular
+2025/26,7,8,Hapoel Haifa,5,6,1,regular,regular
+2025/26,7,8,Kiryat Shmona,11,12,1,regular,regular
+2025/26,7,8,Maccabi Haifa,8,9,1,regular,regular
+2025/26,7,8,Maccabi Netanya,9,5,4,regular,regular
+2025/26,8,9,FC Ashdod,8,6,2,regular,regular
+2025/26,8,9,H. Petah Tikva,11,10,1,regular,regular
+2025/26,8,9,Hapoel Haifa,6,9,3,regular,regular
+2025/26,8,9,Ironi Tiberias,10,11,1,regular,regular
+2025/26,8,9,Maccabi Haifa,9,8,1,regular,regular
+2025/26,9,10,Hapoel Tel Aviv,4,5,1,regular,regular
+2025/26,9,10,Ironi Tiberias,11,12,1,regular,regular
+2025/26,9,10,Kiryat Shmona,12,11,1,regular,regular
+2025/26,9,10,Maccabi Netanya,5,4,1,regular,regular
+2025/26,10,11,Bnei Sakhnin,7,8,1,regular,regular
+2025/26,10,11,Hapoel Haifa,9,11,2,regular,regular
+2025/26,10,11,Hapoel Tel Aviv,5,4,1,regular,regular
+2025/26,10,11,Ironi Tiberias,12,9,3,regular,regular
+2025/26,10,11,Kiryat Shmona,11,12,1,regular,regular
+2025/26,10,11,Maccabi Haifa,8,7,1,regular,regular
+2025/26,10,11,Maccabi Netanya,4,5,1,regular,regular

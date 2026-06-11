@@ -43,6 +43,13 @@ try:
 except ImportError:
     apply_goal_contribution_to_summary = None  # type: ignore
 
+try:
+    from advanced_competitiveness_features import apply_advanced_features  # type: ignore
+except ImportError:
+    apply_advanced_features = None  # type: ignore
+
+ADV_CHARTS = OUTPUT / "charts" / "advanced_competitiveness_features"
+
 ATTENDANCE_PLACEHOLDER_COLUMNS = [
     "attendance_available",
     "attendance_valid_match_count",
@@ -1432,6 +1439,7 @@ def build_data_audit(matches: pd.DataFrame) -> pd.DataFrame:
 # Feasibility table
 # ---------------------------------------------------------------------------
 def build_feasibility_table(summary: pd.DataFrame | None = None) -> pd.DataFrame:
+    """Research question feasibility; extended when advanced features are present."""
     att_ready = 0
     if summary is not None and "attendance_available" in summary.columns:
         att_ready = int(summary["attendance_available"].fillna(False).sum())
@@ -1493,6 +1501,41 @@ def build_feasibility_table(summary: pd.DataFrame | None = None) -> pd.DataFrame
         (17, "Do top-of-table matches attract higher attendance?", "top_match_attendance_avg", ATTENDANCE_STATUS,
          ATTENDANCE_NOTES, "Define top-match threshold then compute.", "placeholder"),
     ]
+
+    adv_status = "answerable_now"
+    if summary is not None and "combined_competitiveness_score" in summary.columns:
+        n_adv = int(summary["combined_competitiveness_score"].notna().sum())
+        adv_expl = f"Combined index from title, relegation, and balance scores ({n_adv} seasons)."
+    else:
+        adv_status = "placeholder_pending_advanced_features"
+        adv_expl = "Run advanced_competitiveness_features module."
+
+    questions.extend(
+        [
+            (18, "How concentrated is scoring among star players?", "offensive_concentration_gini", adv_status,
+             "Gini and top-3 share from Transfermarkt scorers.", "Review offensive_concentration_audit.csv.",
+             "player_stats scorers"),
+            (19, "Does star concentration relate to league balance?", "share_of_league_goals_by_top_3_scorers", adv_status,
+             "Compare share_of_league_goals_by_top_3_scorers vs league_balance_score.", "Scatter in report.",
+             "offensive_concentration + league_balance"),
+            (20, "Are relegation battles more volatile than title races?", "relegation_vs_title_volatility_ratio", adv_status,
+             "Late-season rank movement in top 4 vs bottom 4 zones.", "See rank_dynamics_audit.csv.",
+             "rank_dynamics export"),
+            (21, "Did playoffs increase late-season rank movement?", "late_season_rank_volatility", adv_status,
+             "Compare across pre/post-2009/10 eras.", "Era comparison in discussion.",
+             "rank_dynamics export"),
+            (22, "Is the relegation playoff more impactful than the championship playoff?", "playoff_impact_balance", adv_status,
+             "Descriptive comparison of zone/survival flips vs leadership changes.", "playoff_impact_comparison_audit.csv",
+             "championship + relegation playoff tracking"),
+            (23, "Which season was most competitive overall?", "combined_competitiveness_score", adv_expl if adv_status == "answerable_now" else adv_status,
+             adv_expl if adv_status == "answerable_now" else "Combined normalized index.",
+             "combined_competitiveness_ranking.csv", "title + relegation + balance scores"),
+            (24, "What are data-quality limitations per season?", "combined_data_quality_score", adv_status,
+             "Weighted coverage across attendance, player stats, playoffs, rank dynamics.", "data_quality_summary.csv",
+             "multi-source flags"),
+        ]
+    )
+
     rows = []
     for qid, rq, feat, status, expl, next_step, source in questions:
         rows.append({
@@ -1822,7 +1865,7 @@ def write_hebrew_findings(summary: pd.DataFrame, feasibility: pd.DataFrame) -> N
 # ---------------------------------------------------------------------------
 # Main build
 # ---------------------------------------------------------------------------
-def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
+def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str], dict[str, list[str]]]:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     CHARTS.mkdir(parents=True, exist_ok=True)
 
@@ -1940,6 +1983,18 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
         summary["distinct_teams_with_15_plus_goals_assists"] = np.nan
         summary["player_stats_available"] = False
 
+    advanced_created: dict[str, list[str]] = {}
+    if apply_advanced_features is not None:
+        summary, advanced_created = apply_advanced_features(
+            summary,
+            seasons,
+            is_playoff_season_fn=is_playoff_season,
+            load_cp_fn=load_championship_playoff_tracking,
+            load_rp_fn=load_relegation_playoff_tracking,
+        )
+    else:
+        warnings_log.append("advanced_competitiveness_features module not imported")
+
     # first_round distribution
     dist = summary[summary["is_completed_season"]][["season", "first_round_champion_was_1st"]].copy()
     dist_counts = dist["first_round_champion_was_1st"].value_counts(dropna=False).reset_index()
@@ -1967,6 +2022,24 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
         "attendance_saturday_vs_weekday_status",
         "players_with_15_plus_goals_assists",
         "distinct_teams_with_15_plus_goals_assists",
+        "top_scorer_goals",
+        "share_of_league_goals_by_top_3_scorers",
+        "offensive_concentration_gini",
+        "avg_rank_changes_per_round",
+        "max_single_round_rank_swing",
+        "late_season_rank_volatility",
+        "title_zone_rank_volatility",
+        "relegation_zone_rank_volatility",
+        "relegation_vs_title_volatility_ratio",
+        "combined_competitiveness_score",
+        "combined_competitiveness_rank",
+        "championship_playoff_first_place_flipped",
+        "relegation_playoff_survival_flips",
+        "playoff_impact_balance",
+        "attendance_coverage_percentage",
+        "player_stats_assists_available",
+        "playoff_data_completeness_flag",
+        "combined_data_quality_score",
         "data_quality_flag", "notes",
     ]
     final_report = summary[[c for c in report_cols if c in summary.columns]]
@@ -1983,7 +2056,7 @@ def build_season_summary() -> tuple[pd.DataFrame, pd.DataFrame, list[str]]:
     write_hebrew_findings(summary, feasibility)
     create_charts(summary, dist_counts)
 
-    return summary, feasibility, warnings_log
+    return summary, feasibility, warnings_log, advanced_created
 
 
 def print_validation(summary: pd.DataFrame, feasibility: pd.DataFrame) -> None:
@@ -2053,9 +2126,43 @@ def print_validation(summary: pd.DataFrame, feasibility: pd.DataFrame) -> None:
             print(f"  {r['season']}: {r['data_quality_flag']} | {r.get('notes', '')[:80]}")
 
 
+def print_advanced_features_summary(
+    summary: pd.DataFrame, advanced_created: dict[str, list[str]]
+) -> None:
+    print("\n" + "=" * 60)
+    print("ADVANCED COMPETITIVENESS FEATURES")
+    print("=" * 60)
+    groups = ["offensive", "rank_dynamics", "combined", "playoff", "data_quality", "charts"]
+    for g in groups:
+        files = advanced_created.get(g, [])
+        print(f"\n{g}: {len(files)} file(s)")
+        for f in files:
+            print(f"  - {Path(f).name}")
+
+    if "combined_competitiveness_score" in summary.columns:
+        top = summary.dropna(subset=["combined_competitiveness_score"]).nlargest(3, "combined_competitiveness_score")
+        if not top.empty:
+            print("\nTop 3 combined competitiveness seasons:")
+            print(top[["season", "combined_competitiveness_score", "combined_competitiveness_rank"]].to_string(index=False))
+
+    incomplete = summary[summary.get("combined_data_quality_score", pd.Series(dtype=float)) < 70]
+    if "combined_data_quality_score" in summary.columns and not incomplete.empty:
+        print("\nSeasons with combined_data_quality_score < 70:")
+        print(incomplete[["season", "combined_data_quality_score", "data_quality_notes"]].to_string(index=False))
+
+    for season in ("2007/08", "2008/09"):
+        row = summary[summary["season"] == season]
+        if not row.empty and "player_stats_assists_available" in row.columns:
+            print(f"\n{season} player_stats_assists_available: {row.iloc[0]['player_stats_assists_available']}")
+
+    print(f"\nAdvanced charts folder: {ADV_CHARTS}")
+
+
 def main() -> None:
-    summary, feasibility, _ = build_season_summary()
+    summary, feasibility, _, advanced_created = build_season_summary()
     print_validation(summary, feasibility)
+    if advanced_created:
+        print_advanced_features_summary(summary, advanced_created)
 
     print("\n" + "=" * 60)
     print("PART 15 – FINAL CHECK")

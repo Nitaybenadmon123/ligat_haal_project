@@ -1,0 +1,21 @@
+﻿season,attendance_coverage_percentage,player_stats_goals_available,player_stats_assists_available,budget_data_coverage_pct,playoff_data_completeness_flag,rank_dynamics_data_available,combined_data_quality_score,data_quality_notes
+2006/07,,True,True,33.3,no_playoff,True,55.0,attendance coverage unknown
+2007/08,,True,False,33.3,no_playoff,True,40.0,attendance coverage unknown; assists unavailable on Transfermarkt
+2008/09,,True,False,33.3,no_playoff,True,40.0,attendance coverage unknown; assists unavailable on Transfermarkt
+2009/10,95.18518518518519,True,True,25.0,complete,True,98.8,
+2010/11,,True,True,25.0,complete,True,75.0,attendance coverage unknown
+2011/12,97.97297297297297,True,True,25.0,complete,True,99.5,
+2012/13,100.0,True,True,28.6,complete,True,100.0,
+2013/14,90.0,True,True,28.6,complete,True,97.5,
+2014/15,66.66666666666667,True,True,35.7,complete,True,91.7,
+2015/16,98.33333333333333,True,True,35.7,complete,True,99.6,
+2016/17,99.58333333333333,True,True,28.6,complete,True,99.9,
+2017/18,96.66666666666667,True,True,28.6,complete,True,99.2,
+2018/19,98.75,True,True,35.7,complete,True,99.7,
+2019/20,74.58333333333333,True,True,35.7,complete,True,93.6,
+2020/21,,True,True,28.6,complete,True,75.0,attendance coverage unknown
+2021/22,96.66666666666667,True,True,100.0,complete,True,99.2,
+2022/23,94.16666666666667,True,True,100.0,complete,True,98.5,
+2023/24,85.0,True,True,100.0,complete,True,96.2,
+2024/25,92.91666666666667,True,True,100.0,complete,False,78.2,rank dynamics unavailable
+2025/26,93.75,True,True,0.0,complete,True,98.4,

@@ -1,0 +1,21 @@
+﻿season,playoff_format,championship_start_leader,championship_end_leader,championship_playoff_leadership_changes,championship_playoff_first_place_flipped,relegation_start_zone_teams,relegation_end_zone_teams,relegation_playoff_zone_changes,relegation_playoff_survival_flips,playoff_impact_balance
+2006/07,no_playoff,,,,,,,,,no_playoff_or_insufficient_data
+2007/08,no_playoff,,,,,,,,,no_playoff_or_insufficient_data
+2008/09,no_playoff,,,,,,,,,no_playoff_or_insufficient_data
+2009/10,championship_and_relegation,Maccabi Haifa,Hapoel Tel Aviv,3.0,True,Hapoel Raanana; M. Ahi Nazareth,Hapoel Raanana; M. Ahi Nazareth,0.0,0.0,championship_more_impactful
+2010/11,championship_and_relegation,Hapoel Tel Aviv,Maccabi Haifa,1.0,True,H. Ashkelon; H. Ramat Gan,H. Ashkelon; H. Ramat Gan,0.0,0.0,championship_more_impactful
+2011/12,championship_and_relegation,Kiryat Shmona,Kiryat Shmona,0.0,False,H Rishon leZion; H. Petah Tikva,H Rishon leZion; H. Petah Tikva,0.0,0.0,no_playoff_or_insufficient_data
+2012/13,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,Hapoel Acre; Maccabi Netanya,H. Ramat Gan; Maccabi Netanya,2.0,2.0,relegation_more_impactful
+2013/14,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,Bnei Yehuda; Ramat haSharon,Bnei Yehuda; Ramat haSharon,6.0,0.0,relegation_more_impactful
+2014/15,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,H. Petah Tikva; Hapoel Acre,FC Ashdod; H. Petah Tikva,6.0,2.0,relegation_more_impactful
+2015/16,championship_and_relegation,H. Beer Sheva,H. Beer Sheva,2.0,False,Hapoel Haifa; Maccabi Netanya,Hapoel Acre; Maccabi Netanya,2.0,2.0,relegation_more_impactful
+2016/17,championship_and_relegation,H. Beer Sheva,H. Beer Sheva,0.0,False,H. Ashkelon; Hapoel Tel Aviv,H. Kfar Saba; Hapoel Tel Aviv,4.0,2.0,relegation_more_impactful
+2017/18,championship_and_relegation,H. Beer Sheva,H. Beer Sheva,0.0,False,H. Ashkelon; Hapoel Acre,H. Ashkelon; Hapoel Acre,0.0,0.0,no_playoff_or_insufficient_data
+2018/19,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,Bnei Sakhnin; FC Ashdod,Bnei Sakhnin; M. Petah Tikva,2.0,2.0,relegation_more_impactful
+2019/20,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,Hapoel Raanana; Ness Ziona,Hapoel Raanana; Ness Ziona,4.0,0.0,relegation_more_impactful
+2020/21,championship_and_relegation,M. Tel Aviv,Maccabi Haifa,1.0,True,Bnei Yehuda; H. Kfar Saba,Bnei Yehuda; H. Kfar Saba,0.0,0.0,championship_more_impactful
+2021/22,championship_and_relegation,Maccabi Haifa,Maccabi Haifa,0.0,False,H. Nof HaGalil; M. Petah Tikva,H. Nof HaGalil; M. Petah Tikva,0.0,0.0,no_playoff_or_insufficient_data
+2022/23,championship_and_relegation,Maccabi Haifa,Maccabi Haifa,0.0,False,Kiryat Shmona; Ness Ziona,Kiryat Shmona; Ness Ziona,0.0,0.0,no_playoff_or_insufficient_data
+2023/24,championship_and_relegation,M. Tel Aviv,M. Tel Aviv,0.0,False,FC Ashdod; H. Petah Tikva,H. Petah Tikva; Hapoel Tel Aviv,2.0,2.0,relegation_more_impactful
+2024/25,championship_and_relegation,H. Beer Sheva,M. Tel Aviv,3.0,True,Bnei Sakhnin; Hapoel Hadera,Hapoel Hadera; M. Petah Tikva,4.0,2.0,relegation_more_impactful
+2025/26,championship_and_relegation,H. Beer Sheva,H. Beer Sheva,2.0,False,Ironi Tiberias; M. Bnei Reineh,FC Ashdod; M. Bnei Reineh,6.0,2.0,relegation_more_impactful
